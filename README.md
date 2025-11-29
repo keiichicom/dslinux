@@ -20,6 +20,8 @@ https://www.dslinux.org/wiki/CompilingDSLinux.html
 
 The only other difference is you would build it once and then do make menuconfig again and select Kernel/library/Defaults selection, Select Customize Kernel Settings(New), Exit, Exit, Yes,
 then select System Type and do these settings and then do Exit,Exit,Yes and run make again:
+
+
 <img width="384" height="119" alt="image" src="https://github.com/user-attachments/assets/98525f2c-387a-4e84-b5da-4966eda34c76" />
 
 
