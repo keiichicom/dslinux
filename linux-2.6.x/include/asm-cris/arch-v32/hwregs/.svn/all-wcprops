@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/Makefile
+END
+ser_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/ser_defs.h
+END
+bif_slave_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/bif_slave_defs.h
+END
+intr_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/intr_vect.h
+END
+intr_vect_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/intr_vect_defs.h
+END
+irq_nmi_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/irq_nmi_defs.h
+END
+extmem_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/extmem_defs.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/dma.h
+END
+dma_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/dma_defs.h
+END
+marb_bp_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/marb_bp_defs.h
+END
+strmux_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/strmux_defs.h
+END
+rt_trace_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/rt_trace_defs.h
+END
+config_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/config_defs.h
+END
+ata_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/ata_defs.h
+END
+cpu_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/cpu_vect.h
+END
+bif_core_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/bif_core_defs.h
+END
+reg_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/reg_map.h
+END
+strcop.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/strcop.h
+END
+reg_rdwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/reg_rdwr.h
+END
+strcop_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/strcop_defs.h
+END
+sser_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/sser_defs.h
+END
+gio_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/gio_defs.h
+END
+eth_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/eth_defs.h
+END
+pinmux_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/pinmux_defs.h
+END
+timer_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/timer_defs.h
+END
+bif_dma_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/bif_dma_defs.h
+END
+marb_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/marb_defs.h
+END
+supp_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-cris/arch-v32/hwregs/supp_reg.h
+END

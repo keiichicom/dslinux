@@ -1,0 +1,1 @@
+#define CONFIG_CPU_CACHE_V4WB 1

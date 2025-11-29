@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm
+END
+mpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/mpc.h
+END
+ipcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/ipcommon.h
+END
+clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/clip.c
+END
+br2684.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/br2684.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/common.c
+END
+pvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/pvc.c
+END
+protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/protocols.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/raw.c
+END
+svc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/svc.c
+END
+atm_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/atm_misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/common.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/Kconfig
+END
+mpoa_caches.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/mpoa_caches.c
+END
+lec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/lec.c
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/proc.c
+END
+mpoa_caches.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/mpoa_caches.h
+END
+lec.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/lec.h
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/ioctl.c
+END
+addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/addr.c
+END
+resources.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/resources.c
+END
+signaling.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/signaling.c
+END
+lec_arpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/lec_arpc.h
+END
+mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/mpc.c
+END
+addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/addr.h
+END
+mpoa_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/mpoa_proc.c
+END
+resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/resources.h
+END
+pppoatm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/pppoatm.c
+END
+signaling.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/signaling.h
+END
+ipcommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/atm/ipcommon.c
+END

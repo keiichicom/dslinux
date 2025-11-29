@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables
+END
+tbinstal.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbinstal.c
+END
+tbconvrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbconvrt.c
+END
+tbrsdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbrsdt.c
+END
+tbget.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbget.c
+END
+tbutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbutils.c
+END
+tbxfroot.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbxfroot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/Makefile
+END
+tbxface.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbxface.c
+END
+tbgetall.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/acpi/tables/tbgetall.c
+END

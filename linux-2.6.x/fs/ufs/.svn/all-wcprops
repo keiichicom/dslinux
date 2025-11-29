@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs
+END
+cylinder.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/cylinder.c
+END
+namei.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/namei.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/Makefile
+END
+balloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/balloc.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/util.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/super.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/file.c
+END
+swab.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/swab.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/util.h
+END
+ialloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/ialloc.c
+END
+truncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/truncate.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/ufs/symlink.c
+END

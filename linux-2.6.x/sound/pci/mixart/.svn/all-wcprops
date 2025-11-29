@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/Makefile
+END
+mixart_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_core.c
+END
+mixart_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_mixer.h
+END
+mixart_hwdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_hwdep.h
+END
+mixart_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_core.h
+END
+mixart.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart.c
+END
+mixart_mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_mixer.c
+END
+mixart.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart.h
+END
+mixart_hwdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/mixart/mixart_hwdep.c
+END

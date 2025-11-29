@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi
+END
+ChangeLog.ips
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.ips
+END
+ncr53c7xx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ncr53c7xx.txt
+END
+ncr53c8xx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ncr53c8xx.txt
+END
+qlogicfas.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/qlogicfas.txt
+END
+g_NCR5380.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/g_NCR5380.txt
+END
+megaraid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/megaraid.txt
+END
+aha152x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/aha152x.txt
+END
+LICENSE.FlashPoint
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/LICENSE.FlashPoint
+END
+sym53c8xx_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/sym53c8xx_2.txt
+END
+ChangeLog.ncr53c8xx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.ncr53c8xx
+END
+dc395x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/dc395x.txt
+END
+tmscsim.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/tmscsim.txt
+END
+53c700.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/53c700.txt
+END
+ChangeLog.megaraid
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.megaraid
+END
+lpfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/lpfc.txt
+END
+ChangeLog.sym53c8xx_2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.sym53c8xx_2
+END
+qlogicisp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/qlogicisp.txt
+END
+ChangeLog.lpfc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.lpfc
+END
+dtc3x80.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/dtc3x80.txt
+END
+dpti.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/dpti.txt
+END
+scsi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/scsi.txt
+END
+ChangeLog.sym53c8xx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.sym53c8xx
+END
+scsi_mid_low_api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/scsi_mid_low_api.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/00-INDEX
+END
+scsi-changer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/scsi-changer.txt
+END
+BusLogic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/BusLogic.txt
+END
+FlashPoint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/FlashPoint.txt
+END
+in2000.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/in2000.txt
+END
+scsi-generic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/scsi-generic.txt
+END
+scsi_eh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/scsi_eh.txt
+END
+ppa.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ppa.txt
+END
+NinjaSCSI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/NinjaSCSI.txt
+END
+ChangeLog.1992-1997
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ChangeLog.1992-1997
+END
+st.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/st.txt
+END
+osst.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/osst.txt
+END
+ibmmca.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/ibmmca.txt
+END
+aic7xxx_old.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/aic7xxx_old.txt
+END
+aic7xxx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/aic7xxx.txt
+END
+cpqfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/cpqfc.txt
+END
+aic79xx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/aic79xx.txt
+END
+sym53c500_cs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/sym53c500_cs.txt
+END
+Mylex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/scsi/Mylex.txt
+END

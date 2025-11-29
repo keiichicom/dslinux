@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/mmap.c
+END
+fault.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/fault.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/Makefile
+END
+cmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/cmm.c
+END
+ioremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/ioremap.c
+END
+extmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/extmem.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/s390/mm/init.c
+END

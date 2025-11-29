@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd
+END
+ucb1x00-assabet.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/ucb1x00-assabet.c
+END
+mcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/mcp.h
+END
+mcp-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/mcp-core.c
+END
+ucb1x00-ts.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/ucb1x00-ts.c
+END
+ucb1x00.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/ucb1x00.h
+END
+ucb1x00-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/ucb1x00-core.c
+END
+mcp-sa11x0.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/mcp-sa11x0.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/mfd/Kconfig
+END

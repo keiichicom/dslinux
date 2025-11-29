@@ -1,0 +1,1 @@
+#define CONFIG_NDS_WIFI 1

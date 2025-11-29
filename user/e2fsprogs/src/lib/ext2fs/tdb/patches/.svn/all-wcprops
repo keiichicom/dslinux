@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches
+END
+ext2tdb-rename
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/ext2tdb-rename
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/copyright
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/series
+END
+tdbtool-includes
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/tdbtool-includes
+END
+static-functions
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/static-functions
+END
+static-prototypes
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/static-prototypes
+END
+replace-includes
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ext2fs/tdb/patches/replace-includes
+END

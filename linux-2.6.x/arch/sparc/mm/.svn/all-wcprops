@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm
+END
+viking.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/viking.S
+END
+fault.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/fault.c
+END
+swift.S
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/swift.S
+END
+generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/generic.c
+END
+highmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/highmem.c
+END
+btfixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/btfixup.c
+END
+io-unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/io-unit.c
+END
+extable.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/extable.c
+END
+iommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/iommu.c
+END
+nosun4c.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/nosun4c.c
+END
+sun4c.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/sun4c.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/Makefile
+END
+loadmmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/loadmmu.c
+END
+nosrmmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/nosrmmu.c
+END
+hypersparc.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/hypersparc.S
+END
+tsunami.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/tsunami.S
+END
+srmmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/srmmu.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/sparc/mm/init.c
+END

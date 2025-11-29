@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/bvme6000
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/bvme6000/rtc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/bvme6000/Makefile
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/bvme6000/config.c
+END
+bvmeints.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/bvme6000/bvmeints.c
+END

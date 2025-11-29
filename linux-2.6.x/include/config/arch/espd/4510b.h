@@ -1,0 +1,1 @@
+#undef CONFIG_ARCH_ESPD_4510B

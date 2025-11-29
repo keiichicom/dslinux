@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172
+END
+it8172_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172/it8172_int.h
+END
+it8172_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172/it8172_pci.h
+END
+it8172_dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172/it8172_dbg.h
+END
+it8172_cir.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172/it8172_cir.h
+END
+it8172.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/it8172/it8172.h
+END

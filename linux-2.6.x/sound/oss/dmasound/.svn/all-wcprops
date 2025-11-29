@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound
+END
+dmasound.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound.h
+END
+tas_eq_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas_eq_prefs.h
+END
+dmasound_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound_core.c
+END
+tas_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas_ioctl.h
+END
+tas3004_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3004_tables.c
+END
+tas3001c_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3001c_tables.c
+END
+dmasound_awacs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound_awacs.c
+END
+dmasound_atari.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound_atari.c
+END
+dmasound_paula.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound_paula.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/Makefile
+END
+trans_16.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/trans_16.c
+END
+tas3004.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3004.c
+END
+tas3001c.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3001c.c
+END
+dmasound_q40.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dmasound_q40.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/Kconfig
+END
+tas_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas_common.c
+END
+tas3004.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3004.h
+END
+tas3001c.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas3001c.h
+END
+awacs_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/awacs_defs.h
+END
+tas_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/tas_common.h
+END
+dac3550a.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/oss/dmasound/dac3550a.c
+END

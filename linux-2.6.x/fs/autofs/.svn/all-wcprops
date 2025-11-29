@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs
+END
+dirhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/dirhash.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/init.c
+END
+root.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/root.c
+END
+waitq.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/waitq.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/symlink.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/Makefile
+END
+autofs_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/autofs_i.h
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/autofs/inode.c
+END

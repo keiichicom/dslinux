@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib
+END
+csum-copy.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/csum-copy.S
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/bitops.c
+END
+csum-partial.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/csum-partial.c
+END
+clear_page.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/clear_page.S
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/memmove.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/io.c
+END
+bitstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/bitstr.c
+END
+csum-wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/csum-wrappers.c
+END
+thunk.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/thunk.S
+END
+usercopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/usercopy.c
+END
+memset.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/memset.S
+END
+memcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/memcpy.S
+END
+copy_page.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/copy_page.S
+END
+putuser.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/putuser.S
+END
+copy_user.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/copy_user.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/Makefile
+END
+getuser.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/getuser.S
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/lib/delay.c
+END

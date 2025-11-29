@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs
+END
+vxfs_olt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_olt.h
+END
+vxfs_inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_inode.h
+END
+vxfs_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_lookup.c
+END
+vxfs_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_extern.h
+END
+vxfs_subr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_subr.c
+END
+vxfs_bmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_bmap.c
+END
+vxfs_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_dir.h
+END
+vxfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/Makefile
+END
+vxfs_fshead.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_fshead.c
+END
+vxfs_immed.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_immed.c
+END
+vxfs_super.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_super.c
+END
+vxfs_olt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_olt.c
+END
+vxfs_inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_inode.c
+END
+vxfs_fshead.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/freevxfs/vxfs_fshead.h
+END

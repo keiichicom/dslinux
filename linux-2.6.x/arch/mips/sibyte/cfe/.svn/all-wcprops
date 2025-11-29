@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe
+END
+cfe_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/cfe_api.c
+END
+cfe_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/cfe_api.h
+END
+cfe_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/cfe_error.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/Makefile
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/smp.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/setup.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/console.c
+END
+cfe_api_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sibyte/cfe/cfe_api_int.h
+END

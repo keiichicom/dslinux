@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan
+END
+irlan_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_filter.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/Makefile
+END
+irlan_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_common.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/Kconfig
+END
+irlan_provider.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_provider.c
+END
+irlan_provider_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_provider_event.c
+END
+irlan_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_client.c
+END
+irlan_client_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_client_event.c
+END
+irlan_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_eth.c
+END
+irlan_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/irlan/irlan_event.c
+END

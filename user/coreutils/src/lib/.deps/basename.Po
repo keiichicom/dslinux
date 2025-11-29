@@ -1,0 +1,27 @@
+basename.o basename.o: basename.c config.h dirname.h \
+  /home/andrewec/dslinux/include/gcc/stdbool.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h xalloc.h xstrndup.h
+
+config.h:
+
+dirname.h:
+
+/home/andrewec/dslinux/include/gcc/stdbool.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+xalloc.h:
+
+xstrndup.h:

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/Makefile
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/syscalls.c
+END
+stub.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/stub.S
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/delay.c
+END
+bugs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/bugs.c
+END
+stub_segv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/stub_segv.c
+END
+ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/ksyms.c
+END
+fault.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/fault.c
+END
+ptrace_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/ptrace_user.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/signal.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/ptrace.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/mem.c
+END
+unmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/unmap.c
+END
+sysrq.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/sysrq.c
+END
+syscall_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/syscall_table.c
+END
+user-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/user-offsets.c
+END
+um_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/um_module.c
+END
+sigcontext.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/sigcontext.c
+END
+kernel-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/sys-x86_64/kernel-offsets.c
+END

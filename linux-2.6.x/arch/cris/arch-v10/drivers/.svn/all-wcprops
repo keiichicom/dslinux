@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/gpio.c
+END
+pcf8563.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/pcf8563.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/Kconfig
+END
+axisflashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/axisflashmap.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/i2c.h
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/eeprom.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/Makefile
+END
+ds1302.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/ds1302.c
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/cris/arch-v10/drivers/i2c.c
+END

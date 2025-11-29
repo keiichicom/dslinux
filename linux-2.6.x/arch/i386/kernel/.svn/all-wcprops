@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/module.c
+END
+sys_i386.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/sys_i386.c
+END
+asm-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/asm-offsets.c
+END
+vsyscall-sysenter.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall-sysenter.S
+END
+reboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/reboot.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/irq.c
+END
+vsyscall-sigreturn.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall-sigreturn.S
+END
+syscall_table.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/syscall_table.S
+END
+sigframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/sigframe.h
+END
+vmlinux.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vmlinux.lds.S
+END
+ioport.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/ioport.c
+END
+summit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/summit.c
+END
+relocate_kernel.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/relocate_kernel.S
+END
+efi_stub.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/efi_stub.S
+END
+i8259.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/i8259.c
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/entry.S
+END
+nmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/nmi.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/traps.c
+END
+trampoline.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/trampoline.S
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/time.c
+END
+crash.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/crash.c
+END
+msr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/msr.c
+END
+io_apic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/io_apic.c
+END
+cpuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpuid.c
+END
+microcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/microcode.c
+END
+kprobes.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/kprobes.c
+END
+mpparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/mpparse.c
+END
+sysenter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/sysenter.c
+END
+apic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/apic.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/signal.c
+END
+apm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/apm.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/ptrace.c
+END
+i386_ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/i386_ksyms.c
+END
+vsyscall-int80.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall-int80.S
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/head.S
+END
+machine_kexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/machine_kexec.c
+END
+reboot_fixups.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/reboot_fixups.c
+END
+i387.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/i387.c
+END
+mca.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/mca.c
+END
+early_printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/early_printk.c
+END
+srat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/srat.c
+END
+i8237.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/i8237.c
+END
+time_hpet.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/time_hpet.c
+END
+quirks.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/quirks.c
+END
+scx200.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/scx200.c
+END
+numaq.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/numaq.c
+END
+vsyscall-note.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall-note.S
+END
+init_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/init_task.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/Makefile
+END
+bootflag.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/bootflag.c
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/smp.c
+END
+vm86.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vm86.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/setup.c
+END
+vsyscall.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall.lds.S
+END
+efi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/efi.c
+END
+doublefault.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/doublefault.c
+END
+pci-dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/pci-dma.c
+END
+dmi_scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/dmi_scan.c
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/process.c
+END
+vsyscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/vsyscall.S
+END
+smpboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/smpboot.c
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/semaphore.c
+END
+ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/ldt.c
+END

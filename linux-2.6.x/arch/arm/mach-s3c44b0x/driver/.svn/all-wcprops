@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/console.c
+END
+rtl8019.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/rtl8019.c
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/led.c
+END
+rtl8019.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/rtl8019.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-s3c44b0x/driver/Kconfig
+END

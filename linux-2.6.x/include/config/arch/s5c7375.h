@@ -1,0 +1,1 @@
+#undef CONFIG_ARCH_S5C7375

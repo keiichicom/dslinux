@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/irq.c
+END
+puts.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/puts.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/Makefile
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/time.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/setup.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/reset.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/init.c
+END
+int-handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/galileo-boards/ev96100/int-handler.S
+END

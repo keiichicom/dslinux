@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/Makefile
+END
+ssc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/ssc.h
+END
+fw-emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/fw-emu.c
+END
+boot_head.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/boot_head.S
+END
+bootloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/bootloader.c
+END
+bootloader.lds
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/hp/sim/boot/bootloader.lds
+END

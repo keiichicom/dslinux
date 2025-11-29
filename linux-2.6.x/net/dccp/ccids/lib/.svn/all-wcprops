@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib
+END
+tfrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/tfrc.h
+END
+tfrc_equation.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/tfrc_equation.c
+END
+loss_interval.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/loss_interval.c
+END
+packet_history.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/packet_history.c
+END
+loss_interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/loss_interval.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/Makefile
+END
+packet_history.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/dccp/ccids/lib/packet_history.h
+END

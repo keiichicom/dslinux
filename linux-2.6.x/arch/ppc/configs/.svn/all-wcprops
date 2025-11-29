@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs
+END
+ev64260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ev64260_defconfig
+END
+ebony_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ebony_defconfig
+END
+ev64360_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ev64360_defconfig
+END
+prpmc750_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/prpmc750_defconfig
+END
+power3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/power3_defconfig
+END
+pmac_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/pmac_defconfig
+END
+TQM8260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/TQM8260_defconfig
+END
+sycamore_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/sycamore_defconfig
+END
+stx_gp3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/stx_gp3_defconfig
+END
+redwood5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/redwood5_defconfig
+END
+redwood6_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/redwood6_defconfig
+END
+rpx8260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/rpx8260_defconfig
+END
+ads8272_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ads8272_defconfig
+END
+ep405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ep405_defconfig
+END
+chestnut_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/chestnut_defconfig
+END
+mpc8555_cds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc8555_cds_defconfig
+END
+luan_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/luan_defconfig
+END
+katana_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/katana_defconfig
+END
+spruce_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/spruce_defconfig
+END
+lite5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/lite5200_defconfig
+END
+bubinga_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/bubinga_defconfig
+END
+prpmc800_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/prpmc800_defconfig
+END
+TQM850L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/TQM850L_defconfig
+END
+mvme5100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mvme5100_defconfig
+END
+ocotea_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ocotea_defconfig
+END
+walnut_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/walnut_defconfig
+END
+est8260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/est8260_defconfig
+END
+TQM860L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/TQM860L_defconfig
+END
+mpc86x_ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc86x_ads_defconfig
+END
+mpc885ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc885ads_defconfig
+END
+radstone_ppc7d_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/radstone_ppc7d_defconfig
+END
+FADS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/FADS_defconfig
+END
+cpci690_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/cpci690_defconfig
+END
+ibmchrp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/ibmchrp_defconfig
+END
+mbx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mbx_defconfig
+END
+mpc8540_ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc8540_ads_defconfig
+END
+rpxlite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/rpxlite_defconfig
+END
+common_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/common_defconfig
+END
+mpc8560_ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc8560_ads_defconfig
+END
+bamboo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/bamboo_defconfig
+END
+sandpoint_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/sandpoint_defconfig
+END
+hdpu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/hdpu_defconfig
+END
+mpc8548_cds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc8548_cds_defconfig
+END
+lopec_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/lopec_defconfig
+END
+bseip_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/bseip_defconfig
+END
+pplus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/pplus_defconfig
+END
+mpc834x_sys_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/mpc834x_sys_defconfig
+END
+IVMS8_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/IVMS8_defconfig
+END
+cpci405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/cpci405_defconfig
+END
+gemini_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/gemini_defconfig
+END
+apus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/apus_defconfig
+END
+TQM823L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/TQM823L_defconfig
+END
+rpxcllf_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/configs/rpxcllf_defconfig
+END

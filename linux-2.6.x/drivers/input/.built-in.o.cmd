@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  arm-linux-elf-ld -EL   -r -o drivers/input/built-in.o drivers/input/input.o drivers/input/mousedev.o drivers/input/joydev.o drivers/input/evdev.o drivers/input/touchscreen/built-in.o

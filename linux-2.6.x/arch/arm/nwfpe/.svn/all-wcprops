@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe
+END
+entry26.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/entry26.S
+END
+milieu.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/milieu.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/Makefile
+END
+fpopcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpopcode.c
+END
+fpa11_cprt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11_cprt.c
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/softfloat.c
+END
+softfloat-macros
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/softfloat-macros
+END
+fpopcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpopcode.h
+END
+extended_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/extended_cpdo.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/ChangeLog
+END
+softfloat-specialize
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/softfloat-specialize
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/softfloat.h
+END
+fpa11.inl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11.inl
+END
+fpa11.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11.c
+END
+fpmodule.inl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpmodule.inl
+END
+fpmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpmodule.c
+END
+fpa11_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11_cpdo.c
+END
+fpa11.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11.h
+END
+ARM-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/ARM-gcc.h
+END
+double_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/double_cpdo.c
+END
+fpsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpsr.h
+END
+fpmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpmodule.h
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/entry.S
+END
+fpa11_cpdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/fpa11_cpdt.c
+END
+single_cpdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/nwfpe/single_cpdo.c
+END

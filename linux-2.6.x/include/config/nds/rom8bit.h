@@ -1,0 +1,1 @@
+#define CONFIG_NDS_ROM8BIT 1

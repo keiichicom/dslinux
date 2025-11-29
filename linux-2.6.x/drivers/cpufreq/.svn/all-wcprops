@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq
+END
+cpufreq_ondemand.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_ondemand.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/Makefile
+END
+cpufreq_conservative.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_conservative.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/Kconfig
+END
+cpufreq_userspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_userspace.c
+END
+cpufreq_powersave.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_powersave.c
+END
+cpufreq_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_stats.c
+END
+freq_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/freq_table.c
+END
+cpufreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq.c
+END
+cpufreq_performance.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/cpufreq/cpufreq_performance.c
+END

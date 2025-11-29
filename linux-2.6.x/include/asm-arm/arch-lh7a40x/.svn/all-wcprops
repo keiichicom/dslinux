@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/irq.h
+END
+vmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/vmalloc.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/hardware.h
+END
+uncompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/uncompress.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/param.h
+END
+debug-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/debug-macro.S
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/dma.h
+END
+registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/registers.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/io.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/memory.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/entry-macro.S
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/constants.h
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/irqs.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/system.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-lh7a40x/timex.h
+END

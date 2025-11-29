@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/h8max
+END
+crt0_ram.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/h8max/crt0_ram.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/h8max/Makefile
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/h8max/timer.c
+END

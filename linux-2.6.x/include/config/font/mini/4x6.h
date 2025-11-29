@@ -1,0 +1,1 @@
+#define CONFIG_FONT_MINI_4x6 1

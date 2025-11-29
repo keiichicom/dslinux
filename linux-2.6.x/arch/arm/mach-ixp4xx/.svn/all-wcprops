@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx
+END
+gtwx5715-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/gtwx5715-pci.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/common.c
+END
+ixdp425-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/ixdp425-pci.c
+END
+gtwx5715-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/gtwx5715-setup.c
+END
+coyote-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/coyote-pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/Makefile
+END
+ixdp425-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/ixdp425-setup.c
+END
+Makefile.boot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/Makefile.boot
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/Kconfig
+END
+ixdpg425-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/ixdpg425-pci.c
+END
+coyote-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/coyote-setup.c
+END
+common-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-ixp4xx/common-pci.c
+END

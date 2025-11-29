@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/tx4927/toshiba_rbtx4927
+END
+toshiba_rbtx4927_irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/tx4927/toshiba_rbtx4927/toshiba_rbtx4927_irq.c
+END
+toshiba_rbtx4927_prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/tx4927/toshiba_rbtx4927/toshiba_rbtx4927_prom.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/tx4927/toshiba_rbtx4927/Makefile
+END
+toshiba_rbtx4927_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/tx4927/toshiba_rbtx4927/toshiba_rbtx4927_setup.c
+END

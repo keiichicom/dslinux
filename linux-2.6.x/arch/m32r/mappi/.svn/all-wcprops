@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi
+END
+defconfig.nommu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/defconfig.nommu
+END
+dot.gdbinit.nommu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/dot.gdbinit.nommu
+END
+defconfig.smp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/defconfig.smp
+END
+dot.gdbinit.smp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/dot.gdbinit.smp
+END
+dot.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/dot.gdbinit
+END
+defconfig.up
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/mappi/defconfig.up
+END

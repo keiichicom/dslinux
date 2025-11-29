@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs
+END
+assabet_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/assabet_defconfig
+END
+poodle_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/poodle_defconfig
+END
+rpc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/rpc_defconfig
+END
+omap_h2_1610_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/omap_h2_1610_defconfig
+END
+pxa255-idp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/pxa255-idp_defconfig
+END
+versatile_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/versatile_defconfig
+END
+omnimeter_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/omnimeter_defconfig
+END
+s3c2410_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s3c2410_defconfig
+END
+h3600_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/h3600_defconfig
+END
+h7201_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/h7201_defconfig
+END
+h7202_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/h7202_defconfig
+END
+lart_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/lart_defconfig
+END
+corgi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/corgi_defconfig
+END
+shannon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/shannon_defconfig
+END
+smdk2410_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/smdk2410_defconfig
+END
+fortunet_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/fortunet_defconfig
+END
+jornada720_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/jornada720_defconfig
+END
+iq31244_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/iq31244_defconfig
+END
+collie_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/collie_defconfig
+END
+iq80331_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/iq80331_defconfig
+END
+shark_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/shark_defconfig
+END
+iq80332_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/iq80332_defconfig
+END
+s3c44b0x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s3c44b0x_defconfig
+END
+clps7500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/clps7500_defconfig
+END
+integrator_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/integrator_defconfig
+END
+cerfcube_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/cerfcube_defconfig
+END
+lubbock_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/lubbock_defconfig
+END
+GDB_ARMulator_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/GDB_ARMulator_defconfig
+END
+pleb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/pleb_defconfig
+END
+footbridge_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/footbridge_defconfig
+END
+badge4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/badge4_defconfig
+END
+lusl7200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/lusl7200_defconfig
+END
+bast_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/bast_defconfig
+END
+s3c24a0_nommu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s3c24a0_nommu_defconfig
+END
+lpd7a400_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/lpd7a400_defconfig
+END
+neponset_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/neponset_defconfig
+END
+ebsa110_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ebsa110_defconfig
+END
+enp2611_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/enp2611_defconfig
+END
+mainstone_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/mainstone_defconfig
+END
+mx1ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/mx1ads_defconfig
+END
+s3c24a0_mmu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s3c24a0_mmu_defconfig
+END
+lpd7a404_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/lpd7a404_defconfig
+END
+netwinder_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/netwinder_defconfig
+END
+s3c3410_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s3c3410_defconfig
+END
+atmel_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/atmel_defconfig
+END
+p2001_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/p2001_defconfig
+END
+ixp4xx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ixp4xx_defconfig
+END
+epxa10db_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/epxa10db_defconfig
+END
+edb7211_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/edb7211_defconfig
+END
+espd_4510b_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/espd_4510b_defconfig
+END
+iq80321_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/iq80321_defconfig
+END
+ep80219_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ep80219_defconfig
+END
+spitz_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/spitz_defconfig
+END
+ixdp2400_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ixdp2400_defconfig
+END
+ixdp2401_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ixdp2401_defconfig
+END
+simpad_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/simpad_defconfig
+END
+ixdp2800_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ixdp2800_defconfig
+END
+hackkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/hackkit_defconfig
+END
+realview_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/realview_defconfig
+END
+ixdp2801_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/ixdp2801_defconfig
+END
+s5c7375_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/configs/s5c7375_defconfig
+END

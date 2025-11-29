@@ -1,0 +1,1 @@
+#undef CONFIG_LOGO_NDS_CLUT224

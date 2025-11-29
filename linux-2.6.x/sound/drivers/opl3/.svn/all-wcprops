@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3
+END
+opl3_drums.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_drums.c
+END
+opl3_voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_voice.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/Makefile
+END
+opl3_midi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_midi.c
+END
+opl3_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_oss.c
+END
+opl3_synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_synth.c
+END
+opl3_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_lib.c
+END
+opl3_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/drivers/opl3/opl3_seq.c
+END

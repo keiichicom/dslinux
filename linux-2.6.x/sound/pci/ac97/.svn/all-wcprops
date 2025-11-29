@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97
+END
+ac97_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_id.h
+END
+ak4531_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ak4531_codec.c
+END
+ac97_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_proc.c
+END
+ac97_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_patch.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/Makefile
+END
+ac97_bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_bus.c
+END
+ac97_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_codec.c
+END
+ac97_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_local.h
+END
+ac97_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_patch.c
+END
+ac97_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pci/ac97/ac97_pcm.c
+END

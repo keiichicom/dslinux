@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf
+END
+pdaudiocf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/pdaudiocf.h
+END
+pdaudiocf_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/pdaudiocf_core.c
+END
+pdaudiocf_irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/pdaudiocf_irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/Makefile
+END
+pdaudiocf_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/pdaudiocf_pcm.c
+END
+pdaudiocf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/pcmcia/pdaudiocf/pdaudiocf.c
+END

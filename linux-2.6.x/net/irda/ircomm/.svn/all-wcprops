@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/Kconfig
+END
+ircomm_tty_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_tty_ioctl.c
+END
+ircomm_param.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_param.c
+END
+ircomm_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_tty.c
+END
+ircomm_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_event.c
+END
+ircomm_tty_attach.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_tty_attach.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/Makefile
+END
+ircomm_ttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_ttp.c
+END
+ircomm_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_core.c
+END
+ircomm_lmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/irda/ircomm/ircomm_lmp.c
+END

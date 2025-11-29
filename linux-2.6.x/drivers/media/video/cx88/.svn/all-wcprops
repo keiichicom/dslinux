@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88
+END
+cx88-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-core.c
+END
+cx88-mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-mpeg.c
+END
+cx88-dvb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-dvb.c
+END
+cx88-tvaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-tvaudio.c
+END
+cx88-cards.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-cards.c
+END
+cx88-blackbird.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-blackbird.c
+END
+cx88-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-i2c.c
+END
+cx88-input.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-input.c
+END
+cx88-vbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-vbi.c
+END
+cx88-reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-reg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/Makefile
+END
+cx88-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88-video.c
+END
+cx88.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/video/cx88/cx88.h
+END

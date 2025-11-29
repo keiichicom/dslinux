@@ -1,0 +1,1 @@
+#undef CONFIG_FONT_7x14

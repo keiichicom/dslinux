@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple
+END
+pibs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/pibs.c
+END
+misc-prep.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-prep.c
+END
+mpc10x_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/mpc10x_memory.c
+END
+embed_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/embed_config.c
+END
+m8xx_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/m8xx_tty.c
+END
+iic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/iic.c
+END
+prepmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/prepmap.c
+END
+misc-ev64260.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-ev64260.c
+END
+misc-radstone_ppc7d.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-radstone_ppc7d.c
+END
+misc-ev64360.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-ev64360.c
+END
+misc-cpci690.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-cpci690.c
+END
+clear.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/clear.S
+END
+mpc52xx_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/mpc52xx_tty.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/pci.c
+END
+m8260_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/m8260_tty.c
+END
+qspan_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/qspan_pci.c
+END
+openbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/openbios.c
+END
+relocate.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/relocate.S
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/head.S
+END
+misc-embedded.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-embedded.c
+END
+misc-mv64x60.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-mv64x60.c
+END
+cpc700_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/cpc700_memory.c
+END
+misc-chestnut.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-chestnut.c
+END
+misc-katana.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-katana.c
+END
+chrpmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/chrpmap.c
+END
+misc-spruce.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc-spruce.c
+END
+mv64x60_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/mv64x60_tty.c
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/dummy.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/boot/simple/Makefile
+END

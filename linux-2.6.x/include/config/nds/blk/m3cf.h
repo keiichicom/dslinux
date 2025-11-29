@@ -1,0 +1,1 @@
+#undef CONFIG_NDS_BLK_M3CF

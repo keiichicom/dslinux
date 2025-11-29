@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs
+END
+ocelot_g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ocelot_g_defconfig
+END
+yosemite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/yosemite_defconfig
+END
+rm200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/rm200_defconfig
+END
+ivr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ivr_defconfig
+END
+db1550_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/db1550_defconfig
+END
+jaguar-atx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/jaguar-atx_defconfig
+END
+sb1250-swarm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/sb1250-swarm_defconfig
+END
+cobalt_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/cobalt_defconfig
+END
+ocelot_3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ocelot_3_defconfig
+END
+ev64120_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ev64120_defconfig
+END
+workpad_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/workpad_defconfig
+END
+mpc30x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/mpc30x_defconfig
+END
+ev96100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ev96100_defconfig
+END
+pb1550_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/pb1550_defconfig
+END
+ip22_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ip22_defconfig
+END
+sead_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/sead_defconfig
+END
+jmr3927_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/jmr3927_defconfig
+END
+tb0226_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/tb0226_defconfig
+END
+ip27_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ip27_defconfig
+END
+tb0229_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/tb0229_defconfig
+END
+ocelot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ocelot_defconfig
+END
+db1000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/db1000_defconfig
+END
+tb0287_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/tb0287_defconfig
+END
+db1100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/db1100_defconfig
+END
+db1500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/db1500_defconfig
+END
+decstation_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/decstation_defconfig
+END
+malta_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/malta_defconfig
+END
+it8172_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/it8172_defconfig
+END
+e55_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/e55_defconfig
+END
+pb1100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/pb1100_defconfig
+END
+atlas_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/atlas_defconfig
+END
+capcella_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/capcella_defconfig
+END
+qemu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/qemu_defconfig
+END
+pb1500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/pb1500_defconfig
+END
+ip32_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ip32_defconfig
+END
+ddb5476_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ddb5476_defconfig
+END
+ddb5477_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ddb5477_defconfig
+END
+lasat200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/lasat200_defconfig
+END
+ocelot_c_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/configs/ocelot_c_defconfig
+END

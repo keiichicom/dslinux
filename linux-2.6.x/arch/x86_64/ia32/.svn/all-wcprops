@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32
+END
+tls32.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/tls32.c
+END
+syscall32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/syscall32.c
+END
+ipc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ipc32.c
+END
+ptrace32.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ptrace32.c
+END
+ia32_aout.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ia32_aout.c
+END
+vsyscall-syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/vsyscall-syscall.S
+END
+ia32_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ia32_ioctl.c
+END
+syscall32_syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/syscall32_syscall.S
+END
+vsyscall-sysenter.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/vsyscall-sysenter.S
+END
+ia32_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ia32_signal.c
+END
+sys_ia32.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/sys_ia32.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/Makefile
+END
+ia32_binfmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ia32_binfmt.c
+END
+fpu32.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/fpu32.c
+END
+vsyscall-sigreturn.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/vsyscall-sigreturn.S
+END
+ia32entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/ia32entry.S
+END
+vsyscall.lds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/x86_64/ia32/vsyscall.lds
+END

@@ -1,0 +1,1 @@
+#undef CONFIG_NDS_TEXT_CONSOLE

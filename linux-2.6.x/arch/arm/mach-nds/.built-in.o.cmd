@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-nds/built-in.o :=  arm-linux-elf-ld -EL   -r -o arch/arm/mach-nds/built-in.o arch/arm/mach-nds/arch.o arch/arm/mach-nds/irq.o arch/arm/mach-nds/time.o arch/arm/mach-nds/button.o arch/arm/mach-nds/fifo.o arch/arm/mach-nds/rtc.o arch/arm/mach-nds/disable-itcm-writes.o arch/arm/mach-nds/gbaram.o

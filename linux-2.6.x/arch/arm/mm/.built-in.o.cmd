@@ -1,0 +1,1 @@
+cmd_arch/arm/mm/built-in.o :=  arm-linux-elf-ld -EL   -r -o arch/arm/mm/built-in.o arch/arm/mm/consistent-nommu.o arch/arm/mm/extable.o arch/arm/mm/fault.o arch/arm/mm/init.o arch/arm/mm/ioremap.o arch/arm/mm/mm-armv.o arch/arm/mm/alignment.o arch/arm/mm/abort-ev5t.o arch/arm/mm/cache-v4wb.o arch/arm/mm/proc-arm946.o

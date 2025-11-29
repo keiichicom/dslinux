@@ -1,0 +1,1 @@
+#undef CONFIG_FONT_MINI_6x6

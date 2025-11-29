@@ -1,0 +1,1 @@
+#undef CONFIG_LCD_CLASS_DEVICE

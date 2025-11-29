@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27
+END
+ip27-smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-smp.c
+END
+ip27-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-console.c
+END
+ip27-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-init.c
+END
+ip27-irq-glue.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-irq-glue.S
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/TODO
+END
+ip27-hubio.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-hubio.c
+END
+ip27-memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-memory.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/Makefile
+END
+ip27-timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-timer.c
+END
+ip27-reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-reset.c
+END
+ip27-nmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-nmi.c
+END
+ip27-xtalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-xtalk.c
+END
+ip27-dbgio.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-dbgio.c
+END
+ip27-klnuma.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-klnuma.c
+END
+ip27-berr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-berr.c
+END
+ip27-irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-irq.c
+END
+ip27-klconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/sgi-ip27/ip27-klconfig.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/irq.c
+END
+vrc5476_irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/vrc5476_irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/Makefile
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/setup.c
+END
+dbg_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/dbg_io.c
+END
+int-handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/int-handler.S
+END
+nile4_pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/ddb5xxx/ddb5476/nile4_pic.c
+END

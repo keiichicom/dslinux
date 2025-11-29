@@ -1,0 +1,1 @@
+cmd_fs/proc/proc.o := arm-linux-elf-ld -EL   -r -o fs/proc/proc.o fs/proc/nommu.o fs/proc/task_nommu.o fs/proc/inode.o fs/proc/root.o fs/proc/base.o fs/proc/generic.o fs/proc/array.o fs/proc/kmsg.o fs/proc/proc_tty.o fs/proc/proc_misc.o

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses
+END
+i2c-ali15x3.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ali15x3.c
+END
+i2c-parport.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-parport.c
+END
+i2c-amd756-s4882.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-amd756-s4882.c
+END
+i2c-keywest.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-keywest.c
+END
+i2c-parport.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-parport.h
+END
+i2c-parport-light.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-parport-light.c
+END
+i2c-sibyte.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-sibyte.c
+END
+i2c-keywest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-keywest.h
+END
+i2c-viapro.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-viapro.c
+END
+i2c-mv64xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-mv64xxx.c
+END
+i2c-elektor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-elektor.c
+END
+i2c-sis96x.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-sis96x.c
+END
+i2c-hydra.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-hydra.c
+END
+i2c-amd8111.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-amd8111.c
+END
+i2c-pca-isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-pca-isa.c
+END
+i2c-stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-stub.c
+END
+i2c-mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-mpc.c
+END
+i2c-au1550.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-au1550.c
+END
+i2c-ite.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ite.c
+END
+i2c-i810.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-i810.c
+END
+i2c-pmac-smu.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-pmac-smu.c
+END
+i2c-ali1535.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ali1535.c
+END
+i2c-au1550.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-au1550.h
+END
+i2c-sis5595.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-sis5595.c
+END
+i2c-prosavage.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-prosavage.c
+END
+i2c-sis630.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-sis630.c
+END
+i2c-pxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-pxa.c
+END
+i2c-voodoo3.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-voodoo3.c
+END
+i2c-iop3xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-iop3xx.c
+END
+i2c-savage4.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-savage4.c
+END
+i2c-ibm_iic.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ibm_iic.c
+END
+i2c-piix4.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-piix4.c
+END
+i2c-nforce2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-nforce2.c
+END
+i2c-iop3xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-iop3xx.h
+END
+i2c-s3c2410.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-s3c2410.c
+END
+i2c-ibm_iic.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ibm_iic.h
+END
+scx200_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/scx200_i2c.c
+END
+i2c-ixp2000.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ixp2000.c
+END
+i2c-amd756.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-amd756.c
+END
+i2c-ixp4xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ixp4xx.c
+END
+i2c-frodo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-frodo.c
+END
+i2c-rpx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-rpx.c
+END
+scx200_acb.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/scx200_acb.c
+END
+i2c-isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-isa.c
+END
+i2c-via.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-via.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/Makefile
+END
+i2c-i801.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-i801.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/Kconfig
+END
+i2c-ali1563.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/i2c/busses/i2c-ali1563.c
+END

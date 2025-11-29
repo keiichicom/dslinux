@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite
+END
+ht-irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/ht-irq.c
+END
+atmel_read_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/atmel_read_eeprom.c
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/setup.h
+END
+i2c-yosemite.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/i2c-yosemite.c
+END
+atmel_read_eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/atmel_read_eeprom.h
+END
+ht.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/ht.c
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/prom.c
+END
+i2c-yosemite.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/i2c-yosemite.h
+END
+dbg_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/dbg_io.c
+END
+irq-handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/irq-handler.S
+END
+py-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/py-console.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/Makefile
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/smp.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/mips/pmc-sierra/yosemite/setup.c
+END

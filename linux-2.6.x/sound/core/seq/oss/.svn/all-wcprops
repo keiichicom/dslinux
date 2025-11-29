@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/Makefile
+END
+seq_oss_readq.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_readq.h
+END
+seq_oss_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_init.c
+END
+seq_oss_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_device.h
+END
+seq_oss_synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_synth.c
+END
+seq_oss_synth.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_synth.h
+END
+seq_oss_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_ioctl.c
+END
+seq_oss_writeq.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_writeq.c
+END
+seq_oss_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_timer.c
+END
+seq_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss.c
+END
+seq_oss_writeq.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_writeq.h
+END
+seq_oss_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_event.c
+END
+seq_oss_midi.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_midi.c
+END
+seq_oss_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_timer.h
+END
+seq_oss_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_event.h
+END
+seq_oss_midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_midi.h
+END
+seq_oss_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_rw.c
+END
+seq_oss_readq.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/core/seq/oss/seq_oss_readq.c
+END

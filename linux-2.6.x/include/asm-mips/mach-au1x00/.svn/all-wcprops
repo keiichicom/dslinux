@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00
+END
+au1000_usbdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1000_usbdev.h
+END
+au1100_mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1100_mmc.h
+END
+au1xxx_psc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1xxx_psc.h
+END
+au1000_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1000_gpio.h
+END
+au1xxx_dbdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1xxx_dbdma.h
+END
+au1000.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1000.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/timex.h
+END
+au1000_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-au1x00/au1000_dma.h
+END

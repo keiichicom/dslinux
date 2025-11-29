@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include
+END
+mmu-skas.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/mmu-skas.h
+END
+skas.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/skas.h
+END
+mode_kern-skas.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/mode_kern-skas.h
+END
+mode-skas.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/mode-skas.h
+END
+stub-data.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/stub-data.h
+END
+mm_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/mm_id.h
+END
+uaccess-skas.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/uaccess-skas.h
+END
+proc_mm.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/um/kernel/skas/include/proc_mm.h
+END

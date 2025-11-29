@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2449/trunk/linux-2.6.x/arch/arm/mach-nds
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/rtc.c
+END
+disable-itcm-writes.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/disable-itcm-writes.S
+END
+soundtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/soundtest.c
+END
+gbaram.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/gbaram.c
+END
+m3cf_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/m3cf_s.S
+END
+m3cf_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/m3cf_c.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2374/trunk/linux-2.6.x/arch/arm/mach-nds/Makefile
+END
+Makefile.boot
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/Makefile.boot
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/time.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/Kconfig
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/console.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/.svnignore
+END
+button.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2344/trunk/linux-2.6.x/arch/arm/mach-nds/button.c
+END
+arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2419/trunk/linux-2.6.x/arch/arm/mach-nds/arch.c
+END
+sccf_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/sccf_c.c
+END
+sccf_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/sccf_s.S
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2449/trunk/linux-2.6.x/arch/arm/mach-nds/head.S
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2422/trunk/linux-2.6.x/arch/arm/mach-nds/fifo.c
+END

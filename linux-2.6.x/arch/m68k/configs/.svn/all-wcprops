@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs
+END
+atari_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/atari_defconfig
+END
+mac_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/mac_defconfig
+END
+mvme147_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/mvme147_defconfig
+END
+sun3x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/sun3x_defconfig
+END
+mvme16x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/mvme16x_defconfig
+END
+q40_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/q40_defconfig
+END
+apollo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/apollo_defconfig
+END
+sun3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/sun3_defconfig
+END
+hp300_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/hp300_defconfig
+END
+amiga_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/amiga_defconfig
+END
+bvme6000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m68k/configs/bvme6000_defconfig
+END

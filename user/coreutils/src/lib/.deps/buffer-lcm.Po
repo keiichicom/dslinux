@@ -1,0 +1,6 @@
+buffer-lcm.o buffer-lcm.o: buffer-lcm.c buffer-lcm.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h
+
+buffer-lcm.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:

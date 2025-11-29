@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y
+END
+usbusx2y.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usbusx2y.c
+END
+usbusx2yaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usbusx2yaudio.c
+END
+usX2Yhwdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usX2Yhwdep.h
+END
+usx2yhwdeppcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usx2yhwdeppcm.h
+END
+usbus428ctldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usbus428ctldefs.h
+END
+usbusx2y.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usbusx2y.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/Makefile
+END
+usx2y.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usx2y.h
+END
+usX2Yhwdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usX2Yhwdep.c
+END
+usx2yhwdeppcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/sound/usb/usx2y/usx2yhwdeppcm.c
+END

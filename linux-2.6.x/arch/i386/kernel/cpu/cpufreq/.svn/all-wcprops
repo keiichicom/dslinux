@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq
+END
+powernow-k7.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/powernow-k7.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/Kconfig
+END
+powernow-k8.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/powernow-k8.c
+END
+speedstep-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-lib.c
+END
+cpufreq-nforce2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/cpufreq-nforce2.c
+END
+powernow-k7.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/powernow-k7.h
+END
+powernow-k8.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/powernow-k8.h
+END
+speedstep-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-lib.h
+END
+gx-suspmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/gx-suspmod.c
+END
+sc520_freq.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/sc520_freq.c
+END
+longhaul.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/longhaul.c
+END
+speedstep-centrino.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-centrino.c
+END
+p4-clockmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/p4-clockmod.c
+END
+longhaul.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/longhaul.h
+END
+acpi-cpufreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/acpi-cpufreq.c
+END
+speedstep-est-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-est-common.h
+END
+speedstep-smi.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-smi.c
+END
+longrun.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/longrun.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/Makefile
+END
+elanfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/elanfreq.c
+END
+speedstep-ich.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/speedstep-ich.c
+END
+powernow-k6.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/i386/kernel/cpu/cpufreq/powernow-k6.c
+END

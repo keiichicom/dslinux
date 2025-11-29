@@ -1,0 +1,1 @@
+#define CONFIG_FB_SOFT_CURSOR 1

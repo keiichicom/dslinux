@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband
+END
+ipoib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband/ipoib.txt
+END
+sysfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband/sysfs.txt
+END
+core_locking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband/core_locking.txt
+END
+user_mad.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband/user_mad.txt
+END
+user_verbs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/infiniband/user_verbs.txt
+END

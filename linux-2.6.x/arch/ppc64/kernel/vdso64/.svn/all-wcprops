@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64
+END
+cacheflush.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/cacheflush.S
+END
+note.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/note.S
+END
+vdso64_wrapper.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/vdso64_wrapper.S
+END
+datapage.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/datapage.S
+END
+sigtramp.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/sigtramp.S
+END
+vdso64.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/vdso64.lds.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/Makefile
+END
+gettimeofday.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc64/kernel/vdso64/gettimeofday.S
+END

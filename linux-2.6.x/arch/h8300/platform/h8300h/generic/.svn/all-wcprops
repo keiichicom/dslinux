@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/generic
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/generic/Makefile
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/generic/timer.c
+END
+crt0_rom.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/generic/crt0_rom.S
+END
+crt0_ram.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8300h/generic/crt0_ram.S
+END

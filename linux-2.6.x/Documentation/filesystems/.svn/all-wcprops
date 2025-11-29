@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems
+END
+befs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/befs.txt
+END
+ext2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/ext2.txt
+END
+ext3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/ext3.txt
+END
+hpfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/hpfs.txt
+END
+xip.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/xip.txt
+END
+relayfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/relayfs.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/00-INDEX
+END
+coda.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/coda.txt
+END
+Locking
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/Locking
+END
+ncpfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/ncpfs.txt
+END
+afs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/afs.txt
+END
+sysv-fs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/sysv-fs.txt
+END
+smbfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/smbfs.txt
+END
+ntfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/ntfs.txt
+END
+bfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/bfs.txt
+END
+directory-locking
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/directory-locking
+END
+cramfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/cramfs.txt
+END
+adfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/adfs.txt
+END
+udf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/udf.txt
+END
+affs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/affs.txt
+END
+sysfs-pci.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/sysfs-pci.txt
+END
+hfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/hfs.txt
+END
+inotify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/inotify.txt
+END
+jfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/jfs.txt
+END
+isofs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/isofs.txt
+END
+cifs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/cifs.txt
+END
+romfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/romfs.txt
+END
+v9fs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/v9fs.txt
+END
+tmpfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/tmpfs.txt
+END
+ufs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/ufs.txt
+END
+vfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/vfs.txt
+END
+vfat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/vfat.txt
+END
+xfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/xfs.txt
+END
+Exporting
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/Exporting
+END
+fuse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/fuse.txt
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/files.txt
+END
+proc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/proc.txt
+END
+porting
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/porting
+END
+automount-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/automount-support.txt
+END
+sysfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/filesystems/sysfs.txt
+END

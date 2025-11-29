@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 72
+gen_init_cpio
+initramfs_data.cpio
+initramfs_data.cpio.gz
+initramfs_list
+
+END

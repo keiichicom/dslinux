@@ -1,0 +1,1 @@
+#define CONFIG_CPU_ARM946_CPU_IDLE 1

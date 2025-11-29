@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-bigsmp
+END
+mach_mpspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-bigsmp/mach_mpspec.h
+END
+mach_apicdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-bigsmp/mach_apicdef.h
+END
+mach_apic.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-bigsmp/mach_apic.h
+END
+mach_ipi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-bigsmp/mach_ipi.h
+END

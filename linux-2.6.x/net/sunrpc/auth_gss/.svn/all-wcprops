@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss
+END
+gss_spkm3_mech.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_spkm3_mech.c
+END
+gss_krb5_unseal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_krb5_unseal.c
+END
+gss_krb5_seqnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_krb5_seqnum.c
+END
+gss_generic_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_generic_token.c
+END
+gss_mech_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_mech_switch.c
+END
+gss_spkm3_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_spkm3_token.c
+END
+svcauth_gss.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/svcauth_gss.c
+END
+gss_krb5_mech.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_krb5_mech.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/Makefile
+END
+auth_gss.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/auth_gss.c
+END
+gss_spkm3_seal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_spkm3_seal.c
+END
+gss_krb5_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_krb5_crypto.c
+END
+gss_spkm3_unseal.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_spkm3_unseal.c
+END
+gss_krb5_seal.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/sunrpc/auth_gss/gss_krb5_seal.c
+END

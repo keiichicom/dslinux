@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut
+END
+defconfig.m32700ut.up
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut/defconfig.m32700ut.up
+END
+dot.gdbinit_300MHz_32MB
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut/dot.gdbinit_300MHz_32MB
+END
+dot.gdbinit_200MHz_16MB
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut/dot.gdbinit_200MHz_16MB
+END
+dot.gdbinit_400MHz_32MB
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut/dot.gdbinit_400MHz_32MB
+END
+defconfig.m32700ut.smp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/m32r/m32700ut/defconfig.m32700ut.smp
+END

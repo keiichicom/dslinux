@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware
+END
+clps7111.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/clps7111.h
+END
+ep7211.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/ep7211.h
+END
+arm_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/arm_timer.h
+END
+ep7212.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/ep7212.h
+END
+cs89712.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/cs89712.h
+END
+memc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/memc.h
+END
+pci_v3.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/pci_v3.h
+END
+scoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/scoop.h
+END
+amba_clcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/amba_clcd.h
+END
+iomd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/iomd.h
+END
+locomo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/locomo.h
+END
+dcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/dcc.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/clock.h
+END
+icst307.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/icst307.h
+END
+dec21285.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/dec21285.h
+END
+arm_twd.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/arm_twd.h
+END
+icst525.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/icst525.h
+END
+linkup-l1110.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/linkup-l1110.h
+END
+amba_serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/amba_serial.h
+END
+amba_kmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/amba_kmi.h
+END
+amba.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/amba.h
+END
+entry-macro-iomd.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/entry-macro-iomd.S
+END
+gic.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/gic.h
+END
+ssp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/ssp.h
+END
+sa1111.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/sa1111.h
+END
+ioc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/hardware/ioc.h
+END

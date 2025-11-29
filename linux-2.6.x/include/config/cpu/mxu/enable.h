@@ -1,0 +1,1 @@
+#define CONFIG_CPU_MXU_ENABLE 1

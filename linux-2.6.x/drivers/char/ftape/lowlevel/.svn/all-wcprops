@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel
+END
+ftape-ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-ctl.c
+END
+ftape-tracing.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-tracing.c
+END
+ftape-ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-ctl.h
+END
+ftape-rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-rw.c
+END
+ftape-format.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-format.c
+END
+fdc-isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fdc-isr.c
+END
+ftape-ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-ecc.c
+END
+ftape-tracing.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-tracing.h
+END
+ftape-rw.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-rw.h
+END
+ftape-format.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-format.h
+END
+ftape-ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-ecc.h
+END
+fdc-isr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fdc-isr.h
+END
+ftape-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-init.c
+END
+fdc-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fdc-io.c
+END
+ftape-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-io.c
+END
+ftape-init.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-init.h
+END
+fdc-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fdc-io.h
+END
+ftape-read.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-read.c
+END
+ftape-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-io.h
+END
+ftape_syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape_syms.c
+END
+ftape-read.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-read.h
+END
+ftape-bsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-bsm.c
+END
+ftape-bsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-bsm.h
+END
+ftape-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-write.c
+END
+ftape-calibr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-calibr.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/Makefile
+END
+ftape-write.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-write.h
+END
+ftape-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-setup.c
+END
+ftape-calibr.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-calibr.h
+END
+ftape-proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-proc.c
+END
+ftape-proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-proc.h
+END
+fc-10.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fc-10.c
+END
+ftape-buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-buffer.c
+END
+fc-10.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/fc-10.h
+END
+ftape-buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/char/ftape/lowlevel/ftape-buffer.h
+END

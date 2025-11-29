@@ -1,0 +1,1 @@
+cmd_mm/built-in.o :=  arm-linux-elf-ld -EL   -r -o mm/built-in.o mm/bootmem.o mm/filemap.o mm/mempool.o mm/oom_kill.o mm/fadvise.o mm/page_alloc.o mm/page-writeback.o mm/pdflush.o mm/readahead.o mm/swap.o mm/truncate.o mm/vmscan.o mm/prio_tree.o mm/util.o mm/nommu.o mm/slob.o

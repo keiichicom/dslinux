@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx
+END
+mpc85xx_cds_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc85xx_cds_common.h
+END
+stx_gp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/stx_gp3.c
+END
+mpc8540_ads.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc8540_ads.c
+END
+mpc8560_ads.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc8560_ads.c
+END
+sbc8560.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/sbc8560.c
+END
+mpc8540_ads.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc8540_ads.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/Makefile
+END
+stx_gp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/stx_gp3.h
+END
+mpc8560_ads.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc8560_ads.h
+END
+sbc8560.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/sbc8560.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/Kconfig
+END
+sbc85xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/sbc85xx.c
+END
+mpc8555_cds.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc8555_cds.h
+END
+sbc85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/sbc85xx.h
+END
+mpc85xx_ads_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc85xx_ads_common.c
+END
+mpc85xx_cds_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc85xx_cds_common.c
+END
+mpc85xx_ads_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ppc/platforms/85xx/mpc85xx_ads_common.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc
+END
+smp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/smp.txt
+END
+ppc_htab.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/ppc_htab.txt
+END
+hvcs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/hvcs.txt
+END
+cpu_features.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/cpu_features.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/00-INDEX
+END
+mpc52xx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/mpc52xx.txt
+END
+sound.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/sound.txt
+END
+zImage_layout.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/zImage_layout.txt
+END
+SBC8260_memory_mapping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/SBC8260_memory_mapping.txt
+END
+eeh-pci-error-recovery.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/powerpc/eeh-pci-error-recovery.txt
+END

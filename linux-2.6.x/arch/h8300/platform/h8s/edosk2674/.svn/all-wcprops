@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8s/edosk2674
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8s/edosk2674/Makefile
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8s/edosk2674/timer.c
+END
+crt0_rom.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8s/edosk2674/crt0_rom.S
+END
+crt0_ram.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/h8300/platform/h8s/edosk2674/crt0_ram.S
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter
+END
+ip6t_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_frag.c
+END
+ip6t_LOG.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_LOG.c
+END
+ip6t_length.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_length.c
+END
+ip6t_physdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_physdev.c
+END
+ip6t_rt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_rt.c
+END
+ip6_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6_tables.c
+END
+ip6t_esp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_esp.c
+END
+ip6table_mangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6table_mangle.c
+END
+ip6t_ah.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_ah.c
+END
+ip6t_dst.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_dst.c
+END
+ip6t_MARK.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_MARK.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/Makefile
+END
+ip6t_mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_mark.c
+END
+ip6t_owner.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_owner.c
+END
+ip6t_eui64.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_eui64.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/Kconfig
+END
+ip6t_ipv6header.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_ipv6header.c
+END
+ip6t_multiport.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_multiport.c
+END
+ip6_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6_queue.c
+END
+ip6t_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_mac.c
+END
+ip6t_hbh.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_hbh.c
+END
+ip6t_hl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_hl.c
+END
+ip6t_HL.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_HL.c
+END
+ip6t_NFQUEUE.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_NFQUEUE.c
+END
+ip6table_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6table_filter.c
+END
+ip6t_REJECT.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_REJECT.c
+END
+ip6table_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6table_raw.c
+END
+ip6t_limit.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv6/netfilter/ip6t_limit.c
+END

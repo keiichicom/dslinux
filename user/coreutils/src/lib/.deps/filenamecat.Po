@@ -1,0 +1,27 @@
+filenamecat.o filenamecat.o: filenamecat.c config.h filenamecat.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h dirname.h \
+  /home/andrewec/dslinux/include/gcc/stdbool.h xalloc.h
+
+config.h:
+
+filenamecat.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+dirname.h:
+
+/home/andrewec/dslinux/include/gcc/stdbool.h:
+
+xalloc.h:

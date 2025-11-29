@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac
+END
+ibm_emac_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_core.c
+END
+ibm_emac_mal.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_mal.c
+END
+ibm_emac_rgmii.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_rgmii.h
+END
+ibm_emac_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_core.h
+END
+ibm_emac_zmii.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_zmii.h
+END
+ibm_emac_mal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_mal.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/Makefile
+END
+ibm_emac_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_phy.c
+END
+ibm_emac_tah.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_tah.h
+END
+ibm_emac.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac.h
+END
+ibm_emac_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_phy.h
+END
+ibm_emac_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/net/ibm_emac/ibm_emac_debug.c
+END

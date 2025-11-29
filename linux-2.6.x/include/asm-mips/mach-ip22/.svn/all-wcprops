@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-ip22
+END
+ds1286.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-ip22/ds1286.h
+END
+spaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-ip22/spaces.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-ip22/cpu-feature-overrides.h
+END

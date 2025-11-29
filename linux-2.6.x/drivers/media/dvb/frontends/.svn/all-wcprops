@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends
+END
+dib3000.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000.h
+END
+cx24110.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx24110.h
+END
+l64781.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/l64781.h
+END
+mt312_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt312_priv.h
+END
+mt352_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt352_priv.h
+END
+bcm3510_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/bcm3510_priv.h
+END
+sp887x.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/sp887x.c
+END
+ves1x93.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/ves1x93.c
+END
+dib3000mb_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000mb_priv.h
+END
+sp887x.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/sp887x.h
+END
+dib3000-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000-common.c
+END
+ves1x93.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/ves1x93.h
+END
+tda10021.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda10021.c
+END
+dib3000-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000-common.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/Makefile
+END
+stv0297.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/stv0297.c
+END
+tda80xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda80xx.c
+END
+stv0299.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/stv0299.c
+END
+tda10021.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda10021.h
+END
+stv0297.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/stv0297.h
+END
+tda80xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda80xx.h
+END
+stv0299.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/stv0299.h
+END
+nxt2002.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/nxt2002.c
+END
+nxt6000.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/nxt6000.c
+END
+dib3000mb.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000mb.c
+END
+nxt2002.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/nxt2002.h
+END
+nxt6000.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/nxt6000.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/Kconfig
+END
+sp8870.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/sp8870.c
+END
+lgdt330x_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/lgdt330x_priv.h
+END
+sp8870.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/sp8870.h
+END
+at76c651.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/at76c651.c
+END
+at76c651.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/at76c651.h
+END
+tda8083.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda8083.c
+END
+tda8083.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda8083.h
+END
+dvb-pll.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dvb-pll.c
+END
+tda1004x.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda1004x.c
+END
+cx22700.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx22700.c
+END
+dvb-pll.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dvb-pll.h
+END
+s5h1420.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/s5h1420.c
+END
+mt312.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt312.c
+END
+cx22702.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx22702.c
+END
+ves1820.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/ves1820.c
+END
+lgdt330x.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/lgdt330x.c
+END
+tda1004x.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/tda1004x.h
+END
+or51211.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/or51211.c
+END
+mt352.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt352.c
+END
+cx22700.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx22700.h
+END
+bcm3510.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/bcm3510.c
+END
+s5h1420.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/s5h1420.h
+END
+mt312.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt312.h
+END
+or51132.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/or51132.c
+END
+cx22702.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx22702.h
+END
+ves1820.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/ves1820.h
+END
+lgdt330x.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/lgdt330x.h
+END
+or51211.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/or51211.h
+END
+mt352.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/mt352.h
+END
+bcm3510.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/bcm3510.h
+END
+or51132.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/or51132.h
+END
+dib3000mc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000mc.c
+END
+nxt6000_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/nxt6000_priv.h
+END
+dib3000mc_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dib3000mc_priv.h
+END
+dvb_dummy_fe.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dvb_dummy_fe.c
+END
+cx24110.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/cx24110.c
+END
+dvb_dummy_fe.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/dvb_dummy_fe.h
+END
+l64781.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/frontends/l64781.c
+END

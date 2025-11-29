@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2420/trunk/linux-2.6.x/drivers/video/backlight
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2420/trunk/linux-2.6.x/drivers/video/backlight/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/video/backlight/Kconfig
+END
+corgi_bl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/video/backlight/corgi_bl.c
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/video/backlight/lcd.c
+END
+ndsbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2420/trunk/linux-2.6.x/drivers/video/backlight/ndsbl.c
+END
+backlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/video/backlight/backlight.c
+END
+locomolcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/video/backlight/locomolcd.c
+END

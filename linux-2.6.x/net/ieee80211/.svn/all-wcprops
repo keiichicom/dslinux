@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211
+END
+ieee80211_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_tx.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/Kconfig
+END
+ieee80211_crypt_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_crypt_wep.c
+END
+ieee80211_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_wx.c
+END
+ieee80211_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_crypt.c
+END
+ieee80211_crypt_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_crypt_ccmp.c
+END
+ieee80211_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_module.c
+END
+ieee80211_crypt_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_crypt_tkip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/Makefile
+END
+ieee80211_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ieee80211/ieee80211_rx.c
+END

@@ -1,0 +1,24 @@
+xstrndup.o xstrndup.o: xstrndup.c config.h xstrndup.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h strndup.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h xalloc.h
+
+config.h:
+
+xstrndup.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+strndup.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+xalloc.h:

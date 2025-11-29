@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/ttusb-budget
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/ttusb-budget/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/ttusb-budget/Kconfig
+END
+dvb-ttusb-budget.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/ttusb-budget/dvb-ttusb-budget.c
+END
+dvb-ttusb-dspbootcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/ttusb-budget/dvb-ttusb-dspbootcode.h
+END

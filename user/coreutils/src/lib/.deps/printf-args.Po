@@ -1,0 +1,11 @@
+printf-args.o printf-args.o: printf-args.c config.h printf-args.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h
+
+config.h:
+
+printf-args.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:

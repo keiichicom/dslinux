@@ -1,0 +1,11 @@
+asnprintf.o asnprintf.o: asnprintf.c config.h vasnprintf.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h
+
+config.h:
+
+vasnprintf.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:

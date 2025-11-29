@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410
+END
+regs-iic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-iic.h
+END
+vr1000-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/vr1000-map.h
+END
+bast-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/bast-map.h
+END
+regs-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-dsc.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/io.h
+END
+usb-control.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/usb-control.h
+END
+bast-cpld.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/bast-cpld.h
+END
+anubis-irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/anubis-irq.h
+END
+regs-mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-mem.h
+END
+idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/idle.h
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/irqs.h
+END
+regs-nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-nand.h
+END
+regs-timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-timer.h
+END
+regs-iis.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-iis.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/system.h
+END
+regs-adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-adc.h
+END
+fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/fb.h
+END
+bast-pmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/bast-pmu.h
+END
+regs-clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-clock.h
+END
+regs-gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-gpio.h
+END
+anubis-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/anubis-map.h
+END
+uncompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/uncompress.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/param.h
+END
+anubis-cpld.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/anubis-cpld.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/audio.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/dma.h
+END
+iic.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/iic.h
+END
+regs-gpioj.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-gpioj.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/memory.h
+END
+vr1000-cpld.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/vr1000-cpld.h
+END
+regs-udc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-udc.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/entry-macro.S
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/map.h
+END
+regs-sdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-sdi.h
+END
+regs-serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-serial.h
+END
+nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/nand.h
+END
+vr1000-irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/vr1000-irq.h
+END
+bast-irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/bast-irq.h
+END
+regs-rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-rtc.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/timex.h
+END
+regs-irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-irq.h
+END
+otom-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/otom-map.h
+END
+regs-spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-spi.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/hardware.h
+END
+vmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/vmalloc.h
+END
+regs-watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-watchdog.h
+END
+regs-lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/regs-lcd.h
+END
+debug-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c2410/debug-macro.S
+END

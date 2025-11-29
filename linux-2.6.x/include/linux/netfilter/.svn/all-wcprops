@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/linux/netfilter
+END
+nfnetlink_conntrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/linux/netfilter/nfnetlink_conntrack.h
+END
+nfnetlink_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/linux/netfilter/nfnetlink_queue.h
+END
+nfnetlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/linux/netfilter/nfnetlink.h
+END
+nfnetlink_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/linux/netfilter/nfnetlink_log.h
+END

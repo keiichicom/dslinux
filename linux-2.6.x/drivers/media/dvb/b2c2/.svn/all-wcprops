@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2
+END
+flexcop-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-common.h
+END
+flexcop-usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-usb.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/Makefile
+END
+flexcop-hw-filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-hw-filter.c
+END
+flexcop-dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-dma.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/Kconfig
+END
+flexcop.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop.c
+END
+flexcop-sram.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-sram.c
+END
+flexcop_ibi_value_le.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop_ibi_value_le.h
+END
+flexcop.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop.h
+END
+flexcop-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-pci.c
+END
+flexcop-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-i2c.c
+END
+flexcop-reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-reg.h
+END
+flexcop-fe-tuner.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-fe-tuner.c
+END
+flexcop-eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-eeprom.c
+END
+flexcop-usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-usb.c
+END
+flexcop-misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop-misc.c
+END
+flexcop_ibi_value_be.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/media/dvb/b2c2/flexcop_ibi_value_be.h
+END

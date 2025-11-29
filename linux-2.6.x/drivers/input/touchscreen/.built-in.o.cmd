@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  arm-linux-elf-ld -EL   -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/nds_ts.o drivers/input/touchscreen/keyboard.raw.o drivers/input/touchscreen/keyboard.map.o drivers/input/touchscreen/master.pal.o

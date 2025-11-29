@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm
+END
+aicasm_symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_symbol.h
+END
+aicasm_gram.y
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_gram.y
+END
+aicasm_macro_gram.y
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_macro_gram.y
+END
+aicasm_scan.l
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_scan.l
+END
+aicasm_macro_scan.l
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_macro_scan.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/Makefile
+END
+aicasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm.c
+END
+aicasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm.h
+END
+aicasm_symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_symbol.c
+END
+aicasm_insformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/aic7xxx/aicasm/aicasm_insformat.h
+END

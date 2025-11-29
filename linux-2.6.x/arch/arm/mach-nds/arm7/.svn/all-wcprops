@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2425/trunk/linux-2.6.x/arch/arm/mach-nds/arm7
+END
+wifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/wifi.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/time.h
+END
+microphone.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2406/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/microphone.c
+END
+arm7.lds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/arm7.lds
+END
+microphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2406/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/microphone.h
+END
+arm7.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/arm7.h
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/head.S
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2425/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/main.c
+END
+divide.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/divide.S
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/sound.c
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2406/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/spi.c
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/sound.h
+END
+wifi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/wifi.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/time.c
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2422/trunk/linux-2.6.x/arch/arm/mach-nds/arm7/spi.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be/system.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be/core.h
+END
+specreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be/specreg.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be/defs.h
+END
+tie.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-xtensa/xtensa/config-linux_be/tie.h
+END

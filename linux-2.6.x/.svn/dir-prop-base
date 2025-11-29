@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 56
+.config
+.tmp_versions
+.version
+System.map
+linux
+vmlinux
+
+END

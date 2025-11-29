@@ -1,0 +1,129 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/linux-2.6.x/drivers/isdn
+https://svn.dslinux.org/svn
+
+
+
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+capi
+dir
+
+hisax
+dir
+
+divert
+dir
+
+hardware
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:23.608805Z
+39592bc9334d88a9601ae53e36b73ea2
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+512
+
+Kconfig
+file
+
+
+
+
+2025-11-26T02:02:23.608805Z
+b1c36ec446fc8df54f3b879a2ab198e4
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2201
+
+pcbit
+dir
+
+hysdn
+dir
+
+sc
+dir
+
+isdnloop
+dir
+
+i4l
+dir
+
+act2000
+dir
+
+icn
+dir
+

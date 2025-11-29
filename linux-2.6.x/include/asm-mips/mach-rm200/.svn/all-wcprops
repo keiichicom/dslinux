@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-rm200
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-rm200/cpu-feature-overrides.h
+END
+mc146818rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-mips/mach-rm200/mc146818rtc.h
+END

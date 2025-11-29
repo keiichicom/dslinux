@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.o :=  arm-linux-elf-ld -EL   -r -o drivers/video/built-in.o drivers/video/console/built-in.o drivers/video/logo/built-in.o drivers/video/backlight/built-in.o drivers/video/fb.o drivers/video/softcursor.o drivers/video/ndsfb.o drivers/video/cfbfillrect.o drivers/video/cfbcopyarea.o drivers/video/cfbimgblt.o

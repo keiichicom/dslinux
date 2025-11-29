@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries
+END
+HvCallPci.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallPci.h
+END
+HvReleaseData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvReleaseData.h
+END
+HvCallSm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallSm.h
+END
+HvCall.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCall.h
+END
+HvLpEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvLpEvent.h
+END
+HvCallEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallEvent.h
+END
+ItLpQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItLpQueue.h
+END
+HvCallXm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallXm.h
+END
+iSeries_irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/iSeries_irq.h
+END
+IoHriProcessorVpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/IoHriProcessorVpd.h
+END
+ItSpCommArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItSpCommArea.h
+END
+HvCallHpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallHpt.h
+END
+ItLpRegSave.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItLpRegSave.h
+END
+ItExtVpdPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItExtVpdPanel.h
+END
+ItIplParmsReal.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItIplParmsReal.h
+END
+iSeries_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/iSeries_io.h
+END
+ItLpNaca.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItLpNaca.h
+END
+IoHriMainStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/IoHriMainStore.h
+END
+LparMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/LparMap.h
+END
+vio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/vio.h
+END
+iSeries_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/iSeries_pci.h
+END
+HvLpConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvLpConfig.h
+END
+HvCallSc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvCallSc.h
+END
+HvTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/HvTypes.h
+END
+ItVpdAreas.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/ItVpdAreas.h
+END
+mf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-ppc64/iSeries/mf.h
+END

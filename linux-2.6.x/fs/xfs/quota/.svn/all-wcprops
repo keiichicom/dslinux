@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/Makefile
+END
+Makefile-linux-2.6
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/Makefile-linux-2.6
+END
+xfs_dquot.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_dquot.c
+END
+xfs_qm_bhv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm_bhv.c
+END
+xfs_qm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm.c
+END
+xfs_quota_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_quota_priv.h
+END
+xfs_dquot_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_dquot_item.h
+END
+xfs_qm_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm_stats.h
+END
+xfs_dquot.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_dquot.h
+END
+xfs_qm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm.h
+END
+xfs_trans_dquot.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_trans_dquot.c
+END
+xfs_dquot_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_dquot_item.c
+END
+xfs_qm_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm_syscalls.c
+END
+xfs_qm_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/fs/xfs/quota/xfs_qm_stats.c
+END

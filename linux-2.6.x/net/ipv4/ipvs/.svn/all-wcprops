@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs
+END
+ip_vs_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_proto.c
+END
+ip_vs_proto_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_proto_tcp.c
+END
+ip_vs_proto_esp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_proto_esp.c
+END
+ip_vs_sh.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_sh.c
+END
+ip_vs_wrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_wrr.c
+END
+ip_vs_proto_ah.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_proto_ah.c
+END
+ip_vs_proto_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_proto_udp.c
+END
+ip_vs_sed.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_sed.c
+END
+ip_vs_lblc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_lblc.c
+END
+ip_vs_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_sync.c
+END
+ip_vs_nq.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_nq.c
+END
+ip_vs_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_app.c
+END
+ip_vs_xmit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_xmit.c
+END
+ip_vs_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_ctl.c
+END
+ip_vs_rr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_rr.c
+END
+ip_vs_wlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_wlc.c
+END
+ip_vs_sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_sched.c
+END
+ip_vs_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_core.c
+END
+ip_vs_ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_ftp.c
+END
+ip_vs_est.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_est.c
+END
+ip_vs_dh.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_dh.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/Makefile
+END
+ip_vs_conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_conn.c
+END
+ip_vs_lc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_lc.c
+END
+ip_vs_lblcr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/ip_vs_lblcr.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/linux-2.6.x/net/ipv4/ipvs/Kconfig
+END

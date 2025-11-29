@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2420/trunk/linux-2.6.x/include/asm-arm/arch-nds
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/irqs.h
+END
+gbarom-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/gbarom-macro.S
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2420/trunk/linux-2.6.x/include/asm-arm/arch-nds/fifo.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/system.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/timex.h
+END
+gbaram.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/gbaram.h
+END
+power.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2419/trunk/linux-2.6.x/include/asm-arm/arch-nds/power.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/hardware.h
+END
+wifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/wifi.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/param.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/dma.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/io.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/memory.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/entry-macro.S
+END
+firmware.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-nds/firmware.h
+END

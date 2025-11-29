@@ -1,0 +1,1 @@
+#define CONFIG_SND_NDS 1

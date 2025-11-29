@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/index.txt
+END
+core.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/core.txt
+END
+user-guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/user-guide.txt
+END
+amd-powernow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/amd-powernow.txt
+END
+cpufreq-nforce2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/cpufreq-nforce2.txt
+END
+cpufreq-stats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/cpufreq-stats.txt
+END
+cpu-drivers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/cpu-drivers.txt
+END
+governors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/Documentation/cpu-freq/governors.txt
+END

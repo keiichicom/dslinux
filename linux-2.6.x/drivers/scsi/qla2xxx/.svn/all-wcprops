@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx
+END
+ql2322.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2322.c
+END
+qla_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_version.h
+END
+ql6312.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql6312.c
+END
+qla_dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_dbg.c
+END
+qla_isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_isr.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/Makefile
+END
+qla_dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_dbg.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/Kconfig
+END
+qla_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_def.h
+END
+qla_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_init.c
+END
+qla_rscn.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_rscn.c
+END
+qla_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_settings.h
+END
+qla_sup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_sup.c
+END
+qla_gbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_gbl.h
+END
+qla_gs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_gs.c
+END
+qla_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_attr.c
+END
+qla_iocb.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_iocb.c
+END
+ql2100_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2100_fw.c
+END
+ql2200_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2200_fw.c
+END
+ql2300_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2300_fw.c
+END
+qla_fw.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_fw.h
+END
+qla_os.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_os.c
+END
+ql2100.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2100.c
+END
+ql2200.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2200.c
+END
+qla_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_inline.h
+END
+ql2322_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2322_fw.c
+END
+ql2300.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql2300.c
+END
+qla_devtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_devtbl.h
+END
+qla_mbx.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/qla_mbx.c
+END
+ql6312_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/scsi/qla2xxx/ql6312_fw.c
+END

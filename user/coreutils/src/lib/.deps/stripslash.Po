@@ -1,0 +1,11 @@
+stripslash.o stripslash.o: stripslash.c config.h dirname.h \
+  /home/andrewec/dslinux/include/gcc/stdbool.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h
+
+config.h:
+
+dirname.h:
+
+/home/andrewec/dslinux/include/gcc/stdbool.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:

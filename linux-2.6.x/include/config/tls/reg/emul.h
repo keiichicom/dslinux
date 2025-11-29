@@ -1,0 +1,1 @@
+#define CONFIG_TLS_REG_EMUL 1

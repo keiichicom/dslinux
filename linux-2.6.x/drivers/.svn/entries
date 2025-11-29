@@ -1,0 +1,249 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/linux-2.6.x/drivers
+https://svn.dslinux.org/svn
+
+
+
+2009-06-29T18:31:25.986230Z
+2420
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+input
+dir
+
+mca
+dir
+
+bluetooth
+dir
+
+cpufreq
+dir
+
+tc
+dir
+
+video
+dir
+
+telephony
+dir
+
+dio
+dir
+
+pci
+dir
+
+zorro
+dir
+
+mmc
+dir
+
+fc4
+dir
+
+char
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:25.868805Z
+fb397707a61f37e1bb5ef1323d99021b
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2125
+
+crypto
+dir
+
+eisa
+dir
+
+parisc
+dir
+
+macintosh
+dir
+
+net
+dir
+
+parport
+dir
+
+ieee1394
+dir
+
+hwmon
+dir
+
+usb
+dir
+
+block
+dir
+
+connector
+dir
+
+misc
+dir
+
+nubus
+dir
+
+pcmcia
+dir
+
+md
+dir
+
+infiniband
+dir
+
+ide
+dir
+
+scsi
+dir
+
+acorn
+dir
+
+cdrom
+dir
+
+mfd
+dir
+
+base
+dir
+
+sh
+dir
+
+acpi
+dir
+
+firmware
+dir
+
+sbus
+dir
+
+i2c
+dir
+
+media
+dir
+
+oprofile
+dir
+
+serial
+dir
+
+sn
+dir
+
+Kconfig
+file
+
+
+
+
+2025-11-26T02:02:25.868805Z
+1bef2722ca8ef83d5e3dfef05c41be5c
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1106
+
+atm
+dir
+
+mtd
+dir
+
+message
+dir
+
+w1
+dir
+
+isdn
+dir
+
+pnp
+dir
+
+s390
+dir
+

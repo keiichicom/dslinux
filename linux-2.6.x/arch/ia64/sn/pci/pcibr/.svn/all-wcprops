@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr
+END
+pcibr_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr/pcibr_dma.c
+END
+pcibr_ate.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr/pcibr_ate.c
+END
+pcibr_provider.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr/pcibr_provider.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr/Makefile
+END
+pcibr_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/arch/ia64/sn/pci/pcibr/pcibr_reg.c
+END

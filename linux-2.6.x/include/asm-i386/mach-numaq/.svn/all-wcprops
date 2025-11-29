@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq
+END
+mach_mpparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_mpparse.h
+END
+mach_mpspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_mpspec.h
+END
+mach_apicdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_apicdef.h
+END
+mach_apic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_apic.h
+END
+mach_wakecpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_wakecpu.h
+END
+mach_ipi.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-i386/mach-numaq/mach_ipi.h
+END

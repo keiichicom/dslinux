@@ -1,0 +1,1 @@
+#define CONFIG_TOUCHSCREEN_NDS 1

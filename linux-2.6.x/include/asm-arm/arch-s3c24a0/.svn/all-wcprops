@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/system.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/timex.h
+END
+s3c24a0-ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/s3c24a0-ioctl.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/irq.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/hardware.h
+END
+vmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/vmalloc.h
+END
+smdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/smdk.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/time.h
+END
+uncompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/uncompress.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/param.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/keyboard.h
+END
+debug-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/debug-macro.S
+END
+ide.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/ide.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/dma.h
+END
+s3c24a0-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/s3c24a0-common.h
+END
+s3c24a0-key.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/s3c24a0-key.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/io.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/memory.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/entry-macro.S
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/irqs.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/clocks.h
+END
+S3C24A0.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/S3C24A0.h
+END
+s3c24a0_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/s3c24a0_nand.h
+END
+s3c24a0-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/s3c24a0-machine.h
+END
+uncompress-jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/uncompress-jtag.h
+END
+bitfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/include/asm-arm/arch-s3c24a0/bitfield.h
+END

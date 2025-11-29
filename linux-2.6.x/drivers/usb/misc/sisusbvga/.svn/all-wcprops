@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga
+END
+sisusb_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb_init.h
+END
+sisusb_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb_struct.h
+END
+sisusb_con.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb_con.c
+END
+sisusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb.c
+END
+sisusb_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb_init.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/Makefile
+END
+sisusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/sisusb.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/linux-2.6.x/drivers/usb/misc/sisusbvga/Kconfig
+END

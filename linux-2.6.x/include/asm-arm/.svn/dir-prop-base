@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 33
+.arch
+asm-offsets.h
+mach-types.h
+
+END
