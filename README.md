@@ -4,7 +4,7 @@ The pre-release includes 1 game with dldi disabled. Here is an example of it run
 
 Build Instructions:
 
-Follow the instructions here: except you would clone this repo instead of downloading it from Apache Subversion:
+Follow the instructions here, except you would clone this repo instead of downloading it from Apache Subversion. I strongly suggest to download a pre-compiled toolchain rather than trying to compile it locally. The toolchain I used is in the source tree: dslinux-toolchain-2008-01-24-i686.tbz
 
 https://www.dslinux.org/wiki/CompilingDSLinux.html
 
