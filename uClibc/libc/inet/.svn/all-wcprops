@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet
+END
+inet_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/inet_net.c
+END
+socketcalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/socketcalls.c
+END
+addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/addr.c
+END
+resolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/resolv.c
+END
+getnetbynm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getnetbynm.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/.indent.pro
+END
+ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/ntop.c
+END
+ntohl.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/ntohl.c
+END
+in6_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/in6_addr.c
+END
+getnetbyad.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getnetbyad.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getaddrinfo.c
+END
+if_nametoindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/if_nametoindex.c
+END
+hostid.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/hostid.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/Makefile
+END
+getnetent.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getnetent.c
+END
+getservice.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getservice.c
+END
+herror.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/herror.c
+END
+ether_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/ether_addr.c
+END
+gai_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/gai_strerror.c
+END
+getproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/getproto.c
+END

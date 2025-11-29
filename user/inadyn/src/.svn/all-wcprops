@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/inadyn/src
+END
+os_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/inadyn/src/os_windows.c
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/inadyn/src/tcp.h
+END
+dyndns.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/inadyn/src/dyndns.c
+END
+psos_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/inadyn/src/psos_net.h
+END
+get_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/inadyn/src/get_cmd.c
+END
+dyndns.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/inadyn/src/dyndns.h
+END
+inadyn_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/inadyn/src/inadyn_cmd.c
+END
+base64utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/inadyn/src/base64utils.c
+END
+get_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/inadyn/src/get_cmd.h
+END
+ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/inadyn/src/ip.c
+END
+debug_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/inadyn/src/debug_if.h
+END
+ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/inadyn/src/ip.h
+END
+http_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/inadyn/src/http_client.c
+END
+os.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/inadyn/src/os.c
+END
+http_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/inadyn/src/http_client.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/inadyn/src/main.c
+END
+errorcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/inadyn/src/errorcode.c
+END
+os_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/inadyn/src/os_unix.c
+END
+os_psos.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/inadyn/src/os_psos.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/inadyn/src/os.h
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/inadyn/src/tcp.c
+END
+errorcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/inadyn/src/errorcode.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/inadyn/src/base64.h
+END

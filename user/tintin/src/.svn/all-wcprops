@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/tintin/src
+END
+tintin.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/tintin.h
+END
+substitute.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tintin/src/substitute.c
+END
+vt102.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/vt102.c
+END
+x.scr
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/x.scr
+END
+action.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/action.c
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/array.c
+END
+prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/prompt.c
+END
+mapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/mapper.c
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/text.c
+END
+function.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tintin/src/function.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/debug.c
+END
+llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/llist.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/math.c
+END
+tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/tick.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/split.c
+END
+gag.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/gag.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/input.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/files.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tintin/src/configure.in
+END
+tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/tab.c
+END
+telopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/telopt.c
+END
+tinexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/tinexp.c
+END
+variables.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/tintin/src/variables.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/buffer.c
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/parse.c
+END
+tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/tables.c
+END
+terminal.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tintin/src/terminal.c
+END
+strhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tintin/src/strhash.c
+END
+cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/cursor.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/chat.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/tintin/src/config.h.in
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/log.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/event.c
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/update.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tintin/src/session.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/main.c
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/net.c
+END
+x
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/tintin/src/x
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/help.c
+END
+alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/alias.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/misc.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tintin/src/path.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tintin/src/configure
+END
+telnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/telnet.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/utils.c
+END
+macro.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/macro.c
+END
+history.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tintin/src/history.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/tintin/src/Makefile.in
+END
+x.map
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/tintin/src/x.map
+END
+class.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tintin/src/class.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tintin/src/config.c
+END
+highlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/tintin/src/highlight.c
+END

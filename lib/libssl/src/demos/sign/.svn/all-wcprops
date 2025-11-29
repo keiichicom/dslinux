@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign
+END
+key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/key.pem
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/Makefile
+END
+cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/cert.pem
+END
+sign.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/sign.txt
+END
+sig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/sig.txt
+END
+sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/sign/sign.c
+END

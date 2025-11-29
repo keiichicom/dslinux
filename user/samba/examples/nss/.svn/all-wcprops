@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/samba/examples/nss
+END
+nss_winbind.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/examples/nss/nss_winbind.c
+END
+nss_winbind.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/examples/nss/nss_winbind.h
+END
+wbtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/examples/nss/wbtest.c
+END

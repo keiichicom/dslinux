@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/nano/m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/nano/m4/lib-prefix.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/lib-link.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/nano/m4/lib-ld.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/nano/m4/lcmessage.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/Makefile.in
+END
+ulonglong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/nano/m4/ulonglong.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/nano/m4/inttypes-pri.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/progtest.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/nano/m4/ChangeLog
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/nano/m4/uintmax_t.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/stdint_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/nano/m4/intdiv0.m4
+END
+isc-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/nano/m4/isc-posix.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/nano/m4/iconv.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/inttypes.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/nano/m4/glibc21.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/nano/m4/gettext.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/nano/m4/inttypes_h.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/nano/m4/codeset.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/nano/m4/Makefile.am
+END

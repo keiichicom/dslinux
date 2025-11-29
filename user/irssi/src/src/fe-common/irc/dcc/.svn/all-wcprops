@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/Makefile.am
+END
+fe-dcc-send.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc-send.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/module.h
+END
+fe-dcc-chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc-chat.c
+END
+fe-dcc-get.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc-get.c
+END
+module-formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/module-formats.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/Makefile.in
+END
+fe-dcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc.c
+END
+fe-dcc-chat-messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc-chat-messages.c
+END
+module-formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/module-formats.h
+END
+fe-dcc-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc-server.c
+END
+fe-dcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/irc/dcc/fe-dcc.h
+END

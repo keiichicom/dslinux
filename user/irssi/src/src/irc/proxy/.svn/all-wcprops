@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy
+END
+listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/listen.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/Makefile.in
+END
+proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/proxy.c
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/dump.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/Makefile.am
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/proxy/module.h
+END

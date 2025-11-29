@@ -1,0 +1,55 @@
+retawq(1)                        retawq manual
+retawq(1)
+
+
+
+NNAAMMEE
+       retawq - a multi-threaded web browser for text terminals
+
+DDEESSCCRRIIPPTTIIOONN
+       retawq  is  an interactive, multi-threaded network
+       client (web browser) for text terminals on computers
+       with Unix-like operating systems. It is written  in  C,
+       fast, small, nicely configurable, and comfortable; e.g.
+       the low-level network communications are performed  in
+       a  non-blocking way,  and  you  can keep open as many
+       "virtual windows" as you want and work simultaneously
+       in two of them in a split-screen mode.
+
+       The most recent version of retawq is available on the
+       project home page <http://retawq.sourceforge.net/>.
+
+OOPPTTIIOONNSS
+       retawq  provides  dozens  of  compile-time,
+       command-line  and run-time options, e.g. for
+       internationalization/localization support  and  proxy
+       configuration.  Too  many  to  explain them all here,
+       but see also "see also"...
+
+LLIICCEENNSSEE
+       retawq is basically released under certain
+       versions of the GNU  General Public  License
+       and WITHOUT ANY WARRANTY. Read the file
+       _r_e_t_a_w_q_/_C_O_P_Y_I_N_G (in the
+       release package) for license details.
+
+BBUUGGSS
+       This program has no bugs. no bugs. no bugs. no *WHAP*
+       thank you.  Seri‐ ously:  this early release of
+       retawq has several known problems. If you run into
+       one of them, please try a more recent version - the
+       program is continuously improved...
+
+AAUUTTHHOORR
+       Arne Thomassen <arne@arne-thomassen.de>
+
+SSEEEE AALLSSOO
+       Extensive  documentation  about retawq
+       is available in HTML form by way of the file
+       _r_e_t_a_w_q_/_d_o_c_u_/_i_n_d_e_x_._h_t_m_l
+       in the release package.
+
+
+
+retawq 0.2.6b                    19 March 2005
+retawq(1)

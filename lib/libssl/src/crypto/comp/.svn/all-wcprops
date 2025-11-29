@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp
+END
+c_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/c_zlib.c
+END
+comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/comp.h
+END
+c_rle.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/c_rle.c
+END
+comp_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/comp_lib.c
+END
+comp_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/comp_err.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/comp/Makefile
+END

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb
+END
+spnego.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/spnego.c
+END
+clirap2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clirap2.c
+END
+credentials.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/credentials.c
+END
+smb_signing.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/smb_signing.c
+END
+clistr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clistr.c
+END
+clisecdesc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clisecdesc.c
+END
+asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/asn1.c
+END
+nmblib.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/nmblib.c
+END
+namecache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/namecache.c
+END
+trustdom_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/trustdom_cache.c
+END
+namequery.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/namequery.c
+END
+libsmbclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/libsmbclient.c
+END
+ntlm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/ntlm_check.c
+END
+clientgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clientgen.c
+END
+clirap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clirap.c
+END
+libsmb_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/libsmb_compat.c
+END
+passchange.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/passchange.c
+END
+pwd_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/pwd_cache.c
+END
+clireadwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clireadwrite.c
+END
+clitrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clitrans.c
+END
+clioplock.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clioplock.c
+END
+cliconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/cliconnect.c
+END
+clispnego.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clispnego.c
+END
+cliprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/cliprint.c
+END
+smbencrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/smbencrypt.c
+END
+errormap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/errormap.c
+END
+smberr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/smberr.c
+END
+libsmb_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/libsmb_cache.c
+END
+clikrb5.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clikrb5.c
+END
+doserr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/doserr.c
+END
+ntlmssp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/ntlmssp.c
+END
+trusts_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/trusts_util.c
+END
+samlogon_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/samlogon_cache.c
+END
+clilist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clilist.c
+END
+clidfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clidfs.c
+END
+unexpected.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/unexpected.c
+END
+clifile.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clifile.c
+END
+namequery_dc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/namequery_dc.c
+END
+clifsinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clifsinfo.c
+END
+climessage.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/climessage.c
+END
+smbdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/smbdes.c
+END
+ntlmssp_sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/ntlmssp_sign.c
+END
+conncache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/conncache.c
+END
+clierror.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clierror.c
+END
+cliquota.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/cliquota.c
+END
+clidgram.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/clidgram.c
+END
+nterr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/nterr.c
+END
+ntlmssp_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/libsmb/ntlmssp_parse.c
+END

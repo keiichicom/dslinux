@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t
+END
+taint.t
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t/taint.t
+END
+sigaction.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t/sigaction.t
+END
+waitpid.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t/waitpid.t
+END
+posix.t
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t/posix.t
+END
+is.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/ext/POSIX/t/is.t
+END

@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/user/bzip2/src
+END
+format.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/format.pl
+END
+bzdiff
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzdiff
+END
+bz-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bz-common.xsl
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/CHANGES
+END
+unzcrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/unzcrash.c
+END
+bzip2.1.preformatted
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip2.1.preformatted
+END
+libbz2.def
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/libbz2.def
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/LICENSE
+END
+entities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bzip2/src/entities.xml
+END
+blocksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/blocksort.c
+END
+bzgrep
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzgrep
+END
+dlltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/dlltest.c
+END
+bzmore.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzmore.1
+END
+xmlproc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/xmlproc.sh
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bzip2/src/makefile.msc
+END
+sample1.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample1.bz2
+END
+sample2.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample2.bz2
+END
+dlltest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/dlltest.dsp
+END
+sample3.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample3.bz2
+END
+bzdiff.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzdiff.1
+END
+bzip2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip2.txt
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/huffman.c
+END
+spewG.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/spewG.c
+END
+bzip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip2.c
+END
+libbz2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/libbz2.dsp
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/compress.c
+END
+manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/manual.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/bzip2/src/Makefile
+END
+randtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/randtable.c
+END
+sample1.ref
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample1.ref
+END
+sample2.ref
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample2.ref
+END
+words0
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/words0
+END
+sample3.ref
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/sample3.ref
+END
+words1
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/words1
+END
+manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/manual.html
+END
+mk251.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/mk251.c
+END
+words2
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/words2
+END
+words3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/words3
+END
+bzlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzlib_private.h
+END
+README.XML.STUFF
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/bzip2/src/README.XML.STUFF
+END
+bz-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bz-fo.xsl
+END
+bz-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bz-html.xsl
+END
+bzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzlib.c
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bzip2/src/decompress.c
+END
+bzip2.1
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip2.1
+END
+manual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/manual.pdf
+END
+bzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzlib.h
+END
+bzgrep.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzgrep.1
+END
+bzip.css
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip.css
+END
+README.COMPILATION.PROBLEMS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/bzip2/src/README.COMPILATION.PROBLEMS
+END
+bzip2recover.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzip2recover.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/README
+END
+bzmore
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/bzip2/src/bzmore
+END
+manual.ps
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bzip2/src/manual.ps
+END
+crctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bzip2/src/crctable.c
+END
+Makefile-libbz2_so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/bzip2/src/Makefile-libbz2_so
+END

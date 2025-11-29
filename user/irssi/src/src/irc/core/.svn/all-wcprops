@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core
+END
+irc-queries.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-queries.h
+END
+channels-query.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/channels-query.c
+END
+ctcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/ctcp.h
+END
+channel-rejoin.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/channel-rejoin.h
+END
+irc-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-core.c
+END
+lag.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/lag.c
+END
+irc-channels-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-channels-setup.c
+END
+irc-channels.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-channels.c
+END
+modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/modes.c
+END
+irc-channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-channels.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/modes.h
+END
+irc-servers-reconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-servers-reconnect.c
+END
+massjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/massjoin.c
+END
+irc-chatnets.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-chatnets.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/Makefile.am
+END
+servers-redirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/servers-redirect.c
+END
+irc-masks.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-masks.c
+END
+irc-chatnets.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-chatnets.h
+END
+irc-nicklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-nicklist.c
+END
+irc-expandos.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-expandos.c
+END
+servers-redirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/servers-redirect.h
+END
+irc-session.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-session.c
+END
+irc-masks.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-masks.h
+END
+irc-nicklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-nicklist.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/Makefile.in
+END
+irc-servers-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-servers-setup.c
+END
+netsplit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/netsplit.c
+END
+irc-servers.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-servers.c
+END
+servers-idle.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/servers-idle.c
+END
+irc-servers-setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-servers-setup.h
+END
+netsplit.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/netsplit.h
+END
+irc-servers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-servers.h
+END
+servers-idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/servers-idle.h
+END
+channel-events.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/channel-events.c
+END
+irc-commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-commands.c
+END
+irc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc.c
+END
+mode-lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/mode-lists.c
+END
+irc-commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-commands.h
+END
+irc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc.h
+END
+bans.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/bans.c
+END
+mode-lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/mode-lists.h
+END
+irc-queries.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/irc-queries.c
+END
+bans.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/bans.h
+END
+ctcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/ctcp.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/module.h
+END
+channel-rejoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/core/channel-rejoin.c
+END

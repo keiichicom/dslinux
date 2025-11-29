@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/cache.c
+END
+str_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/str_util.c
+END
+rfc822.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/rfc822.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/cache.h
+END
+str_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/str_util.h
+END
+rfc822.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/rfc822.h
+END
+net_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/net_util.c
+END
+mail_pop3.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/mail_pop3.c
+END
+mail_smtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/mail_smtp.c
+END
+encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/encoding.c
+END
+mime.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/mime.c
+END
+nxmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/nxmail.c
+END
+net_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/net_util.h
+END
+mail_smtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/mail_smtp.h
+END
+encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/encoding.h
+END
+mime.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/mime.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/Makefile
+END
+nxmail.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mail/lib/nxmail.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood
+END
+flood.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood/flood.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood/Makefile.am
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood/module.h
+END
+autoignore.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood/autoignore.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/flood/Makefile.in
+END

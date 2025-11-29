@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib
+END
+env-single.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib/env-single.exp
+END
+compile.exp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib/compile.exp
+END
+smbclient.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib/smbclient.exp
+END
+default-nt-names.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib/default-nt-names.exp
+END
+nsswitch-config.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/lib/nsswitch-config.exp
+END

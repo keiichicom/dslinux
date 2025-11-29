@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example
+END
+Packager
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/Packager
+END
+package-prep
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/package-prep
+END
+Instructions
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/Instructions
+END
+samba.init
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/samba.init
+END
+Packaging-instructions
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/Packaging-instructions
+END
+PackageDate
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/PackageDate
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/setup.sh
+END
+skeleton.tar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Example/skeleton.tar
+END

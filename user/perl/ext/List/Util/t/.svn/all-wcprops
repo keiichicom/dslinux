@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t
+END
+proto.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/proto.t
+END
+p_lln.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_lln.t
+END
+sum.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/sum.t
+END
+reduce.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/reduce.t
+END
+p_openhan.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_openhan.t
+END
+readonly.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/readonly.t
+END
+00version.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/00version.t
+END
+lln.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/lln.t
+END
+p_refaddr.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_refaddr.t
+END
+p_reduce.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_reduce.t
+END
+weak.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/weak.t
+END
+openhan.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/openhan.t
+END
+p_readonly.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_readonly.t
+END
+p_reftype.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_reftype.t
+END
+p_blessed.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_blessed.t
+END
+p_min.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_min.t
+END
+p_max.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_max.t
+END
+p_first.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_first.t
+END
+refaddr.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/refaddr.t
+END
+p_tainted.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_tainted.t
+END
+p_shuffle.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_shuffle.t
+END
+minstr.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/minstr.t
+END
+reftype.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/reftype.t
+END
+maxstr.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/maxstr.t
+END
+blessed.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/blessed.t
+END
+p_sum.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_sum.t
+END
+min.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/min.t
+END
+max.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/max.t
+END
+first.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/first.t
+END
+isvstring.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/isvstring.t
+END
+tainted.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/tainted.t
+END
+p_minstr.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_minstr.t
+END
+shuffle.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/shuffle.t
+END
+p_maxstr.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/p_maxstr.t
+END
+dualvar.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/List/Util/t/dualvar.t
+END

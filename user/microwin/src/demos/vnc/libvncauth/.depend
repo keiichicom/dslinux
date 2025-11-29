@@ -1,0 +1,2 @@
+d3des.o .depend : $(TOP)/config d3des.c d3des.h
+vncauth.o .depend : $(TOP)/config vncauth.c

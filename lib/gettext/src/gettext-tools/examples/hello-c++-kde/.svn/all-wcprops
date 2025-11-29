@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde
+END
+autoclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/autoclean.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/INSTALL
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/hello.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/autogen.sh
+END
+configure.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/configure.in.in
+END
+hellowindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/hellowindow.cc
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/BUGS
+END
+hellowindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++-kde/hellowindow.h
+END

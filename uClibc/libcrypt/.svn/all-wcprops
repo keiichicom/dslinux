@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/uClibc/libcrypt
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/uClibc/libcrypt/des.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/libcrypt/Makefile
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/uClibc/libcrypt/crypt.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/uClibc/libcrypt/md5.c
+END

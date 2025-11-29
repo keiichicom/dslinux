@@ -1,0 +1,43 @@
+POM(6)                         BSD Games Manual
+POM(6)
+
+NNAAMMEE
+     ppoomm — display the phase of the moon
+
+SSYYNNOOPPSSIISS
+     ppoomm [[[[[[cc]yy]mm]dd]HH]]
+
+DDEESSCCRRIIPPTTIIOONN
+     The ppoomm utility displays the current phase of
+     the moon.  Useful for selecting software completion
+     target dates and predicting managerial behavior.
+
+     _[_[_[_[_[_c_c_]_y_y_]_m_m_]_d_d_]_H_H_]
+     Display the phase of the moon for a given time.
+                           The format is similar to the
+                           canonical representa‐ tion used
+                           by date(1).
+
+SSEEEE AALLSSOO
+     date(1)
+
+AAUUTTHHOORR
+     ppoomm was written by Keith E. Brandt.
+
+BBUUGGSS
+     Times must be within range of the UNIX epoch.
+
+     This program does not allow for the difference between
+     the TDT and UTC timescales (about one minute at the time
+     of writing).
+
+AACCKKNNOOWWLLEEDDGGEEMMEENNTTSS
+     This program is based on algorithms
+     from _P_r_a_c_t_i_c_a_l
+     _A_s_t_r_o_n_o_m_y _w_i_t_h _Y_o_u_r
+     _C_a_l_c_u_l_a_t_o_r_, _T_h_i_r_d
+     _E_d_i_t_i_o_n by Peter Duffett-Smith
+     ⟨pjds@mrao.cam.ac.uk⟩.
+
+BSD                             January 9, 1999
+BSD

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips
+END
+dl-startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/dl-startup.h
+END
+elfinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/elfinterp.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/dl-sysdep.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/README
+END
+dl-syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/dl-syscalls.h
+END
+resolve.S
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/mips/resolve.S
+END

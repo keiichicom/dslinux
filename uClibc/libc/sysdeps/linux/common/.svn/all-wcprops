@@ -1,0 +1,1193 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common
+END
+geteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/geteuid.c
+END
+wait3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/wait3.c
+END
+gethstnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/gethstnm.c
+END
+reboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/reboot.c
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mmap.c
+END
+getdnnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getdnnm.c
+END
+mprotect.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mprotect.c
+END
+link.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/link.c
+END
+setpriority.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setpriority.c
+END
+mlockall.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mlockall.c
+END
+sched_setscheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_setscheduler.c
+END
+unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/unlink.c
+END
+seteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/seteuid.c
+END
+ulimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ulimit.c
+END
+adjtimex.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/adjtimex.c
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/poll.c
+END
+mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mkdir.c
+END
+sysfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sysfs.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/read.c
+END
+rmdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/rmdir.c
+END
+pause.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/pause.c
+END
+sched_setparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_setparam.c
+END
+madvise.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/madvise.c
+END
+get_kernel_syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/get_kernel_syms.c
+END
+sched_rr_get_interval.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_rr_get_interval.c
+END
+quotactl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/quotactl.c
+END
+__rt_sigtimedwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__rt_sigtimedwait.c
+END
+chroot.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/chroot.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/time.c
+END
+truncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/truncate64.c
+END
+waitpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/waitpid.c
+END
+iopl.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/iopl.c
+END
+sendfile64.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sendfile64.c
+END
+mlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mlock.c
+END
+close.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/close.c
+END
+ssp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ssp.c
+END
+create_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/create_module.c
+END
+sigaltstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sigaltstack.c
+END
+acct.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/acct.c
+END
+open64.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/open64.c
+END
+__syscall_rt_sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__syscall_rt_sigaction.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ptrace.c
+END
+fchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fchown.c
+END
+stat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/stat64.c
+END
+wait4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/wait4.c
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/readlink.c
+END
+xstatconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/xstatconv.c
+END
+modify_ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/modify_ldt.c
+END
+sethostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sethostname.c
+END
+alarm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/alarm.c
+END
+__syscall_fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__syscall_fcntl.c
+END
+xstatconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/xstatconv.h
+END
+xattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/xattr.c
+END
+getgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getgid.c
+END
+wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/wait.c
+END
+utimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/utimes.c
+END
+_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/_exit.c
+END
+getpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getpgrp.c
+END
+setfsgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setfsgid.c
+END
+umount2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/umount2.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/dup2.c
+END
+epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/epoll.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/stat.c
+END
+fdatasync.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fdatasync.c
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sysdep.h
+END
+getresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getresgid.c
+END
+getsid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getsid.c
+END
+getdirname.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getdirname.c
+END
+getuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getuid.c
+END
+fstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fstat.c
+END
+times.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/times.c
+END
+sigprocmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sigprocmask.c
+END
+setpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setpgrp.c
+END
+setfsuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setfsuid.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/symlink.c
+END
+getdents64.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getdents64.c
+END
+sigpending.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sigpending.c
+END
+dup.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/dup.c
+END
+sched_get_priority_min.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_get_priority_min.c
+END
+setresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setresgid.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/write.c
+END
+getresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getresuid.c
+END
+mincore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mincore.c
+END
+getppid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getppid.c
+END
+settimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/settimeofday.c
+END
+fchdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fchdir.c
+END
+getrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getrlimit.c
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sbrk.c
+END
+munlockall.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/munlockall.c
+END
+access.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/access.c
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/syscalls.h
+END
+statfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/statfs.c
+END
+getpagesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getpagesize.c
+END
+setresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setresuid.c
+END
+munlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/munlock.c
+END
+personality.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/personality.c
+END
+query_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/query_module.c
+END
+sched_yield.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_yield.c
+END
+setrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setrlimit.c
+END
+sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sync.c
+END
+chown.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/chown.c
+END
+getgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getgroups.c
+END
+sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sysctl.c
+END
+fsync.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fsync.c
+END
+utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/utime.c
+END
+sched_getscheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_getscheduler.c
+END
+getdtablesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getdtablesize.c
+END
+umount.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/umount.c
+END
+getitimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getitimer.c
+END
+lchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/lchown.c
+END
+sysinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sysinfo.c
+END
+setgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setgroups.c
+END
+mount.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mount.c
+END
+lseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/lseek.c
+END
+__syscall_ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__syscall_ipc.c
+END
+pivot_root.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/pivot_root.c
+END
+setitimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setitimer.c
+END
+sched_getparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_getparam.c
+END
+longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/longjmp.c
+END
+setregid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setregid.c
+END
+creat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/creat64.c
+END
+vhangup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/vhangup.c
+END
+getrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getrlimit64.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getcwd.c
+END
+nice.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/nice.c
+END
+llseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/llseek.c
+END
+execve.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/execve.c
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/select.c
+END
+cmsg_nxthdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/cmsg_nxthdr.c
+END
+__socketcall.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__socketcall.c
+END
+nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/nanosleep.c
+END
+setreuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setreuid.c
+END
+setrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setrlimit64.c
+END
+chdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/chdir.c
+END
+fchmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fchmod.c
+END
+ustat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ustat.c
+END
+readv.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/readv.c
+END
+mmap64.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mmap64.c
+END
+ftruncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ftruncate64.c
+END
+uname.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/uname.c
+END
+init_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/init_module.c
+END
+__syscall_sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__syscall_sigaction.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ioctl.c
+END
+ntp_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ntp_gettime.c
+END
+uselib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/uselib.c
+END
+truncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/truncate.c
+END
+bdflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/bdflush.c
+END
+msync.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/msync.c
+END
+sendfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sendfile.c
+END
+ioperm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ioperm.c
+END
+fstat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fstat64.c
+END
+ftruncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/ftruncate.c
+END
+pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/pipe.c
+END
+klogctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/klogctl.c
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fpu_control.h
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/open.c
+END
+lstat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/lstat64.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fork.c
+END
+capget.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/capget.c
+END
+pread_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/pread_write.c
+END
+swapoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/swapoff.c
+END
+delete_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/delete_module.c
+END
+swapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/swapon.c
+END
+mknod.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mknod.c
+END
+getpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getpid.c
+END
+capset.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/capset.c
+END
+setgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setgid.c
+END
+umask.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/umask.c
+END
+writev.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/writev.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/gettimeofday.c
+END
+getpgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getpgid.c
+END
+prctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/prctl.c
+END
+setdomainname.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setdomainname.c
+END
+getrusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getrusage.c
+END
+lstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/lstat.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/vfork.c
+END
+chmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/chmod.c
+END
+sched_get_priority_max.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sched_get_priority_max.c
+END
+kill.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/kill.c
+END
+setsid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setsid.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/Makefile
+END
+munmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/munmap.c
+END
+setuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setuid.c
+END
+flock.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/flock.c
+END
+setpgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setpgid.c
+END
+rename.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/rename.c
+END
+__syscall_fcntl64.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/__syscall_fcntl64.c
+END
+getegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getegid.c
+END
+fstatfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/fstatfs.c
+END
+mkfifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mkfifo.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/.indent.pro
+END
+getdents.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getdents.c
+END
+noophooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/noophooks.c
+END
+mremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/mremap.c
+END
+getpriority.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/getpriority.c
+END
+stime.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/stime.c
+END
+setegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/setegid.c
+END
+sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/common/sigsuspend.c
+END

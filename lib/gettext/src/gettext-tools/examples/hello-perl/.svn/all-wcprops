@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/INSTALL
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/autogen.sh
+END
+hello-1.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/hello-1.pl.in
+END
+hello-2.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/hello-2.pl.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/configure.ac
+END
+autoclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-perl/autoclean.sh
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper
+END
+smbw_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbw_stat.c
+END
+shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/shared.c
+END
+smbw_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbw_dir.c
+END
+realcalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/realcalls.h
+END
+smbw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbw.c
+END
+smbw_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbw_cache.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/README
+END
+smbsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbsh.c
+END
+smbw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbw.h
+END
+smbsh.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/smbsh.in
+END
+PORTING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/PORTING
+END
+realcalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/realcalls.c
+END
+wrapped.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/smbwrapper/wrapped.c
+END

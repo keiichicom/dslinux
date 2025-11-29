@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2269/trunk/user/ftpd
+END
+ftpcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ftpd/ftpcmd.c
+END
+pam.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/ftpd/pam.c
+END
+popen.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/ftpd/popen.c
+END
+ftpd.8
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/ftpd/ftpd.8
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/ftpd/conf.c
+END
+localhost.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/ftpd/localhost.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/ftpd/Makefile.am
+END
+logwtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ftpd/logwtmp.c
+END
+confpaths.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/ftpd/confpaths.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ftpd/Makefile
+END
+ftpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/ftpd/ftpd.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ftpd/xmalloc.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/ftpd/auth.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/ftpd/Makefile.in
+END
+ftpcmd.y
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ftpd/ftpcmd.y
+END
+xgetcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ftpd/xgetcwd.c
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/ftpd/crypt.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ftpd/ChangeLog
+END
+pathmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ftpd/pathmax.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ftpd/extern.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ftpd/config.h
+END
+server_mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/ftpd/server_mode.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/oldlibgfx/examples
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/oldlibgfx/examples/Makefile.am
+END
+bitstream_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/oldlibgfx/examples/bitstream_output.cc
+END
+test-libvideogfx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/oldlibgfx/examples/test-libvideogfx.cc
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/oldlibgfx/examples/.svnignore
+END

@@ -1,0 +1,79 @@
+SPLIT(1)                         User Commands
+SPLIT(1)
+
+
+
+NNAAMMEE
+       split - split a file into pieces
+
+SSYYNNOOPPSSIISS
+       sspplliitt [_O_P_T_I_O_N] [_I_N_P_U_T
+       [_P_R_E_F_I_X]]
+
+DDEESSCCRRIIPPTTIIOONN
+       Output  fixed-size  pieces of INPUT to PREFIXaa,
+       PREFIXab, ...; default size is 1000 lines, and default
+       PREFIX is `x'.  With no INPUT, or  when INPUT is -,
+       read standard input.
+
+       Mandatory  arguments  to  long  options are mandatory
+       for short options too.
+
+       --aa,
+       ----ssuuffffiixx--lleennggtthh=_N
+              use suffixes of length N (default 2)
+
+       --bb, ----bbyytteess=_S_I_Z_E
+              put SIZE bytes per output file
+
+       --CC,
+       ----lliinnee--bbyytteess=_S_I_Z_E
+              put at most SIZE bytes of lines per output file
+
+       --dd,
+       ----nnuummeerriicc--ssuuffffiixxeess
+              use numeric suffixes instead of alphabetic
+
+       --ll, ----lliinneess=_N_U_M_B_E_R
+              put NUMBER lines per output file
+
+       ----vveerrbboossee
+              print a diagnostic to standard error  just
+              before  each  output file is opened
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       SIZE may have a multiplier suffix: b for 512, k for 1K,
+       m for 1 Meg.
+
+AAUUTTHHOORR
+       Written by Torbjorn Granlund and Richard M. Stallman.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for sspplliitt is
+       maintained as a Texinfo manual.  If the  iinnffoo
+       and  sspplliitt programs are properly installed
+       at your site, the command
+
+              iinnffoo sspplliitt
+
+       should give you access to the complete manual.
+
+
+
+split 6.7                        December 2006
+SPLIT(1)

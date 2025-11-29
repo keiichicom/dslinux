@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib
+END
+ada.exp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/ada.exp
+END
+trace-support.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/trace-support.exp
+END
+cp-support.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/cp-support.exp
+END
+gdb.exp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/gdb.exp
+END
+gdbserver-support.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/gdbserver-support.exp
+END
+emc-support.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/emc-support.exp
+END
+mi-support.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/mi-support.exp
+END
+compiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/compiler.c
+END
+java.exp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/java.exp
+END
+compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/lib/compiler.cc
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/common.inc
+END
+mmx_main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/mmx_main.asm
+END
+mmxp2_32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/mmxp2_32.asm
+END
+x86_main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/x86_main.asm
+END
+x86p_32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/x86p_32.asm
+END
+HeadMMX.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/HeadMMX.h
+END
+x86p_16.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/x86p_16.asm
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/COPYING.LIB
+END
+HeadX86.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/HeadX86.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/hermes/README
+END

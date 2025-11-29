@@ -1,0 +1,1199 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2326/trunk/user/imagemagick/src/magick
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/token.h
+END
+geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/geometry.c
+END
+deprecate.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/deprecate.c
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/version.h.in
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/geometry.h
+END
+deprecate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/deprecate.h
+END
+monitor-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/monitor-private.h
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/display.c
+END
+quantum-export.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantum-export.c
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/display.h
+END
+paint.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/paint.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/list.c
+END
+cache-view.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cache-view.c
+END
+signature-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/signature-private.h
+END
+paint.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/paint.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/list.h
+END
+cache-view.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cache-view.h
+END
+PreRvIcccm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/PreRvIcccm.c
+END
+image-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/image-private.h
+END
+config.h_vms
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/config.h_vms
+END
+PreRvIcccm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/PreRvIcccm.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cache.c
+END
+prepress.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/prepress.c
+END
+colorspace-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/colorspace-private.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cache.h
+END
+prepress.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/prepress.h
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/registry.c
+END
+cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cipher.c
+END
+layer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/layer.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/registry.h
+END
+blob.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/blob.c
+END
+cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cipher.h
+END
+composite-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/composite-private.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/timer.c
+END
+layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/layer.h
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/hashmap.c
+END
+pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/pixel.c
+END
+type.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/type.c
+END
+Magick-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/Magick-config.in
+END
+blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/blob.h
+END
+widget.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/widget.c
+END
+property.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/property.c
+END
+random_.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/random_.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/timer.h
+END
+hashmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/hashmap.h
+END
+pixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/pixel.h
+END
+type.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/type.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/Makefile.am
+END
+distort.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/distort.c
+END
+widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/widget.h
+END
+property.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/property.h
+END
+magick.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/magick.c
+END
+resource_.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resource_.h
+END
+distort.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/distort.h
+END
+locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/locale.c
+END
+magick.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/magick.h
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/profile.c
+END
+quantum-import.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantum-import.c
+END
+shear.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/shear.c
+END
+profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/profile.h
+END
+shear.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/shear.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/memory.c
+END
+delegate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/delegate.c
+END
+string_.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/string_.h
+END
+delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/delegate.h
+END
+configure.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/configure.c
+END
+display-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/display-private.h
+END
+splay-tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/splay-tree.c
+END
+configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/configure.h
+END
+nt-base.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/nt-base.c
+END
+quantum.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantum.c
+END
+splay-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/splay-tree.h
+END
+nt-base.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/nt-base.h
+END
+quantum.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantum.h
+END
+xwindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xwindow.c
+END
+enhance.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/enhance.c
+END
+constitute.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/constitute.c
+END
+resize.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resize.c
+END
+ImageMagick.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/ImageMagick.h
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/utility.c
+END
+xwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xwindow.h
+END
+enhance.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/enhance.h
+END
+constitute.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/constitute.h
+END
+resize.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resize.h
+END
+statistic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/statistic.c
+END
+methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/methods.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/utility.h
+END
+annotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/annotate.c
+END
+nt-feature.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/nt-feature.c
+END
+Magick-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/Magick-config.1
+END
+statistic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/statistic.h
+END
+studio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/studio.h
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/client.c
+END
+annotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/annotate.h
+END
+color.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/color.c
+END
+nt-feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/nt-feature.h
+END
+cache-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/cache-private.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/log.c
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/client.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/color.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/log.h
+END
+blob-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/blob-private.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/compress.c
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/stream.c
+END
+threshold.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/threshold.c
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/draw.c
+END
+pixel-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/pixel-private.h
+END
+compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/compress.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/stream.h
+END
+threshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/threshold.h
+END
+draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/draw.h
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/matrix.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resample.c
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/matrix.h
+END
+MagickCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/MagickCore.h
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/identify.c
+END
+fx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/fx.c
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resample.h
+END
+animate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/animate.c
+END
+magick-type.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/magick-type.h
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/magic.c
+END
+identify.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/identify.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/random.c
+END
+fx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/fx.h
+END
+ImageMagick.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/ImageMagick.pc.in
+END
+animate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/animate.h
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/semaphore.c
+END
+magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/magic.h
+END
+compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/compare.c
+END
+mime.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/mime.c
+END
+delegate-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/delegate-private.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/semaphore.h
+END
+MagickCore-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/MagickCore-config.in
+END
+compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/compare.h
+END
+mime.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/mime.h
+END
+effect.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/effect.c
+END
+coder.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/coder.c
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/exception.c
+END
+mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/mac.c
+END
+quantize.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantize.c
+END
+effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/effect.h
+END
+coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/coder.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/exception.h
+END
+mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/mac.h
+END
+quantize.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantize.h
+END
+quantum-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/quantum-private.h
+END
+gem.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/gem.c
+END
+xwindow-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xwindow-private.h
+END
+gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/gem.h
+END
+resize-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resize-private.h
+END
+MagickCore-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/MagickCore-config.1
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/version.c
+END
+monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/monitor.c
+END
+resource.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/resource.c
+END
+MagickCore.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/MagickCore.pc.in
+END
+montage.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/montage.c
+END
+color-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/color-private.h
+END
+monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/monitor.h
+END
+artifact.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/artifact.c
+END
+xml-tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xml-tree.c
+END
+montage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/montage.h
+END
+signature.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/signature.c
+END
+artifact.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/artifact.h
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/segment.c
+END
+xml-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xml-tree.h
+END
+magick-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2325/trunk/user/imagemagick/src/magick/magick-config.h
+END
+locale_.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/locale_.h
+END
+vms.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/vms.c
+END
+signature.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/signature.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/segment.h
+END
+option.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/option.c
+END
+stream-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/stream-private.h
+END
+draw-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/draw-private.h
+END
+vms.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/vms.h
+END
+option.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/option.h
+END
+api.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/api.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/image.c
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/module.c
+END
+decorate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/decorate.c
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/image.h
+END
+static.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/static.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/module.h
+END
+fx-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/fx-private.h
+END
+colorspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/colorspace.c
+END
+animate-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/animate-private.h
+END
+decorate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/decorate.h
+END
+static.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/static.h
+END
+xwdfile.h_vms
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/xwdfile.h_vms
+END
+colorspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/colorspace.h
+END
+composite.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/composite.c
+END
+mime-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/mime-private.h
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/string.c
+END
+composite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/composite.h
+END
+Make.com
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/Make.com
+END
+exception-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/exception-private.h
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/transform.c
+END
+memory_.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/memory_.h
+END
+token.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/token.c
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/magick/transform.h
+END

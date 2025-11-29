@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32
+END
+hexdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/hexdump.h
+END
+macinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/macinfo.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/constants.h
+END
+tapdrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/tapdrvr.c
+END
+dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/dhcp.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/error.c
+END
+MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/MAKEFILE
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/lock.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/common.h
+END
+prototypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/prototypes.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/error.h
+END
+SOURCES
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/SOURCES
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/endian.h
+END
+instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/instance.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/proto.h
+END
+resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/resource.rc
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/types.h
+END
+hexdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/hexdump.c
+END
+macinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/macinfo.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/mem.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/openvpn/src/tap-win32/dhcp.c
+END

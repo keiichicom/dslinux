@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/tr
+END
+tr-works
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/tr/tr-works
+END
+tr-d-works
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/tr/tr-d-works
+END
+tr-non-gnu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/tr/tr-non-gnu
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris
+END
+services
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/services
+END
+preremove
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/preremove
+END
+i.swat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/i.swat
+END
+pkginfo.master
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/pkginfo.master
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/copyright
+END
+makepkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/makepkg.sh
+END
+request
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/request
+END
+smb.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/smb.conf.default
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/postinstall
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/README
+END
+r.swat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/r.swat
+END
+prototype.master
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/prototype.master
+END
+samba.init.master
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/samba.init.master
+END
+inetd.conf.master
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Solaris/inetd.conf.master
+END

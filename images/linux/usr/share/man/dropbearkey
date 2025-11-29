@@ -1,0 +1,47 @@
+dropbearkey(8)
+dropbearkey(8)
+
+
+
+NNAAMMEE
+       dropbearkey - create private keys for the use with
+       dropbear(8)
+
+SSYYNNOOPPSSIISS
+       ddrrooppbbeeaarrkkeeyy -t _t_y_p_e -f
+       _f_i_l_e [-s _b_i_t_s]
+
+DDEESSCCRRIIPPTTIIOONN
+       ddrrooppbbeeaarrkkeeyy  generates  a type
+       _r_s_a or _d_s_s SSH private key, and saves it to
+       a file for the use with the ddrrooppbbeeaarr(8)
+       SSH 2 server.
+
+OOPPTTIIOONNSS
+       --tt _t_y_p_e
+              Type of key to generate.  Must be one of
+              _r_s_a or _d_s_s.
+
+       --ff _f_i_l_e
+              Write the secret key to the file _f_i_l_e.
+
+       --ss _b_i_t_s
+              Set the  key  size  to  _b_i_t_s  bits,
+              should  be  multiple  of  8 (optional).
+
+EEXXAAMMPPLLEE
+        # dropbearkey -t rsa -f
+        /etc/dropbear/dropbear_rsa_host_key
+
+AAUUTTHHOORR
+       Matt Johnston (matt@ucc.asn.au).  Gerrit Pape
+       (pape@smarden.org) wrote this manual page.
+
+SSEEEE AALLSSOO
+       dropbear(8), dbclient(1)
+
+       http://matt.ucc.asn.au/dropbear/dropbear.html
+
+
+
+                                                                dropbearkey(8)

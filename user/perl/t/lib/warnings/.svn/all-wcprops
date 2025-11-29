@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings
+END
+6default
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/6default
+END
+pp_sys
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pp_sys
+END
+hv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/hv
+END
+2use
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/2use
+END
+7fatal
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/7fatal
+END
+pp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pp
+END
+3both
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/3both
+END
+pp_ctl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pp_ctl
+END
+utf8
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/utf8
+END
+perlio
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/perlio
+END
+4lint
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/4lint
+END
+perl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/perl
+END
+mg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/mg
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/run
+END
+av
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/av
+END
+malloc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/malloc
+END
+universal
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/universal
+END
+gv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/gv
+END
+pp_pack
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pp_pack
+END
+util
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/util
+END
+op
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/op
+END
+taint
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/taint
+END
+1global
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/1global
+END
+regexec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/regexec
+END
+9enabled
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/9enabled
+END
+sv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/sv
+END
+5nolint
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/5nolint
+END
+pp_hot
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pp_hot
+END
+doio
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/doio
+END
+perly
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/perly
+END
+regcomp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/regcomp
+END
+doop
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/doop
+END
+toke
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/toke
+END
+pad
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/pad
+END
+8signal
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/warnings/8signal
+END

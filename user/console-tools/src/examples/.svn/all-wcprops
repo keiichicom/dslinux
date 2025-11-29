@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2361/trunk/user/console-tools/src/examples
+END
+spawn_login.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/spawn_login.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2361/trunk/user/console-tools/src/examples/Makefile.in
+END
+sample.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/sample.rc
+END
+utflist.long
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/utflist.long
+END
+utflist.short
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/utflist.short
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/Makefile.am
+END
+utflist.cp437
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/utflist.cp437
+END
+spawn_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/spawn_console.c
+END
+README.strange-name
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2287/trunk/user/console-tools/src/examples/README.strange-name
+END

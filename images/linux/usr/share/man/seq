@@ -1,0 +1,72 @@
+SEQ(1)                           User Commands
+SEQ(1)
+
+
+
+NNAAMMEE
+       seq - print a sequence of numbers
+
+SSYYNNOOPPSSIISS
+       sseeqq [_O_P_T_I_O_N]... _L_A_S_T sseeqq
+       [_O_P_T_I_O_N]... _F_I_R_S_T _L_A_S_T
+       sseeqq [_O_P_T_I_O_N]... _F_I_R_S_T
+       _I_N_C_R_E_M_E_N_T _L_A_S_T
+
+DDEESSCCRRIIPPTTIIOONN
+       Print numbers from FIRST to LAST, in steps of INCREMENT.
+
+       --ff, ----ffoorrmmaatt=_F_O_R_M_A_T
+              use printf style floating-point FORMAT
+
+       --ss,
+       ----sseeppaarraattoorr=_S_T_R_I_N_G
+              use STRING to separate numbers (default: \n)
+
+       --ww, ----eeqquuaall--wwiiddtthh
+              equalize width by padding with leading zeroes
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       If  FIRST or INCREMENT is omitted, it defaults to 1.
+       That is, an omit‐ ted INCREMENT defaults to 1
+       even  when  LAST  is  smaller  than  FIRST.  FIRST,
+       INCREMENT,  and  LAST are interpreted as floating
+       point values.  INCREMENT is usually positive if FIRST
+       is smaller than LAST, and INCRE‐ MENT is usually
+       negative if FIRST is greater than LAST.  FORMAT must be
+       suitable for printing one argument of type  `double';
+       it  defaults  to %.PRECf  if FIRST, INCREMENT, and
+       LAST are all fixed point decimal num‐ bers with
+       maximum precision PREC, and to %g otherwise.
+
+AAUUTTHHOORR
+       Written by Ulrich Drepper.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The  full  documentation for sseeqq is maintained as
+       a Texinfo manual.  If the iinnffoo and sseeqq
+       programs are properly installed at your site, the
+       com‐ mand
+
+              iinnffoo sseeqq
+
+       should give you access to the complete manual.
+
+
+
+seq 6.7                          December 2006
+SEQ(1)

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips
+END
+fpu64-ps.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/fpu64-ps.s
+END
+mdmx-ob-sb1.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/mdmx-ob-sb1.s
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/ChangeLog
+END
+utils-dsp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/utils-dsp.inc
+END
+utils-fpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/utils-fpu.inc
+END
+hilo-hazard-1.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/hilo-hazard-1.s
+END
+mips32-dsp.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/mips32-dsp.s
+END
+hilo-hazard-2.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/hilo-hazard-2.s
+END
+hilo-hazard-3.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/hilo-hazard-3.s
+END
+mdmx-ob.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/mdmx-ob.s
+END
+testutils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/testutils.inc
+END
+sanity.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/sanity.s
+END
+fpu64-ps-sb1.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/fpu64-ps-sb1.s
+END
+utils-mdmx.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/utils-mdmx.inc
+END
+basic.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/mips/basic.exp
+END

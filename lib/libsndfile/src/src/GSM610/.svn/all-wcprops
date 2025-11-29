@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610
+END
+gsm_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm_destroy.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/Makefile.in
+END
+gsm_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm_encode.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/ChangeLog
+END
+gsm_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm_create.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/config.h
+END
+code.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/code.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/README
+END
+gsm_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm_option.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/lpc.c
+END
+gsm610_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm610_priv.h
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/decode.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/preprocess.c
+END
+long_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/long_term.c
+END
+rpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/rpe.c
+END
+short_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/short_term.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/COPYRIGHT
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/table.c
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/add.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/Makefile.am
+END
+gsm_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm_decode.c
+END
+gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/GSM610/gsm.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/id
+END
+id-un-works
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/id/id-un-works
+END
+id-u-works
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/id/id-u-works
+END
+id-g-works
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/id/id-g-works
+END
+id-ur-works
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/id/id-ur-works
+END

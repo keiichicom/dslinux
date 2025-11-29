@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac
+END
+pmac_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_process.c
+END
+pmac_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_file.c
+END
+pmac_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_test.c
+END
+pmac_memory_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_memory_multi.c
+END
+pmac_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_init.c
+END
+pmac_done.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_done.c
+END
+pmac_shift_xor.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_shift_xor.c
+END
+pmac_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_memory.c
+END
+pmac_ntz.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/mac/pmac/pmac_ntz.c
+END

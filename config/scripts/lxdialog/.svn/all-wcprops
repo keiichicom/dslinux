@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/Makefile
+END
+BIG.FAT.WARNING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/BIG.FAT.WARNING
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/menubox.c
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/textbox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/util.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/yesno.c
+END
+msgbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/msgbox.c
+END
+lxdialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/lxdialog.c
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/dialog.h
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/colors.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/.svnignore
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/inputbox.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/config/scripts/lxdialog/checklist.c
+END

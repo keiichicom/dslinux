@@ -1,0 +1,51 @@
+HOSTID(1)                        User Commands
+HOSTID(1)
+
+
+
+NNAAMMEE
+       hostid - print the numeric identifier for the current
+       host
+
+SSYYNNOOPPSSIISS
+       hhoossttiidd
+
+       hhoossttiidd _O_P_T_I_O_N
+
+DDEESSCCRRIIPPTTIIOONN
+       Print the numeric identifier (in hexadecimal) for the
+       current host.
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+AAUUTTHHOORR
+       Written by Jim Meyering.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for hhoossttiidd
+       is maintained as  a  Texinfo  manual.  If  the
+       iinnffoo  and hhoossttiidd programs are
+       properly installed at your site, the command
+
+              iinnffoo hhoossttiidd
+
+       should give you access to the complete manual.
+
+
+
+hostid 6.7                       December 2006
+HOSTID(1)

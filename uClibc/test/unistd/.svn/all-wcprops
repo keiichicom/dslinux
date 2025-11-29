@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd
+END
+preadwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/preadwrite.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/vfork.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/Makefile
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/getcwd.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/fork.c
+END
+getopt_long.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/getopt_long.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/test/unistd/getopt.c
+END

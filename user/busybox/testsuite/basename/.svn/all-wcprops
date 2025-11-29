@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/basename
+END
+basename-does-not-remove-identical-extension
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/basename/basename-does-not-remove-identical-extension
+END
+basename-works
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/basename/basename-works
+END

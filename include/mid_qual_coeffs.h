@@ -1,0 +1,1 @@
+/home/andrewec/dslinux/lib/libsamplerate/src/src/mid_qual_coeffs.h

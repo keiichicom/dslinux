@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound
+END
+fixed_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/fixed_point.h
+END
+wavetoraw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/wavetoraw.cc
+END
+soundinputstream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/soundinputstream.cc
+END
+filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/filter.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/Makefile.am
+END
+Book_Purchase_Form.DOC
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/Book_Purchase_Form.DOC
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/Makefile
+END
+mpeglayer3mktables.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpeglayer3mktables.cc
+END
+huffmantable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/huffmantable.cc
+END
+fileplayer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/fileplayer.cc
+END
+rawtofile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/rawtofile.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/Makefile.in
+END
+httpinput.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/httpinput.cc
+END
+fileinput.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/fileinput.cc
+END
+mpegsound_locals.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpegsound_locals.h
+END
+mpegtable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpegtable.cc
+END
+mpegsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpegsound.h
+END
+mpeglayer3tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpeglayer3tables.h
+END
+mpegtoraw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpegtoraw.cc
+END
+soundplayer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/soundplayer.cc
+END
+mpeglayer1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpeglayer1.cc
+END
+filter_2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/filter_2.cc
+END
+bitwindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/bitwindow.cc
+END
+rawplayer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/rawplayer.cc
+END
+mpeglayer2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpeglayer2.cc
+END
+mpeglayer3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/mpegsound/mpeglayer3.cc
+END

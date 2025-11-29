@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_large_file
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_large_file/script
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_large_file/expect.1
+END

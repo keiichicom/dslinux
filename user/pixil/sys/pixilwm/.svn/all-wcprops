@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm
+END
+pwroff.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/pwroff.h
+END
+apps.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/apps.h
+END
+screensaver.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/screensaver.c
+END
+container.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/container.c
+END
+root.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/root.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/main.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/exec.c
+END
+screensaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/screensaver.h
+END
+powerman.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/powerman.c
+END
+keyb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/keyb.c
+END
+powerman.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/powerman.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/utils.c
+END
+nanowm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/nanowm.h
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/config.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/utils.h
+END
+applets.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/config.h
+END
+themesconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/themesconfig.c
+END
+ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/ipc.c
+END
+icons.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/icons.c
+END
+applets.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets.h
+END
+inputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/inputs.c
+END
+themes.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/themes.c
+END
+categories.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/categories.c
+END
+hardcodedimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/hardcodedimage.h
+END
+themetags.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/themetags.h
+END
+home.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/home.c
+END
+themes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/themes.h
+END
+categories.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/categories.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/Makefile
+END
+clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/clients.c
+END
+sys_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/sys_menu.c
+END
+scrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/scrib.c
+END
+wlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/wlist.c
+END
+apps.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/apps.c
+END
+sys_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/sys_menu.h
+END

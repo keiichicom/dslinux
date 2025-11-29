@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm
+END
+am33.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/am33.s
+END
+t09_xor.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t09_xor.s
+END
+t12_bit.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t12_bit.s
+END
+t03_add.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t03_add.exp
+END
+t04_sub.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t04_sub.exp
+END
+t08_or.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t08_or.s
+END
+t01_mov.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t01_mov.exp
+END
+t06_ari2.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t06_ari2.exp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/Makefile.in
+END
+hppa.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/hppa.exp
+END
+t11_logs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t11_logs.exp
+END
+h8300s.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/h8300s.s
+END
+t13_otr.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t13_otr.exp
+END
+t10_and.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t10_and.s
+END
+sh3.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/sh3.exp
+END
+t02_mova.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t02_mova.s
+END
+t07_ari3.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t07_ari3.s
+END
+mn10300.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/mn10300.exp
+END
+am33.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/am33.exp
+END
+t09_xor.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t09_xor.exp
+END
+t12_bit.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t12_bit.exp
+END
+t08_or.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t08_or.exp
+END
+t05_cmp.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t05_cmp.s
+END
+t03_add.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t03_add.s
+END
+h8300s.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/h8300s.exp
+END
+t10_and.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t10_and.exp
+END
+t04_sub.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t04_sub.s
+END
+t02_mova.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t02_mova.exp
+END
+t07_ari3.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t07_ari3.exp
+END
+t01_mov.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t01_mov.s
+END
+t06_ari2.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t06_ari2.s
+END
+hppa.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/hppa.s
+END
+t11_logs.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t11_logs.s
+END
+t13_otr.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t13_otr.s
+END
+mn10200.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/mn10200.s
+END
+sh3.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/sh3.s
+END
+mn10300.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/mn10300.s
+END
+t05_cmp.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.disasm/t05_cmp.exp
+END

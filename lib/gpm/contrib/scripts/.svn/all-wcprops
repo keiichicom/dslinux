@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts
+END
+make_diff
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/make_diff
+END
+gunze-setup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/gunze-setup
+END
+replace_2_with_3_spaces
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/replace_2_with_3_spaces
+END
+microtouch-setup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/microtouch-setup
+END
+replace_tab_with_3_spaces
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/replace_tab_with_3_spaces
+END
+create_vcs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/create_vcs
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/mkinstalldirs
+END
+test_gpm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/test_gpm
+END
+debug_to_report
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/debug_to_report
+END
+gpm_release
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/gpm/contrib/scripts/gpm_release
+END

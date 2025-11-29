@@ -1,0 +1,1163 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man
+END
+id.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/id.1
+END
+tr.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tr.x
+END
+sha256sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha256sum.1
+END
+who.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/who.1
+END
+printf.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/printf.1
+END
+link.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/link.x
+END
+shuf.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/shuf.1
+END
+unlink.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/unlink.x
+END
+mknod.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mknod.1
+END
+cp.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cp.x
+END
+wc.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/wc.1
+END
+stat.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/stat.1
+END
+tsort.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tsort.1
+END
+echo.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/echo.1
+END
+tac.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tac.x
+END
+md5sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/md5sum.x
+END
+mv.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mv.1
+END
+basename.x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/basename.x
+END
+tee.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tee.x
+END
+factor.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/factor.x
+END
+dd.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dd.1
+END
+su.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/su.1
+END
+sha512sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha512sum.1
+END
+tail.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tail.1
+END
+touch.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/touch.x
+END
+chmod.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chmod.1
+END
+cut.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cut.1
+END
+csplit.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/csplit.1
+END
+pinky.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pinky.x
+END
+printenv.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/printenv.1
+END
+chroot.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chroot.x
+END
+sha384sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha384sum.x
+END
+yes.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/yes.x
+END
+shred.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/shred.x
+END
+sync.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sync.1
+END
+uname.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uname.x
+END
+install.x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/install.x
+END
+groups.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/groups.1
+END
+sleep.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sleep.x
+END
+nl.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nl.x
+END
+pr.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pr.1
+END
+ls.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ls.x
+END
+hostname.x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/hostname.x
+END
+expand.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/expand.x
+END
+test.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/test.x
+END
+pathchk.x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pathchk.x
+END
+false.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/false.1
+END
+comm.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/comm.1
+END
+whoami.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/whoami.x
+END
+sort.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sort.x
+END
+env.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/env.x
+END
+readlink.x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/readlink.x
+END
+od.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/od.1
+END
+id.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/id.x
+END
+chgrp.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chgrp.1
+END
+sha256sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha256sum.x
+END
+who.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/who.x
+END
+mkdir.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mkdir.1
+END
+printf.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/printf.x
+END
+ptx.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ptx.1
+END
+shuf.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/shuf.x
+END
+rmdir.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/rmdir.1
+END
+nice.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nice.1
+END
+mknod.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mknod.x
+END
+wc.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/wc.x
+END
+stat.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/stat.x
+END
+tsort.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tsort.x
+END
+echo.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/echo.x
+END
+seq.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/seq.1
+END
+mv.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mv.x
+END
+pwd.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pwd.1
+END
+hostid.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/hostid.1
+END
+dd.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dd.x
+END
+su.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/su.x
+END
+join.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/join.1
+END
+sha512sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha512sum.x
+END
+tail.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tail.x
+END
+chmod.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chmod.x
+END
+cut.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cut.x
+END
+uptime.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uptime.1
+END
+sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sum.1
+END
+vdir.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/vdir.1
+END
+csplit.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/csplit.x
+END
+du.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/du.1
+END
+printenv.x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/printenv.x
+END
+date.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/date.1
+END
+expr.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/expr.1
+END
+true.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/true.1
+END
+sync.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sync.x
+END
+base64.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/base64.1
+END
+fold.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/fold.1
+END
+groups.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/groups.x
+END
+sha224sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha224sum.1
+END
+pr.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pr.x
+END
+split.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/split.1
+END
+dircolors.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dircolors.1
+END
+false.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/false.x
+END
+head.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/head.1
+END
+users.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/users.1
+END
+comm.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/comm.x
+END
+stty.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/stty.1
+END
+cat.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cat.1
+END
+od.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/od.x
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/Makefile.am
+END
+chgrp.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chgrp.x
+END
+uniq.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uniq.1
+END
+mkdir.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mkdir.x
+END
+dir.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dir.1
+END
+dirname.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dirname.1
+END
+tty.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tty.1
+END
+ptx.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ptx.x
+END
+logname.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/logname.1
+END
+cksum.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cksum.1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/Makefile.in
+END
+rmdir.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/rmdir.x
+END
+nice.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nice.x
+END
+fmt.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/fmt.1
+END
+nohup.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nohup.1
+END
+df.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/df.1
+END
+kill.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/kill.1
+END
+seq.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/seq.x
+END
+pwd.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pwd.x
+END
+hostid.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/hostid.x
+END
+join.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/join.x
+END
+help2man
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/help2man
+END
+ln.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ln.1
+END
+uptime.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uptime.x
+END
+mkfifo.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mkfifo.1
+END
+sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sum.x
+END
+vdir.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/vdir.x
+END
+paste.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/paste.1
+END
+rm.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/rm.1
+END
+chown.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chown.1
+END
+du.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/du.x
+END
+sha1sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha1sum.1
+END
+unexpand.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/unexpand.1
+END
+date.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/date.x
+END
+expr.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/expr.x
+END
+tr.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tr.1
+END
+true.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/true.x
+END
+base64.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/base64.x
+END
+fold.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/fold.x
+END
+link.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/link.1
+END
+sha224sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha224sum.x
+END
+unlink.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/unlink.1
+END
+cp.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cp.1
+END
+split.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/split.x
+END
+dircolors.x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dircolors.x
+END
+tac.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tac.1
+END
+head.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/head.x
+END
+users.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/users.x
+END
+md5sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/md5sum.1
+END
+stty.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/stty.x
+END
+basename.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/basename.1
+END
+tee.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tee.1
+END
+cat.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cat.x
+END
+factor.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/factor.1
+END
+touch.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/touch.1
+END
+uniq.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uniq.x
+END
+dir.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dir.x
+END
+dirname.x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/dirname.x
+END
+tty.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/tty.x
+END
+logname.x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/logname.x
+END
+cksum.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/cksum.x
+END
+pinky.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pinky.1
+END
+fmt.x
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/fmt.x
+END
+chroot.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chroot.1
+END
+sha384sum.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha384sum.1
+END
+nohup.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nohup.x
+END
+df.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/df.x
+END
+yes.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/yes.1
+END
+kill.x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/kill.x
+END
+shred.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/shred.1
+END
+uname.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/uname.1
+END
+install.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/install.1
+END
+sleep.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sleep.1
+END
+nl.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/nl.1
+END
+ls.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ls.1
+END
+hostname.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/hostname.1
+END
+expand.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/expand.1
+END
+test.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/test.1
+END
+ln.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/ln.x
+END
+pathchk.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/pathchk.1
+END
+mkfifo.x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/mkfifo.x
+END
+paste.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/paste.x
+END
+whoami.1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/whoami.1
+END
+rm.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/rm.x
+END
+chown.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/chown.x
+END
+sort.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sort.1
+END
+sha1sum.x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/sha1sum.x
+END
+env.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/env.1
+END
+readlink.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/readlink.1
+END
+unexpand.x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/man/unexpand.x
+END

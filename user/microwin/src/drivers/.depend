@@ -1,0 +1,66 @@
+fblin8.o .depend : $(TOP)/config fblin8.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin16.o .depend : $(TOP)/config fblin16.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin24.o .depend : $(TOP)/config fblin24.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin32.o .depend : $(TOP)/config fblin32.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin32alpha.o .depend : $(TOP)/config fblin32alpha.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+genmem.o .depend : $(TOP)/config genmem.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h \
+ genmem.h
+fb.o .depend : $(TOP)/config fb.c /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h genmem.h \
+ fb.h
+fblin1.o .depend : $(TOP)/config fblin1.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin2.o .depend : $(TOP)/config fblin2.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+genfont.o .depend : $(TOP)/config genfont.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h genfont.h
+scr_fb.o .depend : $(TOP)/config scr_fb.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h genfont.h \
+ genmem.h fb.h
+fbportrait_left.o .depend : $(TOP)/config fbportrait_left.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fbportrait_right.o .depend : $(TOP)/config fbportrait_right.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fbportrait_down.o .depend : $(TOP)/config fbportrait_down.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+fblin4.o .depend : $(TOP)/config fblin4.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h fb.h
+kbd_tty.o .depend : $(TOP)/config kbd_tty.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player
+END
+effects.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/effects.c
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/convert.c
+END
+period.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/period.c
+END
+fmopl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/fmopl.h
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/mixer.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/scan.c
+END
+mix_all.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/mix_all.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/filter.c
+END
+med_synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/med_synth.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/misc.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/driver.c
+END
+player.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/player.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/Makefile
+END
+readrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/readrc.c
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/player.h
+END
+synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/synth.c
+END
+ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/ulaw.c
+END
+cruncher.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/cruncher.c
+END
+synth.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/synth.h
+END
+formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/formats.c
+END
+fmopl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/player/fmopl.c
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/tar/src/src
+END
+sparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/sparse.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/common.h
+END
+incremen.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/tar/src/src/incremen.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/src/Makefile.in
+END
+delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/delete.c
+END
+names.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tar/src/src/names.c
+END
+mangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/mangle.c
+END
+create.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/create.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/buffer.c
+END
+extract.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/src/extract.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tar/src/src/list.c
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/src/transform.c
+END
+arith.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/tar/src/src/arith.h
+END
+xheader.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/src/xheader.c
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/update.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/src/system.c
+END
+compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/src/compare.c
+END
+tar.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tar/src/src/tar.c
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tar/src/src/utf8.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/src/Makefile.am
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tar/src/src/misc.c
+END
+tar.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/tar/src/src/tar.h
+END

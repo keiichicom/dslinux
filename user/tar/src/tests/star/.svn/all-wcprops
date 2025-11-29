@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star
+END
+quicktest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/quicktest.sh
+END
+multi-fail.at
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/multi-fail.at
+END
+ustar-big-2g.at
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/ustar-big-2g.at
+END
+gtarfail.at
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/gtarfail.at
+END
+ustar-big-8g.at
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/ustar-big-8g.at
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/README
+END
+gtarfail2.at
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/gtarfail2.at
+END
+pax-big-10g.at
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/star/pax-big-10g.at
+END

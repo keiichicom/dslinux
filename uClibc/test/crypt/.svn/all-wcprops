@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/uClibc/test/crypt
+END
+crypt.input
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/test/crypt/crypt.input
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/test/crypt/crypt.c
+END
+md5c-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/test/crypt/md5c-test.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/test/crypt/Makefile
+END

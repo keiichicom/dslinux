@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/games/xrick/src
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/util.c
+END
+dat_tilesST.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_tilesST.c
+END
+xrickST.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/xrickST.ico
+END
+rects.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/rects.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/control.c
+END
+xrick.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/xrick.c
+END
+sysvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/sysvid.c
+END
+scr_pause.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_pause.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/system.c
+END
+img_icon.e
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/img_icon.e
+END
+scr_getname.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_getname.c
+END
+e_bonus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_bonus.c
+END
+dat_screens.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_screens.c
+END
+e_bullet.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_bullet.c
+END
+dat_tilesPC.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_tilesPC.c
+END
+xrickPC.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/xrickPC.ico
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/resource.h
+END
+e_box.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_box.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/Makefile
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/draw.c
+END
+devtools.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/devtools.c
+END
+syskbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/syskbd.c
+END
+maps.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/maps.c
+END
+sysjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/sysjoy.c
+END
+xrick.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/xrick.rc
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/unzip.c
+END
+sysarg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/sysarg.c
+END
+game.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/game.c
+END
+ents.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/ents.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/data.c
+END
+scr_gameover.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_gameover.c
+END
+dat_snd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_snd.c
+END
+e_sbonus.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_sbonus.c
+END
+e_bomb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_bomb.c
+END
+syssnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/syssnd.c
+END
+scroller.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scroller.c
+END
+scr_xrick.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_xrick.c
+END
+img_splash.e
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/img_splash.e
+END
+dat_maps.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_maps.c
+END
+dat_spritesST.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_spritesST.c
+END
+e_rick.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_rick.c
+END
+dat_picsST.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_picsST.c
+END
+scr_imap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_imap.c
+END
+sysevt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/sysevt.c
+END
+e_them.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/e_them.c
+END
+dat_ents.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_ents.c
+END
+sdlcodes.e
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/sdlcodes.e
+END
+scr_imain.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/scr_imain.c
+END
+dat_spritesPC.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_spritesPC.c
+END
+dat_picsPC.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/xrick/src/dat_picsPC.c
+END

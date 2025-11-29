@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys/io.h
+END
+ucontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys/ucontext.h
+END
+acct.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys/acct.h
+END
+procfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys/procfs.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/alpha/sys/user.h
+END

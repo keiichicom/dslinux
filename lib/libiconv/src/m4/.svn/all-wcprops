@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4
+END
+canonicalize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/canonicalize.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/intmax.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/lib-prefix.m4
+END
+pathmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/pathmax.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/lib-ld.m4
+END
+strerror_r.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/strerror_r.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/libtool.m4
+END
+inttypes-h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/inttypes-h.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/wint_t.m4
+END
+stdint.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/stdint.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/progtest.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/stdint_h.m4
+END
+unistd_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/unistd_h.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/po.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/iconv.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/size_max.m4
+END
+ssize_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/ssize_t.m4
+END
+xreadlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/xreadlink.m4
+END
+full-header-path.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/full-header-path.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/codeset.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/nls.m4
+END
+endian.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/endian.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/extensions.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/lib-link.m4
+END
+cp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/cp.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/printf-posix.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/lcmessage.m4
+END
+proto.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/proto.m4
+END
+eealloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/eealloc.m4
+END
+setenv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/setenv.m4
+END
+stdbool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/stdbool.m4
+END
+ln.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/ln.m4
+END
+signed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/signed.m4
+END
+unlocked-io.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/unlocked-io.m4
+END
+general.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/general.m4
+END
+relocatable.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/relocatable.m4
+END
+isc-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/isc-posix.m4
+END
+allocsa.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/allocsa.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/longlong.m4
+END
+mbstate_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/mbstate_t.m4
+END
+eilseq.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/eilseq.m4
+END
+strerror.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/strerror.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/gettext.m4
+END
+onceonly.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/onceonly.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/inttypes_h.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/visibility.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/wchar_t.m4
+END
+error.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/error.m4
+END
+readlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/readlink.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/longdouble.m4
+END
+alloca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/m4/alloca.m4
+END

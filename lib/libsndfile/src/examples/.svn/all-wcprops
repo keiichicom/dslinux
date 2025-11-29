@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples
+END
+generate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/generate.c
+END
+make_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/make_sine.c
+END
+cooledit-fixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/cooledit-fixer.c
+END
+sndfile-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/sndfile-info.c
+END
+sndfile-play-beos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/sndfile-play-beos.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/Makefile.in
+END
+sndfile-convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/sndfile-convert.c
+END
+list_formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/list_formats.c
+END
+sfprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/sfprocess.c
+END
+sndfile-play.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/sndfile-play.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/examples/Makefile.am
+END

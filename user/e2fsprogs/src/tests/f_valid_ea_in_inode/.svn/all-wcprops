@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_valid_ea_in_inode
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_valid_ea_in_inode/expect.1
+END
+name
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_valid_ea_in_inode/name
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_valid_ea_in_inode/image.gz
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_valid_ea_in_inode/script
+END

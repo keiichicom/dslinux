@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/samba/source/printing
+END
+print_svid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/print_svid.c
+END
+pcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/pcap.c
+END
+printfsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/printfsp.c
+END
+lpq_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/lpq_parse.c
+END
+print_cups.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/print_cups.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/notify.c
+END
+print_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/print_generic.c
+END
+printing.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/printing.c
+END
+nt_printing.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/nt_printing.c
+END
+print_aix.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/print_aix.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/load.c
+END
+printing_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/printing/printing_db.c
+END

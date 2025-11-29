@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2432/trunk/user/bc/src/dc
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/TODO
+END
+dc-regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/dc-regdef.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/stack.c
+END
+dc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/dc.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/string.c
+END
+eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/eval.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/Makefile.am
+END
+dc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/dc.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/misc.c
+END
+dc-proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/dc-proto.h
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/array.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/Makefile.in
+END
+numeric.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2432/trunk/user/bc/src/dc/numeric.c
+END

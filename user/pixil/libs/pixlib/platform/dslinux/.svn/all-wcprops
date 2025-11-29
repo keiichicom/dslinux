@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux
+END
+calibrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/calibrate.c
+END
+dslinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/dslinux.c
+END
+backlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/backlight.c
+END
+sysinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/sysinfo.c
+END
+sound_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/sound_dsp.c
+END
+powermgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/dslinux/powermgmt.c
+END

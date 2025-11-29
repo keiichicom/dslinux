@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86
+END
+bfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/bfs.cpp
+END
+rc4s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/rc4s.cpp
+END
+casts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/casts.cpp
+END
+dess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/dess.cpp
+END
+sha1s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/sha1s.cpp
+END
+des3s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/des3s.cpp
+END
+md4s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/md4s.cpp
+END
+md5s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/times/x86/md5s.cpp
+END

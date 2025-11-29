@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/README
+END
+soak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/soak
+END
+PPPort.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/PPPort.pm
+END
+mktests.PL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/mktests.PL
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/TODO
+END
+ppport_h.PL
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/ppport_h.PL
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/MANIFEST
+END
+PPPort_xs.PL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/PPPort_xs.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/Changes
+END
+MANIFEST.SKIP
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/MANIFEST.SKIP
+END
+PPPort.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/PPPort.xs
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/typemap
+END
+HACKERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/HACKERS
+END
+apicheck_c.PL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/apicheck_c.PL
+END
+META.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/META.yml
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/Makefile.PL
+END
+module2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/module2.c
+END
+module3.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/module3.c
+END
+PPPort_pm.PL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/ext/Devel/PPPort/PPPort_pm.PL
+END

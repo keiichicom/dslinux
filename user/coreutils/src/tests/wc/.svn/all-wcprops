@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/Makefile.in
+END
+b0.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/b0.I
+END
+b1.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/b1.I
+END
+Test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/Test.pm
+END
+b0.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/b0.X
+END
+b1.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/b1.X
+END
+wc-tests
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/wc-tests
+END
+a0.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a0.I
+END
+a1.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a1.I
+END
+c0.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c0.I
+END
+a2.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a2.I
+END
+c1.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c1.I
+END
+a3.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a3.I
+END
+c2.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c2.I
+END
+a4.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a4.I
+END
+a5.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a5.I
+END
+a6.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a6.I
+END
+a7.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a7.I
+END
+a8.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a8.I
+END
+a9.I
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a9.I
+END
+a0.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a0.X
+END
+a1.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a1.X
+END
+c0.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c0.X
+END
+a2.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a2.X
+END
+c1.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c1.X
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/Makefile.am
+END
+a3.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a3.X
+END
+a4.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a4.X
+END
+c2.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/c2.X
+END
+a5.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a5.X
+END
+a6.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a6.X
+END
+a7.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a7.X
+END
+a8.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a8.X
+END
+a9.X
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/wc/a9.X
+END

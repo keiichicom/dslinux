@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t
+END
+posix.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t/posix.t
+END
+tempfile.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t/tempfile.t
+END
+object.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t/object.t
+END
+security.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t/security.t
+END
+mktemp.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/File/Temp/t/mktemp.t
+END

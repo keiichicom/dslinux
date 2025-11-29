@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist
+END
+notify-ison.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notify-ison.c
+END
+notify-whois.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notify-whois.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/Makefile.in
+END
+notifylist.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notifylist.c
+END
+notify-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notify-setup.c
+END
+notify-commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notify-commands.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/Makefile.am
+END
+notifylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notifylist.h
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/module.h
+END
+notify-setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/notifylist/notify-setup.h
+END

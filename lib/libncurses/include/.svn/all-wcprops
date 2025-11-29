@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/libncurses/include
+END
+headers
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/headers
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Makefile
+END
+ncurses_cfg.hin
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/ncurses_cfg.hin
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Makefile.in
+END
+ncurses_defs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/ncurses_defs
+END
+Caps
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps
+END
+ncurses_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/ncurses_cfg.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/.svnignore
+END
+MKparametrized.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKparametrized.sh
+END
+Caps.aix4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps.aix4
+END
+unctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/unctrl.h
+END
+unctrl.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/unctrl.h.in
+END
+ncurses_dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/ncurses_dll.h
+END
+curses.head
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/curses.head
+END
+nc_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/nc_panel.h
+END
+Caps.hpux11
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps.hpux11
+END
+MKterm.h.awk.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKterm.h.awk.in
+END
+capdefaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/capdefaults.c
+END
+edit_cfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/edit_cfg.sh
+END
+term_entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/term_entry.h
+END
+MKhashsize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKhashsize.sh
+END
+termcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/termcap.h
+END
+termcap.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/termcap.h.in
+END
+MKkey_defs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKkey_defs.sh
+END
+curses.wide
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/curses.wide
+END
+curses.tail
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/curses.tail
+END
+curses.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/curses.h.in
+END
+nc_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/nc_alloc.h
+END
+Caps.keys
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps.keys
+END
+MKncurses_def.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKncurses_def.sh
+END
+Caps.osf1r5
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps.osf1r5
+END
+tic.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/tic.h
+END
+MKterm.h.awk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/MKterm.h.awk
+END
+Caps.uwin
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/include/Caps.uwin
+END

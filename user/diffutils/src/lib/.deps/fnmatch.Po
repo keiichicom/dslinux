@@ -1,0 +1,44 @@
+fnmatch.o: fnmatch.c ../config.h \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h fnmatch.h \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h
+
+../config.h:
+
+/home/andrewec/dslinux/uClibc/include/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno_values.h:
+
+fnmatch.h:
+
+/home/andrewec/dslinux/uClibc/include/ctype.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h:

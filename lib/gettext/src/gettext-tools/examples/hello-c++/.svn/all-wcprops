@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/configure.ac
+END
+autoclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/autoclean.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/INSTALL
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/hello.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-c++/autogen.sh
+END

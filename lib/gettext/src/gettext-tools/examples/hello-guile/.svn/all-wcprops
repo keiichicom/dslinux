@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/autogen.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/configure.ac
+END
+autoclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/autoclean.sh
+END
+hello.scm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/hello.scm
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-guile/INSTALL
+END

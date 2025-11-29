@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice
+END
+privkey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/privkey.pem
+END
+loadkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/loadkeys.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/README
+END
+cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/cert.pem
+END
+example1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/example1.c
+END
+example2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/example2.c
+END
+example3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/example3.c
+END
+example4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/example4.c
+END
+loadkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/maurice/loadkeys.h
+END

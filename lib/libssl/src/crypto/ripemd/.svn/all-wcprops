@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd
+END
+rmd160.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmd160.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/README
+END
+rmdconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmdconst.h
+END
+rmd_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmd_locl.h
+END
+rmdtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmdtest.c
+END
+rmd_dgst.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmd_dgst.c
+END
+rmd_one.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/rmd_one.c
+END
+ripemd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/ripemd/ripemd.h
+END

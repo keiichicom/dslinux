@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects
+END
+obj_dat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_dat.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/Makefile
+END
+objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/objects.h
+END
+obj_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_mac.h
+END
+obj_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_lib.c
+END
+o_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/o_names.c
+END
+obj_dat.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_dat.c
+END
+obj_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_err.c
+END
+objects.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/objects.pl
+END
+objects.README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/objects.README
+END
+objects.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/objects.txt
+END
+obj_dat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_dat.h
+END
+obj_mac.num
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/objects/obj_mac.num
+END

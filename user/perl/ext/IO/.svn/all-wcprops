@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/poll.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/README
+END
+IO.xs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/IO.xs
+END
+IO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/IO.pm
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/ChangeLog
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/Makefile.PL
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/ext/IO/poll.c
+END

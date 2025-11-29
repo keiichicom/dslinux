@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/README
+END
+encoding.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/encoding.pm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/AUTHORS
+END
+Encode.xs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/Encode.xs
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/MANIFEST
+END
+META.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/META.yml
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/Makefile.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/Changes
+END
+Encode.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/Encode.pm
+END
+encengine.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/encengine.c
+END

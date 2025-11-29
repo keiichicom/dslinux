@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/true
+END
+true-is-silent
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/true/true-is-silent
+END
+true-returns-success
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/true/true-returns-success
+END

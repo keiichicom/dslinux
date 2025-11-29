@@ -1,0 +1,190 @@
+# This file is a shell script that caches the results of configure
+# tests run on this system so they can be shared between configure
+# scripts and configure runs.  It is not useful on other systems.
+# If it contains results you don't want to keep, you may remove or edit it.
+#
+# By default, configure uses ./config.cache as the cache file,
+# creating it if it does not exist already.  You can give configure
+# the --cache-file=FILE option to use a different cache file; that is
+# what configure does when it calls configure scripts in
+# subdirectories, so they share the cache.
+# Giving --cache-file=/dev/null disables caching, for debugging configure.
+# config.status only pays attention to the cache file if you give it the
+# --recheck option to rerun configure.
+#
+ac_cv_c_const=${ac_cv_c_const='yes'}
+ac_cv_cygwin=${ac_cv_cygwin='no'}
+ac_cv_exeext=${ac_cv_exeext='.gdb'}
+ac_cv_func__posix_getpwnam_r=${ac_cv_func__posix_getpwnam_r='no'}
+ac_cv_func__posix_getpwuid_r=${ac_cv_func__posix_getpwuid_r='no'}
+ac_cv_func_alloca_works=${ac_cv_func_alloca_works='yes'}
+ac_cv_func_curs_set=${ac_cv_func_curs_set='yes'}
+ac_cv_func_doupdate=${ac_cv_func_doupdate='yes'}
+ac_cv_func_fstat64=${ac_cv_func_fstat64='no'}
+ac_cv_func_getcwd=${ac_cv_func_getcwd='yes'}
+ac_cv_func_getdomainname=${ac_cv_func_getdomainname='yes'}
+ac_cv_func_gethostbyaddr_r=${ac_cv_func_gethostbyaddr_r='yes'}
+ac_cv_func_gethostbyname=${ac_cv_func_gethostbyname='yes'}
+ac_cv_func_gethostbyname2_r=${ac_cv_func_gethostbyname2_r='yes'}
+ac_cv_func_gethostbyname_r=${ac_cv_func_gethostbyname_r='yes'}
+ac_cv_func_gethostname=${ac_cv_func_gethostname='yes'}
+ac_cv_func_getlogin_r=${ac_cv_func_getlogin_r='yes'}
+ac_cv_func_getpass=${ac_cv_func_getpass='yes'}
+ac_cv_func_getpassphrase=${ac_cv_func_getpassphrase='no'}
+ac_cv_func_getpwnam_r=${ac_cv_func_getpwnam_r='yes'}
+ac_cv_func_getpwuid_r=${ac_cv_func_getpwuid_r='yes'}
+ac_cv_func_getservbyname_r=${ac_cv_func_getservbyname_r='yes'}
+ac_cv_func_getservbyport_r=${ac_cv_func_getservbyport_r='yes'}
+ac_cv_func_getwd=${ac_cv_func_getwd='no'}
+ac_cv_func_gmtime_r=${ac_cv_func_gmtime_r='yes'}
+ac_cv_func_gnu_get_libc_release=${ac_cv_func_gnu_get_libc_release='no'}
+ac_cv_func_gnu_get_libc_version=${ac_cv_func_gnu_get_libc_version='no'}
+ac_cv_func_inet_aton=${ac_cv_func_inet_aton='yes'}
+ac_cv_func_inet_ntop=${ac_cv_func_inet_ntop='yes'}
+ac_cv_func_keypad=${ac_cv_func_keypad='yes'}
+ac_cv_func_llseek=${ac_cv_func_llseek='yes'}
+ac_cv_func_localtime_r=${ac_cv_func_localtime_r='yes'}
+ac_cv_func_lseek64=${ac_cv_func_lseek64='yes'}
+ac_cv_func_lstat64=${ac_cv_func_lstat64='no'}
+ac_cv_func_memmove=${ac_cv_func_memmove='yes'}
+ac_cv_func_mktime=${ac_cv_func_mktime='yes'}
+ac_cv_func_nodelay=${ac_cv_func_nodelay='yes'}
+ac_cv_func_open64=${ac_cv_func_open64='no'}
+ac_cv_func_pathconf=${ac_cv_func_pathconf='yes'}
+ac_cv_func_readdir_r=${ac_cv_func_readdir_r='yes'}
+ac_cv_func_readlink=${ac_cv_func_readlink='yes'}
+ac_cv_func_res_init=${ac_cv_func_res_init='no'}
+ac_cv_func_select_arg1=${ac_cv_func_select_arg1='int'}
+ac_cv_func_select_arg234=${ac_cv_func_select_arg234='fd_set *'}
+ac_cv_func_select_arg5=${ac_cv_func_select_arg5='struct timeval *'}
+ac_cv_func_setlocale=${ac_cv_func_setlocale='yes'}
+ac_cv_func_setpgid=${ac_cv_func_setpgid='yes'}
+ac_cv_func_setpgrp=${ac_cv_func_setpgrp='yes'}
+ac_cv_func_setpgrp_void=${ac_cv_func_setpgrp_void='dontcare'}
+ac_cv_func_setsid=${ac_cv_func_setsid='yes'}
+ac_cv_func_setvbuf=${ac_cv_func_setvbuf='yes'}
+ac_cv_func_sigaction=${ac_cv_func_sigaction='yes'}
+ac_cv_func_sigsetjmp=${ac_cv_func_sigsetjmp='no'}
+ac_cv_func_snprintf=${ac_cv_func_snprintf='yes'}
+ac_cv_func_socket=${ac_cv_func_socket='yes'}
+ac_cv_func_stat64=${ac_cv_func_stat64='no'}
+ac_cv_func_strcasecmp=${ac_cv_func_strcasecmp='yes'}
+ac_cv_func_strcoll=${ac_cv_func_strcoll='yes'}
+ac_cv_func_strdup=${ac_cv_func_strdup='yes'}
+ac_cv_func_strerror=${ac_cv_func_strerror='yes'}
+ac_cv_func_strncoll=${ac_cv_func_strncoll='no'}
+ac_cv_func_strstr=${ac_cv_func_strstr='yes'}
+ac_cv_func_strtoq=${ac_cv_func_strtoq='yes'}
+ac_cv_func_symlink=${ac_cv_func_symlink='yes'}
+ac_cv_func_sysconf=${ac_cv_func_sysconf='yes'}
+ac_cv_func_sysctl=${ac_cv_func_sysctl='yes'}
+ac_cv_func_sysinfo=${ac_cv_func_sysinfo='yes'}
+ac_cv_func_syslog=${ac_cv_func_syslog='yes'}
+ac_cv_func_tcgetattr=${ac_cv_func_tcgetattr='yes'}
+ac_cv_func_uname=${ac_cv_func_uname='yes'}
+ac_cv_func_vsnprintf=${ac_cv_func_vsnprintf='yes'}
+ac_cv_func_waitpid=${ac_cv_func_waitpid='yes'}
+ac_cv_func_wnoutrefresh=${ac_cv_func_wnoutrefresh='yes'}
+ac_cv_header_alloca_h=${ac_cv_header_alloca_h='yes'}
+ac_cv_header_arpa_nameser_h=${ac_cv_header_arpa_nameser_h='yes'}
+ac_cv_header_curses_h=${ac_cv_header_curses_h='yes'}
+ac_cv_header_gnu_libc_version_h=${ac_cv_header_gnu_libc_version_h='no'}
+ac_cv_header_locale_h=${ac_cv_header_locale_h='yes'}
+ac_cv_header_ncurses_h=${ac_cv_header_ncurses_h='no'}
+ac_cv_header_net_errno_h=${ac_cv_header_net_errno_h='no'}
+ac_cv_header_nserve_h=${ac_cv_header_nserve_h='no'}
+ac_cv_header_resolv_h=${ac_cv_header_resolv_h='yes'}
+ac_cv_header_sgtty_h=${ac_cv_header_sgtty_h='yes'}
+ac_cv_header_stdc=${ac_cv_header_stdc='yes'}
+ac_cv_header_string_h=${ac_cv_header_string_h='yes'}
+ac_cv_header_strings_h=${ac_cv_header_strings_h='yes'}
+ac_cv_header_sys_ioctl_h=${ac_cv_header_sys_ioctl_h='yes'}
+ac_cv_header_sys_socket_h=${ac_cv_header_sys_socket_h='yes'}
+ac_cv_header_sys_systeminfo_h=${ac_cv_header_sys_systeminfo_h='no'}
+ac_cv_header_sys_time_h=${ac_cv_header_sys_time_h='yes'}
+ac_cv_header_sys_types_h=${ac_cv_header_sys_types_h='yes'}
+ac_cv_header_sys_un_h=${ac_cv_header_sys_un_h='yes'}
+ac_cv_header_sys_utsname_h=${ac_cv_header_sys_utsname_h='yes'}
+ac_cv_header_syslog_h=${ac_cv_header_syslog_h='yes'}
+ac_cv_header_termio_h=${ac_cv_header_termio_h='yes'}
+ac_cv_header_termios_h=${ac_cv_header_termios_h='yes'}
+ac_cv_header_time=${ac_cv_header_time='yes'}
+ac_cv_header_time_h=${ac_cv_header_time_h='yes'}
+ac_cv_header_unistd_h=${ac_cv_header_unistd_h='yes'}
+ac_cv_header_utime_h=${ac_cv_header_utime_h='yes'}
+ac_cv_lib_resolv_main=${ac_cv_lib_resolv_main='yes'}
+ac_cv_lib_socks5_SOCKSinit=${ac_cv_lib_socks5_SOCKSinit='no'}
+ac_cv_mingw32=${ac_cv_mingw32='no'}
+ac_cv_objext=${ac_cv_objext='o'}
+ac_cv_path_MKTEMP=${ac_cv_path_MKTEMP='/bin/mktemp'}
+ac_cv_path_PERL=${ac_cv_path_PERL='/usr/bin/perl'}
+ac_cv_path_TAR=${ac_cv_path_TAR='/bin/tar'}
+ac_cv_path_install=${ac_cv_path_install='/usr/bin/install -c'}
+ac_cv_path_wi_PWD=${ac_cv_path_wi_PWD='/bin/pwd'}
+ac_cv_prog_CC=${ac_cv_prog_CC='ucfront-gcc arm-linux-elf-gcc '}
+ac_cv_prog_CPP=${ac_cv_prog_CPP='ucfront-gcc arm-linux-elf-gcc  -E'}
+ac_cv_prog_RANLIB=${ac_cv_prog_RANLIB='arm-linux-elf-ranlib'}
+ac_cv_prog_cc_cross=${ac_cv_prog_cc_cross='yes'}
+ac_cv_prog_cc_g=${ac_cv_prog_cc_g='yes'}
+ac_cv_prog_cc_works=${ac_cv_prog_cc_works='yes'}
+ac_cv_prog_gcc=${ac_cv_prog_gcc='yes'}
+ac_cv_prog_make_make_set=${ac_cv_prog_make_make_set='yes'}
+ac_cv_sys_long_file_names=${ac_cv_sys_long_file_names='yes'}
+ac_cv_type_mode_t=${ac_cv_type_mode_t='yes'}
+ac_cv_type_off_t=${ac_cv_type_off_t='yes'}
+ac_cv_type_pid_t=${ac_cv_type_pid_t='yes'}
+ac_cv_type_sig_atomic_t=${ac_cv_type_sig_atomic_t='yes'}
+ac_cv_type_size_t=${ac_cv_type_size_t='yes'}
+ac_cv_type_uid_t=${ac_cv_type_uid_t='yes'}
+nc_cv_curses=${nc_cv_curses='yes'}
+nc_cv_ncurses=${nc_cv_ncurses='yes'}
+wi_cv_OS=${wi_cv_OS='linux-x86'}
+wi_cv__res_defdname=${wi_cv__res_defdname='yes'}
+wi_cv_alarm_time_t=${wi_cv_alarm_time_t='unsigned int'}
+wi_cv_cc_is_sunwspro_cc=${wi_cv_cc_is_sunwspro_cc='no'}
+wi_cv_cc_precomp=${wi_cv_cc_precomp='yes'}
+wi_cv_cc_precomp_type=${wi_cv_cc_precomp_type='gcc_gch_files'}
+wi_cv_func_sigsetjmp=${wi_cv_func_sigsetjmp='yes'}
+wi_cv_gcc_version=${wi_cv_gcc_version='4.0.4'}
+wi_cv_gethost_addrptr_t=${wi_cv_gethost_addrptr_t='const struct in_addr *'}
+wi_cv_gethostname_size_t=${wi_cv_gethostname_size_t='size_t'}
+wi_cv_getopt_decl=${wi_cv_getopt_decl='automatic'}
+wi_cv_lib_curses=${wi_cv_lib_curses='yes'}
+wi_cv_lib_curses_result=${wi_cv_lib_curses_result='yes'}
+wi_cv_listen_backlog_t=${wi_cv_listen_backlog_t='int'}
+wi_cv_look_for_resolv=${wi_cv_look_for_resolv='yes'}
+wi_cv_main_void_return_t=${wi_cv_main_void_return_t='int'}
+wi_cv_msghdr_accrights=${wi_cv_msghdr_accrights='no'}
+wi_cv_msghdr_control=${wi_cv_msghdr_control='yes'}
+wi_cv_path_ccdv=${wi_cv_path_ccdv=''}
+wi_cv_printf_long_long=${wi_cv_printf_long_long='%lld'}
+wi_cv_printf_long_long_msg_result=${wi_cv_printf_long_long_msg_result='%lld'}
+wi_cv_printf_ulong_long=${wi_cv_printf_ulong_long='%llu'}
+wi_cv_prog_ldd=${wi_cv_prog_ldd='no'}
+wi_cv_scanf_long_long=${wi_cv_scanf_long_long='%lld'}
+wi_cv_scanf_long_long_msg_result=${wi_cv_scanf_long_long_msg_result='%lld'}
+wi_cv_scanf_ulong_long=${wi_cv_scanf_ulong_long='%llu'}
+wi_cv_send_return_t=${wi_cv_send_return_t='ssize_t'}
+wi_cv_send_size_t=${wi_cv_send_size_t='size_t'}
+wi_cv_shared_libgcc=${wi_cv_shared_libgcc='unknown (ldd is not available to check)'}
+wi_cv_shell_test_symlinks=${wi_cv_shell_test_symlinks='no'}
+wi_cv_snprintf_returns_ptr=${wi_cv_snprintf_returns_ptr='no'}
+wi_cv_snprintf_terminates=${wi_cv_snprintf_terminates='yes'}
+wi_cv_sockaddr_size_t=${wi_cv_sockaddr_size_t='socklen_t'}
+wi_cv_sockaddr_un_sun_len=${wi_cv_sockaddr_un_sun_len='no'}
+wi_cv_sockopt_size_t=${wi_cv_sockopt_size_t='socklen_t'}
+wi_cv_struct_cmsghdr=${wi_cv_struct_cmsghdr='yes'}
+wi_cv_struct_stat64=${wi_cv_struct_stat64='no'}
+wi_cv_struct_timeval_tv_sec=${wi_cv_struct_timeval_tv_sec='long'}
+wi_cv_struct_timeval_tv_usec=${wi_cv_struct_timeval_tv_usec='long'}
+wi_cv_sunwspro_cc_version=${wi_cv_sunwspro_cc_version='0'}
+wi_cv_sunwspro_cc_version2=${wi_cv_sunwspro_cc_version2='0'}
+wi_cv_test_L=${wi_cv_test_L='false'}
+wi_cv_test_not_L=${wi_cv_test_not_L=':'}
+wi_cv_type_long_long=${wi_cv_type_long_long='yes'}
+wi_cv_unix_domain_sockets=${wi_cv_unix_domain_sockets='yes'}
+wi_cv_use_long_long=${wi_cv_use_long_long='yes'}
+wi_cv_use_long_long_msg_result=${wi_cv_use_long_long_msg_result='yes'}
+wi_cv_waddstr_str_t=${wi_cv_waddstr_str_t='const char *'}
+wi_cv_write_return_t=${wi_cv_write_return_t='ssize_t'}
+wi_cv_write_size_t=${wi_cv_write_size_t='size_t'}

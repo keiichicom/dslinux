@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples
+END
+ncurses2-m.ads
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-m.ads
+END
+ncurses.adb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses.adb
+END
+sample-menu_demo-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo-aux.adb
+END
+sample-menu_demo-handler.ads
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo-handler.ads
+END
+sample-form_demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo.adb
+END
+ncurses2-menu_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-menu_test.ads
+END
+explain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/explain.txt
+END
+sample-function_key_setting.ads
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-function_key_setting.ads
+END
+ncurses2-genericputs.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-genericputs.adb
+END
+ncurses2-demo_pad.ads
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_pad.ads
+END
+sample-text_io_demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-text_io_demo.adb
+END
+sample-menu_demo-aux.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo-aux.ads
+END
+ncurses2-getopt.adb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-getopt.adb
+END
+sample-form_demo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo.ads
+END
+sample-my_field_type.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-my_field_type.adb
+END
+sample-curses_demo-attributes.adb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo-attributes.adb
+END
+ncurses2-trace_set.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-trace_set.adb
+END
+ncurses2-genericputs.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-genericputs.ads
+END
+ncurses2-color_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-color_test.adb
+END
+sample-text_io_demo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-text_io_demo.ads
+END
+sample.adb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample.adb
+END
+ncurses2-getopt.ads
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-getopt.ads
+END
+ncurses2-flushinp_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-flushinp_test.adb
+END
+sample-my_field_type.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-my_field_type.ads
+END
+ncurses2-slk_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-slk_test.adb
+END
+sample-curses_demo-attributes.ads
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo-attributes.ads
+END
+ncurses2-trace_set.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-trace_set.ads
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/Makefile.in
+END
+ncurses2-color_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-color_test.ads
+END
+sample-form_demo-handler.adb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo-handler.adb
+END
+sample-explanation.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-explanation.adb
+END
+sample.ads
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample.ads
+END
+sample-header_handler.adb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-header_handler.adb
+END
+ncurses2-flushinp_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-flushinp_test.ads
+END
+ncurses2-slk_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-slk_test.ads
+END
+ncurses2-attr_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-attr_test.adb
+END
+sample-keyboard_handler.adb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-keyboard_handler.adb
+END
+sample-curses_demo-mouse.adb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo-mouse.adb
+END
+sample-form_demo-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo-aux.adb
+END
+sample-helpers.adb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-helpers.adb
+END
+sample-form_demo-handler.ads
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo-handler.ads
+END
+sample-explanation.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-explanation.ads
+END
+sample-header_handler.ads
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-header_handler.ads
+END
+ncurses2.ads
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2.ads
+END
+sample-curses_demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo.adb
+END
+sample-menu_demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo.adb
+END
+ncurses2-demo_panels.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_panels.adb
+END
+tour.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/tour.adb
+END
+ncurses2-getch_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-getch_test.adb
+END
+ncurses2-demo_forms.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_forms.adb
+END
+ncurses2-attr_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-attr_test.ads
+END
+ncurses2-acs_display.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-acs_display.adb
+END
+sample-keyboard_handler.ads
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-keyboard_handler.ads
+END
+sample-curses_demo-mouse.ads
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo-mouse.ads
+END
+sample-form_demo-aux.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-form_demo-aux.ads
+END
+ncurses2-test_sgr_attributes.adb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-test_sgr_attributes.adb
+END
+sample-helpers.ads
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-helpers.ads
+END
+sample-manifest.ads
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-manifest.ads
+END
+sample-curses_demo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-curses_demo.ads
+END
+ncurses2-acs_and_scroll.adb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-acs_and_scroll.adb
+END
+sample-menu_demo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo.ads
+END
+ncurses2-overlap_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-overlap_test.adb
+END
+ncurses2-demo_panels.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_panels.ads
+END
+tour.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/tour.ads
+END
+ncurses2-getch_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-getch_test.ads
+END
+ncurses2-demo_forms.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_forms.ads
+END
+ncurses2-getch.ads
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-getch.ads
+END
+ncurses2-acs_display.ads
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-acs_display.ads
+END
+ncurses2-util.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-util.adb
+END
+ncurses2-test_sgr_attributes.ads
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-test_sgr_attributes.ads
+END
+status.adb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/status.adb
+END
+ncurses2-color_edit.adb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-color_edit.adb
+END
+rain.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/rain.adb
+END
+ncurses2-acs_and_scroll.ads
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-acs_and_scroll.ads
+END
+ncurses2-overlap_test.ads
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-overlap_test.ads
+END
+ncurses2-m.adb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-m.adb
+END
+ncurses2-util.ads
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-util.ads
+END
+sample-menu_demo-handler.adb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-menu_demo-handler.adb
+END
+status.ads
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/status.ads
+END
+ncurses2-menu_test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-menu_test.adb
+END
+ncurses2-color_edit.ads
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-color_edit.ads
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/README
+END
+sample-function_key_setting.adb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/sample-function_key_setting.adb
+END
+rain.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/rain.ads
+END
+ncurses2-demo_pad.adb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/samples/ncurses2-demo_pad.adb
+END

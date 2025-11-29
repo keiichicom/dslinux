@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB/smb.conf
+END
+lsb-samba.spec
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB/lsb-samba.spec
+END
+samba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB/samba.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB/README
+END
+samba.xinetd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/LSB/samba.xinetd
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/setjmp.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/__longjmp.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/bsd-_setjmp.S
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/crt0.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/bsd-setjmp.S
+END
+NR_Math1.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/NR_Math1.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/Makefile
+END
+crtbegin.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/crtbegin.c
+END
+NM_Macros.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/NM_Macros.S
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/fpu_control.h
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/vfork.S
+END
+crt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/crt0.c
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/brk.c
+END
+crtend.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/crtend.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/nios/clone.S
+END

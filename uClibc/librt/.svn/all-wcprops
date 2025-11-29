@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/uClibc/librt
+END
+timer_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/librt/timer_settime.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/uClibc/librt/Makefile
+END
+mq_unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_unlink.c
+END
+timer_getoverr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/librt/timer_getoverr.c
+END
+mq_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_open.c
+END
+timer_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/librt/timer_gettime.c
+END
+mq_receive.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_receive.c
+END
+mq_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_close.c
+END
+timer_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/librt/timer_delete.c
+END
+mq_getsetattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_getsetattr.c
+END
+timer_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/librt/timer_create.c
+END
+mq_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_notify.c
+END
+kernel-posix-timers.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/librt/kernel-posix-timers.h
+END
+mq_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/uClibc/librt/mq_send.c
+END

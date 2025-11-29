@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/hmac
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/hmac/Makefile
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/hmac/hmac.h
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/hmac/hmac.c
+END
+hmactest.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/hmac/hmactest.c
+END

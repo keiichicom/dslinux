@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb
+END
+ocb_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_encrypt.c
+END
+ocb_shift_xor.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_shift_xor.c
+END
+ocb_decrypt_verify_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_decrypt_verify_memory.c
+END
+s_ocb_done.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/s_ocb_done.c
+END
+ocb_done_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_done_encrypt.c
+END
+ocb_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_decrypt.c
+END
+ocb_encrypt_authenticate_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_encrypt_authenticate_memory.c
+END
+ocb_ntz.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_ntz.c
+END
+ocb_done_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_done_decrypt.c
+END
+ocb_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_test.c
+END
+ocb_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/ocb/ocb_init.c
+END

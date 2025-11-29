@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sys
+END
+procfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sys/procfs.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sys/ptrace.h
+END
+trap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sys/trap.h
+END
+ucontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sys/ucontext.h
+END

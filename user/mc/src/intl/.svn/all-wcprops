@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/mc/src/intl
+END
+libintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/libintl.h
+END
+xopen-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/xopen-msg.sed
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/finddomain.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/gettextP.h
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/localealias.c
+END
+linux-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/linux-msg.sed
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/l10nflist.c
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/textdomain.c
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/loadmsgcat.c
+END
+libgettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/libgettext.h
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/bindtextdom.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/gettext.c
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/intl-compat.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/dgettext.c
+END
+cat-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/cat-compat.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/gettext.h
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/dcgettext.c
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/hash-string.h
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/loadinfo.h
+END
+po2tbl.sed.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/po2tbl.sed.in
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/explodename.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mc/src/intl/Makefile.in
+END

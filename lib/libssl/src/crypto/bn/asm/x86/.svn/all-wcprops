@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86
+END
+mul_add.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/mul_add.pl
+END
+sqr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/sqr.pl
+END
+add.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/add.pl
+END
+sub.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/sub.pl
+END
+f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/f
+END
+mul.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/mul.pl
+END
+comba.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/comba.pl
+END
+div.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86/div.pl
+END

@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/bitchx/include
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/screen.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/timer.h
+END
+modval.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/modval.h
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/status.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/hash.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/queue.h
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/gui.h
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/dlfcn.h
+END
+cdcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/cdcc.h
+END
+winbitchx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/bitchx/include/winbitchx.h
+END
+ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/ssl.h
+END
+flood.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/flood.h
+END
+cdrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/cdrom.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/stack.h
+END
+lastlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/lastlog.h
+END
+ircterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/ircterm.h
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/server.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/window.h
+END
+notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/notify.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/list.h
+END
+bsdglob.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/bsdglob.h
+END
+hebrew.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/hebrew.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/array.h
+END
+struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/struct.h
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/exec.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/debug.h
+END
+dcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/dcc.h
+END
+ircaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/ircaux.h
+END
+chelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/chelp.h
+END
+who.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/who.h
+END
+if.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/bitchx/include/if.h
+END
+cset.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/cset.h
+END
+funny.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/funny.h
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/files.h
+END
+names.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/names.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/config.h
+END
+whowas.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/whowas.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/vars.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/color.h
+END
+newio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/newio.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/log.h
+END
+cdns.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/cdns.h
+END
+translat.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/bitchx/include/translat.h
+END
+alias.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/alias.h
+END
+hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/hook.h
+END
+history.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/history.h
+END
+hash2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/hash2.h
+END
+userlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/bitchx/include/userlist.h
+END
+alist.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/alist.h
+END
+irc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/bitchx/include/irc.h
+END
+PMbitchx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/bitchx/include/PMbitchx.h
+END
+notice.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/notice.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/defs.h
+END
+mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/mail.h
+END
+ignore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/ignore.h
+END
+encrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/encrypt.h
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/module.h
+END
+hold.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/hold.h
+END
+defs.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/defs.h.in
+END
+irc_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/irc_std.h
+END
+gtkbitchx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/bitchx/include/gtkbitchx.h
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/help.h
+END
+ctcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/ctcp.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/misc.h
+END
+bitchx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/bitchx
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/input.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/output.h
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/bitchx/include/commands.h
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/bitchx/include/parse.h
+END
+tcl_bx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/bitchx/include/tcl_bx.h
+END
+numbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/bitchx/include/numbers.h
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/bitchx/include/keys.h
+END

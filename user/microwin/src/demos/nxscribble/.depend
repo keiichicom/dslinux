@@ -1,0 +1,15 @@
+nxscribble.o .depend : $(TOP)/config nxscribble.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h scrib.h \
+ hre_api.h li_recognizer.h
+scribwidget.o .depend : $(TOP)/config scribwidget.c scrib.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h hre_api.h \
+ li_recognizer.h
+hre_api.o .depend : $(TOP)/config hre_api.c hre_internal.h util.h
+li_recognizer.o .depend : $(TOP)/config li_recognizer.c util.h matrix.h sc.h li_recognizer.h \
+ li_recognizer_internal.h
+bitvector.o .depend : $(TOP)/config bitvector.c util.h bitvector.h
+matrix.o .depend : $(TOP)/config matrix.c util.h matrix.h bitvector.h
+sc.o .depend : $(TOP)/config sc.c bitvector.h matrix.h util.h sc.h zdebug.h
+util.o .depend : $(TOP)/config util.c util.h

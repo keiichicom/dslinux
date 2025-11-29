@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src
+END
+side.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/side.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/context.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/version.c
+END
+normal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/normal.c
+END
+ed.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/ed.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/Makefile.am
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/system.h
+END
+sdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/sdiff.c
+END
+diff3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/diff3.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/Makefile.in
+END
+analyze.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/analyze.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/io.c
+END
+diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/diff.c
+END
+ifdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/ifdef.c
+END
+diff.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/diff.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/util.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/dir.c
+END
+cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/src/cmp.c
+END

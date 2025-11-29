@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl
+END
+module-fe.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/module-fe.h
+END
+perl-sources.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-sources.c
+END
+perl-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-core.c
+END
+perl-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-common.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/Makefile.am
+END
+perl-sources.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-sources.h
+END
+perl-fe.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-fe.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/module.h
+END
+perl-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-core.h
+END
+perl-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-common.h
+END
+module-formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/module-formats.c
+END
+perl-signals.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-signals.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/Makefile.in
+END
+module-formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/module-formats.h
+END
+perl-signals.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/perl-signals.h
+END
+get-signals.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/get-signals.pl
+END
+irssi-core.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irssi-core.pl
+END

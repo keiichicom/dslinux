@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem
+END
+SDL_gemevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemevents.c
+END
+SDL_gemvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemvideo.c
+END
+SDL_gemmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemmouse.c
+END
+SDL_gemwm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemwm_c.h
+END
+SDL_gemevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemevents_c.h
+END
+SDL_gemvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemvideo.h
+END
+SDL_gemmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemmouse_c.h
+END
+SDL_gemwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/gem/SDL_gemwm.c
+END

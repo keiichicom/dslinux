@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe
+END
+rlfe.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/rlfe.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/extern.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/README
+END
+pty.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/pty.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/config.h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/Makefile.in
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/screen.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/ChangeLog
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/readline/examples/rlfe/os.h
+END

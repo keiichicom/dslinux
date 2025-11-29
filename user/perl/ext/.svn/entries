@@ -1,0 +1,139 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/perl/ext
+https://svn.dslinux.org/svn
+
+
+
+2006-12-05T04:27:30.000000Z
+1514
+dslinux_cayenne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+Data
+dir
+
+List
+dir
+
+Cwd
+dir
+
+util
+dir
+
+File
+dir
+
+B
+dir
+
+Errno
+dir
+
+Filter
+dir
+
+Socket
+dir
+
+PerlIO
+dir
+
+threads
+dir
+
+Encode
+dir
+
+POSIX
+dir
+
+Fcntl
+dir
+
+re
+dir
+
+GDBM_File
+dir
+
+Opcode
+dir
+
+Storable
+dir
+
+IPC
+dir
+
+Sys
+dir
+
+Safe
+dir
+
+NDBM_File
+dir
+
+Digest
+dir
+
+I18N
+dir
+
+ODBM_File
+dir
+
+DynaLoader
+dir
+
+SDBM_File
+dir
+
+DB_File
+dir
+
+Unicode
+dir
+
+MIME
+dir
+
+ByteLoader
+dir
+
+XS
+dir
+
+attrs
+dir
+
+Time
+dir
+
+Devel
+dir
+
+Thread
+dir
+
+IO
+dir
+

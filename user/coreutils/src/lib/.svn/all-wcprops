@@ -1,0 +1,2375 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memchr.c
+END
+linebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/linebuffer.c
+END
+free.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/free.c
+END
+xstrtold.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtold.c
+END
+nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/nanosleep.c
+END
+linebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/linebuffer.h
+END
+argmatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/argmatch.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gettext.h
+END
+imaxtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/imaxtostr.c
+END
+argmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/argmatch.h
+END
+t-fpending.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/t-fpending.c
+END
+gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gettime.c
+END
+rpmatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rpmatch.c
+END
+xgetcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xgetcwd.c
+END
+settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/settime.c
+END
+xgetcwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xgetcwd.h
+END
+uinttostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/uinttostr.c
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/config.charset
+END
+getloadavg.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getloadavg.c
+END
+utimecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/utimecmp.c
+END
+dup-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dup-safer.c
+END
+long-options.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/long-options.c
+END
+utimecmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/utimecmp.h
+END
+mkdirat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkdirat.c
+END
+ftruncate.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/ftruncate.c
+END
+xtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xtime.h
+END
+long-options.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/long-options.h
+END
+strftime.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strftime.c
+END
+config.hin
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/config.hin
+END
+strftime.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strftime.h
+END
+strtoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtoll.c
+END
+regex_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regex_internal.c
+END
+fstatat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fstatat.c
+END
+xstrtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtod.c
+END
+filenamecat.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/filenamecat.c
+END
+openat-priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/openat-priv.h
+END
+fcntl-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fcntl-safer.h
+END
+fcntl_.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fcntl_.h
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/basename.c
+END
+regex_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regex_internal.h
+END
+xstrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtod.h
+END
+dirchownmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirchownmod.c
+END
+filenamecat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/filenamecat.h
+END
+mkstemp-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkstemp-safer.c
+END
+posixver.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/posixver.c
+END
+xstrtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtol.c
+END
+fnmatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fnmatch.c
+END
+gethrxtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gethrxtime.c
+END
+dirchownmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirchownmod.h
+END
+posixver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/posixver.h
+END
+xstrtol.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtol.h
+END
+gethrxtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gethrxtime.h
+END
+fopen-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fopen-safer.c
+END
+strnlen1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnlen1.c
+END
+pathmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/pathmax.h
+END
+randperm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randperm.c
+END
+full-read.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/full-read.c
+END
+strnlen1.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnlen1.h
+END
+getpagesize.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getpagesize.h
+END
+randperm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randperm.h
+END
+diacrit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/diacrit.c
+END
+full-read.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/full-read.h
+END
+xmemcoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xmemcoll.c
+END
+diacrit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/diacrit.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/TODO
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/md5.c
+END
+xmemcoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xmemcoll.h
+END
+openat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/openat.c
+END
+obstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/obstack.c
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readlink.c
+END
+userspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/userspec.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/md5.h
+END
+getdelim.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getdelim.c
+END
+openat.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/openat.h
+END
+obstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/obstack.h
+END
+regcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regcomp.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha1.c
+END
+userspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/userspec.h
+END
+getdelim.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getdelim.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha1.h
+END
+posixtm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/posixtm.c
+END
+exitfail.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/exitfail.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/ChangeLog
+END
+posixtm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/posixtm.h
+END
+human.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/human.c
+END
+exitfail.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/exitfail.h
+END
+human.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/human.h
+END
+rmdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rmdir.c
+END
+timespec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/timespec.h
+END
+readutmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readutmp.c
+END
+xalloc-die.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xalloc-die.c
+END
+utimens.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/utimens.c
+END
+xfts.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xfts.c
+END
+fchmodat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fchmodat.c
+END
+readutmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readutmp.h
+END
+mktime.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mktime.c
+END
+fprintftime.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fprintftime.c
+END
+memcoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcoll.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/Makefile.am
+END
+utimens.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/utimens.h
+END
+xfts.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xfts.h
+END
+pipe-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/pipe-safer.c
+END
+fprintftime.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fprintftime.h
+END
+memcoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcoll.h
+END
+open-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/open-safer.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xmalloc.c
+END
+getusershell.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getusershell.c
+END
+rename.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rename.c
+END
+strverscmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strverscmp.c
+END
+lchmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/lchmod.h
+END
+hard-locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hard-locale.c
+END
+getdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getdate.c
+END
+strverscmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strverscmp.h
+END
+unlocked-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unlocked-io.h
+END
+wcwidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/wcwidth.h
+END
+hard-locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hard-locale.h
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strdup.c
+END
+getdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getdate.h
+END
+root-dev-ino.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/root-dev-ino.c
+END
+intprops.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/intprops.h
+END
+same.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/same.c
+END
+asprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/asprintf.c
+END
+strdup.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strdup.h
+END
+root-dev-ino.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/root-dev-ino.h
+END
+isapipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/isapipe.c
+END
+same.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/same.h
+END
+fts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fts.c
+END
+isapipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/isapipe.h
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getopt.c
+END
+getdate.y
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getdate.y
+END
+getugroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getugroups.c
+END
+sha256.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha256.c
+END
+fnmatch_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fnmatch_loop.c
+END
+sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha256.h
+END
+time_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/time_r.c
+END
+buffer-lcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/buffer-lcm.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hash.c
+END
+u64.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/u64.h
+END
+time_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/time_r.h
+END
+strnlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnlen.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getaddrinfo.c
+END
+same-inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/same-inode.h
+END
+buffer-lcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/buffer-lcm.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hash.h
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcpy.c
+END
+strnlen.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnlen.h
+END
+getaddrinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getaddrinfo.h
+END
+stripslash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stripslash.c
+END
+at-func.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/at-func.c
+END
+version-etc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/version-etc.c
+END
+fchown-stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fchown-stub.c
+END
+fts_.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fts_.h
+END
+version-etc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/version-etc.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memmove.c
+END
+dev-ino.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dev-ino.h
+END
+stdbool_.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdbool_.h
+END
+getgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getgroups.c
+END
+randread.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randread.c
+END
+stdio--.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdio--.h
+END
+inttypes_.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/inttypes_.h
+END
+fnmatch_.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fnmatch_.h
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/ref-del.sin
+END
+randread.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randread.h
+END
+calloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/calloc.c
+END
+safe-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/safe-write.c
+END
+xgethostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xgethostname.c
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regex.c
+END
+version-etc-fsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/version-etc-fsf.c
+END
+safe-write.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/safe-write.h
+END
+xgethostname.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xgethostname.h
+END
+vasprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/vasprintf.c
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regex.h
+END
+mbswidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mbswidth.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gettimeofday.c
+END
+vasprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/vasprintf.h
+END
+cloexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/cloexec.c
+END
+mbswidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mbswidth.h
+END
+inttostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/inttostr.c
+END
+cloexec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/cloexec.h
+END
+strnumcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnumcmp.c
+END
+strtoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtoull.c
+END
+savewd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/savewd.c
+END
+modechange.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/modechange.c
+END
+vasnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/vasnprintf.c
+END
+inttostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/inttostr.h
+END
+strnumcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnumcmp.h
+END
+savewd.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/savewd.h
+END
+modechange.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/modechange.h
+END
+c-strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/c-strtod.c
+END
+vasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/vasnprintf.h
+END
+c-strtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/c-strtod.h
+END
+umaxtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/umaxtostr.c
+END
+verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/verify.h
+END
+printf-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/printf-parse.c
+END
+mbuiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mbuiter.h
+END
+gethostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gethostname.c
+END
+unicodeio.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unicodeio.c
+END
+printf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/printf-parse.h
+END
+fd-reopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fd-reopen.c
+END
+unicodeio.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unicodeio.h
+END
+fd-reopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fd-reopen.h
+END
+strpbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strpbrk.c
+END
+xstrndup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrndup.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/error.c
+END
+lchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/lchown.c
+END
+strpbrk.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strpbrk.h
+END
+xstrndup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrndup.h
+END
+quote.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/quote.c
+END
+fsusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fsusage.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/error.h
+END
+close-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/close-stream.c
+END
+atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/atexit.c
+END
+xstrtoumax.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtoumax.c
+END
+readtokens.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readtokens.c
+END
+randint.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randint.c
+END
+lchown.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/lchown.h
+END
+group-member.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/group-member.c
+END
+quote.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/quote.h
+END
+fsusage.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fsusage.h
+END
+close-stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/close-stream.h
+END
+readtokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readtokens.h
+END
+randint.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/randint.h
+END
+group-member.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/group-member.h
+END
+unsetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unsetenv.c
+END
+memcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcasecmp.c
+END
+rename-dest-slash.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rename-dest-slash.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getcwd.c
+END
+allocsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/allocsa.c
+END
+memcasecmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcasecmp.h
+END
+dirname.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirname.c
+END
+xreadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xreadlink.c
+END
+getcwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getcwd.h
+END
+stpcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stpcpy.c
+END
+allocsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/allocsa.h
+END
+dirname.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirname.h
+END
+stdio-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdio-safer.h
+END
+xreadlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xreadlink.h
+END
+lstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/lstat.c
+END
+stpcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stpcpy.h
+END
+printf-args.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/printf-args.c
+END
+mbchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mbchar.c
+END
+lstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/lstat.h
+END
+sig2str.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sig2str.c
+END
+inet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/inet_ntop.c
+END
+strndup.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strndup.c
+END
+unlinkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unlinkdir.c
+END
+printf-args.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/printf-args.h
+END
+mbchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mbchar.h
+END
+sig2str.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sig2str.h
+END
+inet_ntop.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/inet_ntop.h
+END
+strndup.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strndup.h
+END
+unlinkdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unlinkdir.h
+END
+unistd--.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unistd--.h
+END
+getpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getpass.c
+END
+strtoumax.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtoumax.c
+END
+strcase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strcase.h
+END
+getpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getpass.h
+END
+fileblocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fileblocks.c
+END
+memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memcmp.c
+END
+strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtod.c
+END
+mkstemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkstemp.c
+END
+putenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/putenv.c
+END
+hash-pjw.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hash-pjw.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/base64.c
+END
+stdlib-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdlib-safer.h
+END
+mkstemp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkstemp.h
+END
+hash-pjw.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/hash-pjw.h
+END
+fd-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fd-safer.c
+END
+getline.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getline.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtol.c
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xalloc.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/base64.h
+END
+fts-cycle.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fts-cycle.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memset.c
+END
+getline.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getline.h
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/yesno.c
+END
+yesno.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/yesno.h
+END
+mkdir-p.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkdir-p.c
+END
+mkancesdirs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkancesdirs.c
+END
+xstrtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtoul.c
+END
+offtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/offtostr.c
+END
+mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkdir.c
+END
+mkdir-p.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkdir-p.h
+END
+mkancesdirs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mkancesdirs.h
+END
+euidaccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/euidaccess.c
+END
+canon-host.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/canon-host.c
+END
+mempcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mempcpy.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dup2.c
+END
+cycle-check.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/cycle-check.c
+END
+euidaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/euidaccess.h
+END
+canon-host.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/canon-host.h
+END
+mempcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mempcpy.h
+END
+cycle-check.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/cycle-check.h
+END
+stat_.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stat_.h
+END
+idcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/idcache.c
+END
+stdlib--.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdlib--.h
+END
+realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/realloc.c
+END
+getopt_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getopt_int.h
+END
+openat-die.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/openat-die.c
+END
+exclude.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/exclude.c
+END
+socket_.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/socket_.h
+END
+strcspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strcspn.c
+END
+exclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/exclude.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/Makefile.in
+END
+xmemxfrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xmemxfrm.c
+END
+backupfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/backupfile.c
+END
+getopt_.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getopt_.h
+END
+tempname.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/tempname.c
+END
+xmemxfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xmemxfrm.h
+END
+backupfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/backupfile.h
+END
+tempname.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/tempname.h
+END
+stat-time.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stat-time.h
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtoul.c
+END
+strncasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strncasecmp.c
+END
+xstrtoimax.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xstrtoimax.c
+END
+filemode.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/filemode.c
+END
+openat-proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/openat-proc.c
+END
+filemode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/filemode.h
+END
+getndelim2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getndelim2.c
+END
+creat-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/creat-safer.c
+END
+closeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/closeout.c
+END
+getndelim2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getndelim2.h
+END
+closeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/closeout.h
+END
+stat-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stat-macros.h
+END
+sha512.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha512.c
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/localcharset.c
+END
+gnulib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gnulib.mk
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/malloc.c
+END
+sha512.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/sha512.h
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/localcharset.h
+END
+save-cwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/save-cwd.c
+END
+unistd-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/unistd-safer.h
+END
+memxfrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memxfrm.c
+END
+exit.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/exit.h
+END
+save-cwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/save-cwd.h
+END
+readtokens0.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readtokens0.c
+END
+memxfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memxfrm.h
+END
+strintcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strintcmp.c
+END
+readtokens0.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/readtokens0.h
+END
+chdir-long.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/chdir-long.c
+END
+quotearg.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/quotearg.c
+END
+dirfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirfd.c
+END
+__fpending.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/__fpending.c
+END
+strtoimax.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strtoimax.c
+END
+chdir-long.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/chdir-long.h
+END
+quotearg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/quotearg.h
+END
+dirfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/dirfd.h
+END
+__fpending.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/__fpending.h
+END
+mountlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mountlist.c
+END
+gai_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/gai_strerror.c
+END
+mountlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/mountlist.h
+END
+fcntl--.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fcntl--.h
+END
+fchdir-stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/fchdir-stub.c
+END
+c-strtold.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/c-strtold.c
+END
+xnanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xnanosleep.c
+END
+chown.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/chown.c
+END
+euidaccess-stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/euidaccess-stat.c
+END
+xnanosleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/xnanosleep.h
+END
+physmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/physmem.c
+END
+regexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/regexec.c
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/getopt1.c
+END
+utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/utime.c
+END
+i-ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/i-ring.c
+END
+euidaccess-stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/euidaccess-stat.h
+END
+physmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/physmem.h
+END
+safe-read.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/safe-read.c
+END
+i-ring.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/i-ring.h
+END
+full-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/full-write.c
+END
+alloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/alloca.c
+END
+safe-read.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/safe-read.h
+END
+memrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memrchr.c
+END
+savedir.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/savedir.c
+END
+file-type.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/file-type.c
+END
+canonicalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/canonicalize.c
+END
+alloca_.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/alloca_.h
+END
+acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/acl.c
+END
+full-write.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/full-write.h
+END
+strnumcmp-in.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strnumcmp-in.h
+END
+rand-isaac.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rand-isaac.c
+END
+memrchr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/memrchr.h
+END
+allocsa.valgrind
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/allocsa.valgrind
+END
+savedir.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/savedir.h
+END
+raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/raise.c
+END
+file-type.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/file-type.h
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/snprintf.c
+END
+canonicalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/canonicalize.h
+END
+asnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/asnprintf.c
+END
+acl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/acl.h
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/setenv.c
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/strcasecmp.c
+END
+rand-isaac.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/rand-isaac.h
+END
+snprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/snprintf.h
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/ref-add.sin
+END
+setenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/setenv.h
+END
+stdint_.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/lib/stdint_.h
+END

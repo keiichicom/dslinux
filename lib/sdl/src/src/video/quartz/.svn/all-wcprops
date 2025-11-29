@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz
+END
+CGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/CGS.h
+END
+SDL_QuartzWM.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzWM.h
+END
+SDL_QuartzVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzVideo.h
+END
+SDL_QuartzGL.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzGL.m
+END
+SDL_QuartzWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzWindow.h
+END
+SDL_QuartzWM.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzWM.m
+END
+SDL_QuartzYUV.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzYUV.m
+END
+SDL_QuartzEvents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzEvents.m
+END
+SDL_QuartzKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzKeys.h
+END
+SDL_QuartzVideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzVideo.m
+END
+SDL_QuartzWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/quartz/SDL_QuartzWindow.m
+END

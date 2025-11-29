@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc
+END
+authunix_prot.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/authunix_prot.c
+END
+clnt_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_raw.c
+END
+clnt_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_simple.c
+END
+svc_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_auth.c
+END
+pmap_getmaps.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_getmaps.c
+END
+pmap_rmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_rmt.c
+END
+auth_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/auth_none.c
+END
+bindresvport.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/bindresvport.c
+END
+pmap_prot2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_prot2.c
+END
+rcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rcmd.c
+END
+rpc_commondata.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_commondata.c
+END
+rpc_callmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_callmsg.c
+END
+xdr_rec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_rec.c
+END
+get_myaddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/get_myaddress.c
+END
+xdr_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_mem.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/Makefile
+END
+clnt_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_generic.c
+END
+sa_len.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/sa_len.c
+END
+svc_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_tcp.c
+END
+errqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/errqueue.h
+END
+auth_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/auth_unix.c
+END
+svc_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_raw.c
+END
+create_xid.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/create_xid.c
+END
+clnt_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_udp.c
+END
+xdr_intXX_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_intXX_t.c
+END
+rpc_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_thread.c
+END
+xdr_reference.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_reference.c
+END
+pmap_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_clnt.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/.indent.pro
+END
+svc_auth_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_auth_unix.c
+END
+svc_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_run.c
+END
+rtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rtime.c
+END
+xdr_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_float.c
+END
+rpc_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_private.h
+END
+ruserpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/ruserpass.c
+END
+rpc_prot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_prot.c
+END
+getrpcport.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/getrpcport.c
+END
+clnt_perror.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_perror.c
+END
+rpc_dtablesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rpc_dtablesize.c
+END
+getrpcent.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/getrpcent.c
+END
+svc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc.c
+END
+xdr_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_array.c
+END
+xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr.c
+END
+svc_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_unix.c
+END
+xdr_stdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/xdr_stdio.c
+END
+pmap_prot.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_prot.c
+END
+pmap_getport.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/pmap_getport.c
+END
+clnt_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_unix.c
+END
+svc_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_udp.c
+END
+svc_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/svc_simple.c
+END
+rexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/rexec.c
+END
+clnt_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/inet/rpc/clnt_tcp.c
+END

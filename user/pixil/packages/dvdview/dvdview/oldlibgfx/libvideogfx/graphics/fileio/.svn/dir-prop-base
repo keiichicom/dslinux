@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 112
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+libvideogfx-graphics-fileio.la
+libvideogfx-graphics-fileio-linux.la
+
+END

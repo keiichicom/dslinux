@@ -1,0 +1,33 @@
+HANGMAN(6)                     BSD Games Manual
+HANGMAN(6)
+
+NNAAMMEE
+     hhaannggmmaann — computer version of the
+     game hangman
+
+SSYYNNOOPPSSIISS
+     hhaannggmmaann [--dd _w_o_r_d_l_i_s_t]
+     [--mm _m_i_n_l_e_n]
+
+DDEESSCCRRIIPPTTIIOONN
+     In hhaannggmmaann, the computer picks a word from
+     the on-line word list and you must try to guess it.
+     The computer keeps track of which letters have been
+     guessed and how many wrong guesses you have made on the
+     screen in a graphic fashion.
+
+OOPPTTIIOONNSS
+     --dd    Use the specified _w_o_r_d_l_i_s_t
+     instead of the default one named below.
+
+     --mm    Set the minimum word length to use.  The default
+     is 6 letters.
+
+FFIILLEESS
+     /usr/share/dict/words  On-line word list
+
+AAUUTTHHOORRSS
+     Ken Arnold
+
+BSD                              May 31, 1993
+BSD

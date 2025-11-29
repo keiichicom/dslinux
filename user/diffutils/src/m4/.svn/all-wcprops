@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4
+END
+strftime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/strftime.m4
+END
+prereq.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/prereq.m4
+END
+setmode.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/setmode.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/lib-prefix.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/lib-ld.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/progtest.m4
+END
+malloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/malloc.m4
+END
+vararrays.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/vararrays.m4
+END
+st_mtim.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/st_mtim.m4
+END
+mbrtowc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/mbrtowc.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/iconv.m4
+END
+realloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/realloc.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/glibc21.m4
+END
+c-stack.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/c-stack.m4
+END
+dos.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/dos.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/codeset.m4
+END
+jm-glibc-io.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/jm-glibc-io.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/Makefile.am
+END
+xstrtoumax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/xstrtoumax.m4
+END
+Makefile.am.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/Makefile.am.in
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/lib-link.m4
+END
+c-bs-a.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/c-bs-a.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/lcmessage.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/Makefile.in
+END
+regex.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/regex.m4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/README
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/longlong.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/inttypes.m4
+END
+fnmatch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/fnmatch.m4
+END
+mbstate_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/mbstate_t.m4
+END
+check-decl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/check-decl.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/gettext.m4
+END
+gnu-source.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/gnu-source.m4
+END
+error.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/m4/error.m4
+END

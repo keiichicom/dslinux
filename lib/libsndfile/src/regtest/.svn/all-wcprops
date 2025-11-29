@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest
+END
+database.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/database.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/Makefile.am
+END
+sndfile-regtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/sndfile-regtest.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/Makefile.in
+END
+checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/checksum.c
+END
+regtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/regtest/regtest.h
+END

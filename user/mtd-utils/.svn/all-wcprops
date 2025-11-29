@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/user/mtd-utils
+END
+jffs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/jffs2.h
+END
+compr_rtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mtd-utils/compr_rtime.c
+END
+nandtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/nandtest.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/crc32.h
+END
+doc_loadbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mtd-utils/doc_loadbios.c
+END
+mkfs.jffs2.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mkfs.jffs2.1
+END
+mkfs.jffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mkfs.jffs.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/mtd-utils/lock.c
+END
+nftldump.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/nftldump.c
+END
+mtd_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mtd_debug.c
+END
+jffs-dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/jffs-dump.c
+END
+MAKEDEV
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/MAKEDEV
+END
+unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/mtd-utils/unlock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/mtd-utils/Makefile
+END
+ftl_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mtd-utils/ftl_format.c
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/stamp-h.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mkinstalldirs
+END
+compr_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mtd-utils/compr_zlib.c
+END
+rsencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/rsencode.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mtd-utils/configure.in
+END
+fcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/mtd-utils/fcp.c
+END
+doc_loadipl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mtd-utils/doc_loadipl.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/mtd-utils/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/config.h.in
+END
+ftl_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/ftl_check.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/missing
+END
+eraseall.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/eraseall.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/Makefile.am
+END
+nandwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/nandwrite.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/aclocal.m4
+END
+jffs2reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mtd-utils/jffs2reader.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/install-sh
+END
+mkfs.ffs2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mkfs.ffs2.c
+END
+erase.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/erase.c
+END
+einfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/einfo.c
+END
+device_table.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/mtd-utils/device_table.txt
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/depcomp
+END
+nanddump.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mtd-utils/nanddump.c
+END
+mkfs.jffs2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mtd-utils/mkfs.jffs2.c
+END
+nftl_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mtd-utils/nftl_format.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mtd-utils/crc32.c
+END

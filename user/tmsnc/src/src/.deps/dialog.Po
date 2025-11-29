@@ -1,0 +1,99 @@
+dialog.o dialog.o: dialog.c common.h config.h \
+  /home/andrewec/dslinux/include/curses.h \
+  /home/andrewec/dslinux/include/ncurses_dll.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/include/unctrl.h \
+  /home/andrewec/dslinux/include/gcc/stdbool.h \
+  /home/andrewec/dslinux/include/form.h \
+  /home/andrewec/dslinux/include/eti.h \
+  /home/andrewec/dslinux/include/panel.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h core.h dialog.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h
+
+common.h:
+
+config.h:
+
+/home/andrewec/dslinux/include/curses.h:
+
+/home/andrewec/dslinux/include/ncurses_dll.h:
+
+/home/andrewec/dslinux/uClibc/include/stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h:
+
+/home/andrewec/dslinux/include/unctrl.h:
+
+/home/andrewec/dslinux/include/gcc/stdbool.h:
+
+/home/andrewec/dslinux/include/form.h:
+
+/home/andrewec/dslinux/include/eti.h:
+
+/home/andrewec/dslinux/include/panel.h:
+
+/home/andrewec/dslinux/uClibc/include/pthread.h:
+
+/home/andrewec/dslinux/uClibc/include/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/time.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/time.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h:
+
+/home/andrewec/dslinux/uClibc/include/signal.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigset.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/initspin.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigthread.h:
+
+core.h:
+
+dialog.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/stdlib.h:

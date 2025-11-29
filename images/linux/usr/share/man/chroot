@@ -1,0 +1,55 @@
+CHROOT(1)                        User Commands
+CHROOT(1)
+
+
+
+NNAAMMEE
+       chroot - run command or interactive shell with special
+       root directory
+
+SSYYNNOOPPSSIISS
+       cchhrroooott _N_E_W_R_O_O_T
+       [_C_O_M_M_A_N_D...]  cchhrroooott
+       _O_P_T_I_O_N
+
+DDEESSCCRRIIPPTTIIOONN
+       Run COMMAND with root directory set to NEWROOT.
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       If no command is given, run ``${SHELL} --ii''
+       (default: /bin/sh).
+
+AAUUTTHHOORR
+       Written by Roland McGrath.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       chroot(2)
+
+       The full documentation for cchhrroooott
+       is maintained as  a  Texinfo  manual.  If  the
+       iinnffoo  and cchhrroooott programs are
+       properly installed at your site, the command
+
+              iinnffoo cchhrroooott
+
+       should give you access to the complete manual.
+
+
+
+chroot 6.7                       December 2006
+CHROOT(1)

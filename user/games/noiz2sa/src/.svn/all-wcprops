@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src
+END
+noiz2sa.ico
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/noiz2sa.ico
+END
+clrtbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/clrtbl.c
+END
+soundmanager.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/soundmanager.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/rand.c
+END
+noiz2sa.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/noiz2sa.c
+END
+brgmng_mtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/brgmng_mtd.h
+END
+clrtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/clrtbl.h
+END
+soundmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/soundmanager.h
+END
+rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/rand.h
+END
+noiz2sa.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/noiz2sa.h
+END
+attractmanager.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/attractmanager.c
+END
+degutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/degutil.c
+END
+barragemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/barragemanager.cpp
+END
+attractmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/attractmanager.h
+END
+degutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/degutil.h
+END
+ship.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/ship.c
+END
+noiz2sa.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/noiz2sa.rc
+END
+ship.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/ship.h
+END
+makefile.lin
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/makefile.lin
+END
+foecommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/foecommand.h
+END
+shot.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/shot.c
+END
+foe.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/foe.h
+END
+screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/screen.c
+END
+frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/frag.c
+END
+background.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/background.c
+END
+foe_mtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/foe_mtd.h
+END
+shot.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/shot.h
+END
+frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/frag.h
+END
+background.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/background.h
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/screen.h
+END
+bonus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bonus.c
+END
+bonus.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bonus.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/Makefile
+END
+letterdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/letterdata.h
+END
+letterrender.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/letterrender.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/vector.c
+END
+barragemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/barragemanager.h
+END
+letterrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/letterrender.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/vector.h
+END
+foecommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/foecommand.cpp
+END
+foe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/foe.cpp
+END

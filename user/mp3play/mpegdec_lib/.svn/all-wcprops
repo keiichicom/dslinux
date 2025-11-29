@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib
+END
+mpeg1dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg1dec.h
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/README.TXT
+END
+smakefile.020fpu
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.020fpu
+END
+coldfire_mpegsubb.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/coldfire_mpegsubb.S
+END
+mpeg3dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg3dec.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/Makefile
+END
+smakefile.040fpu
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.040fpu
+END
+smakefile.060fpu
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.060fpu
+END
+SCOPTIONS.020
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.020
+END
+SCOPTIONS.040
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.040
+END
+mpegsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegsub.c
+END
+mpegidma.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegidma.s
+END
+mpegimda.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegimda.S
+END
+SCOPTIONS.060
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.060
+END
+MPEGSUBF.A
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGSUBF.A
+END
+bitstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/bitstr.c
+END
+mpegsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegsub.h
+END
+MPEGIMDF-60.A
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGIMDF-60.A
+END
+SCOPTIONS.020FPU
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.020FPU
+END
+bitstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/bitstr.h
+END
+MPEGSUBF.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGSUBF.H
+END
+SCOPTIONS.040FPU
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.040FPU
+END
+SCOPTIONS.060FPU
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/SCOPTIONS.060FPU
+END
+mpegsubb.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegsubb.S
+END
+mpegimdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegimdc.c
+END
+mpeg2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg2dec.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/defs.h
+END
+huff.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/huff.c
+END
+mpegimda.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegimda.h
+END
+MPEGSUBF-60.A
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGSUBF-60.A
+END
+mpegimdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegimdc.h
+END
+mpeg2dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg2dec.h
+END
+huff.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/huff.h
+END
+MPEGIMDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGIMDF.h
+END
+mpegdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegdec.c
+END
+imdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/imdct.h
+END
+mpegdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegdec.h
+END
+mpegsubb.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegsubb.h
+END
+coldfire_mpegimda.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/coldfire_mpegimda.S
+END
+mp3onlydec.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mp3onlydec.c
+END
+mpegtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegtab.c
+END
+smakefile.020
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.020
+END
+smakefile.040
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.040
+END
+smakefile.060
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/smakefile.060
+END
+mpegtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegtab.h
+END
+mpeg1dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg1dec.c
+END
+MPEGIMDF.A
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/MPEGIMDF.A
+END
+mpegaud.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpegaud.h
+END
+mpeg3dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/mp3play/mpegdec_lib/mpeg3dec.c
+END

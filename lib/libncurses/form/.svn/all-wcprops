@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/lib/libncurses/form
+END
+fld_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_stat.c
+END
+fld_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_page.c
+END
+frm_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_def.c
+END
+fld_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_user.c
+END
+f_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/f_trace.c
+END
+frm_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_hook.c
+END
+llib-lformw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/llib-lformw
+END
+fld_type.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_type.c
+END
+fld_current.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_current.c
+END
+fty_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_alpha.c
+END
+fld_max.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_max.c
+END
+fld_ftlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_ftlink.c
+END
+fty_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_int.c
+END
+frm_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_data.c
+END
+fld_dup.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_dup.c
+END
+llib-lform
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/llib-lform
+END
+fld_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_info.c
+END
+frm_cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_cursor.c
+END
+frm_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_opts.c
+END
+frm_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_post.c
+END
+headers
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/headers
+END
+fld_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_move.c
+END
+frm_scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_scale.c
+END
+fty_regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_regex.c
+END
+frm_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_sub.c
+END
+fld_arg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_arg.c
+END
+fld_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_attr.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/Makefile.in
+END
+frm_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_win.c
+END
+fty_ipv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_ipv4.c
+END
+form.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/form.h
+END
+fld_ftchoice.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_ftchoice.c
+END
+fld_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_opts.c
+END
+fld_just.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_just.c
+END
+frm_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_page.c
+END
+fld_newftyp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_newftyp.c
+END
+fty_num.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_num.c
+END
+fld_link.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_link.c
+END
+frm_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_user.c
+END
+fld_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_def.c
+END
+fty_enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_enum.c
+END
+form.priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/form.priv.h
+END
+modules
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/modules
+END
+fld_pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fld_pad.c
+END
+READ.ME
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/READ.ME
+END
+frm_req_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_req_name.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/Makefile
+END
+fty_alnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/fty_alnum.c
+END
+frm_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/form/frm_driver.c
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video
+END
+e_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/e_log.h
+END
+SDL_surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_surface.c
+END
+SDL_blit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit.c
+END
+SDL_blit_A.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit_A.c
+END
+SDL_blit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit.h
+END
+SDL_yuv_sw_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_yuv_sw_c.h
+END
+SDL_yuv_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_yuv_mmx.c
+END
+SDL_pixels.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_pixels.c
+END
+SDL_glfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_glfuncs.h
+END
+SDL_blit_N.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit_N.c
+END
+e_pow.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/e_pow.h
+END
+SDL_stretch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_stretch.c
+END
+SDL_cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_cursor.c
+END
+SDL_RLEaccel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_RLEaccel_c.h
+END
+SDL_gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_gamma.c
+END
+SDL_yuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_yuv.c
+END
+default_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/default_cursor.h
+END
+math_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/math_private.h
+END
+blank_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/blank_cursor.h
+END
+SDL_yuvfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_yuvfuncs.h
+END
+SDL_yuv_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_yuv_sw.c
+END
+e_sqrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/e_sqrt.h
+END
+SDL_leaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_leaks.h
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/mmx.h
+END
+SDL_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_video.c
+END
+SDL_blit_0.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit_0.c
+END
+SDL_sysvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_sysvideo.h
+END
+SDL_RLEaccel.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_RLEaccel.c
+END
+SDL_blit_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_blit_1.c
+END
+SDL_pixels_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_pixels_c.h
+END
+SDL_bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_bmp.c
+END
+SDL_stretch_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_stretch_c.h
+END
+SDL_cursor_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/SDL_cursor_c.h
+END

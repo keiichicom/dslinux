@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support
+END
+inet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/inet_ntop.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/getopt.c
+END
+inet_ntop.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/inet_ntop.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/getopt.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/win32/support/config.h
+END

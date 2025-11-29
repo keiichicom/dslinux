@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm
+END
+bn-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/bn-586.pl
+END
+x86_64-gcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86_64-gcc.c
+END
+co-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/co-586.pl
+END
+sparcv8plus.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/sparcv8plus.S
+END
+mips3.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/mips3.s
+END
+ppc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/ppc.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/README
+END
+x86.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/x86.pl
+END
+pa-risc2.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/pa-risc2.s
+END
+vms.mar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/vms.mar
+END
+ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/ia64.S
+END
+sparcv8.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/sparcv8.S
+END
+pa-risc2W.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bn/asm/pa-risc2W.s
+END

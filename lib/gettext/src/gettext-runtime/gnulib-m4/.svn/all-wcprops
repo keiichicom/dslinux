@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4
+END
+atexit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/atexit.m4
+END
+csharpcomp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/csharpcomp.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/extensions.m4
+END
+strstr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/strstr.m4
+END
+pathmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/pathmax.m4
+END
+getopt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/getopt.m4
+END
+setenv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/setenv.m4
+END
+localcharset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/localcharset.m4
+END
+strtoul.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/strtoul.m4
+END
+mbrtowc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/mbrtowc.m4
+END
+ssize_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/ssize_t.m4
+END
+strdup.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/strdup.m4
+END
+java.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/java.m4
+END
+xreadlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/xreadlink.m4
+END
+strerror.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/strerror.m4
+END
+strtol.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/strtol.m4
+END
+readlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/readlink.m4
+END
+alloca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/alloca.m4
+END
+mbchar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/mbchar.m4
+END
+canonicalize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/canonicalize.m4
+END
+javacomp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/javacomp.m4
+END
+eealloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/eealloc.m4
+END
+memmove.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/memmove.m4
+END
+stdbool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/stdbool.m4
+END
+unlocked-io.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/unlocked-io.m4
+END
+wcwidth.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/wcwidth.m4
+END
+memchr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/memchr.m4
+END
+gnulib-comp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/gnulib-comp.m4
+END
+relocatable.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/relocatable.m4
+END
+unistd_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/unistd_h.m4
+END
+allocsa.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/allocsa.m4
+END
+csharp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/csharp.m4
+END
+gnulib-cache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/gnulib-cache.m4
+END
+onceonly_2_57.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/onceonly_2_57.m4
+END
+mbiter.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/mbiter.m4
+END
+error.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-m4/error.m4
+END

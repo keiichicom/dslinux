@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/Makefile
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/.indent.pro
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/ipc.h
+END
+ftok.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/ftok.c
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/sem.c
+END
+msgq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/msgq.c
+END
+shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/sysvipc/shm.c
+END

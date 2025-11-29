@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 65
+ifrename
+iwconfig
+iwevent
+iwgetid
+iwlist
+iwpriv
+iwspy
+wireless.h
+
+END

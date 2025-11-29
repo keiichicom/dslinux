@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/uClibc/extra/config
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/conf.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/zconf.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/Makefile
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/textbox.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/yesno.c
+END
+Kconfig-language.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/Kconfig-language.txt
+END
+msgbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/msgbox.c
+END
+zconf.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/zconf.tab.c_shipped
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/lkc_proto.h
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/mconf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/menu.c
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/dialog.h
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/symbol.c
+END
+zconf.tab.h_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/zconf.tab.h_shipped
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/zconf.y
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/colors.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/.svnignore
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/inputbox.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/checklist.c
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/menubox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/expr.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/confdata.c
+END
+lex.zconf.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/lex.zconf.c_shipped
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/uClibc/extra/config/expr.h
+END

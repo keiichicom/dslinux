@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set
+END
+set_b_ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set_b_ca.pem
+END
+set-g-ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set-g-ca.pem
+END
+set_c_ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set_c_ca.pem
+END
+set_d_ct.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set_d_ct.pem
+END
+set-m-ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set-m-ca.pem
+END
+set_root.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/apps/set/set_root.pem
+END

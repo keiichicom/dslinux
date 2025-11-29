@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/busybox
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/busybox/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/busybox/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/busybox/INSTALL
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/busybox/Changelog
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/busybox/.svnignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/busybox/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/busybox/README
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/busybox/mkconfig
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/busybox/.indent.pro
+END
+Rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/busybox/Rules.mak
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/busybox/LICENSE
+END
+install-romfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/install-romfs.sh
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/busybox/defconfig
+END

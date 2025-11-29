@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuremap [
+<!ELEMENT configuremap (configure)+>
+<!ELEMENT configure (#PCDATA)>
+<!ATTLIST configure name CDATA #REQUIRED>
+<!ATTLIST configure value CDATA #REQUIRED>
+]>
+<configuremap>
+  <configure name="NAME" value="ImageMagick"/>
+  <configure name="LIB_VERSION" value="0x642"/>
+  <configure name="LIB_VERSION_NUMBER" value="6,4,2,3"/>
+  <configure name="RELEASE_DATE" value="11/26/25"/>
+  <configure name="CONFIGURE" value="./configure --host=arm-linux-elf --prefix=/nonexistent --disable-largefile --enable-static --disable-shared --without-bzlib --without-dps --without-fpx --without-freetype --without-gslib --without-gvc --without-jbig --without-jp2 --without-lcms --without-openexr --without-tiff --without-perl --with-included-ltdl --without-x --with-jpeg --enable-embeddable"/>
+  <configure name="PREFIX" value="/nonexistent"/>
+  <configure name="EXEC-PREFIX" value="/nonexistent"/>
+  <configure name="VERSION" value="6.4.2"/>
+  <configure name="CC" value="ucfront-gcc arm-linux-elf-gcc"/>
+  <configure name="CFLAGS" value="-O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wall -W"/>
+  <configure name="CPPFLAGS" value="-I/nonexistent/include/ImageMagick"/>
+  <configure name="PCFLAGS" value=""/>
+  <configure name="DEFS" value="-DHAVE_CONFIG_H"/>
+  <configure name="LDFLAGS" value="-L/nonexistent/lib -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes"/>
+  <configure name="LIBS" value="-lMagickCore -ljpeg -lpng -lz -lm -lpthread "/>
+  <configure name="CXX" value="ucfront-g++ arm-linux-elf-g++ "/>
+  <configure name="CXXFLAGS" value="-O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -I /home/andrewec/dslinux/lib/uClibc++/include -fno-builtin -nostdinc++ -DGCC_HASCLASSVISIBILITY -Wno-deprecated -Wall -W"/>
+  <configure name="DISTCHECK_CONFIG_FLAGS" value="'CC=ucfront-gcc arm-linux-elf-gcc ' 'CFLAGS=-O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__' 'CXX=ucfront-g++ arm-linux-elf-g++ ' 'LDFLAGS=-Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes' --disable-deprecated --with-quantum-depth=16 --with-bzlib=no --with-dps=no --with-djvu=no --with-fpx=no --with-gslib=no --with-jbig=no --with-jp2=no --with-tiff=no --with-umem=no --with-wmf=no --with-fontpath= --with-fontconfig=no --with-freetype=no --with-lcms=no --with-gvc=no --with-lqr=no --with-openexr=no --with-rsvg=no --with-xml=no"/>
+  <configure name="HOST" value="arm-linux-elf"/>
+  <configure name="DELEGATES" value="jpeg png zlib"/>
+  <configure name="COPYRIGHT" value="Copyright (C) 1999-2008 ImageMagick Studio LLC"/>
+  <configure name="WEBSITE" value="http://www.imagemagick.org"/>
+  <configure name="QuantumDepth" value="16"/>
+</configuremap>

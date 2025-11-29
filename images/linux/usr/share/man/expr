@@ -1,0 +1,124 @@
+EXPR(1)                          User Commands
+EXPR(1)
+
+
+
+NNAAMMEE
+       expr - evaluate expressions
+
+SSYYNNOOPPSSIISS
+       eexxpprr _E_X_P_R_E_S_S_I_O_N eexxpprr
+       _O_P_T_I_O_N
+
+DDEESSCCRRIIPPTTIIOONN
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       Print  the  value of EXPRESSION to standard output.
+       A blank line below separates increasing precedence
+       groups.  EXPRESSION may be:
+
+       ARG1 | ARG2
+              ARG1 if it is neither null nor 0, otherwise ARG2
+
+       ARG1 & ARG2
+              ARG1 if neither argument is null or 0,
+              otherwise 0
+
+       ARG1 < ARG2
+              ARG1 is less than ARG2
+
+       ARG1 <= ARG2
+              ARG1 is less than or equal to ARG2
+
+       ARG1 = ARG2
+              ARG1 is equal to ARG2
+
+       ARG1 != ARG2
+              ARG1 is unequal to ARG2
+
+       ARG1 >= ARG2
+              ARG1 is greater than or equal to ARG2
+
+       ARG1 > ARG2
+              ARG1 is greater than ARG2
+
+       ARG1 + ARG2
+              arithmetic sum of ARG1 and ARG2
+
+       ARG1 - ARG2
+              arithmetic difference of ARG1 and ARG2
+
+       ARG1 * ARG2
+              arithmetic product of ARG1 and ARG2
+
+       ARG1 / ARG2
+              arithmetic quotient of ARG1 divided by ARG2
+
+       ARG1 % ARG2
+              arithmetic remainder of ARG1 divided by ARG2
+
+       STRING : REGEXP
+              anchored pattern match of REGEXP in STRING
+
+       match STRING REGEXP
+              same as STRING : REGEXP
+
+       substr STRING POS LENGTH
+              substring of STRING, POS counted from 1
+
+       index STRING CHARS
+              index in STRING where any CHARS is found, or 0
+
+       length STRING
+              length of STRING
+
+       + TOKEN
+              interpret TOKEN as a string, even if it is a
+
+              keyword like `match' or an operator like `/'
+
+       ( EXPRESSION )
+              value of EXPRESSION
+
+       Beware that many operators need to be escaped  or
+       quoted  for  shells.  Comparisons are arithmetic
+       if both ARGs are numbers, else lexicographi‐ cal.
+       Pattern matches return the string matched between \(
+       and  \)  or null;  if  \( and \) are not used, they
+       return the number of characters matched or 0.
+
+       Exit status is 0 if EXPRESSION is neither null nor 0,
+       1  if  EXPRESSION is  null  or  0,  2 if EXPRESSION
+       is syntactically invalid, and 3 if an error occurred.
+
+AAUUTTHHOORR
+       Written by Mike Parker.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The  full documentation for eexxpprr is
+       maintained as a Texinfo manual.  If the iinnffoo
+       and eexxpprr programs are properly installed  at
+       your  site,  the command
+
+              iinnffoo eexxpprr
+
+       should give you access to the complete manual.
+
+
+
+expr 6.7                         December 2006
+EXPR(1)

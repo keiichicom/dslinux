@@ -1,0 +1,84 @@
+SNAKE(6)                       BSD Games Manual
+SNAKE(6)
+
+NNAAMMEE
+     ssnnaakkee, ssnnssccoorree — display
+     chase game
+
+SSYYNNOOPPSSIISS
+     ssnnaakkee [--ww _w_i_d_t_h] [--ll
+     _l_e_n_g_t_h] [--tt] ssnnssccoorree
+
+DDEESSCCRRIIPPTTIIOONN
+     ssnnaakkee is a display-based game which must be
+     played on a CRT terminal.  The object of the game is
+     to make as much money as possible without get‐ ting
+     eaten by the snake.  The --ll and --ww options
+     allow you to specify the length and width of the field.
+     By default the entire screen is used.  The --tt option
+     makes the game assume you are on a slow terminal.
+
+     You are represented on the screen by an I.  The snake
+     is 6 squares long and is represented by s's with an S at
+     its head.  The money is $, and an exit is #.  Your score
+     is posted in the upper left hand corner.
+
+     You can move around using the same conventions as vi(1),
+     the hh, jj, kk, and ll keys work, as do the arrow
+     keys.  Other possibilities include:
+
+     sseeffcc    These keys are like hjkl but form a
+     directed pad around the d
+             key.
+
+     HHJJKKLL    These keys move you all the way in the
+     indicated direction to the
+             same row or column as the money.  This does
+             _n_o_t let you jump away from the snake,
+             but rather saves you from having to type a key
+             repeatedly.  The snake still gets all his turns.
+
+     SSEEFFCC    Likewise for the upper case versions on
+     the left.
+
+     AATTPPBB    These keys move you to the four edges
+     of the screen.  Their posi‐
+             tion on the keyboard is the mnemonic, e.g.
+             P is at the far right of the keyboard.
+
+     xx       This lets you quit the game at any time.
+
+     pp       Points in a direction you might want to go.
+
+     ww       Space warp to get out of tight squeezes,
+     at a price.
+
+     To earn money, move to the same square the money is on.
+     A new $ will appear when you earn the current one.
+     As you get richer, the snake gets hungrier.  To leave
+     the game, move to the exit (#).
+
+     A record is kept of the personal best score of each
+     player.  Scores are only counted if you leave at the exit,
+     getting eaten by the snake is worth nothing.
+
+     As in pinball, matching the last digit of your score to
+     the number which appears after the game is worth a bonus.
+
+     To see who wastes time playing snake, run
+     ssnnssccoorree.
+
+FFIILLEESS
+     /home/.snakerawscores  database of personal bests
+     /home/.snake.log       log of games played
+
+BBUUGGSS
+     When playing on a small screen, it's hard to tell when
+     you hit the edge of the screen.
+
+     The scoring function takes into account the size of
+     the screen.  A per‐ fect function to do this equitably
+     has not been devised.
+
+BSD                              May 31, 1993
+BSD

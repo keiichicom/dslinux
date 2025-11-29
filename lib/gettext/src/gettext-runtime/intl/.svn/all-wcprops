@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl
+END
+plural.y
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/plural.y
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/ref-del.sin
+END
+vasnwprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/vasnwprintf.h
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/intl-compat.c
+END
+COPYING.LIB-2.0
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/COPYING.LIB-2.0
+END
+plural-exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/plural-exp.c
+END
+COPYING.LIB-2.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/COPYING.LIB-2.1
+END
+libintl.glibc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/libintl.glibc
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/dcgettext.c
+END
+plural-exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/plural-exp.h
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/printf.c
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/localcharset.c
+END
+dcigettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/dcigettext.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/ChangeLog
+END
+wprintf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/wprintf-parse.h
+END
+os2compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/os2compat.c
+END
+xsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/xsize.h
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/localcharset.h
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/ref-add.sin
+END
+README.woe32
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/README.woe32
+END
+osdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/osdep.c
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/l10nflist.c
+END
+os2compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/os2compat.h
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/textdomain.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/log.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/gettext.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/version.c
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/export.h
+END
+hash-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/hash-string.c
+END
+gmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/gmo.h
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/dgettext.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/lock.c
+END
+eval-plural.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/eval-plural.h
+END
+vasnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/vasnprintf.c
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/hash-string.h
+END
+printf-args.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/printf-args.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/lock.h
+END
+plural.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/plural.c
+END
+vasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/vasnprintf.h
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/loadinfo.h
+END
+localename.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/localename.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/Makefile.in
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/explodename.c
+END
+printf-args.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/printf-args.h
+END
+ngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/ngettext.c
+END
+locale.alias
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/locale.alias
+END
+dngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/dngettext.c
+END
+intl-exports.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/intl-exports.c
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/finddomain.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/gettextP.h
+END
+dcngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/dcngettext.c
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/localealias.c
+END
+printf-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/printf-parse.c
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/config.charset
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/relocatable.c
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/loadmsgcat.c
+END
+printf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/printf-parse.h
+END
+libgnuintl.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/libgnuintl.h.in
+END
+langprefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/langprefs.c
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/bindtextdom.c
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/intl/relocatable.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty
+END
+MKexpanded.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/MKexpanded.sh
+END
+tty_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/tty_display.h
+END
+hardscroll.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/hardscroll.c
+END
+lib_twait.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/lib_twait.c
+END
+lib_tstp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/lib_tstp.c
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/hashmap.c
+END
+lib_mvcur.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/lib_mvcur.c
+END
+tty_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/tty_update.c
+END
+lib_vidattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/lib_vidattr.c
+END
+tty_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tty/tty_input.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/install-sh
+END
+shadow_copy_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/shadow_copy_test.c
+END
+skel_transparent.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/skel_transparent.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/configure.in
+END
+skel_opaque.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/skel_opaque.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/autogen.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/samba/examples/VFS/README
+END

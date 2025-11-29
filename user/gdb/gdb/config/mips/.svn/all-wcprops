@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips
+END
+nbsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/nbsd.mh
+END
+tm-nbsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/tm-nbsd.h
+END
+embed.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/embed.mt
+END
+nm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/nm-linux.h
+END
+nm-irix5.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/nm-irix5.h
+END
+linux.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/linux.mh
+END
+tm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/tm-linux.h
+END
+irix5.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/irix5.mh
+END
+obsd64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/obsd64.mh
+END
+irix6.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/irix6.mh
+END
+nbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/nbsd.mt
+END
+tm-wince.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/tm-wince.h
+END
+linux.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/linux.mt
+END
+irix5.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/irix5.mt
+END
+obsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/obsd64.mt
+END
+irix6.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/irix6.mt
+END
+wince.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/mips/wince.mt
+END

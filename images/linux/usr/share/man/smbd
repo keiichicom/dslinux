@@ -1,0 +1,443 @@
+SMBD(8)
+SMBD(8)
+
+
+
+NNAAMMEE
+       smbd - server to provide SMB/CIFS services to clients
+
+SSYYNNOOPPSSIISS
+       ssmmbbdd [-D] [-F] [-S] [-i] [-h] [-V] [-b]
+       [-d <debug level>]
+            [-l <log directory>] [-p <port number(s)>]
+            [-O <socket option>] [-s <configuration file>]
+
+
+DDEESSCCRRIIPPTTIIOONN
+       This program is part of the ssaammbbaa(7) suite.
+
+
+       ssmmbbdd  is  the server daemon that provides
+       filesharing and printing ser‐ vices to Windows
+       clients. The server  provides  filespace  and
+       printer services  to clients using the SMB (or CIFS)
+       protocol. This is compati‐ ble with the LanManager
+       protocol, and can service  LanManager  clients.
+       These  include  MSCLIENT  3.0  for DOS, Windows for
+       Workgroups, Windows 95/98/ME, Windows NT, Windows 2000,
+       OS/2, DAVE for Macintosh, and smbfs for Linux.
+
+
+       An extensive description of the services that the
+       server can provide is given in the man page for the
+       configuration file  controlling  the  at‐ tributes of
+       those services (see ssmmbb..ccoonnff(5). This
+       man page will not de‐ scribe the services, but will
+       concentrate on the administrative aspects of running
+       the server.
+
+
+       Please note that there are significant security
+       implications to running this server, and the
+       ssmmbb..ccoonnff(5) manual  page  should
+       be  regarded  as mandatory reading before proceeding
+       with installation.
+
+
+       A session is created whenever a client requests
+       one. Each client gets a copy of the server for each
+       session. This copy then services  all  con‐ nections
+       made  by the client during that session. When all
+       connections from its client are closed, the copy of
+       the server for that client ter‐ minates.
+
+
+       The  configuration  file, and any files that it
+       includes, are automati‐ cally reloaded every minute,
+       if they change. You can force a reload  by sending
+       a  SIGHUP to the server. Reloading the configuration
+       file will not affect connections to any service that
+       is already established.  Ei‐ ther  the user will
+       have to disconnect from the service, or ssmmbbdd
+       killed and restarted.
+
+
+OOPPTTIIOONNSS
+       -D     If specified, this parameter causes the server
+       to operate  as  a
+              daemon.  That is, it detaches itself and runs
+              in the background, fielding requests on the
+              appropriate port. Operating the  server as
+              a  daemon is the recommended way of running
+              ssmmbbdd for servers that provide more than
+              casual use file and print services.  This switch
+              is assumed if ssmmbbdd  is executed on the
+              command line of a shell.
+
+
+       -F     If specified, this parameter causes the main
+       ssmmbbdd process to not
+              daemonize,  i.e. double-fork and disassociate
+              with the terminal.  Child processes are still
+              created as normal to service each con‐
+              nection request, but the main process does not
+              exit. This opera‐ tion mode is suitable for
+              runningssmmbbdd under process  supervisors
+              such  as ssuuppeerrvviissee and
+              ssvvssccaann from Daniel J. Bernstein's
+              ddaaeemmoonn‐‐ ttoooollss
+              package, or the AIX process monitor.
+
+
+       -S     If specified, this parameter causesssmmbbdd
+       to log to standard  out‐
+              put rather than a file.
+
+
+       -i     If  this parameter is specified it causes the
+       server to run "in‐
+              teractively", not as a daemon, even if the
+              server is executed on the  command line
+              of a shell. Setting this parameter negates
+              the implicit deamon mode when run from the
+              command line.  ssmmbbdd  also logs to
+              standard output, as if the --SS parameter
+              had been given.
+
+
+       -V     Prints the program version number.
+
+
+       -s <configuration file>
+              The  file  specified contains the configuration
+              details required by the server. The information
+              in this file includes server-spe‐ cific
+              information such as what printcap file to
+              use, as well as descriptions of all the
+              services that the server is to  provide.
+              See  _s_m_b_._c_o_n_f  for  more
+              information. The default configuration file
+              name is determined at compile time.
+
+
+       -d|--debug=debuglevel
+              _d_e_b_u_g_l_e_v_e_l is an integer
+              from 0 to 10. The default value if this parameter
+              is not specified is zero.
+
+              The higher this value, the more detail will be
+              logged to the log files about the activities of
+              the server. At level 0, only crit‐ ical  errors
+              and  serious warnings will be logged. Level 1
+              is a reasonable level for day-to-day running -
+              it generates  a  small amount of information
+              about operations carried out.
+
+              Levels  above  1 will generate considerable
+              amounts of log data, and should only be used
+              when  investigating  a  problem.  Levels above
+              3  are  designed  for use only by developers
+              and generate HUGE amounts of log data, most of
+              which is extremely cryptic.
+
+              Note that specifying this parameter here
+              will override the   pa‐ rameter in the
+              _s_m_b_._c_o_n_f file.
+
+
+       -l|--logfile=logdirectory
+              Base  directory  name for log/debug files. The
+              extension ""..pprroogg‐‐
+              nnaammee"" will be appended
+              (e.g. log.smbclient,  log.smbd,  etc...).
+              The log file is never removed by the client.
+
+
+       -h|--help
+              Print a summary of command line options.
+
+
+       -b     Prints information about how Samba was built.
+
+
+       -p <port number(s)>
+              _p_o_r_t  _n_u_m_b_e_r_(_s_)  is a
+              space or comma-separated list of TCP ports smbd
+              should listen on. The default value is taken from
+              the ports parameter in _s_m_b_._c_o_n_f
+
+              The  default  ports are 139 (used for SMB over
+              NetBIOS over TCP) and port 445 (used for plain
+              SMB over TCP).
+
+
+FFIILLEESS
+       _/_e_t_c_/_i_n_e_t_d_._c_o_n_f
+              If the server is to be run by theiinneettdd
+              meta-daemon,  this  file must contain suitable
+              startup information for the meta-daemon.
+
+
+       _/_e_t_c_/_r_c
+              or whatever initialization script your system
+              uses).
+
+              If  running  the  server  as a daemon at startup,
+              this file will need to contain an appropriate
+              startup sequence for the server.
+
+
+       _/_e_t_c_/_s_e_r_v_i_c_e_s
+              If running the server via the meta-daemon
+              iinneettdd, this file  must contain a
+              mapping of service name (e.g., netbios-ssn)
+              to service port (e.g., 139) and protocol type
+              (e.g., tcp).
+
+
+       _/_u_s_r_/_l_o_c_a_l_/_s_a_m_b_a_/_l_i_b_/_s_m_b_._c_o_n_f
+              This is the default location of the
+              ssmmbb..ccoonnff(5) server
+              configu‐ ration  file. Other common
+              places that systems install this file are
+              _/_u_s_r_/_s_a_m_b_a_/_l_i_b_/_s_m_b_._c_o_n_f
+              and
+              _/_e_t_c_/_s_a_m_b_a_/_s_m_b_._c_o_n_f.
+
+              This file describes all the  services  the
+              server  is  to  make available to clients. See
+              ssmmbb..ccoonnff(5) for more information.
+
+
+LLIIMMIITTAATTIIOONNSS
+       On  some  systems  ssmmbbdd cannot change uid back
+       to root after a setuid() call. Such systems are called
+       trapdoor uid systems. If you have such  a system,  you
+       will be unable to connect from a client (such as a PC)
+       as two different users at once. Attempts to connect the
+       second  user  will result in access denied or similar.
+
+
+EENNVVIIRROONNMMEENNTT VVAARRIIAABBLLEESS
+       PPRRIINNTTEERR
+              If no printer name is specified to printable
+              services, most sys‐ tems will use the value
+              of this variable (or llpp if this variable
+              is  not  defined) as the name of the printer to
+              use. This is not specific to the server, however.
+
+
+PPAAMM IINNTTEERRAACCTTIIOONN
+       Samba uses PAM for authentication  (when  presented
+       with  a  plaintext password),  for  account  checking
+       (is this account disabled?) and for session
+       management. The degree too which  samba  supports
+       PAM  is  re‐ stricted  by  the  limitations of
+       the SMB protocol and the obey pam re‐ strictions
+       ssmmbb..ccoonnff(5) paramater. When this is set,
+       the  following  re‐ strictions apply:
+
+
+       ·  AAccccoouunntt
+       VVaalliiddaattiioonn:  All  accesses  to  a
+       samba server are checked
+          against PAM to see if the account is vaild, not
+          disabled and is per‐ mitted to login at this
+          time. This also applies to encrypted logins.
+
+       ·  SSeessssiioonn
+       MMaannaaggeemmeenntt: When not using share
+       level secuirty, users must
+          pass PAM's session checks before access is  granted.
+          Note  however, that  this  is bypassed in share level
+          secuirty. Note also that some older pam configuration
+          files may need a line added for session sup‐ port.
+
+VVEERRSSIIOONN
+       This man page is correct for version 3.0 of the
+       Samba suite.
+
+
+DDIIAAGGNNOOSSTTIICCSS
+       Most  diagnostics  issued  by  the server are logged in
+       a specified log file. The log file name is specified
+       at compile time, but may be  over‐ ridden on the
+       command line.
+
+
+       The  number  and  nature  of diagnostics available
+       depends on the debug level used by the server. If you
+       have problems, set the debug level  to 3 and peruse
+       the log files.
+
+
+       Most  messages  are  reasonably
+       self-explanatory. Unfortunately, at the time this
+       man page was created, there are too many  diagnostics
+       avail‐ able  in  the source code to warrant describing
+       each and every diagnos‐ tic. At this stage your best
+       bet is still to grep the source  code  and inspect
+       the  conditions that gave rise to the diagnostics you
+       are see‐ ing.
+
+
+TTDDBB FFIILLEESS
+       Samba stores it's data in several TDB
+       (Trivial Database) files, usually located in
+       _/_v_a_r_/_l_i_b_/_s_a_m_b_a.
+
+
+       (*)  information persistent across restarts (but not
+       necessarily impor‐ tant to backup).
+
+
+       account_policy.tdb*
+              NT account policy settings such as pw expiration,
+              etc...
+
+
+       brlock.tdb
+              byte range locks
+
+
+       browse.dat
+              browse lists
+
+
+       connections.tdb
+              share connections (used to enforce max
+              connections, etc...)
+
+
+       gencache.tdb
+              generic caching db
+
+
+       group_mapping.tdb*
+              group mapping information
+
+
+       locking.tdb
+              share modes & oplocks
+
+
+       login_cache.tdb*
+              bad pw attempts
+
+
+       messages.tdb
+              Samba messaging system
+
+
+       netsamlogon_cache.tdb*
+              cache of user net_info_3 struct from
+              net_samlogon() request  (as a domain member)
+
+
+       ntdrivers.tdb*
+              installed printer drivers
+
+
+       ntforms.tdb*
+              installed printer forms
+
+
+       ntprinters.tdb*
+              installed printer information
+
+
+       printing/
+              directory containing tdb per print queue of
+              cached lpq output
+
+
+       registry.tdb
+              Windows registry skeleton (connect via
+              regedit.exe)
+
+
+       sessionid.tdb
+              session information (e.g. support for 'utmp
+              = yes')
+
+
+       share_info.tdb*
+              share acls
+
+
+       winbindd_cache.tdb
+              winbindd's cache of user lists, etc...
+
+
+       winbindd_idmap.tdb*
+              winbindd's local idmap db
+
+
+       wins.dat*
+              wins database when 'wins support = yes'
+
+
+SSIIGGNNAALLSS
+       Sending the ssmmbbdd a SIGHUP will cause it to
+       reload its _s_m_b_._c_o_n_f configu‐ ration
+       file within a short period of time.
+
+
+       To shut down a user's ssmmbbdd process it is
+       recommended that SSIIGGKKIILLLL  ((--99))
+       NNOOTT be used, except as a last resort, as this may
+       leave the shared mem‐ ory area in an inconsistent
+       state. The safe way to terminate an ssmmbbdd is
+       to send it a SIGTERM (-15) signal and wait for it to
+       die on its own.
+
+
+       The  debug  log  level  of  ssmmbbdd may be
+       raised or lowered using ssmmbbccoonn‐‐
+       ttrrooll(1) program (SIGUSR[1|2] signals are no
+       longer  used  since  Samba 2.2). This is to allow
+       transient problems to be diagnosed, whilst still
+       running at a normally low log level.
+
+
+       Note that as the signal handlers send  a  debug  write,
+       they  are  not re-entrant  in  ssmmbbdd.  This  you
+       should wait untilssmmbbdd is in a state of waiting
+       for an incoming SMB before issuing them. It is possible
+       to make the  signal  handlers safe by un-blocking the
+       signals before the select call and re-blocking them
+       after, however this would affect performance.
+
+
+SSEEEE AALLSSOO
+       hhoossttss__aacccceessss(5),
+       iinneettdd(8), nnmmbbdd(8),
+       ssmmbb..ccoonnff(5),
+       ssmmbbcclliieenntt(1),  tteesstt‐‐
+       ppaarrmm(1),  tteessttpprrnnss(1),  and
+       the Internet RFC's_r_f_c_1_0_0_1_._t_x_t,
+       _r_f_c_1_0_0_2_._t_x_t.  In addition the
+       CIFS (formerly SMB) specification  is  available  as
+       a link from the Web page http://samba.org/cifs/.
+
+
+AAUUTTHHOORR
+       The  original  Samba software and related utilities were
+       created by An‐ drew Tridgell. Samba is now developed
+       by the  Samba  Team  as  an  Open Source project
+       similar to the way the Linux kernel is developed.
+
+
+       The  original  Samba  man pages were written by Karl
+       Auer. The man page sources were converted to YODL format
+       (another excellent piece of  Open Source  software,
+       available at ftp://ftp.icce.rug.nl/pub/unix/) and up‐
+       dated for the Samba 2.0 release by Jeremy Allison.
+       The  conversion  to DocBook for Samba 2.2 was done by
+       Gerald Carter. The conversion to Doc‐ Book XML 4.2
+       for Samba 3.0 was done by Alexander Bokovoy.
+
+
+
+
+                                                                       SMBD(8)

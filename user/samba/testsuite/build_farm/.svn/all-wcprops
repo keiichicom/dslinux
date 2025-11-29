@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm
+END
+basicsmb-usersec.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-usersec.test
+END
+basicsmb-hostsequiv.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-hostsequiv.test
+END
+basicsmb-shareguest.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-shareguest.test
+END
+torture_setup.fns
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture_setup.fns
+END
+torture-PROPERTIES.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-PROPERTIES.test
+END
+torture-DIR1.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-DIR1.test
+END
+basicsmb-local-pass-change.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-local-pass-change.test
+END
+torture-UNLINK.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-UNLINK.test
+END
+torture-BROWSE.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-BROWSE.test
+END
+basicsmb-remote-pass-change.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-remote-pass-change.test
+END
+torture-DELETE.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-DELETE.test
+END
+torture-TCONDEV.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TCONDEV.test
+END
+torture-MANGLE.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-MANGLE.test
+END
+torture-TCON.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TCON.test
+END
+torture-TORTURE.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TORTURE.test
+END
+torture-RENAME.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-RENAME.test
+END
+torture-RW1.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-RW1.test
+END
+torture-LOCK2.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK2.test
+END
+torture-LOCK4.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK4.test
+END
+basicsmb-sharesec.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-sharesec.test
+END
+torture-RANDOMIPC.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-RANDOMIPC.test
+END
+basicsmb-sharelist.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-sharelist.test
+END
+torture-LOCK6.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK6.test
+END
+torture-DENY1.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-DENY1.test
+END
+basicsmb-serversec.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-serversec.test
+END
+torture-TCON2.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TCON2.test
+END
+basicsmb.fns
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb.fns
+END
+backtrace
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/backtrace
+END
+basicsmb-hostsdeny.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-hostsdeny.test
+END
+torture-OPEN.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-OPEN.test
+END
+torture-XCOPY.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-XCOPY.test
+END
+torture-OPLOCK1.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-OPLOCK1.test
+END
+torture-LOCK1.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK1.test
+END
+torture-TRANS2.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TRANS2.test
+END
+torture-ATTR.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-ATTR.test
+END
+basicsmb-preexec.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-preexec.test
+END
+torture-OPLOCK3.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-OPLOCK3.test
+END
+torture-RW2.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-RW2.test
+END
+torture-LOCK3.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK3.test
+END
+torture-LOCK5.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK5.test
+END
+torture-DIR.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-DIR.test
+END
+torture-LOCK7.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-LOCK7.test
+END
+torture-FDPASS.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-FDPASS.test
+END
+runlist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/runlist
+END
+torture-DENY2.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-DENY2.test
+END
+basicsmb-domainsec.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-domainsec.test
+END
+basicsmb-domainsec-nt4.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-domainsec-nt4.test
+END
+torture-TCON1.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-TCON1.test
+END
+torture-FDSESS.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/torture-FDSESS.test
+END
+basicsmb-invalidusers.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/build_farm/basicsmb-invalidusers.test
+END

@@ -1,0 +1,1049 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3
+END
+SDL_SetColors.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetColors.3
+END
+SDL_UnlockAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UnlockAudio.3
+END
+SDL_MixAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_MixAudio.3
+END
+SDL_VideoInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_VideoInfo.3
+END
+SDL_MouseButtonEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_MouseButtonEvent.3
+END
+SDL_JoystickIndex.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickIndex.3
+END
+SDL_GetEventFilter.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetEventFilter.3
+END
+SDL_JoystickGetHat.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickGetHat.3
+END
+SDL_LoadWAV.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_LoadWAV.3
+END
+SDL_BuildAudioCVT.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_BuildAudioCVT.3
+END
+SDL_JoystickNumHats.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickNumHats.3
+END
+SDL_QuitSubSystem.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_QuitSubSystem.3
+END
+SDL_GL_SetAttribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GL_SetAttribute.3
+END
+SDL_JoystickEventState.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickEventState.3
+END
+SDL_SetColorKey.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetColorKey.3
+END
+SDL_UnlockSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UnlockSurface.3
+END
+SDL_GetClipRect.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetClipRect.3
+END
+SDL_WM_SetIcon.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_SetIcon.3
+END
+SDL_ActiveEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ActiveEvent.3
+END
+SDL_PeepEvents.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PeepEvents.3
+END
+SDL_GetModState.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetModState.3
+END
+SDL_PushEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PushEvent.3
+END
+SDL_GetAppState.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetAppState.3
+END
+SDL_SetClipRect.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetClipRect.3
+END
+SDL_GetGamma.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetGamma.3
+END
+SDL_WarpMouse.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WarpMouse.3
+END
+SDL_mutexP.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_mutexP.3
+END
+SDL_OpenAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_OpenAudio.3
+END
+SDL_UpdateRects.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UpdateRects.3
+END
+SDL_ThreadID.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ThreadID.3
+END
+SDL_Surface.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Surface.3
+END
+SDL_ConvertSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ConvertSurface.3
+END
+SDL_SetModState.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetModState.3
+END
+SDL_Rect.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Rect.3
+END
+SDL_JoystickNumButtons.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickNumButtons.3
+END
+SDL_PauseAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PauseAudio.3
+END
+SDL_JoystickName.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickName.3
+END
+SDL_ResizeEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ResizeEvent.3
+END
+SDL_PumpEvents.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PumpEvents.3
+END
+SDL_CondWait.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CondWait.3
+END
+SDL_CreateYUVOverlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateYUVOverlay.3
+END
+SDL_GetRGBA.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetRGBA.3
+END
+SDL_DisplayFormat.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DisplayFormat.3
+END
+SDL_keysym.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_keysym.3
+END
+SDL_JoystickGetAxis.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickGetAxis.3
+END
+SDL_CDPlayTracks.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDPlayTracks.3
+END
+SDL_SysWMEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SysWMEvent.3
+END
+SDL_JoystickClose.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickClose.3
+END
+SDL_CloseAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CloseAudio.3
+END
+SDL_GetMouseState.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetMouseState.3
+END
+SDL_GetKeyState.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetKeyState.3
+END
+SDL_JoystickGetButton.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickGetButton.3
+END
+SDL_LockYUVOverlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_LockYUVOverlay.3
+END
+SDL_FreeWAV.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_FreeWAV.3
+END
+SDL_JoyHatEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoyHatEvent.3
+END
+SDL_WM_GetCaption.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_GetCaption.3
+END
+SDL_CreateCursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateCursor.3
+END
+SDL_GetGammaRamp.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetGammaRamp.3
+END
+SDL_Init.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Init.3
+END
+SDL_GL_SwapBuffers.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GL_SwapBuffers.3
+END
+SDL_ShowCursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ShowCursor.3
+END
+SDL_SemWaitTimeout.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SemWaitTimeout.3
+END
+SDL_Event.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Event.3
+END
+SDL_SemValue.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SemValue.3
+END
+SDL_KillThread.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_KillThread.3
+END
+SDL_CDPause.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDPause.3
+END
+SDL_AddTimer.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_AddTimer.3
+END
+SDL_PixelFormat.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PixelFormat.3
+END
+SDL_Flip.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Flip.3
+END
+SDL_SemPost.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SemPost.3
+END
+SDL_JoystickNumBalls.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickNumBalls.3
+END
+SDL_DestroyCond.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DestroyCond.3
+END
+SDL_Palette.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Palette.3
+END
+SDL_UpdateRect.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UpdateRect.3
+END
+SDL_CDEject.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDEject.3
+END
+SDL_BlitSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_BlitSurface.3
+END
+SDL_FillRect.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_FillRect.3
+END
+SDL_VideoModeOK.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_VideoModeOK.3
+END
+SDL_CondBroadcast.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CondBroadcast.3
+END
+SDL_CDClose.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDClose.3
+END
+SDL_LoadBMP.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_LoadBMP.3
+END
+SDL_GetVideoSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetVideoSurface.3
+END
+SDL_EventState.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_EventState.3
+END
+SDL_GetRelativeMouseState.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetRelativeMouseState.3
+END
+SDL_GL_GetAttribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GL_GetAttribute.3
+END
+SDL_CreateMutex.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateMutex.3
+END
+SDL_CDName.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDName.3
+END
+SDL_FreeYUVOverlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_FreeYUVOverlay.3
+END
+SDL_JoystickOpened.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickOpened.3
+END
+SDL_CDStatus.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDStatus.3
+END
+SDL_CreateThread.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateThread.3
+END
+SDL_WaitThread.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WaitThread.3
+END
+SDL_GLattr.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GLattr.3
+END
+SDL_JoystickNumAxes.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickNumAxes.3
+END
+SDL_EnableKeyRepeat.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_EnableKeyRepeat.3
+END
+SDL_UnlockYUVOverlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UnlockYUVOverlay.3
+END
+SDL_KeyboardEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_KeyboardEvent.3
+END
+SDL_JoystickUpdate.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickUpdate.3
+END
+SDL_ListModes.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ListModes.3
+END
+SDL_SetEventFilter.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetEventFilter.3
+END
+SDL_CDResume.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDResume.3
+END
+SDL_CreateSemaphore.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateSemaphore.3
+END
+SDL_LockAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_LockAudio.3
+END
+SDL_SetPalette.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetPalette.3
+END
+SDL_CDtrack.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDtrack.3
+END
+SDL_AudioSpec.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_AudioSpec.3
+END
+SDL_AudioCVT.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_AudioCVT.3
+END
+SDL_FreeCursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_FreeCursor.3
+END
+SDL_Overlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Overlay.3
+END
+SDL_JoystickOpen.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickOpen.3
+END
+SDL_CondSignal.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CondSignal.3
+END
+SDL_InitSubSystem.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_InitSubSystem.3
+END
+SDL_GetVideoInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetVideoInfo.3
+END
+SDL_VideoDriverName.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_VideoDriverName.3
+END
+SDL_CD.3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CD.3
+END
+SDL_mutexV.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_mutexV.3
+END
+SDL_GetKeyName.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetKeyName.3
+END
+SDL_JoystickGetBall.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoystickGetBall.3
+END
+SDL_CreateRGBSurfaceFrom.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateRGBSurfaceFrom.3
+END
+SDL_GL_GetProcAddress.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GL_GetProcAddress.3
+END
+SDL_SaveBMP.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SaveBMP.3
+END
+SDL_RemoveTimer.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_RemoveTimer.3
+END
+SDL_SetGamma.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetGamma.3
+END
+SDL_JoyButtonEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoyButtonEvent.3
+END
+SDL_SetAlpha.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetAlpha.3
+END
+SDL_WM_ToggleFullScreen.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_ToggleFullScreen.3
+END
+SDL_MapRGB.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_MapRGB.3
+END
+SDL_SemTryWait.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SemTryWait.3
+END
+SDL_MapRGBA.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_MapRGBA.3
+END
+SDL_DestroyMutex.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DestroyMutex.3
+END
+SDL_GetTicks.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetTicks.3
+END
+SDL_WasInit.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WasInit.3
+END
+SDL_CondWaitTimeout.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CondWaitTimeout.3
+END
+SDL_GetThreadID.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetThreadID.3
+END
+SDL_GL_LoadLibrary.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GL_LoadLibrary.3
+END
+SDL_JoyAxisEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoyAxisEvent.3
+END
+SDL_FreeSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_FreeSurface.3
+END
+SDL_CDStop.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDStop.3
+END
+SDL_SetTimer.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetTimer.3
+END
+SDL_DestroySemaphore.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DestroySemaphore.3
+END
+SDL_Delay.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Delay.3
+END
+SDL_NumJoysticks.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_NumJoysticks.3
+END
+SDL_ConvertAudio.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ConvertAudio.3
+END
+SDL_ExposeEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_ExposeEvent.3
+END
+SDL_GetAudioStatus.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetAudioStatus.3
+END
+SDL_WaitEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WaitEvent.3
+END
+SDL_PollEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_PollEvent.3
+END
+SDL_DisplayYUVOverlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DisplayYUVOverlay.3
+END
+SDL_RWFromFile.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_RWFromFile.3
+END
+SDL_CDPlay.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDPlay.3
+END
+SDL_WM_SetCaption.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_SetCaption.3
+END
+SDL_GetCursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetCursor.3
+END
+SDL_Color.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Color.3
+END
+SDL_SetGammaRamp.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetGammaRamp.3
+END
+SDL_MouseMotionEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_MouseMotionEvent.3
+END
+SDL_UserEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_UserEvent.3
+END
+SDL_Quit.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_Quit.3
+END
+SDL_CDNumDrives.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDNumDrives.3
+END
+SDL_QuitEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_QuitEvent.3
+END
+SDL_DisplayFormatAlpha.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_DisplayFormatAlpha.3
+END
+SDL_SetVideoMode.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetVideoMode.3
+END
+SDL_GetError.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetError.3
+END
+SDLKey.3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDLKey.3
+END
+SDL_SetCursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SetCursor.3
+END
+SDL_WM_IconifyWindow.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_IconifyWindow.3
+END
+SDL_EnableUNICODE.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_EnableUNICODE.3
+END
+SDL_JoyBallEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_JoyBallEvent.3
+END
+SDL_WM_GrabInput.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_WM_GrabInput.3
+END
+SDL_LockSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_LockSurface.3
+END
+SDL_CreateRGBSurface.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateRGBSurface.3
+END
+SDL_CreateCond.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CreateCond.3
+END
+SDL_CDOpen.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_CDOpen.3
+END
+SDL_SemWait.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_SemWait.3
+END
+SDL_GetRGB.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/docs/man3/SDL_GetRGB.3
+END

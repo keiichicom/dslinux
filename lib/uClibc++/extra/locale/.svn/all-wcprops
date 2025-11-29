@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale
+END
+gen_ldc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_ldc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/README
+END
+gen_collate.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_collate.c
+END
+locale_mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/locale_mmap.h
+END
+tst_nl_langinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/tst_nl_langinfo.c
+END
+LOCALES
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/LOCALES
+END
+gen_mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_mmap.c
+END
+gen_wctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_wctype.c
+END
+lmmtolso.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/lmmtolso.c
+END
+gen_locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_locale.c
+END
+gen_wc8bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/uClibc++/extra/locale/gen_wc8bit.c
+END

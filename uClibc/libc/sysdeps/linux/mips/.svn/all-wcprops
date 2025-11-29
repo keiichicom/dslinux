@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/brk.c
+END
+setjmp_aux.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/setjmp_aux.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/clone.S
+END
+sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/sigaction.c
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/crti.S
+END
+__syscall_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/__syscall_error.c
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/setjmp.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/crtn.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/bsd-_setjmp.S
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/crt0.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/bsd-setjmp.S
+END
+sgidefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/sgidefs.h
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/mmap.c
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/syscall.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/Makefile
+END
+pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/pipe.c
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/fpu_control.h
+END
+__longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/__longjmp.c
+END
+cacheflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/cacheflush.c
+END
+pread_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/pread_write.c
+END
+sysmips.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/sysmips.c
+END
+_test_and_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/_test_and_set.c
+END
+pipe.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/mips/pipe.S
+END

@@ -1,0 +1,81 @@
+HNB(SECTION)
+HNB(SECTION)
+
+
+
+NNAAMMEE
+       hnb - Hierarchical notebook
+
+SSYYNNOOPPSSIISS
+       hhnnbb [_f_i_l_e] [_o_p_t_i_o_n_s]
+       [_c_o_m_m_a_n_d [_c_o_m_m_a_n_d] .. ]
+
+DDEESSCCRRIIPPTTIIOONN
+       This manual page documents briefly the hhnnbb
+       hierarchical notebook.
+
+       hhnnbb  is an ncurses program to organize many
+       kinds of data in one place, for example addresses,
+       todo lists, ideas,  book  reviews  or  to  store
+       snippets of brainstorming, to make a structured packing
+       list or just to take random notes.  It can export
+       ascii/html/latex/postscript, supports todo checkboxes,
+       checkbox trees with percentages and searching.
+
+       hhnnbb  uses  a simple ascii file for storing
+       your notes. This file can be specified on the command
+       line. If not specified, ~/.hnb is  loaded  (or created
+       if missing).
+
+OOPPTTIIOONNSS
+       hhnnbb can be invoked with the following options:
+
+       --hh,, ----hheellpp
+              Show summary of options.
+
+       --vv,, ----vveerrssiioonn
+              Show version of program.
+
+       --tt,, ----ttuuttoorriiaall
+              Load the tutorial instead of a database.
+
+       --rrcc <<_f_i_l_e>>
+              Load an other config file than default.
+
+       --uuii <<ccuurrsseess||ccllii>>
+              Specify user interface to use.
+
+       --ee     Run  commands  in noninteractive mode
+       (start hnb with the cli ui
+              and type `help' to get more information).
+
+FFIILLEESS
+       ~/.hnb The default file for your notes. To use an
+       other,  specify  its
+              name on the command line.
+
+
+       ~/.hnbrc
+              The  default  configuration  file.  To load
+              an other config file than default, use the
+              --rrcc command-line option.
+
+
+SSEEEE AALLSSOO
+       For more information on the usage of the program,
+       load the tutorial  or press FF11 in the program.
+
+       hnb homepage: http://hnb.sourceforge.net
+
+AAUUTTHHOORR
+       hnb was written by 0yvind Kolas
+       <pippin@users.sourceforge.net>.
+
+       This  manual  page was written by Andras Bali
+       <drewie@bigfoot.com>, for the Debian GNU/Linux system
+       (but may be used by others).
+
+
+
+                                 May 15, 2001
+                                 HNB(SECTION)

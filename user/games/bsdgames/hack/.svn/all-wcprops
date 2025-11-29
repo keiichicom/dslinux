@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/alloc.c
+END
+hack.makemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.makemon.c
+END
+def.eshk.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.eshk.h
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/Makefrag
+END
+hack.pri.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.pri.c
+END
+Original_READ_ME
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/Original_READ_ME
+END
+hack.termcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.termcap.c
+END
+def.monst.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.monst.h
+END
+def.objclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.objclass.h
+END
+hack.pager.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.pager.c
+END
+hack.wizard.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.wizard.c
+END
+def.mkroom.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.mkroom.h
+END
+hack.invent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.invent.c
+END
+def.trap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.trap.h
+END
+hack.fix
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.fix
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/config.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/extern.h
+END
+hack.objnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.objnam.c
+END
+hack.bones.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.bones.c
+END
+READ_ME
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/READ_ME
+END
+hack.potion.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.potion.c
+END
+makedefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/makedefs.c
+END
+def.edog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.edog.h
+END
+def.rm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.rm.h
+END
+hack.read.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.read.c
+END
+hack.mklev.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mklev.c
+END
+hack.topl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.topl.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/COPYRIGHT
+END
+hack.unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.unix.c
+END
+hack.apply.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.apply.c
+END
+hack.version.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.version.c
+END
+hack.mhitu.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mhitu.c
+END
+hack.mon.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mon.c
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/Makefile.bsd
+END
+hack.fight.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.fight.c
+END
+hack.do.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.do.c
+END
+def.wseg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.wseg.h
+END
+hack.track.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.track.c
+END
+hack.search.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.search.c
+END
+hack.end.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.end.c
+END
+hack.steal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.steal.c
+END
+hack.ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.ioctl.c
+END
+date.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/date.h
+END
+def.func_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.func_tab.h
+END
+COPYRIGHT-JF
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/COPYRIGHT-JF
+END
+hack.do_wear.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.do_wear.c
+END
+hack.shknam.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.shknam.c
+END
+hack.shk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.shk.c
+END
+hack.worn.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.worn.c
+END
+pathnames.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/pathnames.h.in
+END
+hack.u_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.u_init.c
+END
+hack.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.sh
+END
+hack.vault.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.vault.c
+END
+hack.mkshop.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mkshop.c
+END
+hack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.c
+END
+rumors
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/rumors
+END
+hack.do_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.do_name.c
+END
+hack.cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.cmd.c
+END
+OWNER
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/OWNER
+END
+hack.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.h
+END
+def.obj.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.obj.h
+END
+hack.eat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.eat.c
+END
+hack.dog.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.dog.c
+END
+hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hh
+END
+hack.mfndpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mfndpos.h
+END
+rnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/rnd.c
+END
+hack.tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.tty.c
+END
+data
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/data
+END
+hack.mkmaze.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mkmaze.c
+END
+hack.lev.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.lev.c
+END
+def.objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.objects.h
+END
+hack.timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.timeout.c
+END
+hack.engrave.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.engrave.c
+END
+hack.rumors.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.rumors.c
+END
+hack.6.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.6.in
+END
+hack.rip.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.rip.c
+END
+hack.zap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.zap.c
+END
+hack.options.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.options.c
+END
+hack.save.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.save.c
+END
+hack.monst.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.monst.c
+END
+hack.mkobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.mkobj.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/.svnignore
+END
+help
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/help
+END
+def.permonst.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.permonst.h
+END
+hack.wield.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.wield.c
+END
+def.flag.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.flag.h
+END
+def.gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.gen.h
+END
+hack.trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.trap.c
+END
+hack.Decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.Decl.c
+END
+Makequest
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/Makequest
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/pathnames.h
+END
+hack.o_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.o_init.c
+END
+def.gold.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/def.gold.h
+END
+hack.main.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.main.c
+END
+hack.worm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/hack/hack.worm.c
+END

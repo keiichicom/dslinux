@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/aes/asm
+END
+aes-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/aes/asm/aes-586.pl
+END
+aes-ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/aes/asm/aes-ia64.S
+END

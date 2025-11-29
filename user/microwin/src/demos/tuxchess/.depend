@@ -1,0 +1,10 @@
+main.o .depend : $(TOP)/config main.c defs.h data.h protos.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+board.o .depend : $(TOP)/config board.c defs.h data.h protos.h
+data.o .depend : $(TOP)/config data.c defs.h
+eval.o .depend : $(TOP)/config eval.c defs.h data.h protos.h
+search.o .depend : $(TOP)/config search.c defs.h data.h protos.h
+images.o .depend : $(TOP)/config images.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h

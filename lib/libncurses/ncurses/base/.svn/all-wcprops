@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base
+END
+wresize.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/wresize.c
+END
+lib_addch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_addch.c
+END
+lib_pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_pad.c
+END
+lib_bkgd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_bkgd.c
+END
+MKunctrl.awk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/MKunctrl.awk
+END
+lib_initscr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_initscr.c
+END
+vsscanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/vsscanf.c
+END
+lib_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_color.c
+END
+lib_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_echo.c
+END
+lib_clearok.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_clearok.c
+END
+lib_newterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_newterm.c
+END
+lib_set_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_set_term.c
+END
+lib_endwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_endwin.c
+END
+lib_scrreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_scrreg.c
+END
+lib_leaveok.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_leaveok.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/README
+END
+nc_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/nc_panel.c
+END
+lib_ungetch.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_ungetch.c
+END
+lib_refresh.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_refresh.c
+END
+lib_erase.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_erase.c
+END
+lib_newwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_newwin.c
+END
+lib_slklab.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slklab.c
+END
+lib_slkrefr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkrefr.c
+END
+lib_slkinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkinit.c
+END
+lib_addstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_addstr.c
+END
+lib_scrollok.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_scrollok.c
+END
+lib_slkcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkcolor.c
+END
+keybound.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/keybound.c
+END
+lib_colorset.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_colorset.c
+END
+lib_getch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_getch.c
+END
+sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/sigaction.c
+END
+MKkeyname.awk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/MKkeyname.awk
+END
+keyok.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/keyok.c
+END
+lib_hline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_hline.c
+END
+lib_mvwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_mvwin.c
+END
+lib_insnstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_insnstr.c
+END
+lib_dft_fgbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_dft_fgbg.c
+END
+lib_slkset.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkset.c
+END
+lib_getstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_getstr.c
+END
+lib_winch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_winch.c
+END
+lib_slkatr_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkatr_set.c
+END
+lib_beep.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_beep.c
+END
+lib_slkatrset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkatrset.c
+END
+define_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/define_key.c
+END
+lib_vline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_vline.c
+END
+lib_redrawln.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_redrawln.c
+END
+lib_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_screen.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/memmove.c
+END
+lib_isendwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_isendwin.c
+END
+lib_clreol.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_clreol.c
+END
+lib_overlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_overlay.c
+END
+lib_touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_touch.c
+END
+lib_printw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_printw.c
+END
+lib_slkattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkattr.c
+END
+lib_restart.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_restart.c
+END
+lib_slkatrof.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkatrof.c
+END
+lib_clrbot.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_clrbot.c
+END
+lib_clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_clear.c
+END
+lib_chgat.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_chgat.c
+END
+lib_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_mouse.c
+END
+lib_box.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_box.c
+END
+lib_wattroff.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_wattroff.c
+END
+lib_slkatron.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkatron.c
+END
+lib_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_flash.c
+END
+safe_sprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/safe_sprintf.c
+END
+lib_instr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_instr.c
+END
+tries.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/tries.c
+END
+resizeterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/resizeterm.c
+END
+lib_insch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_insch.c
+END
+lib_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_move.c
+END
+lib_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_window.c
+END
+lib_nl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_nl.c
+END
+lib_inchstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_inchstr.c
+END
+lib_freeall.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_freeall.c
+END
+lib_scanw.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_scanw.c
+END
+lib_insdel.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_insdel.c
+END
+lib_delch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_delch.c
+END
+key_defined.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/key_defined.c
+END
+lib_delwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_delwin.c
+END
+lib_immedok.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_immedok.c
+END
+lib_slk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slk.c
+END
+MKlib_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/MKlib_gen.sh
+END
+lib_slktouch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slktouch.c
+END
+lib_scroll.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_scroll.c
+END
+lib_wattron.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_wattron.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/version.c
+END
+lib_slkclear.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/base/lib_slkclear.c
+END

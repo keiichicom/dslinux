@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/Pod/Perldoc/t
+END
+checkerbasic.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/lib/Pod/Perldoc/t/checkerbasic.t
+END
+textbasic.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/lib/Pod/Perldoc/t/textbasic.t
+END
+perldocbasic.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/lib/Pod/Perldoc/t/perldocbasic.t
+END
+01_about_verbose.t
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/perl/lib/Pod/Perldoc/t/01_about_verbose.t
+END

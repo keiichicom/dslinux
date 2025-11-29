@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref
+END
+rsaref.ec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/rsaref.ec
+END
+rsaref_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/rsaref_err.c
+END
+build.com
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/build.com
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/README
+END
+rsaref_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/rsaref_err.h
+END
+rsaref.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/rsaref/rsaref.c
+END

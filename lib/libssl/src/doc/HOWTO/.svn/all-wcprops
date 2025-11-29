@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libssl/src/doc/HOWTO
+END
+keys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/doc/HOWTO/keys.txt
+END
+certificates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/doc/HOWTO/certificates.txt
+END
+proxy_certificates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libssl/src/doc/HOWTO/proxy_certificates.txt
+END

@@ -1,0 +1,80 @@
+UNAME(1)                         User Commands
+UNAME(1)
+
+
+
+NNAAMMEE
+       uname - print system information
+
+SSYYNNOOPPSSIISS
+       uunnaammee [_O_P_T_I_O_N]...
+
+DDEESSCCRRIIPPTTIIOONN
+       Print certain system information.  With no OPTION,
+       same as --ss.
+
+       --aa, ----aallll
+              print  all  information,  in the following order,
+              except omit --pp and --ii if unknown:
+
+       --ss, ----kkeerrnneell--nnaammee
+              print the kernel name
+
+       --nn, ----nnooddeennaammee
+              print the network node hostname
+
+       --rr, ----kkeerrnneell--rreelleeaassee
+              print the kernel release
+
+       --vv, ----kkeerrnneell--vveerrssiioonn
+              print the kernel version
+
+       --mm, ----mmaacchhiinnee
+              print the machine hardware name
+
+       --pp, ----pprroocceessssoorr
+              print the processor type or "unknown"
+
+       --ii,
+       ----hhaarrddwwaarree--ppllaattffoorrmm
+              print the hardware platform or "unknown"
+
+       --oo,
+       ----ooppeerraattiinngg--ssyysstteemm
+              print the operating system
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+AAUUTTHHOORR
+       Written by David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       uname(2)
+
+       The full documentation for uunnaammee is
+       maintained as a Texinfo manual.  If the iinnffoo
+       and uunnaammee programs are properly installed
+       at  your  site,  the command
+
+              iinnffoo uunnaammee
+
+       should give you access to the complete manual.
+
+
+
+uname 6.7                        December 2006
+UNAME(1)

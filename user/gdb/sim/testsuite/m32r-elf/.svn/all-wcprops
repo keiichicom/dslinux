@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/configure.ac
+END
+hello.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/hello.s
+END
+exit47.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/exit47.s
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/ChangeLog
+END
+loop.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/m32r-elf/loop.s
+END

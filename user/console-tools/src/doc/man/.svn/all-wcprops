@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2361/trunk/user/console-tools/src/doc/man
+END
+psfgettable.1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/psfgettable.1
+END
+setleds.1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/setleds.1
+END
+unicode_start.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/unicode_start.1
+END
+kbd_mode.1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/kbd_mode.1
+END
+chvt.1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/chvt.1
+END
+console.4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/console.4
+END
+dumpkeys.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/dumpkeys.1.in
+END
+setmetamode.1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/setmetamode.1
+END
+psfaddtable.1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/psfaddtable.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/Makefile.am
+END
+showcfont.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/showcfont.1
+END
+openvt.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/openvt.1
+END
+keymaps.5
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/keymaps.5
+END
+getkeycodes.8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/getkeycodes.8
+END
+deallocvt.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/deallocvt.1
+END
+fgconsole.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/fgconsole.1
+END
+loadkeys.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/loadkeys.1.in
+END
+console_ioctls.4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/console_ioctls.4
+END
+psfstriptable.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/psfstriptable.1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2361/trunk/user/console-tools/src/doc/man/Makefile.in
+END
+vt-is-UTF8.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/vt-is-UTF8.1
+END
+charset.1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/charset.1
+END
+setkeycodes.8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/setkeycodes.8
+END
+showkey.1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/showkey.1
+END
+resizecons.8
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/resizecons.8
+END
+unicode_stop.1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/unicode_stop.1
+END
+consolechars.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2287/trunk/user/console-tools/src/doc/man/consolechars.8.in
+END

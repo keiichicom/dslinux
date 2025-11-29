@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/autogen.sh
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/block.c
+END
+codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/codebook.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/info.c
+END
+lsp_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/lsp_lookup.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/Makefile
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/Makefile.in
+END
+vorbisfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/vorbisfile.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/configure.in
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/CHANGELOG
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/window.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/README
+END
+res012.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/res012.c
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/window.h
+END
+ivorbisfile_example.c.org
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/ivorbisfile_example.c.org
+END
+ivorbiscodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/ivorbiscodec.h
+END
+sharedbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/sharedbook.c
+END
+ivorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/ivorbisfile.h
+END
+framing.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/framing.c
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/mdct.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/COPYING
+END
+ivorbisfile_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/ivorbisfile_example.c
+END
+synthesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/synthesis.c
+END
+mdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/mdct.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/aclocal.m4
+END
+config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/config_types.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/misc.h
+END
+floor0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/floor0.c
+END
+floor1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/floor1.c
+END
+bitwise.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/bitwise.c
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/registry.c
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/os_types.h
+END
+mapping0.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/mapping0.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/registry.h
+END
+codec_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/codec_internal.h
+END
+backends.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/backends.h
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/ogg.h
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/libtool
+END
+asm_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/asm_arm.h
+END
+mdct_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/mdct_lookup.h
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/codebook.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/os.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/oggplay/Tremor/Makefile.am
+END

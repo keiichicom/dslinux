@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/sysdep.h
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/brk.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/clone.S
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/crti.S
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/setjmp.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/__longjmp.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/crtn.S
+END
+sysdep.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/sysdep.S
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/syscall.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/Makefile
+END
+__init_brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/__init_brk.c
+END
+sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/sbrk.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/fork.c
+END
+libc.map
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/libc.map
+END
+crt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/cris/crt0.c
+END

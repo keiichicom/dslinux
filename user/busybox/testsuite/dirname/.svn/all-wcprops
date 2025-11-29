@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname
+END
+dirname-handles-single-component
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-single-component
+END
+dirname-handles-root
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-root
+END
+dirname-handles-relative-path
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-relative-path
+END
+dirname-handles-absolute-path
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-absolute-path
+END
+dirname-handles-empty-path
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-empty-path
+END
+dirname-works
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-works
+END
+dirname-handles-multiple-slashes
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dirname/dirname-handles-multiple-slashes
+END

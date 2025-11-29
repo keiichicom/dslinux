@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/Makefile.am
+END
+rebuffer.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/rebuffer.template
+END
+msadpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/msadpcm.h
+END
+adpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/adpcm.h
+END
+rebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/rebuffer.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/Makefile.in
+END
+rebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/rebuffer.h
+END
+ima.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/ima.c
+END
+ima.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/ima.h
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/pcm.c
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/g711.c
+END
+pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/pcm.h
+END
+msadpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/msadpcm.c
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/g711.h
+END
+adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules/adpcm.c
+END

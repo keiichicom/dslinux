@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man
+END
+envsubst.x
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/envsubst.x
+END
+textdomain.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/textdomain.3.html
+END
+bind_textdomain_codeset.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bind_textdomain_codeset.3.html
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ChangeLog
+END
+gettext.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.3.html
+END
+x-to-1.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/x-to-1.in
+END
+dcgettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/dcgettext.3
+END
+ngettext.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.3.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/Makefile.am
+END
+textdomain.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/textdomain.3
+END
+bind_textdomain_codeset.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bind_textdomain_codeset.3
+END
+bindtextdomain.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bindtextdomain.3.in
+END
+textdomain.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/textdomain.3.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/Makefile.in
+END
+bind_textdomain_codeset.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bind_textdomain_codeset.3.in
+END
+gettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.3
+END
+gettext.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.1.in
+END
+dgettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/dgettext.3
+END
+gettext.x
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.x
+END
+gettext.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.3.in
+END
+gettext.1.html.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/gettext.1.html.in
+END
+ngettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.3
+END
+ngettext.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.1.in
+END
+help2man
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/help2man
+END
+dngettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/dngettext.3
+END
+ngettext.x
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.x
+END
+ngettext.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.3.in
+END
+envsubst.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/envsubst.1
+END
+ngettext.1.html.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/ngettext.1.html.in
+END
+bindtextdomain.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bindtextdomain.3
+END
+dcngettext.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/dcngettext.3
+END
+envsubst.1.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/envsubst.1.html
+END
+bindtextdomain.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/man/bindtextdomain.3.html
+END

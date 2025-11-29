@@ -1,0 +1,1199 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests
+END
+CP932.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP932.TXT
+END
+CP853.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP853.TXT
+END
+CP737.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP737.TXT
+END
+EUC-TW.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-TW.TXT
+END
+CP936.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP936.TXT
+END
+CP855.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP855.TXT
+END
+CP857.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP857.TXT
+END
+MacThai.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacThai.TXT
+END
+CP1161.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1161.IRREVERSIBLE.TXT
+END
+CP1133.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1133.TXT
+END
+CP1251.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1251.TXT
+END
+TCVN-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TCVN-snippet
+END
+UCS-2LE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-2LE-snippet
+END
+CP1253.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1253.TXT
+END
+CP1258.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1258.IRREVERSIBLE.TXT
+END
+JIS_X0201.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/JIS_X0201.TXT
+END
+CP1255.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1255.TXT
+END
+CP1257.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1257.TXT
+END
+genutf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/genutf8.c
+END
+check-stateful
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateful
+END
+ISO-2022-JP-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-snippet
+END
+check-stateful.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateful.cmd
+END
+UTF-16BE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16BE-snippet
+END
+table-from.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/table-from.c
+END
+CP860.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP860.TXT
+END
+CP862.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP862.TXT
+END
+UTF-32LE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32LE-snippet
+END
+CP864.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP864.TXT
+END
+Quotes.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Quotes.UTF-8
+END
+check-stateless
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateless
+END
+Translit1.ISO-8859-1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Translit1.ISO-8859-1
+END
+CP866.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP866.TXT
+END
+check-stateless.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateless.cmd
+END
+CP949.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP949.TXT
+END
+ISO-2022-CN-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-CN-snippet
+END
+MacGreek.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacGreek.TXT
+END
+HZ-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/HZ-snippet
+END
+EUC-JP.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-JP.TXT
+END
+ISO-8859-11.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-11.TXT
+END
+ISO-8859-13.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-13.TXT
+END
+CP1258-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1258-snippet.UTF-8
+END
+ISO-8859-15.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-15.TXT
+END
+MacCentralEurope.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacCentralEurope.TXT
+END
+ISO-2022-KR-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-KR-snippet
+END
+Georgian-Academy.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Georgian-Academy.TXT
+END
+CP932.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP932.IRREVERSIBLE.TXT
+END
+check-translit.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-translit.cmd
+END
+CP950.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP950.TXT
+END
+TranslitFail1.ISO-8859-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TranslitFail1.ISO-8859-1
+END
+MacArabic.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacArabic.TXT
+END
+UCS-4BE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-4BE-snippet
+END
+TCVN.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TCVN.IRREVERSIBLE.TXT
+END
+MacRomania.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacRomania.TXT
+END
+KOI8-R.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/KOI8-R.TXT
+END
+DEC-HANYU.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/DEC-HANYU.IRREVERSIBLE.TXT
+END
+CP1163.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1163.IRREVERSIBLE.TXT
+END
+NEXTSTEP.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/NEXTSTEP.TXT
+END
+KOI8-T.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/KOI8-T.TXT
+END
+ISO-2022-CN-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-CN-snippet.UTF-8
+END
+EUC-JP.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-JP.IRREVERSIBLE.TXT
+END
+BIG5-HKSCS-2004.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2004.TXT
+END
+JOHAB.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/JOHAB.TXT
+END
+UTF-16-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16-snippet
+END
+check-stateful.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateful.bat
+END
+Translit1.ASCII
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Translit1.ASCII
+END
+ISO-2022-KR-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-KR-snippet.UTF-8
+END
+MacCyrillic.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacCyrillic.TXT
+END
+check-subst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-subst
+END
+CP922.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP922.TXT
+END
+ISO646-JP.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO646-JP.TXT
+END
+Makefile.os2
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Makefile.os2
+END
+ISO-8859-2.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-2.TXT
+END
+TIS-620.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TIS-620.TXT
+END
+UTF-7-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-7-snippet
+END
+UTF-16LE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16LE-snippet
+END
+ISO-8859-4.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-4.TXT
+END
+ISO-8859-6.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-6.TXT
+END
+BIG5-HKSCS-1999.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-1999.TXT
+END
+check-stateless.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-stateless.bat
+END
+ISO-8859-8.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-8.TXT
+END
+MacTurkish.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacTurkish.TXT
+END
+table-to.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/table-to.c
+END
+CP1125.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1125.TXT
+END
+BIG5-HKSCS-2001.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2001.IRREVERSIBLE.TXT
+END
+CP1162.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1162.TXT
+END
+CP1046.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1046.TXT
+END
+TCVN-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TCVN-snippet.UTF-8
+END
+UCS-2LE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-2LE-snippet.UTF-8
+END
+CP1129.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1129.TXT
+END
+UCS-4LE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-4LE-snippet.UTF-8
+END
+MacCroatian.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacCroatian.TXT
+END
+uniq-u.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/uniq-u.c
+END
+UTF-32-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32-snippet.UTF-8
+END
+DEC-KANJI.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/DEC-KANJI.TXT
+END
+BIG5.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5.TXT
+END
+ISO-2022-JP-3-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-3-snippet.UTF-8
+END
+ARMSCII-8.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ARMSCII-8.IRREVERSIBLE.TXT
+END
+CP950.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP950.IRREVERSIBLE.TXT
+END
+MuleLao-1.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MuleLao-1.TXT
+END
+KOI8-RU.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/KOI8-RU.TXT
+END
+CP850.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP850.TXT
+END
+CP852.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP852.TXT
+END
+check-translit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-translit.bat
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Makefile.in
+END
+CP775.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP775.TXT
+END
+CP856.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP856.TXT
+END
+CP858.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP858.TXT
+END
+UTF-16LE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16LE-snippet.UTF-8
+END
+HP-ROMAN8.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/HP-ROMAN8.TXT
+END
+CP1250.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1250.TXT
+END
+CP1252.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1252.TXT
+END
+BIG5-HKSCS-1999-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-1999-snippet.UTF-8
+END
+ISO-2022-CN-EXT-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-CN-EXT-snippet.UTF-8
+END
+CP1254.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1254.TXT
+END
+UCS-4LE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-4LE-snippet
+END
+CP1256.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1256.TXT
+END
+BIG5-HKSCS-2001-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2001-snippet
+END
+CP1258.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1258.TXT
+END
+UTF-32-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32-snippet
+END
+ISO-2022-JP-1-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-1-snippet
+END
+BIG5-HKSCS-2004-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2004-snippet
+END
+ISO-2022-JP-2-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-2-snippet
+END
+ISO-2022-JP-3-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-3-snippet
+END
+ASCII.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ASCII.TXT
+END
+Quotes.ASCII
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Quotes.ASCII
+END
+EUC-JISX0213.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-JISX0213.TXT
+END
+MacHebrew.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacHebrew.TXT
+END
+MacRoman.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacRoman.TXT
+END
+CP861.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP861.TXT
+END
+CP863.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP863.TXT
+END
+Makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Makefile.vms
+END
+BIG5-HKSCS-1999.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-1999.IRREVERSIBLE.TXT
+END
+UCS-2BE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-2BE-snippet.UTF-8
+END
+CP865.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP865.TXT
+END
+check-translitfailure
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-translitfailure
+END
+UCS-4BE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-4BE-snippet.UTF-8
+END
+ATARIST.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ATARIST.TXT
+END
+BIG5-2003.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-2003.TXT
+END
+CP869.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP869.TXT
+END
+BIG5-HKSCS-1999-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-1999-snippet
+END
+CP1255.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1255.IRREVERSIBLE.TXT
+END
+gengb18030z.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/gengb18030z.c
+END
+SHIFT_JIS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/SHIFT_JIS.TXT
+END
+ISO-8859-10.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-10.TXT
+END
+BIG5-HKSCS-2001-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2001-snippet.UTF-8
+END
+UTF-16-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16-snippet.UTF-8
+END
+ISO-8859-14.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-14.TXT
+END
+ISO-2022-JP-2-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-2-snippet.UTF-8
+END
+RISCOS-LATIN1.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/RISCOS-LATIN1.TXT
+END
+ISO-8859-16.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-16.TXT
+END
+ARMSCII-8.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ARMSCII-8.TXT
+END
+UTF-16BE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-16BE-snippet.UTF-8
+END
+check-translit
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/check-translit
+END
+EUC-TW.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-TW.IRREVERSIBLE.TXT
+END
+CP437.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP437.TXT
+END
+UCS-2BE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UCS-2BE-snippet
+END
+GBK.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/GBK.TXT
+END
+Quotes.ISO-8859-1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Quotes.ISO-8859-1
+END
+CP874.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP874.TXT
+END
+UTF-32LE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32LE-snippet.UTF-8
+END
+UTF-7-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-7-snippet.UTF-8
+END
+EUC-CN.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-CN.TXT
+END
+TCVN.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TCVN.TXT
+END
+ISO-IR-165.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-IR-165.TXT
+END
+KOI8-U.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/KOI8-U.TXT
+END
+PT154.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/PT154.TXT
+END
+BIG5-HKSCS-2004.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2004.IRREVERSIBLE.TXT
+END
+BIG5-HKSCS-2001.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2001.TXT
+END
+CP1255-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1255-snippet
+END
+CP1258-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1258-snippet
+END
+HZ-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/HZ-snippet.UTF-8
+END
+EUC-KR.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/EUC-KR.TXT
+END
+VISCII.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/VISCII.TXT
+END
+UTF-32BE-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32BE-snippet
+END
+GB18030-BMP.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/GB18030-BMP.TXT
+END
+ISO-8859-1.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-1.TXT
+END
+BIG5-2003.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-2003.IRREVERSIBLE.TXT
+END
+ISO-8859-3.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-3.TXT
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Makefile.msvc
+END
+ISO-IR-165.IRREVERSIBLE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-IR-165.IRREVERSIBLE.TXT
+END
+ISO-8859-5.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-5.TXT
+END
+ISO-8859-7.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-7.TXT
+END
+CP1124.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1124.TXT
+END
+ISO-8859-9.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-8859-9.TXT
+END
+ISO-2022-CN-EXT-snippet
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-CN-EXT-snippet
+END
+Georgian-PS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/Georgian-PS.TXT
+END
+CP1161.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1161.TXT
+END
+DEC-HANYU.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/DEC-HANYU.TXT
+END
+CP1163.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1163.TXT
+END
+MacUkraine.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacUkraine.TXT
+END
+MacIceland.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/MacIceland.TXT
+END
+SHIFT_JISX0213.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/SHIFT_JISX0213.TXT
+END
+CP1255-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/CP1255-snippet.UTF-8
+END
+ISO-2022-JP-1-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-1-snippet.UTF-8
+END
+BIG5-HKSCS-2004-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/BIG5-HKSCS-2004-snippet.UTF-8
+END
+ISO646-CN.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO646-CN.TXT
+END
+ISO-2022-JP-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/ISO-2022-JP-snippet.UTF-8
+END
+TDS565.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/TDS565.TXT
+END
+UTF-32BE-snippet.UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tests/UTF-32BE-snippet.UTF-8
+END

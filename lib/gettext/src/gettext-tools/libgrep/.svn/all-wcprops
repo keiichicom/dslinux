@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/regex.h
+END
+hard-locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/hard-locale.h
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/strdup.c
+END
+m-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/m-common.c
+END
+strdup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/strdup.h
+END
+m-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/m-common.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/Makefile.am
+END
+libgrep.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/libgrep.h
+END
+dfa.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/dfa.c
+END
+m-fgrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/m-fgrep.c
+END
+kwset.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/kwset.c
+END
+dfa.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/dfa.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/Makefile.in
+END
+kwset.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/kwset.h
+END
+m-regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/m-regex.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/ChangeLog
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/regex.c
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/memchr.c
+END
+hard-locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/libgrep/hard-locale.c
+END

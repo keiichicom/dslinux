@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc
+END
+wc-counts-all
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc/wc-counts-all
+END
+wc-counts-lines
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc/wc-counts-lines
+END
+wc-counts-words
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc/wc-counts-words
+END
+wc-counts-characters
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc/wc-counts-characters
+END
+wc-prints-longest-line-length
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wc/wc-prints-longest-line-length
+END

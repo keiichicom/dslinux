@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/Makefile.am
+END
+gclosure.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gclosure.h
+END
+gtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtype.c
+END
+gvalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvalue.h
+END
+glib-genmarshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/glib-genmarshal.c
+END
+gtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtype.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/Makefile.in
+END
+marshal-genstrings.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/marshal-genstrings.pl
+END
+gsourceclosure.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gsourceclosure.c
+END
+gmarshal.strings
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gmarshal.strings
+END
+gtypeplugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtypeplugin.c
+END
+glib-mkenums.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/glib-mkenums.1
+END
+gsourceclosure.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gsourceclosure.h
+END
+glib-genmarshal.1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/glib-genmarshal.1
+END
+gobjectnotifyqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobjectnotifyqueue.c
+END
+gtypeplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtypeplugin.h
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/makefile.msc
+END
+testgobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/testgobject.c
+END
+gvaluetransform.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluetransform.c
+END
+gobject-query.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject-query.c
+END
+makefile.msc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/makefile.msc.in
+END
+gsignal.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gsignal.c
+END
+pltcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/pltcheck.sh
+END
+gsignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gsignal.h
+END
+gobjectalias.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobjectalias.h
+END
+genums.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/genums.c
+END
+gmarshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gmarshal.c
+END
+gtypemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtypemodule.c
+END
+gobject.rc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject.rc
+END
+gvaluecollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluecollector.h
+END
+genums.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/genums.h
+END
+gmarshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gmarshal.h
+END
+gtypemodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gtypemodule.h
+END
+gobject.rc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject.rc.in
+END
+gparamspecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gparamspecs.c
+END
+gobjectaliasdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobjectaliasdef.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/ChangeLog
+END
+gparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gparam.c
+END
+gboxed.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gboxed.c
+END
+gvaluetypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluetypes.c
+END
+gparamspecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gparamspecs.h
+END
+gparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gparam.h
+END
+gobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject.c
+END
+gboxed.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gboxed.h
+END
+gvaluetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluetypes.h
+END
+glib-mkenums.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/glib-mkenums.in
+END
+makegobjectalias.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/makegobjectalias.pl
+END
+abicheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/abicheck.sh
+END
+gobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject.h
+END
+gvaluearray.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluearray.c
+END
+gobject.symbols
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gobject.symbols
+END
+gclosure.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gclosure.c
+END
+gvalue.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvalue.c
+END
+stamp-gmarshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/stamp-gmarshal.h
+END
+gmarshal.list
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gmarshal.list
+END
+gvaluearray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gobject/gvaluearray.h
+END

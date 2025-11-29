@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/README
+END
+g72x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g72x.h
+END
+g72x_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g72x_priv.h
+END
+README.original
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/README.original
+END
+g721.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g721.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/Makefile.in
+END
+g723_40.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g723_40.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/ChangeLog
+END
+g72x_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g72x_test.c
+END
+g723_24.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g723_24.c
+END
+g72x.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g72x.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/Makefile.am
+END
+g723_16.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/G72x/g723_16.c
+END

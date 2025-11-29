@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/telnetd
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/telnetd/pathnames.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/telnetd/defs.h
+END
+authenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/authenc.c
+END
+logwtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/logwtmp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/telnetd/Makefile
+END
+logwtmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/logwtmp.h
+END
+telnetd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/telnetd.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/telnetd/global.c
+END
+termstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/telnetd/termstat.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/utility.c
+END
+telnetd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/telnetd/telnetd.h
+END
+sys_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/telnetd/sys_term.c
+END
+ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/telnetd/ext.h
+END
+logout.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/telnetd/logout.c
+END
+logout.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/telnetd/logout.h
+END
+state.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/telnetd/state.c
+END
+slc.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/telnetd/slc.c
+END

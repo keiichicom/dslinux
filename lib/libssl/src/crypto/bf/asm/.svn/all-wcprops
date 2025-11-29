@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bf/asm
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bf/asm/readme
+END
+bf-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bf/asm/bf-586.pl
+END
+bf-686.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/bf/asm/bf-686.pl
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests
+END
+reiser3.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/reiser3.img.bz2
+END
+reiser4.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/reiser4.img.bz2
+END
+udf.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/udf.img.bz2
+END
+romfs.results
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/romfs.results
+END
+jfs.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/jfs.img.bz2
+END
+swap0.results
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/swap0.results
+END
+swap1.results
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/swap1.results
+END
+romfs.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/romfs.img.bz2
+END
+xfs.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/xfs.results
+END
+swap0.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/swap0.img.bz2
+END
+swap1.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/swap1.img.bz2
+END
+xfs.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/xfs.img.bz2
+END
+fat.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/fat.results
+END
+ocfs2.results
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ocfs2.results
+END
+fat.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/fat.img.bz2
+END
+ext2.results
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ext2.results
+END
+ocfs2.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ocfs2.img.bz2
+END
+ext3.results
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ext3.results
+END
+minix.results
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/minix.results
+END
+small-fat32.results
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/small-fat32.results
+END
+ext2.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ext2.img.bz2
+END
+ext3.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/ext3.img.bz2
+END
+iso.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/iso.results
+END
+minix.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/minix.img.bz2
+END
+small-fat32.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/small-fat32.img.bz2
+END
+jbd.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/jbd.results
+END
+iso.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/iso.img.bz2
+END
+fat32_label_64MB.results
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/fat32_label_64MB.results
+END
+jbd.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/jbd.img.bz2
+END
+cramfs.results
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/cramfs.results
+END
+reiser3.results
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/reiser3.results
+END
+reiser4.results
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/reiser4.results
+END
+fat32_label_64MB.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/fat32_label_64MB.img.bz2
+END
+udf.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/udf.results
+END
+cramfs.img.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/cramfs.img.bz2
+END
+jfs.results
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/blkid/tests/jfs.results
+END

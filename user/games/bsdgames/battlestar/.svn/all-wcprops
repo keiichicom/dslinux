@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/globals.c
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/pathnames.h
+END
+nightobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/nightobjs.c
+END
+battlestar.6
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/battlestar.6
+END
+cypher.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/cypher.c
+END
+fly.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/fly.c
+END
+pathnames.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/pathnames.h.in
+END
+dayobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/dayobjs.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/misc.c
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/Makefrag
+END
+save.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/save.c
+END
+words.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/words.c
+END
+command1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command1.c
+END
+command2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command2.c
+END
+command3.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command3.c
+END
+command4.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command4.c
+END
+command5.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command5.c
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/Makefile.bsd
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/init.c
+END
+command6.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command6.c
+END
+command7.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/command7.c
+END
+battlestar.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/battlestar.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/.svnignore
+END
+nightfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/nightfile.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/extern.h
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/parse.c
+END
+room.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/room.c
+END
+dayfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/dayfile.c
+END
+getcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/battlestar/getcom.c
+END

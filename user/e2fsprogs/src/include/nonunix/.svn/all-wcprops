@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix
+END
+grp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/grp.h
+END
+pwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/pwd.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/getopt.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/termios.h
+END
+utime.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/utime.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/config.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/dirent.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/unistd.h
+END

@@ -1,0 +1,5 @@
+getopt.o: getopt.c ../include/config.h
+getopt1.o: getopt1.c ../include/config.h ../include/getopt.h
+options.o: options.c ../include/config.h ../include/getopt.h \
+  ../include/xmp.h
+main.o: main.c ../include/config.h ../include/xmp.h

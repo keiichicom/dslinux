@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch
+END
+wb_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/wb_client.c
+END
+winbind_nss_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_config.h
+END
+winbind_nss_irix.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_irix.c
+END
+winbindd_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_misc.c
+END
+winbindd_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_group.c
+END
+winbindd_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_cm.c
+END
+winbind_nss_irix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_irix.h
+END
+wins.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/wins.c
+END
+winbindd_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_cache.c
+END
+winbind_nss.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss.h
+END
+winbindd_pam.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_pam.c
+END
+winbindd_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_util.c
+END
+winbindd_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_user.c
+END
+winbindd_sid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_sid.c
+END
+winbindd_dual.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_dual.c
+END
+winbind_nss_freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_freebsd.c
+END
+winbind_nss_solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_solaris.c
+END
+winbind_nss_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_solaris.h
+END
+winbind_nss_aix.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_aix.c
+END
+wb_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/wb_common.c
+END
+wbinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/wbinfo.c
+END
+winbindd_ads.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_ads.c
+END
+winbindd_nss.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_nss.h
+END
+winbind_nss_hpux.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_hpux.h
+END
+pam_winbind.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/pam_winbind.c
+END
+winbindd_acct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_acct.c
+END
+winbindd_passdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_passdb.c
+END
+pam_winbind.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/pam_winbind.h
+END
+winbind_nss_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_linux.c
+END
+winbind_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_client.h
+END
+winbindd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd.c
+END
+winbindd_wins.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_wins.c
+END
+winbind_nss_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbind_nss_linux.h
+END
+winbindd_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd_rpc.c
+END
+winbindd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/nsswitch/winbindd.h
+END

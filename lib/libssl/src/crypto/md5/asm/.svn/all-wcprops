@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/md5/asm
+END
+md5-sparcv9.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/md5/asm/md5-sparcv9.S
+END
+md5-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/md5/asm/md5-x86_64.pl
+END
+md5-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/md5/asm/md5-586.pl
+END

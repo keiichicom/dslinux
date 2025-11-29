@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests
+END
+lossy_comp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/lossy_comp_test.c
+END
+dwvw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/dwvw_test.c
+END
+header_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/header_test.c
+END
+floating_point_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/floating_point_test.def
+END
+floating_point_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/floating_point_test.tpl
+END
+raw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/raw_test.c
+END
+benchmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/benchmark.c
+END
+open_fail_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/open_fail_test.c
+END
+scale_clip_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/scale_clip_test.c
+END
+locale_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/locale_test.c
+END
+write_read_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/write_read_test.def
+END
+write_read_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/write_read_test.tpl
+END
+string_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/string_test.c
+END
+ulaw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/ulaw_test.c
+END
+pipe_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pipe_test.def
+END
+pipe_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pipe_test.tpl
+END
+win32_ordinal_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/win32_ordinal_test.c
+END
+floating_point_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/floating_point_test.c
+END
+aiff_rw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/aiff_rw_test.c
+END
+dft_cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/dft_cmp.c
+END
+utils.def
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/utils.def
+END
+command_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/command_test.c
+END
+fix_this.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/fix_this.c
+END
+utils.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/utils.tpl
+END
+dither_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/dither_test.c
+END
+stdin_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/stdin_test.c
+END
+dft_cmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/dft_cmp.h
+END
+cpp_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/cpp_test.cc
+END
+write_read_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/write_read_test.c
+END
+multi_file_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/multi_file_test.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/Makefile.am
+END
+error_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/error_test.c
+END
+largefile_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/largefile_test.c
+END
+pcm_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pcm_test.def
+END
+misc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/misc_test.c
+END
+pcm_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pcm_test.tpl
+END
+pipe_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pipe_test.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/utils.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/Makefile.in
+END
+win32_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/win32_test.c
+END
+header_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/header_test.def
+END
+header_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/header_test.tpl
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/utils.h
+END
+benchmark.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/benchmark.def
+END
+peak_chunk_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/peak_chunk_test.c
+END
+benchmark.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/benchmark.tpl
+END
+scale_clip_test.def
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/scale_clip_test.def
+END
+scale_clip_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/scale_clip_test.tpl
+END
+virtual_io_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/virtual_io_test.c
+END
+pcm_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/pcm_test.c
+END
+headerless_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/headerless_test.c
+END
+sfversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/sfversion.c
+END
+stdio_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/stdio_test.c
+END
+stdout_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/stdout_test.c
+END
+alaw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/tests/alaw_test.c
+END

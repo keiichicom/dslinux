@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gpm/patches/todo/microtouch-usb/kernel-driver
+END
+touchscreen.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gpm/patches/todo/microtouch-usb/kernel-driver/touchscreen.c
+END
+touchscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gpm/patches/todo/microtouch-usb/kernel-driver/touchscreen.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gpm/patches/todo/microtouch-usb/kernel-driver/Makefile
+END
+mt_calibra.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/gpm/patches/todo/microtouch-usb/kernel-driver/mt_calibra.c
+END

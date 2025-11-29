@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx
+END
+AudioFilePlayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/AudioFilePlayer.c
+END
+AudioFilePlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/AudioFilePlayer.h
+END
+CDPlayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/CDPlayer.c
+END
+SDLOSXCAGuard.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/SDLOSXCAGuard.c
+END
+SDL_syscdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/SDL_syscdrom.c
+END
+CDPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/CDPlayer.h
+END
+SDLOSXCAGuard.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/SDLOSXCAGuard.h
+END
+AudioFileReaderThread.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/AudioFileReaderThread.c
+END
+SDL_syscdrom_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/cdrom/macosx/SDL_syscdrom_c.h
+END

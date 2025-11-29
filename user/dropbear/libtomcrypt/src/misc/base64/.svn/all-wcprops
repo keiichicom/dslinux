@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/base64
+END
+base64_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/base64/base64_decode.c
+END
+base64_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/base64/base64_encode.c
+END

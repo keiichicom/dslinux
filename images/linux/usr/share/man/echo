@@ -1,0 +1,83 @@
+ECHO(1)                          User Commands
+ECHO(1)
+
+
+
+NNAAMMEE
+       echo - display a line of text
+
+SSYYNNOOPPSSIISS
+       eecchhoo
+       [_O_P_T_I_O_N]... [_S_T_R_I_N_G]...
+
+DDEESSCCRRIIPPTTIIOONN
+       Echo the STRING(s) to standard output.
+
+       --nn     do not output the trailing newline
+
+       --ee     enable interpretation of backslash escapes
+
+       --EE     disable interpretation of backslash escapes
+       (default)
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       If --ee is in effect, the following sequences are
+       recognized:
+
+       \0NNN  the character whose ASCII code is NNN (octal)
+
+       \\     backslash
+
+       \a     alert (BEL)
+
+       \b     backspace
+
+       \c     suppress trailing newline
+
+       \f     form feed
+
+       \n     new line
+
+       \r     carriage return
+
+       \t     horizontal tab
+
+       \v     vertical tab
+
+       NOTE: your shell may have its own version of echo,
+       which usually super‐ sedes the version described here.
+       Please refer to your  shell's  docu‐ mentation for
+       details about the options it supports.
+
+AAUUTTHHOORR
+       Written by FIXME unknown.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for eecchhoo is maintained
+       as a Texinfo manual.   If the  iinnffoo  and
+       eecchhoo  programs are properly installed at your
+       site, the command
+
+              iinnffoo eecchhoo
+
+       should give you access to the complete manual.
+
+
+
+echo 6.7                         December 2006
+ECHO(1)

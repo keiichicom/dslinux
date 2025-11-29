@@ -1,0 +1,400 @@
+/*
+ * Automatically generated header file: don't edit
+ */
+
+#define AUTOCONF_INCLUDED
+
+/* Version Number */
+#define BB_VER "1.00"
+#define BB_BT "2025.11.26-02:10+0000"
+
+#define HAVE_DOT_CONFIG 1
+
+/*
+ * General Configuration
+ */
+#define CONFIG_FEATURE_BUFFERS_USE_MALLOC 1
+#undef CONFIG_FEATURE_BUFFERS_GO_ON_STACK
+#undef CONFIG_FEATURE_BUFFERS_GO_IN_BSS
+#undef CONFIG_FEATURE_VERBOSE_USAGE
+#undef CONFIG_FEATURE_INSTALLER
+#undef CONFIG_LOCALE_SUPPORT
+#undef CONFIG_FEATURE_DEVFS
+#undef CONFIG_FEATURE_DEVPTS
+#undef CONFIG_FEATURE_CLEAN_UP
+#define CONFIG_FEATURE_SUID 1
+#undef CONFIG_FEATURE_SUID_CONFIG
+#undef CONFIG_SELINUX
+
+/*
+ * Build Options
+ */
+#undef CONFIG_STATIC
+#undef CONFIG_LFS
+#undef USING_CROSS_COMPILER
+#define EXTRA_CFLAGS_OPTIONS ""
+
+/*
+ * Installation Options
+ */
+#undef CONFIG_INSTALL_NO_USR
+#define PREFIX "./_install"
+
+/*
+ * Archival Utilities
+ */
+#undef CONFIG_AR
+#undef CONFIG_BUNZIP2
+#undef CONFIG_CPIO
+#undef CONFIG_DPKG
+#undef CONFIG_DPKG_DEB
+#undef CONFIG_GUNZIP
+#undef CONFIG_GZIP
+#undef CONFIG_RPM2CPIO
+#undef CONFIG_RPM
+#undef CONFIG_TAR
+#undef CONFIG_UNCOMPRESS
+#undef CONFIG_UNZIP
+
+/*
+ * Coreutils
+ */
+#undef CONFIG_BASENAME
+#undef CONFIG_CAL
+#undef CONFIG_CAT
+#define CONFIG_CHGRP 1
+#define CONFIG_CHMOD 1
+#define CONFIG_CHOWN 1
+#undef CONFIG_CHROOT
+#undef CONFIG_CMP
+#undef CONFIG_CP
+#undef CONFIG_CUT
+#undef CONFIG_DATE
+#undef CONFIG_DD
+#define CONFIG_DF 1
+#undef CONFIG_DIRNAME
+#define CONFIG_DOS2UNIX 1
+#define CONFIG_UNIX2DOS 1
+#define CONFIG_DU 1
+#define CONFIG_FEATURE_DU_DEFALT_BLOCKSIZE_1K 1
+#define CONFIG_ECHO 1
+#undef CONFIG_FEATURE_FANCY_ECHO
+#define CONFIG_ENV 1
+#define CONFIG_EXPR 1
+#define CONFIG_FALSE 1
+
+/*
+ * false (forced enabled for use with shell)
+ */
+#undef CONFIG_FOLD
+#undef CONFIG_HEAD
+#undef CONFIG_HOSTID
+#define CONFIG_ID 1
+#undef CONFIG_INSTALL
+#undef CONFIG_LENGTH
+#undef CONFIG_LN
+#undef CONFIG_LOGNAME
+#define CONFIG_LS 1
+#undef CONFIG_FEATURE_LS_FILETYPES
+#undef CONFIG_FEATURE_LS_FOLLOWLINKS
+#undef CONFIG_FEATURE_LS_RECURSIVE
+#define CONFIG_FEATURE_LS_SORTFILES 1
+#undef CONFIG_FEATURE_LS_TIMESTAMPS
+#undef CONFIG_FEATURE_LS_USERNAME
+#define CONFIG_FEATURE_LS_COLOR 1
+#undef CONFIG_MD5SUM
+#undef CONFIG_MKDIR
+#undef CONFIG_MKFIFO
+#define CONFIG_MKNOD 1
+#undef CONFIG_MV
+#undef CONFIG_OD
+#undef CONFIG_PRINTF
+#undef CONFIG_PWD
+#undef CONFIG_REALPATH
+#undef CONFIG_RM
+#undef CONFIG_RMDIR
+#undef CONFIG_SEQ
+#undef CONFIG_SHA1SUM
+#define CONFIG_SLEEP 1
+#undef CONFIG_FEATURE_FANCY_SLEEP
+#undef CONFIG_SORT
+#undef CONFIG_STTY
+#undef CONFIG_SYNC
+#undef CONFIG_TAIL
+#undef CONFIG_TEE
+#define CONFIG_TEST 1
+
+/*
+ * test (forced enabled for use with shell)
+ */
+#undef CONFIG_FEATURE_TEST_64
+#undef CONFIG_TOUCH
+#undef CONFIG_TR
+#define CONFIG_TRUE 1
+
+/*
+ * true (forced enabled for use with shell)
+ */
+#undef CONFIG_TTY
+#define CONFIG_UNAME 1
+#undef CONFIG_UNIQ
+#undef CONFIG_USLEEP
+#undef CONFIG_UUDECODE
+#undef CONFIG_UUENCODE
+#undef CONFIG_WATCH
+#undef CONFIG_WC
+#undef CONFIG_WHO
+#define CONFIG_WHOAMI 1
+#undef CONFIG_YES
+
+/*
+ * Common options for ls and more
+ */
+#define CONFIG_FEATURE_AUTOWIDTH 1
+
+/*
+ * Common options for df, du, ls
+ */
+#undef CONFIG_FEATURE_HUMAN_READABLE
+
+/*
+ * Console Utilities
+ */
+#undef CONFIG_CHVT
+#define CONFIG_CLEAR 1
+#undef CONFIG_DEALLOCVT
+#undef CONFIG_DUMPKMAP
+#undef CONFIG_LOADFONT
+#undef CONFIG_LOADKMAP
+#undef CONFIG_OPENVT
+#undef CONFIG_RESET
+#undef CONFIG_SETKEYCODES
+
+/*
+ * Debian Utilities
+ */
+#undef CONFIG_MKTEMP
+#undef CONFIG_PIPE_PROGRESS
+#undef CONFIG_READLINK
+#undef CONFIG_RUN_PARTS
+#undef CONFIG_START_STOP_DAEMON
+#define CONFIG_WHICH 1
+
+/*
+ * Editors
+ */
+#undef CONFIG_AWK
+#undef CONFIG_PATCH
+#undef CONFIG_SED
+#define CONFIG_VI 1
+#define CONFIG_FEATURE_VI_COLON 1
+#define CONFIG_FEATURE_VI_YANKMARK 1
+#define CONFIG_FEATURE_VI_SEARCH 1
+#undef CONFIG_FEATURE_VI_USE_SIGNALS
+#undef CONFIG_FEATURE_VI_DOT_CMD
+#undef CONFIG_FEATURE_VI_READONLY
+#undef CONFIG_FEATURE_VI_SETOPTS
+#undef CONFIG_FEATURE_VI_SET
+#define CONFIG_FEATURE_VI_WIN_RESIZE 1
+#undef CONFIG_FEATURE_VI_OPTIMIZE_CURSOR
+
+/*
+ * Finding Utilities
+ */
+#define CONFIG_FIND 1
+#undef CONFIG_FEATURE_FIND_MTIME
+#undef CONFIG_FEATURE_FIND_PERM
+#undef CONFIG_FEATURE_FIND_TYPE
+#undef CONFIG_FEATURE_FIND_XDEV
+#undef CONFIG_FEATURE_FIND_NEWER
+#undef CONFIG_FEATURE_FIND_INUM
+#define CONFIG_GREP 1
+#define CONFIG_FEATURE_GREP_EGREP_ALIAS 1
+#define CONFIG_FEATURE_GREP_FGREP_ALIAS 1
+#define CONFIG_FEATURE_GREP_CONTEXT 1
+#undef CONFIG_XARGS
+
+/*
+ * Init Utilities
+ */
+#undef CONFIG_INIT
+#undef CONFIG_HALT
+#define CONFIG_POWEROFF 1
+#undef CONFIG_REBOOT
+#undef CONFIG_MESG
+
+/*
+ * Login/Password Management Utilities
+ */
+#undef CONFIG_USE_BB_PWD_GRP
+#undef CONFIG_ADDGROUP
+#define CONFIG_DELGROUP 1
+#undef CONFIG_ADDUSER
+#define CONFIG_DELUSER 1
+#undef CONFIG_GETTY
+#undef CONFIG_LOGIN
+#define CONFIG_PASSWD 1
+#undef CONFIG_SU
+#undef CONFIG_SULOGIN
+#undef CONFIG_VLOCK
+
+/*
+ * Common options for adduser, deluser, login, su
+ */
+#undef CONFIG_FEATURE_SHADOWPASSWDS
+
+/*
+ * Miscellaneous Utilities
+ */
+#undef CONFIG_ADJTIMEX
+#undef CONFIG_CROND
+#undef CONFIG_CRONTAB
+#undef CONFIG_DC
+#undef CONFIG_DEVFSD
+#undef CONFIG_LAST
+#undef CONFIG_HDPARM
+#undef CONFIG_MAKEDEVS
+#undef CONFIG_MT
+#undef CONFIG_RX
+#undef CONFIG_STRINGS
+#define CONFIG_TIME 1
+#undef CONFIG_WATCHDOGD
+
+/*
+ * Linux Module Utilities
+ */
+#undef CONFIG_INSMOD
+#undef CONFIG_LSMOD
+#undef CONFIG_MODPROBE
+#undef CONFIG_RMMOD
+
+/*
+ * Networking Utilities
+ */
+#undef CONFIG_FEATURE_IPV6
+#undef CONFIG_ARPING
+#undef CONFIG_FTPGET
+#undef CONFIG_FTPPUT
+#define CONFIG_HOSTNAME 1
+#undef CONFIG_HTTPD
+#define CONFIG_IFCONFIG 1
+#define CONFIG_FEATURE_IFCONFIG_STATUS 1
+#undef CONFIG_FEATURE_IFCONFIG_SLIP
+#undef CONFIG_FEATURE_IFCONFIG_MEMSTART_IOADDR_IRQ
+#undef CONFIG_FEATURE_IFCONFIG_HW
+#undef CONFIG_FEATURE_IFCONFIG_BROADCAST_PLUS
+#undef CONFIG_IFUPDOWN
+#undef CONFIG_INETD
+#undef CONFIG_IP
+#define CONFIG_IPCALC 1
+#define CONFIG_FEATURE_IPCALC_FANCY 1
+#undef CONFIG_IPADDR
+#undef CONFIG_IPLINK
+#undef CONFIG_IPROUTE
+#undef CONFIG_IPTUNNEL
+#undef CONFIG_NAMEIF
+#undef CONFIG_NC
+#undef CONFIG_NETSTAT
+#define CONFIG_NSLOOKUP 1
+#undef CONFIG_PING
+#undef CONFIG_ROUTE
+#undef CONFIG_TELNET
+#define CONFIG_TELNETD 1
+#define CONFIG_FEATURE_TELNETD_INETD 1
+#undef CONFIG_TFTP
+#undef CONFIG_TRACEROUTE
+#undef CONFIG_VCONFIG
+#undef CONFIG_WGET
+
+/*
+ * udhcp Server/Client
+ */
+#undef CONFIG_UDHCPD
+#define CONFIG_UDHCPC 1
+#undef CONFIG_FEATURE_UDHCP_SYSLOG
+#undef CONFIG_FEATURE_UDHCP_DEBUG
+
+/*
+ * Process Utilities
+ */
+#undef CONFIG_FREE
+#define CONFIG_KILL 1
+#define CONFIG_KILLALL 1
+#define CONFIG_PIDOF 1
+#undef CONFIG_PS
+#undef CONFIG_RENICE
+#undef CONFIG_TOP
+#undef CONFIG_UPTIME
+#undef CONFIG_SYSCTL
+
+/*
+ * Another Bourne-like Shell
+ */
+#undef CONFIG_FEATURE_SH_IS_ASH
+#undef CONFIG_FEATURE_SH_IS_HUSH
+#undef CONFIG_FEATURE_SH_IS_LASH
+#define CONFIG_FEATURE_SH_IS_MSH 1
+#undef CONFIG_FEATURE_SH_IS_NONE
+#undef CONFIG_ASH
+#undef CONFIG_HUSH
+#undef CONFIG_LASH
+#define CONFIG_MSH 1
+
+/*
+ * Bourne Shell Options
+ */
+#define CONFIG_FEATURE_SH_EXTRA_QUIET 1
+#undef CONFIG_FEATURE_SH_STANDALONE_SHELL
+#define CONFIG_FEATURE_COMMAND_EDITING 1
+#define CONFIG_FEATURE_COMMAND_HISTORY 15
+#define CONFIG_FEATURE_COMMAND_TAB_COMPLETION 1
+#define CONFIG_FEATURE_COMMAND_USERNAME_COMPLETION 1
+#define CONFIG_FEATURE_SH_FANCY_PROMPT 1
+
+/*
+ * System Logging Utilities
+ */
+#define CONFIG_SYSLOGD 1
+#define CONFIG_FEATURE_ROTATE_LOGFILE 1
+#undef CONFIG_FEATURE_REMOTE_LOG
+#undef CONFIG_FEATURE_IPC_SYSLOG
+#undef CONFIG_KLOGD
+#undef CONFIG_LOGGER
+
+/*
+ * Linux System Utilities
+ */
+#define CONFIG_DMESG 1
+#define CONFIG_FBSET 1
+#define CONFIG_FEATURE_FBSET_FANCY 1
+#undef CONFIG_FEATURE_FBSET_READMODE
+#undef CONFIG_FDFLUSH
+#undef CONFIG_FDFORMAT
+#undef CONFIG_FDISK
+#undef CONFIG_FREERAMDISK
+#undef CONFIG_FSCK_MINIX
+#undef CONFIG_MKFS_MINIX
+#undef CONFIG_GETOPT
+#undef CONFIG_HEXDUMP
+#undef CONFIG_HWCLOCK
+#undef CONFIG_LOSETUP
+#undef CONFIG_MKSWAP
+#undef CONFIG_MORE
+#undef CONFIG_PIVOT_ROOT
+#undef CONFIG_RDATE
+#undef CONFIG_SWAPONOFF
+#define CONFIG_MOUNT 1
+#undef CONFIG_NFSMOUNT
+#define CONFIG_UMOUNT 1
+#define CONFIG_FEATURE_MOUNT_FORCE 1
+
+/*
+ * Common options for mount/umount
+ */
+#undef CONFIG_FEATURE_MOUNT_LOOP
+#undef CONFIG_FEATURE_MTAB_SUPPORT
+
+/*
+ * Debugging Options
+ */
+#undef CONFIG_DEBUG

@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi
+END
+gdb792.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb792.exp
+END
+mi-until.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-until.exp
+END
+mi2-hack-cli.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-hack-cli.exp
+END
+mi-basics.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-basics.exp
+END
+array.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/array.f
+END
+mi2-stepi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-stepi.exp
+END
+mi-read-memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-read-memory.c
+END
+mi-hack-cli.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-hack-cli.exp
+END
+mi2-var-display.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-var-display.exp
+END
+mi-var-block.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-block.exp
+END
+mi-break.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-break.exp
+END
+gdb680.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb680.exp
+END
+testcmds
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/testcmds
+END
+mi-var-child-f.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-child-f.exp
+END
+mi2-simplerun.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-simplerun.exp
+END
+mi-syn-frame.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-syn-frame.exp
+END
+mi-console.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-console.exp
+END
+mi2-read-memory.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-read-memory.exp
+END
+mi-stack.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-stack.exp
+END
+mi-cli.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-cli.exp
+END
+mi-var-child.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-child.exp
+END
+mi2-until.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-until.exp
+END
+gdb792.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb792.cc
+END
+ChangeLog-1999-2003
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/ChangeLog-1999-2003
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/basics.c
+END
+mi-syn-frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-syn-frame.c
+END
+mi-var-cmd.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-cmd.exp
+END
+mi-disassemble.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-disassemble.exp
+END
+mi-stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-stack.c
+END
+mi2-pthreads.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-pthreads.exp
+END
+pthreads.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/pthreads.c
+END
+mi-var-child.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-child.c
+END
+mi2-var-block.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-var-block.exp
+END
+mi2-break.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-break.exp
+END
+mi-watch.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-watch.exp
+END
+mi-pthreads.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-pthreads.exp
+END
+var-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/var-cmd.c
+END
+until.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/until.c
+END
+gdb701.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb701.exp
+END
+mi2-regs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-regs.exp
+END
+mi2-syn-frame.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-syn-frame.exp
+END
+mi2-console.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-console.exp
+END
+mi-stepi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-stepi.exp
+END
+mi2-stack.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-stack.exp
+END
+mi2-cli.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-cli.exp
+END
+mi2-var-child.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-var-child.exp
+END
+mi-var-display.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-var-display.exp
+END
+gdb669.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb669.exp
+END
+mi-regs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-regs.exp
+END
+mi2-return.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-return.exp
+END
+mi2-file.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-file.exp
+END
+gdb701.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/gdb701.c
+END
+mi2-eval.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-eval.exp
+END
+mi2-var-cmd.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-var-cmd.exp
+END
+mi2-disassemble.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-disassemble.exp
+END
+mi-simplerun.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-simplerun.exp
+END
+mi-file.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-file.exp
+END
+mi-return.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-return.exp
+END
+mi-read-memory.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-read-memory.exp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/Makefile.in
+END
+mi2-basics.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-basics.exp
+END
+mi-eval.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-eval.exp
+END
+mi2-watch.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi2-watch.exp
+END
+mi-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.mi/mi-console.c
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src
+END
+GridText.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/GridText.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/Makefile.in
+END
+HTBrowse.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/HTBrowse.h
+END
+GridStyle.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/GridStyle.c
+END
+HTFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/HTFont.h
+END
+DefaultStyles.c.classic
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/DefaultStyles.c.classic
+END
+ConView.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/ConView.c
+END
+GridStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/GridStyle.h
+END
+DefaultStyles.c.modern
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/DefaultStyles.c.modern
+END
+a_stdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/a_stdio.c
+END
+a_stdio.g
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/a_stdio.g
+END
+a_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/a_stdio.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/Makefile.am
+END
+DefaultStyles.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/DefaultStyles.c
+END
+GridText.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/GridText.c
+END
+HTBrowse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/LineMode/src/HTBrowse.c
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch
+END
+getpwnam.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwnam.exp
+END
+wbinfo.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/wbinfo.exp
+END
+getent_r.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getent_r.sh
+END
+getgrent_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrent_r.c
+END
+getpwuid.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwuid.exp
+END
+getent_pwent.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getent_pwent.c
+END
+getgrgid.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrgid.exp
+END
+envvar.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/envvar.exp
+END
+pam_winbind_syms.exp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/pam_winbind_syms.exp
+END
+initgroups.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/initgroups.exp
+END
+getgrnam.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrnam.exp
+END
+login.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/login.exp
+END
+getpwnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwnam.c
+END
+finger.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/finger.exp
+END
+bigfd.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/bigfd.exp
+END
+getent_grent.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getent_grent.c
+END
+getpwuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwuid.c
+END
+getpwent_r.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwent_r.exp
+END
+longarg_getpwnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/longarg_getpwnam.c
+END
+getgrgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrgid.c
+END
+getent.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getent.exp
+END
+nss_winbind_syms.exp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/nss_winbind_syms.exp
+END
+pam_winbind_syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/pam_winbind_syms.c
+END
+longarg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/longarg.exp
+END
+initgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/initgroups.c
+END
+groupmem_dom.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/groupmem_dom.exp
+END
+getgrnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrnam.c
+END
+getgrent_r.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getgrent_r.exp
+END
+bigfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/bigfd.c
+END
+domusers.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/domusers.exp
+END
+longarg_getgrnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/longarg_getgrnam.c
+END
+longarg_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/longarg_utils.h
+END
+getpwent_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getpwent_r.c
+END
+Makefile.longarg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/Makefile.longarg
+END
+getent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/getent.c
+END
+nss_winbind_syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/nsswitch/nss_winbind_syms.c
+END

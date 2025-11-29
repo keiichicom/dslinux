@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp
+END
+fnchange.lst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp/fnchange.lst
+END
+djconfig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp/djconfig.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp/README
+END
+config.sed
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp/config.sed
+END
+djcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/djgpp/djcheck.sh
+END

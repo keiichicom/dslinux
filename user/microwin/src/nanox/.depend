@@ -1,0 +1,34 @@
+nxdraw.o .depend : $(TOP)/config nxdraw.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxdraw.h
+nxutil.o .depend : $(TOP)/config nxutil.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+nxtransform.o .depend : $(TOP)/config nxtransform.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+client.o .depend : $(TOP)/config client.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h serv.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h nxproto.h \
+ /home/andrewec/dslinux/user/microwin/src/include/lock.h
+nxproto.o .depend : $(TOP)/config nxproto.c serv.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h nxproto.h \
+ /home/andrewec/dslinux/user/microwin/src/include/lock.h
+error.o .depend : $(TOP)/config error.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+clientfb.o .depend : $(TOP)/config clientfb.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/lock.h

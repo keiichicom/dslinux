@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/Makefile.am
+END
+printinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/printinfo.c
+END
+sfconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/sfconvert.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/README
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/Makefile.in
+END
+sfinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/sfcommands/sfinfo.c
+END

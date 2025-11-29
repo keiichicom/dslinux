@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/stackinfo.h
+END
+atomicity.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/atomicity.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/setjmp.h
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/sigcontextinfo.h
+END
+kernel_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/kernel_types.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/fcntl.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/wordsize.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/mman.h
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/kernel_stat.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/syscalls.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/byteswap.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/h8300/bits/endian.h
+END

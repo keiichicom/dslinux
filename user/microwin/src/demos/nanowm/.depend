@@ -1,0 +1,17 @@
+nanowm.o .depend : $(TOP)/config nanowm.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h nanowm.h
+events.o .depend : $(TOP)/config events.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h nanowm.h
+wlist.o .depend : $(TOP)/config wlist.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h nanowm.h
+clients.o .depend : $(TOP)/config clients.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxdraw.h nanowm.h
+actions.o .depend : $(TOP)/config actions.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxdraw.h nanowm.h

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2276/trunk/user/tmsnc/src/src
+END
+core_ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_ssl.h
+END
+ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/ui.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/conf.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/debug.c
+END
+charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/charset.c
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/conf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/Makefile
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core.h
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/stamp-h.in
+END
+charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/charset.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/menu.c
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/login.c
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/filters.c
+END
+core_p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_p2p.c
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/menu.h
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/stamp-h1
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/list.c
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/login.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/filters.h
+END
+core_p2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_p2p.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/config.h.in
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/list.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/event.c
+END
+sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/sig.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/main.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/event.h
+END
+sig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/sig.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/Makefile.am
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/main.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/misc.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2276/trunk/user/tmsnc/src/src/common.h
+END
+core_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_net.c
+END
+dialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/dialog.c
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/misc.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/Makefile.in
+END
+core_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_misc.c
+END
+core_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_net.h
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/dialog.h
+END
+core_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_misc.h
+END
+core_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/core_ssl.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/config.h
+END
+ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2274/trunk/user/tmsnc/src/src/ui.c
+END

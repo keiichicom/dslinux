@@ -1,0 +1,38 @@
+convert.o: convert.c ../include/config.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/convert.h ../include/driver.h ../include/xmpi.h \
+  ../include/driver.h
+driver.o: driver.c ../include/config.h ../include/driver.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/convert.h ../include/driver.h ../include/mixer.h \
+  ../include/period.h ../include/readlzw.h ../player/mixer.c \
+  ../include/config.h ../include/mixer.h ../player/synth.h
+formats.o: formats.c ../include/config.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h ../include/list.h \
+  ../include/loader.h
+misc.o: misc.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+period.o: period.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/period.h
+player.o: player.c ../include/config.h ../include/driver.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/period.h ../include/effects.h player.h synth.h effects.c
+readrc.o: readrc.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+scan.o: scan.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/effects.h \
+  ../include/mixer.h
+ulaw.o: ulaw.c ../include/config.h
+cruncher.o: cruncher.c ../include/config.h ../include/driver.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/convert.h ../include/driver.h ../include/mixer.h
+med_synth.o: med_synth.c ../include/config.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h player.h \
+  ../include/driver.h ../include/xmpi.h
+filter.o: filter.c ../include/config.h ../include/xmp.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h player.h \
+  ../include/driver.h ../include/xmpi.h ../include/mixer.h
+fmopl.o: fmopl.c fmopl.h
+synth.o: synth.c ../include/config.h ../include/xmp.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h ../include/driver.h \
+  ../include/xmpi.h fmopl.h

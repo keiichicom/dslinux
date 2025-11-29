@@ -1,0 +1,539 @@
+.SS addrtype
+This module matches packets based on their 
+.B address type.
+Address types are used within the kernel networking stack and categorize
+addresses into various groups.  The exact definition of that group depends on the specific layer three protocol.
+.TP
+The following address types are possible:
+.TP
+.BI "UNSPEC"
+an unspecified address (i.e. 0.0.0.0)
+.BI "UNICAST"
+an unicast address
+.BI "LOCAL"
+a local address
+.BI "BROADCAST"
+a broadcast address
+.BI "ANYCAST"
+an anycast packet
+.BI "MULTICAST"
+a multicast address
+.BI "BLACKHOLE"
+a blackhole address
+.BI "UNREACHABLE"
+an unreachable address
+.BI "PROHIBIT"
+a prohibited address
+.BI "THROW"
+FIXME
+.BI "NAT"
+FIXME
+.BI "XRESOLVE"
+FIXME
+.TP
+.BI "--src-type " "type"
+Matches if the source address is of given type
+.TP
+.BI "--dst-type " "type"
+Matches if the destination address is of given type
+.SS ah
+This module matches the SPIs in AH header of IPSec packets.
+.TP
+.BR "--ahspi " "[!] \fIspi\fP[:\fIspi\fP]"
+.SS authd
+This module takes no options, but matches packets against the authd
+kernel module.
+.SS childlevel
+This is an experimental module.  It matches on whether the 
+packet is part of a master connection or one of its children (or grandchildren,
+etc).  For instance, most packets are level 0.  FTP data transfer is level 1.
+.TP
+.BR "--childlevel " "[!] \fIlevel\fP"
+.SS condition
+This matches if a specific /proc filename is '0' or '1'.
+.TP
+.BI "--condition " "[!] filename"
+Match on boolean value stored in /proc/net/ipt_condition/filename file
+.SS connmark
+This module matches the netfilter mark field associated with a connection
+(which can be set using the
+.B CONNMARK
+target below).
+.TP
+.BI "--mark " "value[/mask]"
+Matches packets in connections with the given mark value (if a mask is
+specified, this is logically ANDed with the mark before the
+comparison).
+.SS connrate
+This module matches the current transfer rate in a connection.
+.TP
+.BI "--connrate " "[!] [\fIfrom\fP]:[\fIto\fP]"
+Match against the current connection transfer rate being within 'from'
+and 'to' bytes per second. When the "!" argument is used before the
+range, the sense of the match is inverted.
+.SS conntrack
+This module, when combined with connection tracking, allows access to
+more connection tracking information than the "state" match.
+(this module is present only if iptables was compiled under a kernel
+supporting this feature)
+.TP
+.BI "--ctstate " "state"
+Where state is a comma separated list of the connection states to
+match.  Possible states are
+.B INVALID
+meaning that the packet is associated with no known connection,
+.B ESTABLISHED
+meaning that the packet is associated with a connection which has seen
+packets in both directions,
+.B NEW
+meaning that the packet has started a new connection, or otherwise
+associated with a connection which has not seen packets in both
+directions, and
+.B RELATED
+meaning that the packet is starting a new connection, but is
+associated with an existing connection, such as an FTP data transfer,
+or an ICMP error.
+.B SNAT
+A virtual state, matching if the original source address differs from
+the reply destination.
+.B DNAT
+A virtual state, matching if the original destination differs from the
+reply source.
+.TP
+.BI "--ctproto " "proto"
+Protocol to match (by number or name)
+.TP
+.BI "--ctorigsrc " "[!] \fIaddress\fP[/\fImask\fP]"
+Match against original source address
+.TP
+.BI "--ctorigdst " "[!] \fIaddress\fP[/\fImask\fP]"
+Match against original destination address
+.TP
+.BI "--ctreplsrc " "[!] \fIaddress\fP[/\fImask\fP]"
+Match against reply source address
+.TP
+.BI "--ctrepldst " "[!] \fIaddress\fB[/\fImask\fP]"
+Match against reply destination address
+.TP
+.BI "--ctstatus " "[\fINONE|EXPECTED|SEEN_REPLY|ASSURED\fP][,...]"
+Match against internal conntrack states
+.TP
+.BI "--ctexpire " "\fItime\fP[\fI:time\fP]"
+Match remaining lifetime in seconds against given value
+or range of values (inclusive)
+.SS dscp
+This module matches the 6 bit DSCP field within the TOS field in the
+IP header.  DSCP has superseded TOS within the IETF.
+.TP
+.BI "--dscp " "value"
+Match against a numeric (decimal or hex) value [0-32].
+.TP
+.BI "--dscp-class " "\fIDiffServ Class\fP"
+Match the DiffServ class. This value may be any of the
+BE, EF, AFxx or CSx classes.  It will then be converted
+into it's according numeric value.
+.SS dstlimit
+This module allows you to limit the packet per second (pps) rate on a per
+destination IP or per destination port base.  As opposed to the `limit' match,
+every destination ip / destination port has it's own limit.
+.TP
+.BI "--dstlimit " "avg"
+Maximum average match rate (packets per second unless followed by /sec /minute /hour /day postfixes).
+.TP
+.BI "--dstlimit-mode " "mode"
+The limiting hashmode.  Is the specified limit per
+.B dstip, dstip-dstport
+tuple, 
+.B srcip-dstip
+tuple, or per
+.B srcipdstip-dstport
+tuple.
+.TP
+.BI "--dstlimit-name " "name"
+Name for /proc/net/ipt_dstlimit/* file entry
+.TP
+.BI "[" "--dstlimit-burst " "burst" "]"
+Number of packets to match in a burst.  Default: 5
+.TP
+.BI "[" "--dstlimit-htable-size " "size" "]"
+Number of buckets in the hashtable
+.TP
+.BI "[" "--dstlimit-htable-max " "max" "]"
+Maximum number of entries in the hashtable
+.TP
+.BI "[" "--dstlimit-htable-gcinterval " "interval" "]"
+Interval between garbage collection runs of the hashtable (in miliseconds).
+Default is 1000 (1 second).
+.TP
+.BI "[" "--dstlimit-htable-expire " "time"
+After which time are idle entries expired from hashtable (in miliseconds)?
+Default is 10000 (10 seconds).
+.SS ecn
+This allows you to match the ECN bits of the IPv4 and TCP header.  ECN is the Explicit Congestion Notification mechanism as specified in RFC3168
+.TP
+.BI "--ecn-tcp-cwr"
+This matches if the TCP ECN CWR (Congestion Window Received) bit is set.
+.TP
+.BI "--ecn-tcp-ece"
+This matches if the TCP ECN ECE (ECN Echo) bit is set.
+.TP
+.BI "--ecn-ip-ect " "num"
+This matches a particular IPv4 ECT (ECN-Capable Transport). You have to specify
+a number between `0' and `3'.
+.SS esp
+This module matches the SPIs in ESP header of IPSec packets.
+.TP
+.BR "--espspi " "[!] \fIspi\fP[:\fIspi\fP]"
+.SS fuzzy
+This module matches a rate limit based on a fuzzy logic controller [FLC]
+.TP
+.BI "--lower-limit  "number"
+Specifies the lower limit (in packets per second).
+.TP
+.BI "--upper-limit " "number"
+Specifies the upper limit (in packets per second).
+.SS helper
+This module matches packets related to a specific conntrack-helper.
+.TP
+.BI "--helper " "string"
+Matches packets related to the specified conntrack-helper.
+.RS
+.PP
+string can be "ftp" for packets related to a ftp-session on default port.
+For other ports append -portnr to the value, ie. "ftp-2121".
+.PP
+Same rules apply for other conntrack-helpers.
+.RE
+.SS icmp
+This extension is loaded if `--protocol icmp' is specified.  It
+provides the following option:
+.TP
+.BR "--icmp-type " "[!] \fItypename\fP"
+This allows specification of the ICMP type, which can be a numeric
+ICMP type, or one of the ICMP type names shown by the command
+.nf
+ iptables -p icmp -h
+.fi
+.SS iprange
+This matches on a given arbitrary range of IPv4 addresses
+.TP
+.BI "[!]" "--src-range " "ip-ip"
+Match source IP in the specified range.
+.TP
+.BI "[!]" "--dst-range " "ip-ip"
+Match destination IP in the specified range.
+.SS length
+This module matches the length of a packet against a specific value
+or range of values.
+.TP
+.BR "--length " "\fIlength\fP[:\fIlength\fP]"
+.SS limit
+This module matches at a limited rate using a token bucket filter.
+A rule using this extension will match until this limit is reached
+(unless the `!' flag is used).  It can be used in combination with the
+.B LOG
+target to give limited logging, for example.
+.TP
+.BI "--limit " "rate"
+Maximum average matching rate: specified as a number, with an optional
+`/second', `/minute', `/hour', or `/day' suffix; the default is
+3/hour.
+.TP
+.BI "--limit-burst " "number"
+Maximum initial number of packets to match: this number gets
+recharged by one every time the limit specified above is not reached,
+up to this number; the default is 5.
+.SS mac
+.TP
+.BR "--mac-source " "[!] \fIaddress\fP"
+Match source MAC address.  It must be of the form XX:XX:XX:XX:XX:XX.
+Note that this only makes sense for packets coming from an Ethernet device
+and entering the
+.BR PREROUTING ,
+.B FORWARD
+or
+.B INPUT
+chains.
+.SS mark
+This module matches the netfilter mark field associated with a packet
+(which can be set using the
+.B MARK
+target below).
+.TP
+.BR "--mark " "\fIvalue\fP[/\fImask\fP]"
+Matches packets with the given unsigned mark value (if a mask is
+specified, this is logically ANDed with the mask before the
+comparison).
+.SS mport
+This module matches a set of source or destination ports.  Up to 15
+ports can be specified.  It can only be used in conjunction with
+.B "-p tcp"
+or
+.BR "-p udp" .
+.TP
+.BR "--source-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the source port is one of the given ports.  The flag
+.B --sports
+is a convenient alias for this option.
+.TP
+.BR "--destination-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the destination port is one of the given ports.  The flag
+.B --dports
+is a convenient alias for this option.
+.TP
+.BR "--ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the both the source and destination ports are equal to each
+other and to one of the given ports.
+.SS multiport
+This module matches a set of source or destination ports.  Up to 15
+ports can be specified.  It can only be used in conjunction with
+.B "-p tcp"
+or
+.BR "-p udp" .
+.TP
+.BR "--source-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the source port is one of the given ports.  The flag
+.B --sports
+is a convenient alias for this option.
+.TP
+.BR "--destination-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the destination port is one of the given ports.  The flag
+.B --dports
+is a convenient alias for this option.
+.TP
+.BR "--ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the both the source and destination ports are equal to each
+other and to one of the given ports.
+.SS nth
+This module matches every `n'th packet
+.TP
+.BI "--every " "value"
+Match every `value' packet
+.TP
+.BI "[" "--counter " "num" "]"
+Use internal counter number `num'.  Default is `0'.
+.TP
+.BI "[" "--start " "num" "]"
+Initialize the counter at the number `num' insetad of `0'.  Most between `0'
+and `value'-1.
+.TP
+.BI "[" "--packet " "num" "]"
+Match on `num' packet.  Most be between `0' and `value'-1.
+.SS owner
+This module attempts to match various characteristics of the packet
+creator, for locally-generated packets.  It is only valid in the
+.B OUTPUT
+chain, and even this some packets (such as ICMP ping responses) may
+have no owner, and hence never match.
+.TP
+.BI "--uid-owner " "userid"
+Matches if the packet was created by a process with the given
+effective user id.
+.TP
+.BI "--gid-owner " "groupid"
+Matches if the packet was created by a process with the given
+effective group id.
+.TP
+.BI "--pid-owner " "processid"
+Matches if the packet was created by a process with the given
+process id.
+.TP
+.BI "--sid-owner " "sessionid"
+Matches if the packet was created by a process in the given session
+group.
+.TP
+.BI "--cmd-owner " "name"
+Matches if the packet was created by a process with the given command name.
+(this option is present only if iptables was compiled under a kernel
+supporting this feature)
+.SS physdev
+This module matches on the bridge port input and output devices enslaved
+to a bridge device. This module is a part of the infrastructure that enables
+a transparent bridging IP firewall and is only useful for kernel versions
+above version 2.5.44.
+.TP
+.B --physdev-in name
+Name of a bridge port via which a packet is received (only for
+packets entering the
+.BR INPUT ,
+.B FORWARD
+and
+.B PREROUTING
+chains). If the interface name ends in a "+", then any
+interface which begins with this name will match. If the packet didn't arrive
+through a bridge device, this packet won't match this option, unless '!' is used.
+.TP
+.B --physdev-out name
+Name of a bridge port via which a packet is going to be sent (for packets
+entering the
+.BR FORWARD ,
+.B OUTPUT
+and
+.B POSTROUTING
+chains).  If the interface name ends in a "+", then any
+interface which begins with this name will match. Note that in the
+.BR nat " and " mangle
+.B OUTPUT
+chains one cannot match on the bridge output port, however one can in the
+.B "filter OUTPUT"
+chain. If the packet won't leave by a bridge device or it is yet unknown what
+the output device will be, then the packet won't match this option, unless
+'!' is used.
+.TP
+.B --physdev-is-in
+Matches if the packet has entered through a bridge interface.
+.TP
+.B --physdev-is-out
+Matches if the packet will leave through a bridge interface.
+.TP
+.B --physdev-is-bridged
+Matches if the packet is being bridged and therefore is not being routed.
+This is only useful in the FORWARD and POSTROUTING chains.
+.SS pkttype
+This module matches the link-layer packet type.
+.TP
+.BI "--pkt-type " "[\fIunicast\fP|\fIbroadcast\fP|\fImulticast\fP]"
+.SS random
+This module randomly matches a certain percentage of all packets.
+.TP
+.BI "--average " "percent"
+Matches the given percentage.  If omitted, a probability of 50% is set. 
+.SS realm
+This matches the routing realm.  Routing realms are used in complex routing
+setups involving dynamic routing protocols like BGP.
+.TP
+.BI "--realm " "[!]" "value[/mask]"
+Matches a given realm number (and optionally mask).
+.SS state
+This module, when combined with connection tracking, allows access to
+the connection tracking state for this packet.
+.TP
+.BI "--state " "state"
+Where state is a comma separated list of the connection states to
+match.  Possible states are
+.B INVALID
+meaning that the packet could not be identified for some reason which
+includes running out of memory and ICMP errors which don't correspond to any
+known connection,
+.B ESTABLISHED
+meaning that the packet is associated with a connection which has seen
+packets in both directions,
+.B NEW
+meaning that the packet has started a new connection, or otherwise
+associated with a connection which has not seen packets in both
+directions, and
+.B RELATED
+meaning that the packet is starting a new connection, but is
+associated with an existing connection, such as an FTP data transfer,
+or an ICMP error.
+.SS tcp
+These extensions are loaded if `--protocol tcp' is specified. It
+provides the following options:
+.TP
+.BR "--source-port " "[!] \fIport\fP[:\fIport\fP]"
+Source port or port range specification. This can either be a service
+name or a port number. An inclusive range can also be specified,
+using the format
+.IR port : port .
+If the first port is omitted, "0" is assumed; if the last is omitted,
+"65535" is assumed.
+If the second port greater then the first they will be swapped.
+The flag
+.B --sport
+is a convenient alias for this option.
+.TP
+.BR "--destination-port " "[!] \fIport\fP[:\fIport\fP]"
+Destination port or port range specification.  The flag
+.B --dport
+is a convenient alias for this option.
+.TP
+.BR "--tcp-flags " "[!] \fImask\fP \fIcomp\fP"
+Match when the TCP flags are as specified.  The first argument is the
+flags which we should examine, written as a comma-separated list, and
+the second argument is a comma-separated list of flags which must be
+set.  Flags are:
+.BR "SYN ACK FIN RST URG PSH ALL NONE" .
+Hence the command
+.nf
+ iptables -A FORWARD -p tcp --tcp-flags SYN,ACK,FIN,RST SYN
+.fi
+will only match packets with the SYN flag set, and the ACK, FIN and
+RST flags unset.
+.TP
+.B "[!] --syn"
+Only match TCP packets with the SYN bit set and the ACK and RST bits
+cleared.  Such packets are used to request TCP connection initiation;
+for example, blocking such packets coming in an interface will prevent
+incoming TCP connections, but outgoing TCP connections will be
+unaffected.
+It is equivalent to \fB--tcp-flags SYN,RST,ACK SYN\fP.
+If the "!" flag precedes the "--syn", the sense of the
+option is inverted.
+.TP
+.BR "--tcp-option " "[!] \fInumber\fP"
+Match if TCP option set.
+.TP
+.BR "--mss " "\fIvalue\fP[:\fIvalue\fP]"
+Match TCP SYN or SYN/ACK packets with the specified MSS value (or range),
+which control the maximum packet size for that connection.
+.SS tcpmss
+This matches the TCP MSS (maximum segment size) field of the TCP header.  You can only use this on TCP SYN or SYN/ACK packets, since the MSS is only negotiated during the TCP handshake at connection startup time.
+.TP
+.BI "[!] "--mss " "value[:value]"
+Match a given TCP MSS value or range.
+.SS time
+This matches if the packet arrival time/date is within a given range. All options are facultative.
+.TP
+.BI " --timestart " "value"
+Match only if it is after `value' (Inclusive, format: HH:MM ; default 00:00).
+.TP
+.BI "--timestop  " "value"
+Match only if it is before `value' (Inclusive, format: HH:MM ; default 23:59).
+.TP
+.BI "--days " "listofdays"
+Match only if today is one of the given days. (format: Mon,Tue,Wed,Thu,Fri,Sat,Sun ; default everyday)
+.TP
+.BI "--datestart " "date"
+Match only if it is after `date' (Inclusive, format: YYYY[:MM[:DD[:hh[:mm[:ss]]]]] ; h,m,s start from 0 ; default to 1970)
+.TP
+.BI "--datestop " "date"
+Match only if it is before `date' (Inclusive, format: YYYY[:MM[:DD[:hh[:mm[:ss]]]]] ; h,m,s start from 0 ; default to 2037)
+.SS tos
+This module matches the 8 bits of Type of Service field in the IP
+header (ie. including the precedence bits).
+.TP
+.BI "--tos " "tos"
+The argument is either a standard name, (use
+.br
+ iptables -m tos -h
+.br
+to see the list), or a numeric value to match.
+.SS ttl
+This module matches the time to live field in the IP header.
+.TP
+.BI "--ttl-eq " "ttl"
+Matches the given TTL value.
+.TP
+.BI "--ttl-gt " "ttl"
+Matches if TTL is greater than the given TTL value.
+.TP
+.BI "--ttl-lt " "ttl"
+Matches if TTL is less than the given TTL value.
+.SS udp
+These extensions are loaded if `--protocol udp' is specified.  It
+provides the following options:
+.TP
+.BR "--source-port " "[!] \fIport\fP[:\fIport\fP]"
+Source port or port range specification.
+See the description of the
+.B --source-port
+option of the TCP extension for details.
+.TP
+.BR "--destination-port " "[!] \fIport\fP[:\fIport\fP]"
+Destination port or port range specification.
+See the description of the
+.B --destination-port
+option of the TCP extension for details.
+.SS unclean
+This module takes no options, but attempts to match packets which seem
+malformed or unusual.  This is regarded as experimental.

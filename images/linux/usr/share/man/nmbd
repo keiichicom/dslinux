@@ -1,0 +1,304 @@
+NMBD(8)
+NMBD(8)
+
+
+
+NNAAMMEE
+       nmbd  -  NetBIOS name server to provide NetBIOS over
+       IP naming services to clients
+
+SSYYNNOOPPSSIISS
+       nnmmbbdd [-D] [-F] [-S] [-a] [-i] [-o] [-h] [-V]
+       [-d <debug level>]
+            [-H <lmhosts file>] [-l <log directory>] [-p
+            <port number>] [-s <configuration file>]
+
+
+DDEESSCCRRIIPPTTIIOONN
+       This program is part of the ssaammbbaa(7) suite.
+
+
+       nnmmbbdd is a server that understands and can
+       reply to NetBIOS over IP name service  requests, like
+       those produced by SMB/CIFS clients such as Win‐
+       dows 95/98/ME, Windows NT, Windows  2000,  Windows
+       XP  and  LanManager clients.  It  also participates
+       in the browsing protocols which make up the Windows
+       "Network Neighborhood" view.
+
+
+       SMB/CIFS clients, when they start up, may wish to
+       locate  an  SMB/CIFS server.  That  is, they wish to
+       know what IP number a specified host is using.
+
+
+       Amongst other services, nnmmbbdd will listen for
+       such requests, and if  its own NetBIOS name is specified
+       it will respond with the IP number of the host it is
+       running on. Its "own NetBIOS name" is by default the
+       primary DNS  name  of  the host it is running on,
+       but this can be overridden by the netbios name in
+       _s_m_b_._c_o_n_f. Thus nnmmbbdd will reply
+       to broadcast queries for its own name(s). Additional
+       names for nnmmbbdd to respond on can be set
+       via parameters in the ssmmbb..ccoonnff(5)
+       configuration file.
+
+
+       nnmmbbdd can also be used as a WINS (Windows
+       Internet Name Server)  server.  What  this basically
+       means is that it will act as a WINS database serv‐ er,
+       creating a database from name registration  requests
+       that  it  re‐ ceives and replying to queries from
+       clients for these names.
+
+
+       In  addition,  nnmmbbdd can act as a WINS proxy,
+       relaying broadcast queries from clients that do not
+       understand how to talk the WINS protocol to  a WINS
+       server.
+
+
+OOPPTTIIOONNSS
+       -D     If  specified, this parameter causesnnmmbbdd
+       to operate as a daemon.
+              That is, it detaches itself and runs in
+              the background, fielding requests  on the
+              appropriate port. By default, nnmmbbdd will
+              operate as a daemon if launched from a command
+              shell. nmbd can  also  be operated from the
+              iinneettdd meta-daemon, although this is
+              not recom‐ mended.
+
+
+       -F     If specified, this parameter causes the main
+       nnmmbbdd process to not
+              daemonize,  i.e. double-fork and disassociate
+              with the terminal.  Child processes are still
+              created as normal to service each con‐
+              nection request, but the main process does not
+              exit. This opera‐ tion mode is suitable for
+              runningnnmmbbdd under process  supervisors
+              such  as ssuuppeerrvviissee and
+              ssvvssccaann from Daniel J. Bernstein's
+              ddaaeemmoonn‐‐ ttoooollss
+              package, or the AIX process monitor.
+
+
+       -S     If specified, this parameter causesnnmmbbdd
+       to log to standard  out‐
+              put rather than a file.
+
+
+       -i     If  this parameter is specified it causes the
+       server to run "in‐
+              teractively", not as a daemon, even if the
+              server is executed on the  command line
+              of a shell. Setting this parameter negates
+              the implicit daemon mode when run from the
+              command line.  nnmmbbdd  also logs to
+              standard output, as if the --SS parameter
+              had been given.
+
+
+       -h|--help
+              Print a summary of command line options.
+
+
+       -H <filename>
+              NetBIOS  lmhosts  file.  The  lmhosts  file is
+              a list of NetBIOS names to IP addresses that
+              is loaded by the nmbd server and used via
+              the  name resolution mechanism name resolve
+              order described in ssmmbb..ccoonnff(5)
+              to resolve any NetBIOS name queries needed by
+              the server. Note that the contents of this
+              file are NNOOTT used by nnmmbbdd to
+              answer any name queries. Adding a line to this
+              file  affects name NetBIOS resolution from this
+              host OONNLLYY.
+
+              The  default path to this file is
+              compiled into Samba as part of the
+              build  process.   Common   defaults   are
+              _/_u_s_r_/_l_o_c_a_l_/_s_a_m_‐
+              _b_a_/_l_i_b_/_l_m_h_o_s_t_s,_/_u_s_r_/_s_a_m_b_a_/_l_i_b_/_l_m_h_o_s_t_s
+              or_/_e_t_c_/_s_a_m_b_a_/_l_m_h_o_s_t_s.
+              See the llmmhhoossttss(5) man page for
+              details  on  the  contents  of  this file.
+
+
+       -V     Prints the program version number.
+
+
+       -s <configuration file>
+              The  file  specified contains the configuration
+              details required by the server. The information
+              in this file includes server-spe‐ cific
+              information such as what printcap file to
+              use, as well as descriptions of all the
+              services that the server is to  provide.
+              See  _s_m_b_._c_o_n_f  for  more
+              information. The default configuration file
+              name is determined at compile time.
+
+
+       -d|--debug=debuglevel
+              _d_e_b_u_g_l_e_v_e_l is an integer
+              from 0 to 10. The default value if this parameter
+              is not specified is zero.
+
+              The higher this value, the more detail will be
+              logged to the log files about the activities of
+              the server. At level 0, only crit‐ ical  errors
+              and  serious warnings will be logged. Level 1
+              is a reasonable level for day-to-day running -
+              it generates  a  small amount of information
+              about operations carried out.
+
+              Levels  above  1 will generate considerable
+              amounts of log data, and should only be used
+              when  investigating  a  problem.  Levels above
+              3  are  designed  for use only by developers
+              and generate HUGE amounts of log data, most of
+              which is extremely cryptic.
+
+              Note that specifying this parameter here
+              will override the   pa‐ rameter in the
+              _s_m_b_._c_o_n_f file.
+
+
+       -l|--logfile=logdirectory
+              Base  directory  name for log/debug files. The
+              extension ""..pprroogg‐‐
+              nnaammee"" will be appended
+              (e.g. log.smbclient,  log.smbd,  etc...).
+              The log file is never removed by the client.
+
+
+       -p <UDP port number>
+              UDP port number is a positive integer value. This
+              option changes the default UDP port number
+              (normally 137) that nnmmbbdd responds to
+              name queries on. Don't use this option unless you
+              are an expert, in which case you won't need help!
+
+
+FFIILLEESS
+       _/_e_t_c_/_i_n_e_t_d_._c_o_n_f
+              If the server is to be run by theiinneettdd
+              meta-daemon,  this  file must contain suitable
+              startup information for the meta-daemon.
+
+
+       _/_e_t_c_/_r_c
+              or whatever initialization script your system
+              uses).
+
+              If  running  the  server  as a daemon at startup,
+              this file will need to contain an appropriate
+              startup sequence for the server.
+
+
+       _/_e_t_c_/_s_e_r_v_i_c_e_s
+              If running the server via the meta-daemon
+              iinneettdd, this file  must contain a
+              mapping of service name (e.g., netbios-ssn)
+              to service port (e.g., 139) and protocol type
+              (e.g., tcp).
+
+
+       _/_u_s_r_/_l_o_c_a_l_/_s_a_m_b_a_/_l_i_b_/_s_m_b_._c_o_n_f
+              This is the default location of the
+              ssmmbb..ccoonnff(5) server
+              configu‐ ration  file. Other common
+              places that systems install this file are
+              _/_u_s_r_/_s_a_m_b_a_/_l_i_b_/_s_m_b_._c_o_n_f
+              and
+              _/_e_t_c_/_s_a_m_b_a_/_s_m_b_._c_o_n_f.
+
+              When run as a WINS server (see thewins support
+              parameter in  the ssmmbb..ccoonnff(5)
+              man  page),nnmmbbdd will store the WINS
+              database in the file _w_i_n_s_._d_a_t
+              in the _v_a_r_/_l_o_c_k_s directory
+              configured under  wher‐ ever Samba was
+              configured to install itself.
+
+              If  nnmmbbdd is acting as a
+              bbrroowwssee mmaasstteerr
+              (see the local master pa‐ rameter
+              in the ssmmbb..ccoonnff(5)
+              man page, nnmmbbdd will store the
+              brows‐ ing  database in the file
+              _b_r_o_w_s_e_._d_a_t  in the
+              _v_a_r_/_l_o_c_k_s directory configured
+              under wherever Samba was configured  to  install
+              it‐ self.
+
+
+SSIIGGNNAALLSS
+       To shut down an nnmmbbdd process it is recommended
+       that SIGKILL (-9) NNOOTT be used, except as a
+       last resort, as this may leave the name  database  in
+       an  inconsistent state. The correct way to terminate
+       nnmmbbdd is to send it a SIGTERM (-15) signal and
+       wait for it to die on its own.
+
+
+       nnmmbbdd will accept SIGHUP, which will
+       cause it to dump out its  namelists into  the
+       file _n_a_m_e_l_i_s_t_._d_e_b_u_g  in the
+       _/_u_s_r_/_l_o_c_a_l_/_s_a_m_b_a_/_v_a_r_/_l_o_c_k_s
+       direc‐ tory (or the _v_a_r_/_l_o_c_k_s
+       directory configured under  wherever  Samba  was
+       configured  to  install  itself). This will also cause
+       nnmmbbdd to dump out its server database in the
+       _l_o_g_._n_m_b file.
+
+
+       The debug log level of nmbd may be  raised  or  lowered
+       using  ssmmbbccoonn‐‐ ttrrooll(1)
+       (SIGUSR[1|2] signals are no longer used since Samba
+       2.2). This is to allow transient problems to be
+       diagnosed, whilst still running at a normally low
+       log level.
+
+
+VVEERRSSIIOONN
+       This man page is correct for version 3.0 of the
+       Samba suite.
+
+
+SSEEEE AALLSSOO
+       iinneettdd(8), ssmmbbdd(8),
+       ssmmbb..ccoonnff(5),
+       ssmmbbcclliieenntt(1),
+       tteessttppaarrmm(1),
+       tteessttpprrnnss(1), and the Internet
+       RFC's _r_f_c_1_0_0_1_._t_x_t,
+       _r_f_c_1_0_0_2_._t_x_t. In addition  the
+       CIFS (formerly  SMB)  specification is available as
+       a link from the Web page http://samba.org/cifs/.
+
+
+AAUUTTHHOORR
+       The original Samba software and related utilities were
+       created  by  An‐ drew  Tridgell.  Samba  is  now
+       developed by the Samba Team as an Open Source project
+       similar to the way the Linux kernel is developed.
+
+
+       The original Samba man pages were written by Karl Auer.
+       The  man  page sources  were converted to YODL format
+       (another excellent piece of Open Source software,
+       available at ftp://ftp.icce.rug.nl/pub/unix/) and
+       up‐ dated  for  the  Samba 2.0 release by Jeremy
+       Allison. The conversion to DocBook for Samba 2.2 was
+       done by Gerald Carter. The conversion to Doc‐ Book
+       XML 4.2 for Samba 3.0 was done by Alexander Bokovoy.
+
+
+
+
+                                                                       NMBD(8)

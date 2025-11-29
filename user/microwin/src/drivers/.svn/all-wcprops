@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers
+END
+SubRepl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/SubRepl.h
+END
+gsselect_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/gsselect_rtems.c
+END
+getbyte.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/getbyte.s
+END
+romfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/romfont.c
+END
+fblin4orion.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4orion.c
+END
+fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fb.c
+END
+mou_ps5.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_ps5.c
+END
+fblin1rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin1rev.c
+END
+mou_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_x11.c
+END
+romfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/romfont.h
+END
+mou_dynapro.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_dynapro.c
+END
+fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fb.h
+END
+fblin4sh3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4sh3.c
+END
+scr_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_debug.c
+END
+scr_djgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_djgr.c
+END
+fblin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin32.c
+END
+mou_de2ts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_de2ts.c
+END
+scr_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_rtems.c
+END
+touchscreen_ipaq.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_ipaq.h
+END
+kbd_cleo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_cleo.c
+END
+fbportrait_down.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fbportrait_down.c
+END
+mou_gpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_gpm.c
+END
+nofont.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/nofont.c
+END
+scr_bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_bios.c
+END
+scr_em84xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_em84xx.c
+END
+fblin24.org
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin24.org
+END
+fblin4hp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4hp.c
+END
+kbd_lirc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_lirc.c
+END
+fbportrait_right.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fbportrait_right.c
+END
+vtswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/vtswitch.c
+END
+memplan4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/memplan4.c
+END
+asmbios.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/asmbios.s
+END
+kbd_pac.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_pac.c
+END
+scr_x11.org
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_x11.org
+END
+fbportrait_left.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fbportrait_left.c
+END
+fblin8.org
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin8.org
+END
+asmmsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/asmmsc.h
+END
+fblin2rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin2rev.c
+END
+mou_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_null.c
+END
+elksutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/elksutil.c
+END
+mwlirc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mwlirc.c
+END
+mou_fbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_fbsd.c
+END
+asmplan4.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/asmplan4.s
+END
+fblin24.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin24.c
+END
+mou_mt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_mt.c
+END
+mwlirc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mwlirc.h
+END
+keymap_zaurus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/keymap_zaurus.h
+END
+fblin32.org
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin32.org
+END
+mou_dos.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_dos.c
+END
+fblin32alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin32alpha.c
+END
+kbd_djgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_djgr.c
+END
+scr_svga.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_svga.c
+END
+genmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/genmem.c
+END
+mou_ser.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_ser.c
+END
+kbd_bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_bios.c
+END
+fblin2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin2.c
+END
+vgaplan4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/vgaplan4.c
+END
+int10_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/int10_pc.c
+END
+genmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/genmem.h
+END
+fblin4.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4.c
+END
+touchscreen_ads.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_ads.h
+END
+scr_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_x11.c
+END
+vgaplan4.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/vgaplan4.h
+END
+fblin8.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin8.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/asm.h
+END
+mou_sun.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_sun.c
+END
+scr_fbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_fbsd.c
+END
+kbd_tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_tc.c
+END
+kbd_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_x11.c
+END
+touchscreen_ucb1x00.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_ucb1x00.h
+END
+touchscreen_nds.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_nds.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/Makefile
+END
+fblin12.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin12.c
+END
+mwselect_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mwselect_rtems.c
+END
+mou_ucts.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_ucts.c
+END
+scr_fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_fb.c
+END
+touchscreen_zaurus.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_zaurus.h
+END
+fblin16.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin16.c
+END
+asm_prsm.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/asm_prsm.s
+END
+mou_cleo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_cleo.c
+END
+fblin4sa1100.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4sa1100.c
+END
+kbd_ttyscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_ttyscan.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/.svnignore
+END
+kbd_ipaq.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_ipaq.c
+END
+elkplan4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/elkplan4.c
+END
+keymap_standard.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/keymap_standard.h
+END
+dynacal.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/dynacal.c
+END
+kbd_pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_pipe.c
+END
+scr_tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_tc.c
+END
+scr_bogl.x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_bogl.x
+END
+mou_yopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_yopy.c
+END
+mou_vrlinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_vrlinux.c
+END
+scr_herc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_herc.c
+END
+scr_prsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_prsm.c
+END
+scr_cleo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_cleo.c
+END
+kbd_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_null.c
+END
+fblin4rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin4rev.c
+END
+kbd_fbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_fbsd.c
+END
+kbd_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/kbd_tty.c
+END
+genfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/genfont.c
+END
+scr_ecos.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/scr_ecos.c
+END
+vgainit.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/vgainit.c
+END
+mou_touchscreen.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_touchscreen.c
+END
+genfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/genfont.h
+END
+fblin16.org
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin16.org
+END
+touchscreen_ads7846.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/touchscreen_ads7846.h
+END
+input_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/input_rtems.c
+END
+fblin1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/fblin1.c
+END
+mou_harrier.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/drivers/mou_harrier.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2403/trunk/vendors/Nintendo/NDS
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/inittab
+END
+config.linux-2.6.x
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/config.linux-2.6.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/Makefile
+END
+config.arch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/config.arch
+END
+config.vendor
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2403/trunk/vendors/Nintendo/NDS/config.vendor
+END
+rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/rc
+END
+config.uClibc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/config.uClibc
+END
+issue
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/NDS/issue
+END

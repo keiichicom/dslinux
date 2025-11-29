@@ -1,0 +1,113 @@
+IWLIST(8)                  Linux Programmer's Manual
+IWLIST(8)
+
+
+
+NNAAMMEE
+       iwlist  - Get more detailed wireless information from
+       a wireless inter‐ face
+
+SSYYNNOOPPSSIISS
+       iiwwlliisstt _i_n_t_e_r_f_a_c_e
+       ssccaannnniinngg iiwwlliisstt
+       _i_n_t_e_r_f_a_c_e ffrreeqquueennccyy
+       iiwwlliisstt _i_n_t_e_r_f_a_c_e
+       rraattee iiwwlliisstt
+       _i_n_t_e_r_f_a_c_e kkeeyy iiwwlliisstt
+       _i_n_t_e_r_f_a_c_e ppoowweerr
+       iiwwlliisstt _i_n_t_e_r_f_a_c_e
+       ttxxppoowweerr iiwwlliisstt
+       _i_n_t_e_r_f_a_c_e rreettrryy
+       iiwwlliisstt _i_n_t_e_r_f_a_c_e
+       eevveenntt iiwwlliisstt ----hheellpp
+       iiwwlliisstt ----vveerrssiioonn
+
+DDEESSCCRRIIPPTTIIOONN
+       IIwwlliisstt is used to display some additional
+       information from  a  wireless network interface that
+       is not displayed by _i_w_c_o_n_f_i_g(8).
+       The main argu‐ ment is used to select a category
+       of information,  iiwwlliisstt  displays  in
+       detailed  form  all  information  related  to  this
+       category, including information already shown by
+       _i_w_c_o_n_f_i_g(8).
+
+PPAARRAAMMEETTEERRSS
+       ssccaann[ning]
+              Give the list of Access Points and Ad-Hoc cells
+              in  range,  and optionally a whole bunch of
+              information about them (ESSID, Qual‐ ity,
+              Frequency,  Mode...).  The  type  of  information
+              returned depends on what the card supports.
+              Triggering  scanning  is  a privileged operation
+              (_r_o_o_t only) and normal users can only
+              read left-over scan results.  By  default, the
+              way  scanning  is  done  (the  scope  of  the
+              scan) will be impacted by the current setting of
+              the driver. Also,  this  com‐ mand is supposed
+              to take extra arguments to control the scanning
+              behaviour, but this is currently not implemented.
+
+       ffrreeqq[uency]/cchhaannnneell
+              Give the list of available frequencies in
+              the  device  and  the number  of defined
+              channels. Please note that usually the driver
+              returns the total number of channels and  only
+              the  frequencies available  in the present
+              locale, so there is no one-to-one map‐ ping
+              between frequencies displayed and channel
+              numbers.
+
+       rraattee/bbiitt[rate]
+              List the bit-rates supported by the device.
+
+       kkeeyy/eenncc[ryption]
+              List the encryption key sizes  supported  and
+              display  all  the encryption keys available in
+              the device.
+
+       ppoowweerr  List  the  various  Power Management
+       attributes and modes of the
+              device.
+
+       ttxxppoowweerr
+              List the various Transmit Powers available on
+              the device.
+
+       rreettrryy  List the transmit retry limits and
+       retry lifetime on the device.
+
+       aapp/aacccceessssppooiinntt/ppeeeerrss
+              Give the list of Access Points  in  range,  and
+              optionally  the quality of link to them. This
+              feature is oobbssoolleettee and now
+              depre‐ cated in favor of scanning support
+              (above),  and  most  drivers don't support it.
+              Some  drivers  may use this command to return
+              a specific list of Peers or Access Points,
+              such  as  the  list  of  Peers  associ‐
+              ated/registered with the card. See your driver
+              documentation for details.
+
+       eevveenntt  List the wireless events supported
+       by the device.
+
+       ----vveerrssiioonn
+              Display the version of the tools, as well as
+              the recommended and current Wireless Extensions
+              version for the tool and the various wireless
+              interfaces.
+
+FFIILLEESS
+       _/_p_r_o_c_/_n_e_t_/_w_i_r_e_l_e_s_s
+
+SSEEEE AALLSSOO
+       iiwwccoonnffiigg(8), iiwwssppyy(8).
+       iiwweevveenntt(8), iiwwpprriivv(8),
+       wwiirreelleessss(7).
+
+
+
+
+wireless-tools                   23 June 2004
+IWLIST(8)

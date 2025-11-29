@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/twofish
+END
+twofish.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/twofish/twofish.c
+END
+twofish_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/twofish/twofish_tab.c
+END

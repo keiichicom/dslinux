@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/colors.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/.svnignore
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/inputbox.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/checklist.c
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/menubox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/expr.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/confdata.c
+END
+lex.zconf.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/lex.zconf.c_shipped
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/expr.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/conf.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/zconf.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/Makefile
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/textbox.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/yesno.c
+END
+Kconfig-language.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/Kconfig-language.txt
+END
+msgbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/msgbox.c
+END
+zconf.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/zconf.tab.c_shipped
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/lkc_proto.h
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/mconf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/menu.c
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/dialog.h
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/symbol.c
+END
+zconf.tab.h_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/zconf.tab.h_shipped
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/scripts/config/zconf.y
+END

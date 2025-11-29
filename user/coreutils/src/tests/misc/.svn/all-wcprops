@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc
+END
+sort-merge
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sort-merge
+END
+close-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/close-stdout
+END
+date-sec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/date-sec
+END
+sha512sum
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sha512sum
+END
+nohup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/nohup
+END
+df
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/df
+END
+tac-continue
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/tac-continue
+END
+wc-files0-from
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/wc-files0-from
+END
+csplit
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/csplit
+END
+sha384sum
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sha384sum
+END
+pathchk1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/pathchk1
+END
+cat-proc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/cat-proc
+END
+head-elide-tail
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/head-elide-tail
+END
+nl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/nl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/Makefile.am
+END
+sort-rand
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sort-rand
+END
+split-a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/split-a
+END
+false-status
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/false-status
+END
+date
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/date
+END
+expand
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/expand
+END
+head-c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/head-c
+END
+test-diag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/test-diag
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/Makefile.in
+END
+printf-hex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/printf-hex
+END
+base64
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/base64
+END
+fold
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/fold
+END
+split-l
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/split-l
+END
+pwd-long
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/pwd-long
+END
+tty-eof
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/tty-eof
+END
+sha224sum
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sha224sum
+END
+wc-files0
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/wc-files0
+END
+sha256sum
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/sha256sum
+END
+paste-no-nl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/paste-no-nl
+END
+stat-fmt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/stat-fmt
+END
+head-pos
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/head-pos
+END
+printf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/printf
+END
+split-fail
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/split-fail
+END
+shuf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/shuf
+END
+mknod
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/mknod
+END
+basename
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/basename
+END
+stat-printf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/stat-printf
+END
+nice
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/nice
+END
+dirname
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/misc/dirname
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib
+END
+sound_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/sound_api.c
+END
+.configured
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/.configured
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform.c
+END
+timelib.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/timelib.c
+END
+pix_sys_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/pix_sys_api.c
+END
+sysinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/sysinfo.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/Makefile
+END
+sound_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/sound_dsp.c
+END
+linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/linux.c
+END
+file_access.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/file_access.c
+END
+pix_comm_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/pix_comm_api.c
+END
+platform_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform_proto.c
+END
+linux_wireless.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/linux_wireless.c
+END
+local_route.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/local_route.h
+END
+linux_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/linux_if.c
+END
+linux_ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/linux_ppp.c
+END

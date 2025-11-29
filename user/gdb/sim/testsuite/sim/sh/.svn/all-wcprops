@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh
+END
+pswap.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pswap.s
+END
+shlr2.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shlr2.s
+END
+fldi1.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fldi1.s
+END
+shlr8.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shlr8.s
+END
+bld.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bld.s
+END
+shll.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shll.s
+END
+bandor.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bandor.s
+END
+float.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/float.s
+END
+pass.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pass.s
+END
+fmov.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fmov.s
+END
+padd.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/padd.s
+END
+shlr.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shlr.s
+END
+psub.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/psub.s
+END
+bxor.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bxor.s
+END
+fsrra.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fsrra.s
+END
+sett.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/sett.s
+END
+bldnot.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bldnot.s
+END
+fcnvsd.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fcnvsd.s
+END
+ldrc.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/ldrc.s
+END
+pabs.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pabs.s
+END
+resbank.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/resbank.s
+END
+movli.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/movli.s
+END
+bandornot.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bandornot.s
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/ChangeLog
+END
+macw.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/macw.s
+END
+flds.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/flds.s
+END
+pshlr.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pshlr.s
+END
+pinc.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pinc.s
+END
+frchg.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/frchg.s
+END
+allinsn.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/allinsn.exp
+END
+pushpop.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pushpop.s
+END
+pmuls.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pmuls.s
+END
+pclr.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pclr.s
+END
+pshai.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pshai.s
+END
+pdec.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pdec.s
+END
+fail.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fail.s
+END
+fsca.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fsca.s
+END
+movxy.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/movxy.s
+END
+fcnvds.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fcnvds.s
+END
+shll2.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shll2.s
+END
+bst.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bst.s
+END
+fdiv.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fdiv.s
+END
+fschg.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fschg.s
+END
+shll8.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shll8.s
+END
+bset.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bset.s
+END
+fadd.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fadd.s
+END
+fldi0.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fldi0.s
+END
+fsub.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fsub.s
+END
+mov.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/mov.s
+END
+and.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/and.s
+END
+fmul.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fmul.s
+END
+pdmsb.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pdmsb.s
+END
+loop.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/loop.s
+END
+shll16.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shll16.s
+END
+movi.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/movi.s
+END
+fabs.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fabs.s
+END
+macl.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/macl.s
+END
+pshli.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pshli.s
+END
+mulr.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/mulr.s
+END
+shlr16.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/shlr16.s
+END
+pand.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pand.s
+END
+bclr.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/bclr.s
+END
+fpchg.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fpchg.s
+END
+clip.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/clip.s
+END
+ftrc.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/ftrc.s
+END
+fsqrt.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fsqrt.s
+END
+fipr.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fipr.s
+END
+prnd.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/prnd.s
+END
+fmac.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fmac.s
+END
+testutils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/testutils.inc
+END
+swap.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/swap.s
+END
+paddc.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/paddc.s
+END
+fcmpeq.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fcmpeq.s
+END
+pshar.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/pshar.s
+END
+fneg.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fneg.s
+END
+fcmpgt.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/fcmpgt.s
+END
+dmxy.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/dmxy.s
+END
+div.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/div.s
+END
+movua.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/movua.s
+END
+add.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/sh/add.s
+END

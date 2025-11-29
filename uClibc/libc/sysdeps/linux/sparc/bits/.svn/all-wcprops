@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits
+END
+statvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/statvfs.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/ioctls.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/syscalls.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/fenv.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/endian.h
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/siginfo.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/msq.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/setjmp.h
+END
+atomicity.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/atomicity.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/signum.h
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/sigcontextinfo.h
+END
+kernel_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/kernel_types.h
+END
+errno_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/errno_values.h
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/statfs.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/types.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/poll.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/fcntl.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/wordsize.h
+END
+profil-counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/profil-counter.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/mathdef.h
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/kernel_stat.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/stat.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/sigaction.h
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/stackinfo.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/termios.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/resource.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/sigcontext.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/mman.h
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/mathinline.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bits/socket.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir
+END
+fail-perm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir/fail-perm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir/Makefile.in
+END
+ignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir/ignore
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir/Makefile.am
+END
+t-slash
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/rmdir/t-slash
+END

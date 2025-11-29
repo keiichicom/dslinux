@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave/Makefile.in
+END
+sndfile_play.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave/sndfile_play.m
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave/Makefile.am
+END
+sndfile_save.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave/sndfile_save.m
+END
+sndfile_load.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/Octave/sndfile_load.m
+END

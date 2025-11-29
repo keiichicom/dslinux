@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client
+END
+cli_pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_pipe.c
+END
+cli_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_reg.c
+END
+cli_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_echo.c
+END
+cli_wkssvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_wkssvc.c
+END
+cli_samr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_samr.c
+END
+cli_spoolss.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_spoolss.c
+END
+cli_lsarpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_lsarpc.c
+END
+cli_netlogon.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_netlogon.c
+END
+cli_ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_ds.c
+END
+cli_srvsvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_srvsvc.c
+END
+cli_spoolss_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_spoolss_notify.c
+END
+cli_shutdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_shutdown.c
+END
+cli_dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_client/cli_dfs.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/busybox/docs
+END
+busybox_header.pod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/docs/busybox_header.pod
+END
+contributing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/docs/contributing.txt
+END
+autodocifier.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/docs/autodocifier.pl
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/busybox/docs/.svnignore
+END
+new-applet-HOWTO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/docs/new-applet-HOWTO.txt
+END
+style-guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/docs/style-guide.txt
+END
+busybox_footer.pod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/docs/busybox_footer.pod
+END

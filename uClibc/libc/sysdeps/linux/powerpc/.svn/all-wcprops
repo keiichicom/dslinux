@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/mmap.c
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/syscall.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/Makefile
+END
+brk.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/brk.S
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/fpu_control.h
+END
+pread_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/pread_write.c
+END
+crt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/crt0.c
+END
+__uClibc_syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/__uClibc_syscall.S
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/ioctl.c
+END
+README.bits
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/README.bits
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/clone.S
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/crti.S
+END
+__syscall_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/__syscall_error.c
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/setjmp.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/__longjmp.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/crtn.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/bsd-_setjmp.S
+END
+ppc_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/ppc_asm.h
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/vfork.c
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/crt0.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/powerpc/bsd-setjmp.S
+END

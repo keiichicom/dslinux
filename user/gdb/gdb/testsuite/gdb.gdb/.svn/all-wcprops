@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.gdb
+END
+observer.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.gdb/observer.exp
+END
+xfullpath.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.gdb/xfullpath.exp
+END
+complaints.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.gdb/complaints.exp
+END
+selftest.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.gdb/selftest.exp
+END

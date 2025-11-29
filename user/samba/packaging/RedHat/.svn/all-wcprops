@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat
+END
+samba.pamd.stack
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.pamd.stack
+END
+samba.spec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.spec
+END
+samba.xinetd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.xinetd
+END
+smb.init
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/smb.init
+END
+samba.spec.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.spec.tmpl
+END
+makerpms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/makerpms.sh
+END
+winbind.init
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/winbind.init
+END
+filter-requires-samba_rh8.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/filter-requires-samba_rh8.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/README
+END
+smbprint
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/smbprint
+END
+filter-requires-samba_rh9.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/filter-requires-samba_rh9.sh
+END
+smbusers
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/smbusers
+END
+samba.pamd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.pamd
+END
+samba.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/samba.log
+END
+makerpms.sh.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/makerpms.sh.tmpl
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/RedHat/smb.conf
+END

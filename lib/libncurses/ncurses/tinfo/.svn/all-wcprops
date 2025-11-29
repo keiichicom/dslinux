@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo
+END
+comp_scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/comp_scan.c
+END
+lib_tputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_tputs.c
+END
+lib_kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_kernel.c
+END
+lib_cur_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_cur_term.c
+END
+trim_sgr0.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/trim_sgr0.c
+END
+getenv_num.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/getenv_num.c
+END
+alloc_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/alloc_entry.c
+END
+write_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/write_entry.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/README
+END
+doalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/doalloc.c
+END
+MKfallback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/MKfallback.sh
+END
+alloc_ttype.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/alloc_ttype.c
+END
+lib_termcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_termcap.c
+END
+MKcaptab.awk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/MKcaptab.awk
+END
+lib_tgoto.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_tgoto.c
+END
+MKkeys_list.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/MKkeys_list.sh
+END
+lib_acs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_acs.c
+END
+read_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/read_entry.c
+END
+add_tries.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/add_tries.c
+END
+lib_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_data.c
+END
+comp_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/comp_hash.c
+END
+lib_ti.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_ti.c
+END
+lib_napms.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_napms.c
+END
+free_ttype.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/free_ttype.c
+END
+comp_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/comp_error.c
+END
+make_keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/make_keys.c
+END
+lib_tparm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_tparm.c
+END
+init_keytry.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/init_keytry.c
+END
+lib_baudrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_baudrate.c
+END
+lib_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_raw.c
+END
+lib_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_options.c
+END
+lib_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_print.c
+END
+captoinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/captoinfo.c
+END
+lib_ttyflags.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_ttyflags.c
+END
+lib_has_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_has_cap.c
+END
+lib_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_setup.c
+END
+lib_longname.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_longname.c
+END
+read_termcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/read_termcap.c
+END
+comp_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/comp_parse.c
+END
+setbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/setbuf.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/strings.c
+END
+home_terminfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/home_terminfo.c
+END
+MKnames.awk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/MKnames.awk
+END
+parse_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/parse_entry.c
+END
+name_match.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/name_match.c
+END
+comp_expand.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/comp_expand.c
+END
+lib_termname.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/lib_termname.c
+END
+access.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/tinfo/access.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config
+END
+set.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/set.c
+END
+get.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/get.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/Makefile.in
+END
+iconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/iconfig.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/Makefile.am
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/module.h
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/parse.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-config/write.c
+END

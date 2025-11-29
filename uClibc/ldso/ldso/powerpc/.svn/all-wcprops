@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc
+END
+dl-startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc/dl-startup.h
+END
+elfinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc/elfinterp.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc/dl-sysdep.h
+END
+dl-syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc/dl-syscalls.h
+END
+resolve.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/powerpc/resolve.S
+END

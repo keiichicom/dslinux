@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_noroot
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_noroot/expect.1
+END
+expect.2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_noroot/expect.2
+END
+name
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_noroot/name
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_noroot/image.gz
+END

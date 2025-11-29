@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30
+END
+ldi8.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldi8.cgs
+END
+bp.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bp.cgs
+END
+bv.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bv.cgs
+END
+ldi20.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldi20.cgs
+END
+bgt.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bgt.cgs
+END
+cmp.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/cmp.cgs
+END
+copop.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/copop.cgs
+END
+allinsn.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/allinsn.exp
+END
+copst.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/copst.cgs
+END
+sub.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/sub.cgs
+END
+copsv.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/copsv.cgs
+END
+andccr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/andccr.cgs
+END
+lsl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/lsl.cgs
+END
+muluh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/muluh.cgs
+END
+add.ms
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/add.ms
+END
+nop.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/nop.cgs
+END
+mul.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/mul.cgs
+END
+testutils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/testutils.inc
+END
+lsr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/lsr.cgs
+END
+copld.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/copld.cgs
+END
+and.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/and.cgs
+END
+bhi.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bhi.cgs
+END
+ble.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ble.cgs
+END
+reti.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/reti.cgs
+END
+ldres.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldres.cgs
+END
+add2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/add2.cgs
+END
+lsl2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/lsl2.cgs
+END
+ldi32.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldi32.cgs
+END
+bls.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bls.cgs
+END
+or.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/or.cgs
+END
+blt.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/blt.cgs
+END
+orb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/orb.cgs
+END
+stm0.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/stm0.cgs
+END
+stm1.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/stm1.cgs
+END
+div0s.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div0s.cgs
+END
+ldub.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldub.cgs
+END
+st.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/st.cgs
+END
+extub.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/extub.cgs
+END
+div0u.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div0u.cgs
+END
+orh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/orh.cgs
+END
+div4s.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div4s.cgs
+END
+int.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/int.cgs
+END
+lduh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/lduh.cgs
+END
+subc.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/subc.cgs
+END
+extuh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/extuh.cgs
+END
+ld.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ld.cgs
+END
+stres.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/stres.cgs
+END
+cmp2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/cmp2.cgs
+END
+dmov.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/dmov.cgs
+END
+mulh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/mulh.cgs
+END
+hello.ms
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/hello.ms
+END
+asr2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/asr2.cgs
+END
+beq.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/beq.cgs
+END
+subn.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/subn.cgs
+END
+misc.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/misc.exp
+END
+bandh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bandh.cgs
+END
+bandl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bandl.cgs
+END
+mulu.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/mulu.cgs
+END
+btsth.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/btsth.cgs
+END
+xchb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/xchb.cgs
+END
+eor.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/eor.cgs
+END
+div.ms
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div.ms
+END
+asr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/asr.cgs
+END
+jmp.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/jmp.cgs
+END
+btstl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/btstl.cgs
+END
+add.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/add.cgs
+END
+stilm.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/stilm.cgs
+END
+borh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/borh.cgs
+END
+ret.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ret.cgs
+END
+addsp.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/addsp.cgs
+END
+addc.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/addc.cgs
+END
+leave.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/leave.cgs
+END
+borl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/borl.cgs
+END
+beorh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/beorh.cgs
+END
+mov.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/mov.cgs
+END
+bnc.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bnc.cgs
+END
+div1.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div1.cgs
+END
+beorl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/beorl.cgs
+END
+div2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div2.cgs
+END
+bra.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bra.cgs
+END
+andb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/andb.cgs
+END
+bne.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bne.cgs
+END
+div3.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/div3.cgs
+END
+addn.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/addn.cgs
+END
+dmovb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/dmovb.cgs
+END
+orccr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/orccr.cgs
+END
+andh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/andh.cgs
+END
+call.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/call.cgs
+END
+enter.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/enter.cgs
+END
+dmovh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/dmovh.cgs
+END
+bno.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bno.cgs
+END
+lsr2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/lsr2.cgs
+END
+bc.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bc.cgs
+END
+extsb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/extsb.cgs
+END
+bnv.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bnv.cgs
+END
+eorb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/eorb.cgs
+END
+addn2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/addn2.cgs
+END
+stb.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/stb.cgs
+END
+extsh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/extsh.cgs
+END
+ldm0.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldm0.cgs
+END
+eorh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/eorh.cgs
+END
+bge.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bge.cgs
+END
+ldm1.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/ldm1.cgs
+END
+sth.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/sth.cgs
+END
+bn.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/bn.cgs
+END
+inte.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/fr30/inte.cgs
+END

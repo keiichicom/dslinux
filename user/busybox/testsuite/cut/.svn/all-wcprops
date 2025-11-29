@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut
+END
+cut-cuts-an-open-range
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut/cut-cuts-an-open-range
+END
+cut-cuts-a-character
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut/cut-cuts-a-character
+END
+cut-cuts-a-closed-range
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut/cut-cuts-a-closed-range
+END
+cut-cuts-a-field
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut/cut-cuts-a-field
+END
+cut-cuts-an-unclosed-range
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cut/cut-cuts-an-unclosed-range
+END

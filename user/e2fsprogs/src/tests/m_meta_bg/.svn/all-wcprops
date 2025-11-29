@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_meta_bg
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_meta_bg/script
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/m_meta_bg/expect.1
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/sha1sum
+END
+basic-1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/sha1sum/basic-1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/sha1sum/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/sha1sum/Makefile.am
+END
+sample-vec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/sha1sum/sample-vec
+END

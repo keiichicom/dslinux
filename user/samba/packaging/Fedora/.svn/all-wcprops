@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora
+END
+samba.spec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.spec
+END
+filter-requires-samba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/filter-requires-samba.sh
+END
+samba.xinetd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.xinetd
+END
+smb.init
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/smb.init
+END
+swat.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/swat.desktop
+END
+samba.sysconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.sysconfig
+END
+samba.spec.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.spec.tmpl
+END
+makerpms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/makerpms.sh
+END
+winbind.init
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/winbind.init
+END
+smbprint
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/smbprint
+END
+smbusers
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/smbusers
+END
+samba.pamd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.pamd
+END
+samba.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/samba.log
+END
+makerpms.sh.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/makerpms.sh.tmpl
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Fedora/smb.conf
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/install-utils
+END
+compile_manpages
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/install-utils/compile_manpages
+END
+convfstab
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/install-utils/convfstab
+END
+remove_preformat_manpages
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/install-utils/remove_preformat_manpages
+END

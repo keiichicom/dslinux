@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt
+END
+popthelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/popthelp.c
+END
+poptparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/poptparse.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/Makefile.in
+END
+findme.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/findme.c
+END
+popt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/popt.c
+END
+poptint.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/poptint.h
+END
+findme.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/findme.h
+END
+popt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/popt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/Makefile.am
+END
+poptconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/lib-popt/poptconfig.c
+END

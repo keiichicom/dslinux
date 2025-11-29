@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod
+END
+equals
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/equals
+END
+equal-x
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/equal-x
+END
+setgid
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/setgid
+END
+no-x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/no-x
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/Makefile.in
+END
+octal
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/octal
+END
+inaccessible
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/inaccessible
+END
+usage
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/usage
+END
+umask-x
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/umask-x
+END
+c-option
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/c-option
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/chmod/Makefile.am
+END

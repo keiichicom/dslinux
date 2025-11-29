@@ -1,0 +1,182 @@
+Tmsnc(1)
+Tmsnc(1)
+
+
+
+NNAAMMEE
+       tmsnc - Textbased MSN client for UNIX
+
+SSYYNNOOPPSSIISS
+       ttmmssnncc [-l address] [-i status] [-uv]
+
+DDEESSCCRRIIPPTTIIOONN
+       ttmmssnncc is a textbased chat client that uses
+       the MSN protocol. The inter‐ face is written in
+       the Ncurses library and the  SSL  part  in  OpenSSL.
+       This  makes  the  program very portable and it should
+       be able to run on any UNIX-like system.
+
+OOPPTTIIOONNSS
+       --ll AADDDDRREESSSS
+              Login with the specified _A_D_D_R_E_S_S
+
+       --uu     Check for updates.
+
+       --ii SSTTAATTUUSS
+              Set initial presence status to _S_T_A_T_U_S
+              where _S_T_A_T_U_S is  "online", "away",
+              "brb", "busy", "idle", "phone", "lunch" or
+              "hidden".
+
+       --vv     Display version information.
+
+
+MMEENNUU
+       Use TAB to switch between the different lists and
+       windows in the inter‐ face.  To pull down a menu,
+       press enter. To  choose  one  of  the  menu items,
+       go up and down with the arrow keys and then press
+       enter to exe‐ cute the command.
+
+
+TTAALLKKFFIILLTTEERRSS
+       To enable translation of outgoing messages using
+       talkfilters, you first have       to       install
+       libtalkfilters      (http://www.hyper‐
+       realm.com/main.php?s=talkfilters) and re-compile
+       tmsnc.  Then you go to the "Actions->Set filter"
+       menu-item. Enter one of the following filter- names:
+       austro, b1ff, brooklyn, chef, cockney, drawl, dubya,
+       fudd, fune‐ tak, jethro, jive, kraut, pansy, pirate,
+       postmodern, redneck, valspeak, or warez. You can also
+       disable talkfilters by typing in "none". Now all your
+       outgoing messages will get translated.
+
+
+CCOONNTTAACCTT LLIISSTT
+       Use  the  arrow  keys  to choose a contact. Press
+       enter to initialize a conversation.  While having
+       a contact selected you can go to  the  menu and
+       choose  CCoonnttaaccttss-->>SSeett
+       ccuussttoomm  nniicckk to give the
+       selected contact a custom nickname.  Similarily
+       while having a contact  selected  you  can un-set
+       the  custom nickname by choosing the menu-item
+       CCoonnttaaccttss-->>UUnn--sseett
+       ccuussttoomm nniicckk
+
+       In the contact list you can use the following short-cut
+       keys.
+
+       aa      Add the selected contact (or if it is already
+       added then  add  a
+              new contact).
+
+       dd      Delete the selected contact.
+
+       bb      Block the selected contact.
+
+       uu      Un-block the selected contact.
+
+       ii      Invite contact to the current conversation.
+
+       II      Display information about the selected contact.
+
+
+
+CCOONNVVEERRSSAATTIIOONN LLIISSTT
+       To  switch  to  an  open conversation, select the
+       conversation with the arrow keys and press enter. A
+       conversation  will  be  marked  green  if there are
+       unread messages.
+
+SSHHOORRTTCCUUTT KKEEYYSS
+       aalltt--cc  Close the current conversation.
+
+       aalltt--<<nnuummbbeerr>>
+              Switch  to the conversation represented by
+              <number>. If <number> is 0, the console-window
+              will be activated.
+
+       aalltt--aa  Focus on the menu.
+
+       aalltt--ss  Focus on the contact list.
+
+       aalltt--xx  Focus on the conversation list.
+
+       aalltt--zz  Focus on the chat window.
+
+PPOOWWEERR FFUUNNCCTTIIOONNSS
+       To bring up the prompt to enter a power-command,
+       press ctrl-p.
+
+       Available commands:
+
+       bblloocckk aallll
+              Block all contacts.
+
+       uunnbblloocckk aallll
+              Unblock all contacts.
+
+       rreemmoovvee aallll
+              Remove all contacts. WARNING: This command is
+              not reversable.
+
+       wwhhooaammii Displays who you are currently
+       logged in as.
+
+       eexxppoorrtt ccoonnlliisstt
+              Write contact-list to a file.
+
+       iimmppoorrtt ccoonnlliisstt
+              Read contact-list from a file.
+
+
+CCUURRRREENNTT PPLLAAYYIINNGG SSOONNGG
+       In order to display your current playing song you
+       have to enable it  in ~/.tmsnc/tmsnc.conf  first.
+       Uncomment the display_current_song option.  TMSNC
+       updates the current playing song every 15  seconds  by
+       executing ~/.tmsnc/current_song.sh. The output is sent
+       the song's name.
+
+       Look here for sample shell scripts:
+
+       _h_t_t_p_:_/_/_t_m_s_n_c_._s_o_u_r_c_e_f_o_r_e_._n_e_t_/_c_s_o_n_g_._h_t_m_l
+
+
+
+FFIILLEESS
+       _~_/_._t_m_s_n_c_/_t_m_s_n_c_._c_o_n_f
+              Configuration file
+
+       _~_/_._t_m_s_n_c_/_a_l_i_a_s_e_s_._c_o_n_f
+              Aliases file
+
+       _~_/_._t_m_s_n_c_/_l_o_g_s_/
+              Conversation logs
+
+AAUUTTHHOORRSS//CCRREEDDIITTSS
+       ttmmssnncc was mainly written by Sanoi
+       <<ssaannooiixx@@ggmmaaiill..ccoomm>>
+
+       Tmsnc  is free software; you can redistribute it
+       and/or modify it under the terms of the IR Public
+       Domain License as published by the IR Group; either
+       version  1.6 of the License, or (at your option)
+       any later ver‐ sion.
+
+       The program is distributed in the hope that  it  will
+       be  useful,  but WITHOUT  ANY  WARRANTY;  without
+       even  the  implied  warranty  of MER‐ CHANTABILITY
+       or FITNESS FOR A PARTICULAR PURPOSE.
+
+       You should have received a copy of the IR Public
+       Domain  License  along with this program; if not,
+       write to sanoix@gmail.com.
+
+
+
+
+Texbased MSN Client              November 2005
+Tmsnc(1)

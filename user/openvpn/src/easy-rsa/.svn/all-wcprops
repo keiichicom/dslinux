@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa
+END
+vars
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/vars
+END
+build-inter
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-inter
+END
+build-ca
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-ca
+END
+revoke-crt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/revoke-crt
+END
+.externals
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/.externals
+END
+build-req
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-req
+END
+build-key
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-key
+END
+sign-req
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/sign-req
+END
+build-key-pkcs12
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-key-pkcs12
+END
+openssl.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/openssl.cnf
+END
+clean-all
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/clean-all
+END
+build-req-pass
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-req-pass
+END
+build-dh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-dh
+END
+list-crl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/list-crl
+END
+build-key-server
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-key-server
+END
+build-key-pass
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/build-key-pass
+END
+make-crl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/make-crl
+END
+revoke-full
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/revoke-full
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/README
+END

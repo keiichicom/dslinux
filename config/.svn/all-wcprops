@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2448/trunk/config
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2448/trunk/config/Makefile
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2307/trunk/config/mkconfig
+END
+setconfig
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/config/setconfig
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/config/.svnignore
+END
+Configure.help
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2447/trunk/config/Configure.help
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2447/trunk/config/config.in
+END
+fixconfig
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/config/fixconfig
+END

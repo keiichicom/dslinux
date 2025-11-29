@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader
+END
+ByteLoader.xs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/ByteLoader.xs
+END
+bytecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/bytecode.h
+END
+ByteLoader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/ByteLoader.pm
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/Makefile.PL
+END
+byterun.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/byterun.c
+END
+byterun.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/ByteLoader/byterun.h
+END

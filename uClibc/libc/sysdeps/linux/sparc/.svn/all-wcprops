@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/vfork.S
+END
+crt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/crt0.c
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/brk.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/clone.S
+END
+fork.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/fork.S
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/crti.S
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/setjmp.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/__longjmp.S
+END
+sdiv.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/sdiv.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/crtn.S
+END
+udiv.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/udiv.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bsd-_setjmp.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/bsd-setjmp.S
+END
+urem.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/urem.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/Makefile
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/fpu_control.h
+END
+umul.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/umul.S
+END
+rem.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/sysdeps/linux/sparc/rem.S
+END

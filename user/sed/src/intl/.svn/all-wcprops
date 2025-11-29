@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/sed/src/intl
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/localcharset.c
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/VERSION
+END
+dcigettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/dcigettext.c
+END
+dngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/dngettext.c
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/localealias.c
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/textdomain.c
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/bindtextdom.c
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/ref-del.sin
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/intl-compat.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/dgettext.c
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/dcgettext.c
+END
+plural.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/plural.c
+END
+localename.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/localename.c
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/loadinfo.h
+END
+ngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/ngettext.c
+END
+locale.alias
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/locale.alias
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/ChangeLog
+END
+os2compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/os2compat.c
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/finddomain.c
+END
+dcngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/dcngettext.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/gettextP.h
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/ref-add.sin
+END
+osdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/osdep.c
+END
+os2compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/os2compat.h
+END
+libgnuintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/libgnuintl.h
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/l10nflist.c
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/config.charset
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/loadmsgcat.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/gettext.c
+END
+plural.y
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/plural.y
+END
+gmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/gmo.h
+END
+plural-exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/plural-exp.c
+END
+eval-plural.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/eval-plural.h
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/hash-string.h
+END
+plural-exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/plural-exp.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/Makefile.in
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/sed/src/intl/explodename.c
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof
+END
+mac_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/mac_test.c
+END
+makefile.shared
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/makefile.shared
+END
+makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/makefile.msvc
+END
+modes_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/modes_test.c
+END
+dsa_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/dsa_test.c
+END
+x86_prof.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/x86_prof.c
+END
+cipher_hash_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/cipher_hash_test.c
+END
+dh_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/dh_tests.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/test.c
+END
+pkcs_1_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/pkcs_1_test.c
+END
+base64_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/base64_test.c
+END
+rsa_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/rsa_test.c
+END
+test.key
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/test.key
+END
+tomcrypt_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/tomcrypt_test.h
+END
+makefile.icc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/makefile.icc
+END
+ecc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/ecc_test.c
+END
+store_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/store_test.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/makefile
+END
+der_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/testprof/der_tests.c
+END

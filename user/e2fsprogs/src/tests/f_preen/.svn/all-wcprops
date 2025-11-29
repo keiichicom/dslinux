@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen
+END
+expect.2
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen/expect.2
+END
+name
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen/name
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen/image.gz
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen/script
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_preen/expect.1
+END

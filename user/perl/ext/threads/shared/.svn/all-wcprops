@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared/Makefile.PL
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared/README
+END
+shared.xs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared/shared.xs
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared/typemap
+END
+shared.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/shared/shared.pm
+END

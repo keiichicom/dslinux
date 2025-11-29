@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln
+END
+ln-creates-hard-links
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-creates-hard-links
+END
+ln-preserves-soft-links
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-preserves-soft-links
+END
+ln-preserves-hard-links
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-preserves-hard-links
+END
+ln-force-creates-soft-links
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-force-creates-soft-links
+END
+ln-force-creates-hard-links
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-force-creates-hard-links
+END
+ln-creates-soft-links
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/ln/ln-creates-soft-links
+END

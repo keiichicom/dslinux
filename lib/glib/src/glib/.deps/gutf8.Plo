@@ -1,0 +1,230 @@
+gutf8.lo gutf8.o: gutf8.c ../config.h \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/uClibc/include/langinfo.h \
+  /home/andrewec/dslinux/uClibc/include/nl_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_locale.h \
+  /home/andrewec/dslinux/uClibc/include/string.h glib.h ../glib/galloca.h \
+  ../glib/gtypes.h ../glibconfig.h ../glib/gmacros.h \
+  /home/andrewec/dslinux/uClibc/include/limits.h \
+  /home/andrewec/dslinux/include/gcc/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/local_lim.h \
+  /home/andrewec/dslinux/uClibc/include/linux/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h \
+  /home/andrewec/dslinux/include/gcc/float.h ../glib/garray.h \
+  ../glib/gasyncqueue.h ../glib/gthread.h ../glib/gerror.h \
+  ../glib/gquark.h ../glib/gatomic.h ../glib/gbacktrace.h \
+  ../glib/gbase64.h ../glib/gbookmarkfile.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  ../glib/gcache.h ../glib/glist.h ../glib/gmem.h ../glib/gslice.h \
+  ../glib/gcompletion.h ../glib/gconvert.h ../glib/gdataset.h \
+  ../glib/gdate.h ../glib/gdir.h ../glib/gfileutils.h ../glib/ghash.h \
+  ../glib/ghook.h ../glib/giochannel.h ../glib/gmain.h ../glib/gslist.h \
+  ../glib/gstring.h ../glib/gunicode.h ../glib/gutils.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h ../glib/gkeyfile.h \
+  ../glib/gmappedfile.h ../glib/gmarkup.h ../glib/gmessages.h \
+  ../glib/gnode.h ../glib/goption.h ../glib/gpattern.h ../glib/gprimes.h \
+  ../glib/gqsort.h ../glib/gqueue.h ../glib/grand.h ../glib/grel.h \
+  ../glib/gscanner.h ../glib/gshell.h ../glib/gspawn.h \
+  ../glib/gstrfuncs.h ../glib/gthreadpool.h ../glib/gtimer.h \
+  ../glib/gtree.h libcharset/libcharset.h glibintl.h \
+  /home/andrewec/dslinux/uClibc/include/libintl.h \
+  /home/andrewec/dslinux/uClibc/include/locale.h galias.h galiasdef.c
+
+../config.h:
+
+/home/andrewec/dslinux/uClibc/include/stdlib.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/time.h:
+
+/home/andrewec/dslinux/uClibc/include/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigset.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/time.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/sysmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/alloca.h:
+
+/home/andrewec/dslinux/uClibc/include/langinfo.h:
+
+/home/andrewec/dslinux/uClibc/include/nl_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_locale.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+glib.h:
+
+../glib/galloca.h:
+
+../glib/gtypes.h:
+
+../glibconfig.h:
+
+../glib/gmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/limits.h:
+
+/home/andrewec/dslinux/include/gcc/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/local_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h:
+
+/home/andrewec/dslinux/include/gcc/float.h:
+
+../glib/garray.h:
+
+../glib/gasyncqueue.h:
+
+../glib/gthread.h:
+
+../glib/gerror.h:
+
+../glib/gquark.h:
+
+../glib/gatomic.h:
+
+../glib/gbacktrace.h:
+
+../glib/gbase64.h:
+
+../glib/gbookmarkfile.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h:
+
+../glib/gcache.h:
+
+../glib/glist.h:
+
+../glib/gmem.h:
+
+../glib/gslice.h:
+
+../glib/gcompletion.h:
+
+../glib/gconvert.h:
+
+../glib/gdataset.h:
+
+../glib/gdate.h:
+
+../glib/gdir.h:
+
+../glib/gfileutils.h:
+
+../glib/ghash.h:
+
+../glib/ghook.h:
+
+../glib/giochannel.h:
+
+../glib/gmain.h:
+
+../glib/gslist.h:
+
+../glib/gstring.h:
+
+../glib/gunicode.h:
+
+../glib/gutils.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+../glib/gkeyfile.h:
+
+../glib/gmappedfile.h:
+
+../glib/gmarkup.h:
+
+../glib/gmessages.h:
+
+../glib/gnode.h:
+
+../glib/goption.h:
+
+../glib/gpattern.h:
+
+../glib/gprimes.h:
+
+../glib/gqsort.h:
+
+../glib/gqueue.h:
+
+../glib/grand.h:
+
+../glib/grel.h:
+
+../glib/gscanner.h:
+
+../glib/gshell.h:
+
+../glib/gspawn.h:
+
+../glib/gstrfuncs.h:
+
+../glib/gthreadpool.h:
+
+../glib/gtimer.h:
+
+../glib/gtree.h:
+
+libcharset/libcharset.h:
+
+glibintl.h:
+
+/home/andrewec/dslinux/uClibc/include/libintl.h:
+
+/home/andrewec/dslinux/uClibc/include/locale.h:
+
+galias.h:
+
+galiasdef.c:

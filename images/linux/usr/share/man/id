@@ -1,0 +1,70 @@
+ID(1)                            User Commands
+ID(1)
+
+
+
+NNAAMMEE
+       id - print user identity
+
+SSYYNNOOPPSSIISS
+       iidd
+       [_O_P_T_I_O_N]... [_U_S_E_R_N_A_M_E]
+
+DDEESSCCRRIIPPTTIIOONN
+       Print information for USERNAME, or the current user.
+
+       --aa     ignore, for compatibility with other versions
+
+       --gg, ----ggrroouupp
+              print only the effective group ID
+
+       --GG, ----ggrroouuppss
+              print all group IDs
+
+       --nn, ----nnaammee
+              print a name instead of a number, for
+              --uuggGG
+
+       --rr, ----rreeaall
+              print the real ID instead of the effective ID,
+              with --uuggGG
+
+       --uu, ----uusseerr
+              print only the effective user ID
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       Without any OPTION, print some useful set of identified
+       information.
+
+AAUUTTHHOORR
+       Written by Arnold Robbins and David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for iidd is maintained as a
+       Texinfo  manual.   If the  iinnffoo and iidd
+       programs are properly installed at your site, the
+       com‐ mand
+
+              iinnffoo iidd
+
+       should give you access to the complete manual.
+
+
+
+id 6.7                           December 2006
+ID(1)

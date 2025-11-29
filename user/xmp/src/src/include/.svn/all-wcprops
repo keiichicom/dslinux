@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/config.h.in
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/list.h
+END
+xxm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/xxm.h
+END
+xmpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/xmpi.h
+END
+readrle.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/readrle.h
+END
+effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/effects.h
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/convert.h
+END
+period.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/period.h
+END
+readhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/readhuff.h
+END
+mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/mixer.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/Makefile
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/driver.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/getopt.h
+END
+xmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/xmp.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/loader.h
+END
+readlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/include/readlzw.h
+END

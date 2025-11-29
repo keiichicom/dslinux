@@ -1,0 +1,1457 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4
+END
+rmdir-errno.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/rmdir-errno.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lib-link.m4
+END
+uptime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/uptime.m4
+END
+localcharset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/localcharset.m4
+END
+eealloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/eealloc.m4
+END
+unistd-safer.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unistd-safer.m4
+END
+safe-write.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/safe-write.m4
+END
+utimes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utimes.m4
+END
+stat-time.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stat-time.m4
+END
+human.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/human.m4
+END
+sha256.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sha256.m4
+END
+hard-locale.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/hard-locale.m4
+END
+vasprintf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/vasprintf.m4
+END
+getloadavg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getloadavg.m4
+END
+allocsa.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/allocsa.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/longlong.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inttypes.m4
+END
+stdlib-safer.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdlib-safer.m4
+END
+unlink-busy.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unlink-busy.m4
+END
+euidaccess-stat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/euidaccess-stat.m4
+END
+strdup.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strdup.m4
+END
+nanosleep.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/nanosleep.m4
+END
+utimens.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utimens.m4
+END
+md5.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/md5.m4
+END
+same.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/same.m4
+END
+strpbrk.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strpbrk.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/longdouble.m4
+END
+ftruncate.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/ftruncate.m4
+END
+mbchar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mbchar.m4
+END
+strcspn.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strcspn.m4
+END
+closeout.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/closeout.m4
+END
+mountlist.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mountlist.m4
+END
+randint.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/randint.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lib-prefix.m4
+END
+group-member.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/group-member.m4
+END
+snprintf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/snprintf.m4
+END
+getusershell.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getusershell.m4
+END
+getpass.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getpass.m4
+END
+tempname.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/tempname.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inttypes-pri.m4
+END
+xstrtod.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xstrtod.m4
+END
+randperm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/randperm.m4
+END
+memxfrm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memxfrm.m4
+END
+strtoul.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtoul.m4
+END
+getcwd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getcwd.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/iconv.m4
+END
+chown.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/chown.m4
+END
+dirname.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/dirname.m4
+END
+xstrtol.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xstrtol.m4
+END
+mbiter.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mbiter.m4
+END
+physmem.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/physmem.m4
+END
+tm_gmtoff.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/tm_gmtoff.m4
+END
+intmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/intmax_t.m4
+END
+base64.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/base64.m4
+END
+lib-ignore.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lib-ignore.m4
+END
+getndelim2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getndelim2.m4
+END
+config-h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/config-h.m4
+END
+fts.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fts.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/nls.m4
+END
+sys_socket_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sys_socket_h.m4
+END
+atexit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/atexit.m4
+END
+file-type.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/file-type.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/extensions.m4
+END
+strndup.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strndup.m4
+END
+getopt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getopt.m4
+END
+stdbool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdbool.m4
+END
+getpagesize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getpagesize.m4
+END
+filenamecat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/filenamecat.m4
+END
+clock_time.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/clock_time.m4
+END
+arpa_inet_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/arpa_inet_h.m4
+END
+fstypename.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fstypename.m4
+END
+gnulib-comp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gnulib-comp.m4
+END
+rename-dest-slash.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/rename-dest-slash.m4
+END
+fileblocks.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fileblocks.m4
+END
+getdate.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getdate.m4
+END
+getgroups.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getgroups.m4
+END
+fnmatch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fnmatch.m4
+END
+stdio-safer.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdio-safer.m4
+END
+mbstate_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mbstate_t.m4
+END
+cloexec.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/cloexec.m4
+END
+check-decl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/check-decl.m4
+END
+utimecmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utimecmp.m4
+END
+getline.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getline.m4
+END
+safe-read.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/safe-read.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/wchar_t.m4
+END
+dirfd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/dirfd.m4
+END
+autobuild.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/autobuild.m4
+END
+readlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/readlink.m4
+END
+userspec.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/userspec.m4
+END
+memcpy.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memcpy.m4
+END
+quote.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/quote.m4
+END
+readtokens.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/readtokens.m4
+END
+netinet_in_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/netinet_in_h.m4
+END
+sha512.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sha512.m4
+END
+timespec.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/timespec.m4
+END
+tzset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/tzset.m4
+END
+settime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/settime.m4
+END
+st_dm_mode.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/st_dm_mode.m4
+END
+fcntl_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fcntl_h.m4
+END
+memcmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memcmp.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/po.m4
+END
+unicodeio.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unicodeio.m4
+END
+utimes-null.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utimes-null.m4
+END
+mkstemp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mkstemp.m4
+END
+ssize_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/ssize_t.m4
+END
+stat-prog.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stat-prog.m4
+END
+readutmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/readutmp.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/glibc21.m4
+END
+ls-mntd-fs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/ls-mntd-fs.m4
+END
+dos.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/dos.m4
+END
+strnlen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strnlen.m4
+END
+flexmember.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/flexmember.m4
+END
+openat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/openat.m4
+END
+fprintftime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fprintftime.m4
+END
+quotearg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/quotearg.m4
+END
+savewd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/savewd.m4
+END
+getdelim.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getdelim.m4
+END
+getcwd-abort-bug.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getcwd-abort-bug.m4
+END
+jm-winsz1.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/jm-winsz1.m4
+END
+assert.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/assert.m4
+END
+perl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/perl.m4
+END
+getugroups.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getugroups.m4
+END
+memmove.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memmove.m4
+END
+backupfile.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/backupfile.m4
+END
+bison.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/bison.m4
+END
+dup2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/dup2.m4
+END
+fd-reopen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fd-reopen.m4
+END
+strtod.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtod.m4
+END
+idcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/idcache.m4
+END
+gethrxtime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gethrxtime.m4
+END
+lib-check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lib-check.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gettext.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inttypes_h.m4
+END
+inttostr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inttostr.m4
+END
+argmatch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/argmatch.m4
+END
+getaddrinfo.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getaddrinfo.m4
+END
+mktime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mktime.m4
+END
+strtol.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtol.m4
+END
+memcoll.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memcoll.m4
+END
+strnumcmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strnumcmp.m4
+END
+modechange.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/modechange.m4
+END
+strtoimax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtoimax.m4
+END
+vasnprintf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/vasnprintf.m4
+END
+alloca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/alloca.m4
+END
+memrchr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memrchr.m4
+END
+savedir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/savedir.m4
+END
+strftime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strftime.m4
+END
+yesno.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/yesno.m4
+END
+prereq.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/prereq.m4
+END
+canonicalize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/canonicalize.m4
+END
+d-type.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/d-type.m4
+END
+pathmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/pathmax.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lib-ld.m4
+END
+double-slash-root.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/double-slash-root.m4
+END
+strtoll.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtoll.m4
+END
+stdint.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdint.m4
+END
+lchmod.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lchmod.m4
+END
+d-ino.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/d-ino.m4
+END
+strtoumax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtoumax.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/progtest.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/ChangeLog
+END
+save-cwd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/save-cwd.m4
+END
+memchr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memchr.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdint_h.m4
+END
+xnanosleep.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xnanosleep.m4
+END
+rmdir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/rmdir.m4
+END
+unistd_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unistd_h.m4
+END
+inline.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inline.m4
+END
+randread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/randread.m4
+END
+root-dev-ino.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/root-dev-ino.m4
+END
+stdarg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stdarg.m4
+END
+lstat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lstat.m4
+END
+exclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/exclude.m4
+END
+lchown.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/lchown.m4
+END
+getcwd-path-max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/getcwd-path-max.m4
+END
+host-os.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/host-os.m4
+END
+sha1.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sha1.m4
+END
+sockpfaf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sockpfaf.m4
+END
+close-stream.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/close-stream.m4
+END
+inet_ntop.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/inet_ntop.m4
+END
+c-strtod.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/c-strtod.m4
+END
+unlinkdir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unlinkdir.m4
+END
+absolute-header.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/absolute-header.m4
+END
+fcntl-safer.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fcntl-safer.m4
+END
+setenv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/setenv.m4
+END
+xgetcwd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xgetcwd.m4
+END
+rename.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/rename.m4
+END
+euidaccess.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/euidaccess.m4
+END
+unlocked-io.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/unlocked-io.m4
+END
+wcwidth.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/wcwidth.m4
+END
+mempcpy.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mempcpy.m4
+END
+memcasecmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memcasecmp.m4
+END
+cycle-check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/cycle-check.m4
+END
+regex.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/regex.m4
+END
+utimbuf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utimbuf.m4
+END
+mkdir-slash.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mkdir-slash.m4
+END
+putenv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/putenv.m4
+END
+stpcpy.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/stpcpy.m4
+END
+utime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/utime.m4
+END
+xfts.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xfts.m4
+END
+i-ring.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/i-ring.m4
+END
+chdir-long.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/chdir-long.m4
+END
+xstrndup.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xstrndup.m4
+END
+strtoull.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strtoull.m4
+END
+error.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/error.m4
+END
+link-follow.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/link-follow.m4
+END
+calloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/calloc.m4
+END
+fsusage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fsusage.m4
+END
+gettime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gettime.m4
+END
+rpmatch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/rpmatch.m4
+END
+acl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/acl.m4
+END
+jm-winsz2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/jm-winsz2.m4
+END
+mkancesdirs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mkancesdirs.m4
+END
+mkdir-p.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mkdir-p.m4
+END
+posixtm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/posixtm.m4
+END
+strcase.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strcase.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/wint_t.m4
+END
+exitfail.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/exitfail.m4
+END
+eoverflow.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/eoverflow.m4
+END
+strverscmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/strverscmp.m4
+END
+canon-host.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/canon-host.m4
+END
+mbrtowc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mbrtowc.m4
+END
+gethostname.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gethostname.m4
+END
+posixver.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/posixver.m4
+END
+time_r.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/time_r.m4
+END
+sys_stat_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sys_stat_h.m4
+END
+mbswidth.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/mbswidth.m4
+END
+gettimeofday.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/gettimeofday.m4
+END
+free.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/free.m4
+END
+xreadlink.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xreadlink.m4
+END
+boottime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/boottime.m4
+END
+xalloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/xalloc.m4
+END
+hash.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/hash.m4
+END
+filemode.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/filemode.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/codeset.m4
+END
+long-options.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/long-options.m4
+END
+jm-macros.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/jm-macros.m4
+END
+isapipe.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/isapipe.m4
+END
+fpending.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/fpending.m4
+END
+memset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/memset.m4
+END
+sig2str.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/sig2str.m4
+END
+socklen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/coreutils/src/m4/socklen.m4
+END

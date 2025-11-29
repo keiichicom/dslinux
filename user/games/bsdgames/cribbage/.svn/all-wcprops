@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage
+END
+cribbage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/cribbage.h
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/Makefile.bsd
+END
+extern.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/extern.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/io.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/.svnignore
+END
+cribbage.n
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/cribbage.n
+END
+score.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/score.c
+END
+deck.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/deck.h
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/support.c
+END
+crib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/crib.c
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/pathnames.h
+END
+cribbage.6.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/cribbage.6.in
+END
+pathnames.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/pathnames.h.in
+END
+cards.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/cards.c
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/Makefrag
+END
+cribcur.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/cribcur.h
+END
+instr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/cribbage/instr.c
+END

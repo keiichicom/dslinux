@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/typemap
+END
+typemap.win32
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/typemap.win32
+END
+JNIConfig.kaffe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNIConfig.kaffe
+END
+JNIConfig.standard
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNIConfig.standard
+END
+JNIConfig
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNIConfig
+END
+Closer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/Closer.java
+END
+JNIConfig.Win32
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNIConfig.Win32
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/Makefile.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/Changes
+END
+JNI.xs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNI.xs
+END
+test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/test.pl
+END
+typemap.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/typemap.gcc
+END
+JNI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNI.pm
+END
+JNIConfig.noembed
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/jpl/JNI/JNIConfig.noembed
+END

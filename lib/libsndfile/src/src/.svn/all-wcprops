@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src
+END
+voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/voc.c
+END
+dwvw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/dwvw.c
+END
+libsndfile.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/libsndfile.def
+END
+macbinary3.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/macbinary3.c
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/wav.c
+END
+test_log_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/test_log_printf.c
+END
+mat5.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/mat5.c
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/dither.c
+END
+xi.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/xi.c
+END
+alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/alaw.c
+END
+g72x.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/g72x.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/common.c
+END
+sfendian.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sfendian.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/common.h
+END
+sndfile.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sndfile.hh
+END
+wve.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/wve.c
+END
+sfconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sfconfig.h
+END
+aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/aiff.c
+END
+Symbols.linux
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/Symbols.linux
+END
+flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/flac.c
+END
+ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/ulaw.c
+END
+test_endswap.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/test_endswap.def
+END
+test_endswap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/test_endswap.tpl
+END
+gsm610.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/gsm610.c
+END
+dwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/dwd.c
+END
+double64.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/double64.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/Makefile.am
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/raw.c
+END
+ircam.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/ircam.c
+END
+test_endswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/test_endswap.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/Makefile.in
+END
+cygsndfile.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/cygsndfile.def
+END
+test_file_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/test_file_io.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/mat4.c
+END
+file_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/file_io.c
+END
+float32.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/float32.c
+END
+ima_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/ima_adpcm.c
+END
+nist.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/nist.c
+END
+ms_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/ms_adpcm.c
+END
+htk.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/htk.c
+END
+sd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sd2.c
+END
+avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/avr.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/strings.c
+END
+sds.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sds.c
+END
+caf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/caf.c
+END
+Symbols.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/Symbols.darwin
+END
+pvf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/pvf.c
+END
+wav_w64.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/wav_w64.c
+END
+sndfile.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sndfile.h.in
+END
+interleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/interleave.c
+END
+macos.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/macos.c
+END
+broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/broadcast.c
+END
+wav_w64.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/wav_w64.h
+END
+sf_unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sf_unistd.h
+END
+binheader_writef_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/binheader_writef_check.py
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/au.c
+END
+paf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/paf.c
+END
+rx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/rx2.c
+END
+ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/ogg.c
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/command.c
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/pcm.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/config.h.in
+END
+w64.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/w64.c
+END
+vox_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/vox_adpcm.c
+END
+svx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/svx.c
+END
+create_symbols_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/create_symbols_file.py
+END
+txw.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/txw.c
+END
+sndfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/sndfile.c
+END
+float_cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2394/trunk/lib/libsndfile/src/src/float_cast.h
+END

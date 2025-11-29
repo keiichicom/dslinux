@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/README
+END
+slist.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/slist.c
+END
+ltdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/ltdl.c
+END
+lt__strl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/lt__strl.c
+END
+argz.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/argz.c
+END
+lt__dirent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/lt__dirent.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/Makefile.inc
+END
+ltdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/ltdl.h
+END
+lt_dlloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/lt_dlloader.c
+END
+argz_.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/argz_.h
+END
+lt__alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/lt__alloc.c
+END
+lt_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/ltdl/lt_error.c
+END

@@ -1,0 +1,68 @@
+BASE64(1)                        User Commands
+BASE64(1)
+
+
+
+NNAAMMEE
+       base64 - base64 encode/decode data and print to
+       standard output
+
+SSYYNNOOPPSSIISS
+       bbaassee6644 [_O_P_T_I_O_N] [_F_I_L_E]
+
+DDEESSCCRRIIPPTTIIOONN
+       Base64 encode or decode FILE, or standard input,
+       to standard output.
+
+       --ww, ----wwrraapp=_C_O_L_S
+              Wrap  encoded lines after COLS character
+              (default 76).  Use 0 to disable line wrapping.
+
+       --dd, ----ddeeccooddee
+              Decode data.
+
+       --ii, ----iiggnnoorree--ggaarrbbaaggee
+              When decoding, ignore non-alphabet characters.
+
+       ----hheellpp Display this help and exit.
+
+       ----vveerrssiioonn
+              Output version information and exit.
+
+       With no FILE, or when FILE is -, read standard input.
+
+       The data are encoded as described for the
+       base64 alphabet in RFC  3548.  Decoding
+       require  compliant  input by default, use
+       ----iiggnnoorree--ggaarrbbaaggee to
+       attempt to recover from non-alphabet characters (such
+       as  newlines)  in the encoded stream.
+
+AAUUTTHHOORR
+       Written by Simon Josefsson.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for bbaassee6644
+       is maintained as  a  Texinfo  manual.  If  the
+       iinnffoo  and bbaassee6644 programs are
+       properly installed at your site, the command
+
+              iinnffoo bbaassee6644
+
+       should give you access to the complete manual.
+
+
+
+base64 6.7                       December 2006
+BASE64(1)

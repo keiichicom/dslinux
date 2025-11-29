@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4/Makefile
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4/rc4.h
+END
+rc4_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4/rc4_enc.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4/LICENSE
+END
+rc4_skey.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mp3play/rc4/rc4_skey.c
+END

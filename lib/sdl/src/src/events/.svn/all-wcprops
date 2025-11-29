@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events
+END
+SDL_keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_keyboard.c
+END
+SDL_resize.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_resize.c
+END
+SDL_quit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_quit.c
+END
+SDL_expose.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_expose.c
+END
+SDL_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_events.c
+END
+SDL_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_mouse.c
+END
+SDL_sysevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_sysevents.h
+END
+SDL_active.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_active.c
+END
+SDL_events_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/events/SDL_events_c.h
+END

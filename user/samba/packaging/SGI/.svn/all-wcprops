@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI
+END
+inetd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/inetd.sh
+END
+sambalp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/sambalp
+END
+printcap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/printcap
+END
+mkrelease.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/mkrelease.sh
+END
+mkprintcap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/mkprintcap.sh
+END
+findsmb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/findsmb
+END
+samba.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/samba.rc
+END
+samba.config
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/samba.config
+END
+legal_notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/legal_notice.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/README
+END
+relnotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/relnotes.html
+END
+smbprint
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/smbprint
+END
+winbindd.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/winbindd.rc
+END
+inst.msg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/inst.msg
+END
+winbindd.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/winbindd.config
+END
+mkman
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/mkman
+END
+smbpasswd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/smbpasswd
+END
+spec.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/spec.pl
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/smb.conf
+END
+removeswat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/removeswat.sh
+END
+startswat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/startswat.sh
+END
+idb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/packaging/SGI/idb.pl
+END

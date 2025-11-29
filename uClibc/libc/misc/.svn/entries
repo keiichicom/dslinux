@@ -1,0 +1,137 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/uClibc/libc/misc
+https://svn.dslinux.org/svn
+
+
+
+2006-12-22T00:33:40.821996Z
+1653
+stsp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+locale
+dir
+
+internals
+dir
+
+ftw
+dir
+
+sysvipc
+dir
+
+assert
+dir
+
+statfs
+dir
+
+wchar
+dir
+
+mntent
+dir
+
+search
+dir
+
+intl
+dir
+
+regex
+dir
+
+wctype
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:30.388805Z
+7f59f30d0e2abe134dcf2f0b4202f156
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2012
+
+file
+dir
+
+fnmatch
+dir
+
+syslog
+dir
+
+glob
+dir
+
+ctype
+dir
+
+dirent
+dir
+
+utmp
+dir
+
+pthread
+dir
+
+ttyent
+dir
+
+wordexp
+dir
+
+gnu
+dir
+
+error
+dir
+
+time
+dir
+

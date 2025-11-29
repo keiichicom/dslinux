@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 170
+config.log
+config.h
+config.h.in
+libtool
+config.status
+stamp-h
+Makefile
+Makefile.in
+aclocal.m4
+configure
+libvideogfx-config
+config.cache
+ABOUT-NLS
+INSTALL
+intl
+stamp-h.in
+
+END

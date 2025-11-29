@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test
+END
+writeircam.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeircam.c
+END
+twentyfour2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/twentyfour2.c
+END
+transparency.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/transparency.c
+END
+testaupv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/testaupv.c
+END
+writewave.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writewave.c
+END
+floatto24.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/floatto24.c
+END
+writeiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeiff.c
+END
+printmarkers.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/printmarkers.c
+END
+misc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/misc.sh
+END
+pipe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/pipe.sh
+END
+query2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/query2.c
+END
+writenist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writenist.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/error.c
+END
+sixteen-to-eight.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/sixteen-to-eight.c
+END
+writealaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writealaw.c
+END
+transparency.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/transparency.sh
+END
+writeavr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeavr.c
+END
+testmarkers.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/testmarkers.c
+END
+testfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/testfloat.c
+END
+miscwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/miscwrite.c
+END
+instparamwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/instparamwrite.c
+END
+loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/loop.c
+END
+writeaiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeaiff.c
+END
+writeulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeulaw.c
+END
+twentyfour.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/twentyfour.c
+END
+miscread.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/miscread.c
+END
+seek.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/seek.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/Makefile.am
+END
+writenext.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writenext.c
+END
+testchannelmatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/testchannelmatrix.c
+END
+pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/pipe.c
+END
+instparamtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/instparamtest.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/Makefile.in
+END
+writeraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/test/writeraw.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc
+END
+heap_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/heap_free.c
+END
+free.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/free.c
+END
+realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/realloc.c
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/heap.h
+END
+heap_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/heap_debug.c
+END
+heap_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/heap_alloc.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/malloc.c
+END
+memalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/memalign.c
+END
+heap_alloc_at.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/heap_alloc_at.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/Makefile
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/malloc.h
+END
+calloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/calloc.c
+END
+malloc_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/uClibc/libc/stdlib/malloc/malloc_debug.c
+END

@@ -1,0 +1,5 @@
+args.o .depend : $(TOP)/config args.c
+rfbproto.o .depend : $(TOP)/config rfbproto.c
+sockets.o .depend : $(TOP)/config sockets.c
+vncviewer.o .depend : $(TOP)/config vncviewer.c
+nanox.o .depend : $(TOP)/config nanox.c

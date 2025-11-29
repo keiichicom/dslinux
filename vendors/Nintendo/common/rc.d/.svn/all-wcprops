@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2416/trunk/vendors/Nintendo/common/rc.d
+END
+inetd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2401/trunk/vendors/Nintendo/common/rc.d/inetd
+END
+iptables
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/common/rc.d/iptables
+END
+syslogd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2299/trunk/vendors/Nintendo/common/rc.d/syslogd
+END
+openvpn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2299/trunk/vendors/Nintendo/common/rc.d/openvpn
+END
+network
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2402/trunk/vendors/Nintendo/common/rc.d/network
+END
+esd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2310/trunk/vendors/Nintendo/common/rc.d/esd
+END
+shutdown
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/vendors/Nintendo/common/rc.d/shutdown
+END
+hinged
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2346/trunk/vendors/Nintendo/common/rc.d/hinged
+END
+skel
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2299/trunk/vendors/Nintendo/common/rc.d/skel
+END
+ntpclient
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2416/trunk/vendors/Nintendo/common/rc.d/ntpclient
+END
+boa
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2310/trunk/vendors/Nintendo/common/rc.d/boa
+END
+inadyn
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2299/trunk/vendors/Nintendo/common/rc.d/inadyn
+END
+update
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2317/trunk/vendors/Nintendo/common/rc.d/update
+END

@@ -1,0 +1,61 @@
+#
+# "$Id: makeinclude.in 1425 2006-10-03 11:27:15Z dslinux_amadeus $"
+#
+# Make include file for the Fast Light Tool Kit (FLTK).
+# makeinclude.  Generated from makeinclude.in by configure.
+#
+# Copyright 1998-1999 by Bill Spitzak and others.
+#
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Library General Public
+# License as published by the Free Software Foundation; either
+# version 2 of the License, or (at your option) any later version.
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# Library General Public License for more details.
+#
+# You should have received a copy of the GNU Library General Public
+# License along with this library; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+# USA.
+#
+# Please report all bugs and problems to "fltk-bugs@easysw.com".
+#
+
+# Looking for the microwin define?  It is now in the config
+# use --with-microwin=[path]
+
+prefix		=/usr/local
+exec_prefix	=${prefix}
+bindir		=${exec_prefix}/bin
+includedir	=${prefix}/include
+libdir		=${exec_prefix}/lib
+srcdir		=.
+
+
+# compiler names:
+CXX		=ucfront-g++ arm-linux-elf-g++ 
+CC		=ucfront-gcc arm-linux-elf-gcc 
+MAKEDEPEND	=$(CXX) -M
+
+
+# flags for C++ compiler: 
+CFLAGS		= -O2 -Wall -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DNANO_X -I/home/andrewec/dslinux/user/pixil/../microwin/src/include -DNANOXFOLDER='"/home/andrewec/dslinux/user/pixil/../microwin/src/bin"'  -DPDA
+CXXFLAGS	= -O2 -Wall -Wno-return-type -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__  -I /home/andrewec/dslinux/lib/uClibc++/include -fno-builtin -nostdinc++ -DGCC_HASCLASSVISIBILITY -Wno-deprecated -fno-rtti -fno-exceptions -DNANO_X -I/home/andrewec/dslinux/user/pixil/../microwin/src/include -DNANOXFOLDER='"/home/andrewec/dslinux/user/pixil/../microwin/src/bin"' -DPDA
+
+# program to make the archive:
+LIBNAME		=libfltk.a
+LIBCOMMAND	=$(AR) cr
+RANLIB		=arm-linux-elf-ranlib
+DSONAME		=
+DSOCOMMAND	=echo
+
+# libraries to link with: for normal
+LDLIBS		=-Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes -DNANO_X=1 -L${exec_prefix}/lib   -L/home/andrewec/dslinux/user/pixil/../microwin/src/lib -lnano-X -lm
+GLDLIBS		=-Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes -DNANO_X=1 -L${exec_prefix}/lib    -L/home/andrewec/dslinux/user/pixil/../microwin/src/lib -lnano-X -lm
+
+#
+# End of "$Id: makeinclude.in 1425 2006-10-03 11:27:15Z dslinux_amadeus $".
+#

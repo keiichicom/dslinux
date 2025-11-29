@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7
+END
+smbldap-groupdel
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-groupdel
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/FILES
+END
+smbldap_bind.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap_bind.conf
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smb.conf
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/INSTALL
+END
+smbldap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap.conf
+END
+smbldap-useradd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-useradd
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/COPYING
+END
+smbldap-populate
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-populate
+END
+smbldap-userinfo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-userinfo
+END
+smbldap-groupmod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-groupmod
+END
+smbldap-groupshow
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-groupshow
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/Makefile
+END
+smbldap_tools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap_tools.pm
+END
+smbldap-passwd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-passwd
+END
+smbldap-userdel
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-userdel
+END
+smbldap-groupadd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-groupadd
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/ChangeLog
+END
+configure.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/configure.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/README
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/CONTRIBUTORS
+END
+smbldap-usermod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-usermod
+END
+INFRA
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/INFRA
+END
+smbldap-usershow
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/smbldap-tools-0.8.7/smbldap-usershow
+END

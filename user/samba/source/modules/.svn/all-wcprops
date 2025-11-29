@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/samba/source/modules
+END
+getdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/getdate.c
+END
+vfs_netatalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_netatalk.c
+END
+vfs_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_cap.c
+END
+getdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/getdate.h
+END
+vfs_audit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_audit.c
+END
+vfs_expand_msdfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_expand_msdfs.c
+END
+vfs_fake_perms.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_fake_perms.c
+END
+vfs_readonly.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_readonly.c
+END
+charset_macosxfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/charset_macosxfs.c
+END
+vfs_shadow_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_shadow_copy.c
+END
+CP850.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/CP850.c
+END
+CP437.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/CP437.c
+END
+getdate.y
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/getdate.y
+END
+vfs_recycle.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_recycle.c
+END
+vfs_full_audit.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_full_audit.c
+END
+vfs_afsacl.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_afsacl.c
+END
+vfs_extd_audit.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_extd_audit.c
+END
+weird.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/weird.c
+END
+vfs_default_quota.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/modules/vfs_default_quota.c
+END

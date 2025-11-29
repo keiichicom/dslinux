@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS
+END
+ucx_shr_vaxc.opt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/ucx_shr_vaxc.opt
+END
+multinet_shr.opt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/multinet_shr.opt
+END
+openssl_utils.com
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/openssl_utils.com
+END
+test-includes.com
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/test-includes.com
+END
+socketshr_shr.opt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/socketshr_shr.opt
+END
+install.com
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/install.com
+END
+WISHLIST.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/WISHLIST.TXT
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/TODO
+END
+VMSify-conf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/VMSify-conf.pl
+END
+tcpip_shr_decc.opt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/tcpip_shr_decc.opt
+END
+ucx_shr_decc.opt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/ucx_shr_decc.opt
+END
+mkshared.com
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/mkshared.com
+END
+ucx_shr_decc_log.opt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/VMS/ucx_shr_decc_log.opt
+END

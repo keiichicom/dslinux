@@ -1,0 +1,555 @@
+
+NGREP(8)                         User Manuals
+NGREP(8)
+
+
+
+NNAAMMEE
+       ngrep - network grep
+
+
+SSYYNNOOPPSSIISS
+       nnggrreepp
+       <<--hhNNXXVViiwwqqppeevvxxllDDttTTRRMM>>
+       <<--IIOO _p_c_a_p___d_u_m_p >> <<
+       --nn _n_u_m >> << --dd _d_e_v >> <<
+       --AA _n_u_m >> << --ss _s_n_a_p_l_e_n
+       >> << --SS _l_i_m_i_t_l_e_n >> << --WW
+       _n_o_r_m_a_l_|_b_y_l_i_n_e_|_s_i_n_g_l_e_|_n_o_n_e
+       >> << --cc _c_o_l_s >> << --PP _c_h_a_r
+       >> << --FF _f_i_l_e >> << _m_a_t_c_h
+       _e_x_p_r_e_s_s_i_o_n >> << _b_p_f
+       _f_i_l_t_e_r >>
+
+
+DDEESSCCRRIIPPTTIIOONN
+       ngrep  strives  to provide most of GNU grep's common
+       features, applying them to the network layer.  ngrep is
+       a pcap-aware tool that will  allow you  to specify
+       extended regular expressions to match against data
+       pay‐ loads of packets.  It currently recognizes
+       TCP,  UDP  and  ICMP  across Ethernet, PPP, SLIP,
+       FDDI and null interfaces, and understands bpf fil‐
+       ter logic in the same fashion as more  common  packet
+       sniffing  tools, such as ttccppdduummpp(8)
+       and ssnnoooopp(1).
+
+
+
+OOPPTTIIOONNSS
+       -h     Display help/usage information.
+
+
+       -N     Show  sub-protocol number along with
+       single-character identifier
+              (useful when observing raw or unknown protocols).
+
+
+       -X     Treat the match expression as a  hexadecimal
+       string.   See  the
+              explanation of _m_a_t_c_h
+              _e_x_p_r_e_s_s_i_o_n below.
+
+
+       -V     Display version information.
+
+
+       -i     Ignore case for the regex expression.
+
+
+       -w     Match the regex expression as a word.
+
+
+       -q     Be quiet; don't output any information other
+       than packet headers
+              and their payloads (if relevant).
+
+
+       -p     Don't put the interface into promiscuous mode.
+
+
+       -e     Show  empty  packets.   Normally  empty  packets
+       are  discarded
+              because  they  have  no  payload to search.
+              If specified, empty packets will be shown,
+              regardless of the specified regex expres‐ sion.
+
+
+       -v     Invert the match; only display packets that
+       don't match.
+
+
+       -x     Dump packet contents as hexadecimal as well
+       as ASCII.
+
+
+       -l     Make stdout line buffered.
+
+
+       -D     When reading pcap_dump files, replay them at
+       their recorded time
+              intervals (mimic realtime).
+
+
+       -t     Print a timestamp in  the  form  of  YYYY/MM/DD
+       HH:MM:SS.UUUUUU
+              everytime a packet is matched.
+
+
+       -T     Print a timestamp in the form of +S.UUUUUU,
+       indicating the delta
+              between packet matches.
+
+
+       -R     Do not try to drop privileges to the
+       DROPPRIVS_USER.
+
+              ngrep makes no effort to validate input  from
+              live  or  offline sources  as it is focused
+              more on performance and handling large amounts
+              of data than protocol correctness, which is
+              most often a fair assumption to make.  However,
+              sometimes it matters and thus as a rule ngrep
+              will try to be defensive and drop any root
+              priv‐ ileges it might have.
+
+              There  exist scenarios where this behaviour
+              can become an obsta‐ cle, so this option is
+              provided to end-users who want to disable this
+              feature, but must do so with an understanding of
+              the risks.  Packets can be randomly malformed or
+              even specifically  designed to overflow sniffers
+              and take control of them, and revoking root
+              privileges is currently the only risk mitigation
+              ngrep  employs against such an attack.  Use this
+              option and turn it off at your own risk.
+
+
+       -c cols
+              Explicitly set the console width to ``cols''.
+              Note that this is the  console  width, and
+              not the full width of what ngrep prints out as
+              payloads; depending on the output mode  ngrep
+              may  print less than ``cols'' bytes per line
+              (indentation).
+
+
+       -F file
+              Read  in  the bpf filter from the specified
+              filename.  This is a compatibility option for
+              users familiar  with  tcpdump.   Please note
+              that specifying ``-F'' will override any bpf
+              filter speci‐ fied on the command-line.
+
+
+       -P char
+              Specify an alternate character to signify
+              non-printable  charac‐ ters when displayed.
+              The default is ``.''.
+
+
+       -W normal|byline|single|none
+              Specify  an alternate manner for displaying
+              packets, when not in hexadecimal mode.
+              The ``byline''  mode  honors  embedded  line‐
+              feeds,  wrapping  text only when a linefeed is
+              encountered.  The ``none'' mode doesn't wrap
+              under any circumstance  (entire  pay‐ load
+              is displayed on one line).  The ``single''
+              mode is concep‐ tually the same as ``none'',
+              except that everything including IP and
+              source/destination  header  information is all
+              on one line.  ``normal'' is the default mode
+              and is  only  included  for  com‐ pleteness.
+              This option is incompatible with ``-x''.
+
+
+       -s snaplen
+              Set the bpf caplen to snaplen (default 65536).
+
+
+       -S limitlen
+              Set  the upper limit on the size of packets
+              that ngrep will look at.  Useful for looking at
+              only the first  N  bytes  of  packets without
+              changing the BPF snaplen.
+
+
+       -I pcap_dump
+              Input file pcap_dump into ngrep.  Works with any
+              pcap-compatible dump file format.  This option
+              is useful  for  searching  for  a wide range of
+              different patterns over the same packet stream.
+
+
+       -O pcap_dump
+              Output  matched  packets  to  a pcap-compatible
+              dump file.  This feature does not interfere
+              with normal output to stdout.
+
+
+       -n num Match only _n_u_m packets total, then exit.
+
+
+       -d dev By default ngrep will select a default interface
+       to  listen  on.
+              Use this option to force ngrep to listen on
+              interface _d_e_v.
+
+
+       -A num Dump _n_u_m packets of trailing context
+       after matching a packet.
+
+
+       -W normal|byline|none
+              Alter the method by which ngrep displays packet
+              payload.  ``nor‐ mal''  mode  represents  the
+              standard   behaviour,   ``byline'' instructs
+              ngrep  to  respect  embedded  linefeeds  (useful
+              for observing HTTP transactions, for instance),
+              and ``none'' results in  the payload on one
+              single line (useful for scripted process‐
+              ing of ngrep output).
+
+
+       -c cols
+              Ignore the detected terminal width and force
+              the column width to the specified size.
+
+
+       -P char
+              Change the non-printable character from the
+              default ``.'' to the character specified.
+
+
+        _m_a_t_c_h _e_x_p_r_e_s_s_i_o_n
+              A match expression is either an extended
+              regular expression,  or if the _-_X option
+              is specified, a string signifying a hexadecimal
+              value.  An extended regular  expression  follows
+              the  rules  as implemented  by  the GGNNUU
+              rreeggeexx lliibbrraarryy.
+              Hexadecimal expressions can optionally
+              be preceded by `0x'.  E.g., `DEADBEEF',
+              `0xDEAD‐ BEEF'.
+
+
+        _b_p_f _f_i_l_t_e_r
+              Selects a filter that specifies what packets will
+              be dumped.  If no _b_p_f _f_i_l_t_e_r is
+              given, all IP  packets  seen  on  the  selected
+              interface will be dumped.  Otherwise, only
+              packets for which _b_p_f _f_i_l_t_e_r is
+              `true' will be dumped.
+
+       The _b_p_f _f_i_l_t_e_r consists of one or more
+       _p_r_i_m_i_t_i_v_e_s_.  Primitives  usually
+       consist  of  an _i_d (name or number) preceded by
+       one or more qualifiers.  There are three different
+       kinds of qualifier:
+
+       _t_y_p_e   qualifiers say what kind of thing the
+       id name or  number  refers
+              to.  Possible types are hhoosstt, nneett
+              and ppoorrtt.  E.g., `host blort',
+              `net 1.2.3', `port 80'.  If there is no type
+              qualifier, hhoosstt  is assumed.
+
+       _d_i_r    qualifiers  specify  a  particular
+       transfer direction to and/or
+              from _i_d_.  Possible directions are
+              ssrrcc, ddsstt, ssrrcc oorr ddsstt
+              and  ssrrcc aanndd  ddsstt.   E.g.,
+              `src  foo', `dst net 1.2.3', `src or dst port
+              ftp-data'.  If there is no dir qualifier,
+              ssrrcc oorr ddsstt is assumed.
+              For  `null'  link  layers (i.e. point to point
+              protocols such as slip) the iinnbboouunndd
+              and oouuttbboouunndd qualifiers can be
+              used to specify a desired direction.
+
+       _p_r_o_t_o  qualifiers are restricted to ip-only
+       protocols.  Possible protos
+              are: ttccpp ,, uuddpp and iiccmmpp.
+              e.g., `udp src foo' or `tcp port  21'.  If  there
+              is  no proto qualifier, all protocols consistent
+              with the type are assumed.  E.g., `src foo'
+              means `ip  and  ((tcp  or udp)  src  foo)',
+              `net bar' means `ip and (net bar)', and `port
+              53' means `ip and ((tcp or udp) port 53)'.
+
+       In addition to the above, there are some special
+       `primitive'  keywords that  don't  follow  the pattern:
+       ggaatteewwaayy, bbrrooaaddccaasstt,
+       lleessss, ggrreeaatteerr and arithmetic
+       expressions.  All of these are described below.
+
+       More complex filter expressions are built up by
+       using the words aanndd, oorr and  nnoott
+       to combine primitives.  E.g., `host blort and not
+       port ftp and not port ftp-data'.  To save typing,
+       identical qualifier lists  can  be omitted.  E.g.,
+       `tcp dst port ftp or ftp-data or domain' is exactly
+       the same as `tcp dst port ftp or tcp dst port  ftp-data
+       or  tcp  dst  port domain'.
+
+       Allowable primitives are:
+
+
+       ddsstt hhoosstt _h_o_s_t
+              True  if  the  IP destination field of the
+              packet is _h_o_s_t, which may be either an
+              address or a name.
+
+
+       ssrrcc hhoosstt _h_o_s_t
+              True if the IP source field of the packet
+              is _h_o_s_t.
+
+
+       hhoosstt _h_o_s_t
+              True if either the IP source or destination  of
+              the  packet  is _h_o_s_t.   Any  of the
+              above host expressions can be prepended with
+              the keywords, iipp, aarrpp, or rraarrpp
+              as in:
+                   iipp hhoosstt _h_o_s_t
+              which is equivalent to:
+
+
+
+       eetthheerr ddsstt _e_h_o_s_t
+              True if the ethernet destination address
+              is _e_h_o_s_t.  _E_h_o_s_t may be
+              either  a  name from /etc/ethers or a number
+              (see _e_t_h_e_r_s(3N) for numeric format).
+
+       eetthheerr ssrrcc _e_h_o_s_t
+              True if the ethernet source address is
+              _e_h_o_s_t.
+
+       eetthheerr hhoosstt _e_h_o_s_t
+              True if either the ethernet source  or
+              destination  address  is _e_h_o_s_t.
+
+
+       ggaatteewwaayy _h_o_s_t
+              True  if  the packet used _h_o_s_t as
+              a gateway.  I.e., the ethernet source or
+              destination address was _h_o_s_t but
+              neither the IP source nor  the  IP destination
+              was _h_o_s_t.  _H_o_s_t must be a
+              name and must be found in both /etc/hosts
+              and  /etc/ethers.   (An  equivalent expression is
+                   eetthheerr hhoosstt _e_h_o_s_t
+                   aanndd nnoott hhoosstt
+                   _h_o_s_t
+              which  can  be  used  with  either  names  or
+              numbers for _h_o_s_t _/ _e_h_o_s_t.)
+
+
+       ddsstt nneett _n_e_t
+              True if the IP destination address of
+              the packet has  a  network number  of
+              _n_e_t. _N_e_t may be either a name
+              from /etc/networks or a network number (see
+              _n_e_t_w_o_r_k_s_(_4_) for details).
+
+
+       ssrrcc nneett _n_e_t
+              True if the IP source address of the packet
+              has a network number of _n_e_t.
+
+
+       nneett _n_e_t
+              True  if  either  the  IP  source  or destination
+              address of the packet has a network number
+              of _n_e_t.
+
+
+       nneett _n_e_t mmaasskk _m_a_s_k
+              True if the IP address matches _n_e_t with
+              the  specific  netmask.  May be qualified with
+              ssrrcc or ddsstt.
+
+
+       nneett _n_e_t/_l_e_n
+              True if the IP address matches _n_e_t a
+              netmask _l_e_n bits wide.  May be qualified
+              with ssrrcc or ddsstt.
+
+
+       ddsstt ppoorrtt _p_o_r_t
+              True if the packet is ip/tcp or ip/udp  and  has
+              a  destination port  value of _p_o_r_t.
+              The _p_o_r_t can be a number or a name
+              used in /etc/services (see _t_c_p(4P) and
+              _u_d_p(4P)).  If  a  name  is  used, both
+              the  port number and protocol are checked.
+              If a number or ambiguous name is used, only
+              the port number is  checked  (e.g., ddsstt
+              ppoorrtt 551133 will print both tcp/login
+              traffic and udp/who traf‐ fic, and ppoorrtt
+              ddoommaaiinn will print both tcp/domain
+              and  udp/domain traffic).
+
+
+       ssrrcc ppoorrtt _p_o_r_t
+              True if the packet has a source port value
+              of _p_o_r_t.
+
+
+       ppoorrtt _p_o_r_t
+              True  if  either the source or destination
+              port of the packet is _p_o_r_t.  Any of
+              the above port expressions can be  prepended
+              with the keywords, ttccpp or uuddpp, as in:
+                   ttccpp ssrrcc ppoorrtt
+                   _p_o_r_t
+              which matches only tcp packets whose source
+              port is _p_o_r_t.
+
+
+       lleessss _l_e_n_g_t_h
+              True  if  the  packet has a length less than
+              or equal to _l_e_n_g_t_h.  This is
+              equivalent to:
+                   lleenn <<== _l_e_n_g_t_h..
+
+
+       ggrreeaatteerr _l_e_n_g_t_h
+              True if the packet has a length greater than
+              or equal to _l_e_n_g_t_h.  This is
+              equivalent to:
+                   lleenn >>== _l_e_n_g_t_h..
+
+
+       iipp pprroottoo _p_r_o_t_o_c_o_l
+              True if the packet is an ip packet
+              (see _i_p(4P)) of protocol
+              type _p_r_o_t_o_c_o_l.
+              _P_r_o_t_o_c_o_l can be a number
+              or one of the names _t_c_p, _u_d_p or
+              _i_c_m_p.   Note  that the identifiers
+              _t_c_p and _u_d_p are also key‐ words
+              and must be escaped via backslash (\), which
+              is \\ in  the C-shell.
+
+
+       iipp bbrrooaaddccaasstt
+              True  if  the  packet  is an IP broadcast packet.
+              It checks for both the all-zeroes  and  all-ones
+              broadcast  conventions,  and looks up the local
+              subnet mask.
+
+
+       iipp mmuullttiiccaasstt
+              True if the packet is an IP multicast packet.
+
+
+       iipp     Abbreviation for:
+                   eetthheerr pprroottoo iipp
+
+       ttccpp, uuddpp, iiccmmpp
+              Abbreviations for:
+                   iipp pprroottoo _p
+              where _p is one of the above protocols.
+
+       _e_x_p_r _r_e_l_o_p _e_x_p_r
+              True  if the relation holds, where
+              _r_e_l_o_p is one of >, <, >=, <=, =, !=,
+              and _e_x_p_r is an arithmetic expression
+              composed of  integer constants  (expressed  in
+              standard C syntax), the normal binary operators
+              [+, -, *, /, &, |], a  length  operator,  and
+              special packet  data  accessors.   To access
+              data inside the packet, use the following syntax:
+                   _p_r_o_t_o [[ _e_x_p_r ::
+                   _s_i_z_e ]]
+              _P_r_o_t_o is one of iipp,, ttccpp,,
+              uuddpp or iiccmmpp, and indicates the
+              protocol layer for the index operation.  The byte
+              offset, relative to the indicated protocol layer,
+              is given by _e_x_p_r.   _S_i_z_e  is
+              optional and  indicates  the number of bytes
+              in the field of interest; it can be either
+              one, two, or  four,  and  defaults  to  one.
+              The length  operator, indicated by the keyword
+              lleenn, gives the length of the packet.
+
+              For example, `eetthheerr[[00]] &&
+              11 !!== 00' catches all multicast  traffic.
+              The  expression  `iipp[[00]]  && 00xxff
+              !!== 55' catches all IP packets with
+              options. The expression `iipp[[66::22]]
+              &&  00xx11ffffff  ==  00'  catches
+              only unfragmented  datagrams  and  frag
+              zero of fragmented datagrams.  This check
+              is implicitly applied to the ttccpp and
+              uuddpp index opera‐ tions.   For instance,
+              ttccpp[[00]] always means the first byte
+              of the TCP _h_e_a_d_e_r, and never means
+              the first  byte  of  an  intervening fragment.
+
+       Primitives may be combined using:
+
+              A  parenthesized  group of primitives and
+              operators (parentheses are special to the Shell
+              and must be escaped).
+
+              Negation (`!!' or `nnoott').
+
+              Concatenation (`&&&&' or `aanndd').
+
+              Alternation (`||||' or `oorr').
+
+       Negation has highest precedence.  Alternation  and
+       concatenation  have equal  precedence  and associate
+       left to right.  Note that explicit aanndd tokens,
+       not juxtaposition, are now required for concatenation.
+
+       If an identifier is given without a keyword, the most
+       recent keyword is assumed.  For example,
+            nnoott hhoosstt vvss aanndd aaccee
+       is short for
+            nnoott hhoosstt vvss aanndd
+            hhoosstt aaccee
+       which should not be confused with
+            nnoott (( hhoosstt vvss oorr
+            aaccee ))
+
+       Expression arguments can be passed to ngrep as either
+       a single argument or as multiple arguments, whichever
+       is more convenient.  Generally,  if the  expression
+       contains Shell metacharacters, it is easier to pass
+       it as a single, quoted argument.  Multiple arguments
+       are concatenated with spaces before being parsed.
+
+
+DDIIAAGGNNOOSSTTIICCSS
+       Errors from nnggrreepp,, lliibbppccaapp,,
+       and the GGNNUU rreeggeexx lliibbrraarryy
+       are all output to stderr.
+
+
+AAUUTTHHOORR
+       Written by Jordan Ritter <jpr5@darkridge.com>.
+
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Please report bugs to the ngrep's Sourceforge Bug
+       Tracker, located at
+
+           http://sourceforge.net/projects/ngrep/
+
+       Non-bug, non-feature-request general feedback should
+       be  sent  to  the author directly by email.
+
+
+NNOOTTEESS
+       ALL YOUR BASE ARE BELONG TO US.
+
+
+
+*nux                             November 2006
+NGREP(8)

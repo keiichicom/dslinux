@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd
+END
+nmbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd.c
+END
+nmbd_sendannounce.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_sendannounce.c
+END
+nmbd_namerelease.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_namerelease.c
+END
+nmbd_namelistdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_namelistdb.c
+END
+asyncdns.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/asyncdns.c
+END
+nmbd_winsproxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_winsproxy.c
+END
+nmbd_become_lmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_become_lmb.c
+END
+nmbd_nameregister.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_nameregister.c
+END
+nmbd_elections.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_elections.c
+END
+nmbd_responserecordsdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_responserecordsdb.c
+END
+nmbd_lmhosts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_lmhosts.c
+END
+nmbd_browserdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_browserdb.c
+END
+nmbd_nodestatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_nodestatus.c
+END
+nmbd_packets.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_packets.c
+END
+nmbd_synclists.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_synclists.c
+END
+nmbd_browsesync.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_browsesync.c
+END
+nmbd_incomingrequests.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_incomingrequests.c
+END
+nmbd_incomingdgrams.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_incomingdgrams.c
+END
+nmbd_logonnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_logonnames.c
+END
+nmbd_workgroupdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_workgroupdb.c
+END
+nmbd_namequery.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_namequery.c
+END
+nmbd_subnetdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_subnetdb.c
+END
+nmbd_winsserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_winsserver.c
+END
+nmbd_serverlistdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_serverlistdb.c
+END
+nmbd_mynames.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_mynames.c
+END
+nmbd_become_dmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_become_dmb.c
+END
+nmbd_processlogon.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/nmbd/nmbd_processlogon.c
+END

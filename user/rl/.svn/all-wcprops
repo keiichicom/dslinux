@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2269/trunk/user/rl
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/rl/Makefile.am
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/alloc.c
+END
+rl.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/rl/rl.spec.in
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/rl/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/rl/install-sh
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/alloc.h
+END
+rl.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/rl.1.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/rl/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/rl/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/rl/config.guess
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/config.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/rl/config.sub
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/rl/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/user/rl/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/rl/NEWS
+END
+rl.lsm.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/rl/rl.lsm.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/Makefile
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/rl/mkinstalldirs
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/rl/ChangeLog
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/buffer.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/user/rl/README
+END
+rl.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/rl/rl.c
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/buffer.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/rl/config.h.in
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/random.c
+END
+getopt_long.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/rl/getopt_long.c
+END
+rl.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/rl/rl.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2269/trunk/user/rl/TODO
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/rl/random.h
+END
+getopt_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/rl/getopt_long.h
+END

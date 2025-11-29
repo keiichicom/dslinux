@@ -1,0 +1,193 @@
+Music Player Command(1)                                Music
+Player Command(1)
+
+
+
+NNAAMMEE
+       mpc - Program for controlling Music Player Daemon (MPD)
+
+SSYYNNOOPPSSIISS
+       mpc [<command> <arguments>]
+
+DDEESSCCRRIIPPTTIIOONN
+       mpc is a client for MPD, the Music Player Daemon. mpc
+       connects to a MPD running on a machine on the local
+       network and controls MPD according to commands  and
+       arguments passed to it. If no arguments are passed,
+       cur‐ rent status is given.
+
+
+OOPPTTIIOONNSS
+       ----ffoorrmmaatt
+              Configure  the  format  of  song  display  for
+              status  and  the playlist.   The  metadata
+              delimeters  are "%name%", "%artist%", "%album%",
+              "%title%", "%track%", "%time%", and "%file%".
+              The [] operator  is  used  to  group  output
+              such  that if no metadata delimeters are found
+              or matched between '[' and ']',  then  none of
+              the  characters between '[' and ']' are output.
+              '&' and '|' are logical operators for and
+              and or.  '#'  is  used  to  escape characters.
+              Some  useful examples for format are: "%file%"
+              and "[[%artist% - ]%title%]|[%file%]"
+
+CCOOMMMMAANNDDSS
+       aadddd <<ssoonngg>>
+              Adds a song from the music database to
+              the  playlist.  Can  also read  input  from
+              pipes. Use "mpc ls | mpc add" to add all files
+              to the playlist.
+
+       cclleeaarr  Empties playlist.
+
+       ccrroopp   Remove all songs except for the currently
+       playing song.
+
+       ccrroossssffaaddee
+       [[<<sseeccoonnddss>>]]
+              Gets and sets the current amount of crossfading
+              between songs (0 disables crossfading).
+
+       ddeell <<ssoonngg>>
+              Removes  a  song  from  the  playlist.  Can also
+              read input from pipes.
+
+       lliissttaallll [[<<ssoonngg>>]]
+              Lists <song> from playlist. If no <song> is
+              specified, lists all songs.
+
+       llooaadd <<ffiillee>>
+              Loads <file> as playlist.
+
+       llss [[<<ddiirreeccttoorryy>>]]
+              Lists  all  files/folders  in  <directory>. If
+              no <directory> is specified, lists all files
+              in music directory.
+
+       llssppllaayylliissttss
+              Lists available playlists.
+
+       mmoovvee <<ffrroomm>> <<ttoo>>
+              Moves song at  position  <from>  to  the  postion
+              <to>  in  the playlist.
+
+       nneexxtt   Starts playing next song on playlist.
+
+       ppaauussee  Pauses playing.
+
+       ppllaayy <<nnuummbbeerr>>
+              Starts  playing the song-number specified. If
+              none is specified, plays number 1.
+
+       ppllaayylliisstt
+              Prints entire playlist.
+
+       pprreevv   Starts playing previous song.
+
+       rraannddoomm [[<<ssttaattee>>]]
+              Toggle random mode if state ("on" or "off")
+              is not specified.
+
+       rreeppeeaatt [[<<ssttaattee>>]]
+              Toggle repeat mode if state ("on" or "off")
+              is not specified.
+
+       rrmm <<ffiillee>>
+              Deletes a specific playlist.
+
+       ssaavvee <<ffiillee>>
+              Saves playlist as <file>.
+
+       sseeaarrcchh <<ttaabbllee>>
+       <<ppaatttteerrnn>>
+              Searches for songs  that  match  the  pattern,
+              where  table  is "artist", "album", "title",
+              or "filename".
+
+       sseeeekk
+       [[++--]][[<<HHHH::MMMM::SSSS>>]]
+       oorr <<[[++--]]<<00--110000>>%%>>
+              Seeks  by hour, minute or seconds, hours or
+              minutes can be omit‐ ted.  If seeking by
+              percentage, seeks within the current song in
+              the specified manner.  If a "+" or "-" is used,
+              the seek is done relative to the  current
+              song  position.  Absolute  seeking  by default.
+
+       sshhuuffffllee
+              Shuffles all songs on the playlist.
+
+       ssttaattss  Displays statistics about MPD
+
+       ssttoopp   Stops playing.
+
+       ttooggggllee Toggles  between play and pause. If
+       stopped starts playing. Does
+              not support start playing at song number
+              (use play).
+
+       uuppddaattee [[<<ppaatthh>>]]
+              Scans music directory for updates if no <path>
+              is specified.  If one  or more <path>'s are
+              specified, scans only those path's for updates.
+              Can take input from a pipe.
+
+       vveerrssiioonn
+              Reports the version of MPD.
+
+       vvoolluummee <<[[++--]]vvaalluuee>>
+              Sets the volume to <value> (0-100).  If "+" or
+              "-" is used, then it adjusts the volume relative
+              to the current volume.
+
+EENNVVIIRROONNMMEENNTT
+       This  section  describes some environment variables
+       that affect how mpc operates.
+                   MPD_HOST MPD_PORT
+                        By default, mpc connects to
+                        localhost:6600.  This  can
+              be  changed either at compile-time, or by
+              exporting the MPD_HOST and MPD_PORT environment
+              variables.
+                        To use a password with  mpd,  set
+                        MPD_HOST  to  pass‐
+              word@host.
+
+EEXXAAMMPPLLEESS
+       Here is a script to load and play m3u playlists
+       (useful for mozilla):
+
+              #!/bin/bash mpc clear cat $1 | mpc add mpc play
+
+       This  script  can be used to load and play pls playlists
+       (again, useful for mozilla):
+
+              #!/bin/bash mpc clear grep '^File[0-9]*' $1 |
+              sed -e 's/^File[0-9]*=//' | mpc add mpc play
+
+BBUUGGSS
+       Report bugs on http://www.musicpd.org/mantis/
+
+NNOOTTEE
+       Since MPD uses UTF-8, mpc needs to convert characters
+       to  the  charset used  by  the local system. If you
+       get character conversion errors when your running
+       mpc you probably need to set up your locale. This
+       is  done by  setting  any  of  the LC_CTYPE, LANG or
+       LC_ALL enviroment vatiables (LC_CTYPE only affects
+       character handling).
+
+SSEEEE AALLSSOO
+       mpd(1)
+
+AAUUTTHHOORR
+            See <http://svn.musicpd.org/mpc/trunk/AUTHORS>,
+            for  contributors
+       to mpc
+
+
+
+                                                       Music
+                                                       Player
+                                                       Command(1)

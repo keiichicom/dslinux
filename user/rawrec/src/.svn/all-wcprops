@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2338/trunk/user/rawrec/src
+END
+is_pow_two.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2338/trunk/user/rawrec/src/is_pow_two.c
+END
+move_au.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2338/trunk/user/rawrec/src/move_au.c
+END
+data_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2338/trunk/user/rawrec/src/data_init.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2338/trunk/user/rawrec/src/Makefile
+END
+sleep_on_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2338/trunk/user/rawrec/src/sleep_on_option.c
+END
+data_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2338/trunk/user/rawrec/src/data_close.c
+END
+thread_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2338/trunk/user/rawrec/src/thread_functions.h
+END
+usage.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2338/trunk/user/rawrec/src/usage.c
+END
+play.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2338/trunk/user/rawrec/src/play.c
+END
+shutdown_signal_handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2338/trunk/user/rawrec/src/shutdown_signal_handler.c
+END
+get_au_blksz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2338/trunk/user/rawrec/src/get_au_blksz.c
+END
+err_die.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2338/trunk/user/rawrec/src/err_die.c
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2338/trunk/user/rawrec/src/record.c
+END
+move_fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2338/trunk/user/rawrec/src/move_fd.c
+END
+ringbuf_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2338/trunk/user/rawrec/src/ringbuf_init.c
+END
+write_silence_on_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2338/trunk/user/rawrec/src/write_silence_on_option.c
+END
+get_format_code.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2338/trunk/user/rawrec/src/get_format_code.c
+END
+ringbuf_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2338/trunk/user/rawrec/src/ringbuf_close.c
+END
+process_command_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2338/trunk/user/rawrec/src/process_command_line.c
+END
+min.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2338/trunk/user/rawrec/src/min.c
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2338/trunk/user/rawrec/src/globals.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2338/trunk/user/rawrec/src/main.c
+END
+audio_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2338/trunk/user/rawrec/src/audio_init.c
+END
+set_au_blksz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2338/trunk/user/rawrec/src/set_au_blksz.c
+END
+audio_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2338/trunk/user/rawrec/src/audio_close.c
+END
+rawrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2338/trunk/user/rawrec/src/rawrec.h
+END
+test_dsp_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2338/trunk/user/rawrec/src/test_dsp_params.c
+END

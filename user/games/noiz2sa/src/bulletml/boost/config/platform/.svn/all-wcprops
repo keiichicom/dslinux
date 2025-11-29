@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform
+END
+hpux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/hpux.hpp
+END
+beos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/beos.hpp
+END
+bsd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/bsd.hpp
+END
+irix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/irix.hpp
+END
+solaris.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/solaris.hpp
+END
+linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/linux.hpp
+END
+amigaos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/amigaos.hpp
+END
+cygwin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/cygwin.hpp
+END
+aix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/aix.hpp
+END
+macos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/macos.hpp
+END
+win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/config/platform/win32.hpp
+END

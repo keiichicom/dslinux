@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/Makefile.in
+END
+syshdrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/syshdrs.h
+END
+wutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/wutil.c
+END
+bmed.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/bmed.c
+END
+wgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/wgets.c
+END
+wutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/wutil.h
+END
+bmed.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/bmed.h
+END
+wgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/vis/wgets.h
+END

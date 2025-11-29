@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt
+END
+tmiaxy.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tmiaxy.cgs
+END
+wmax.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmax.cgs
+END
+wadd.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wadd.cgs
+END
+wsub.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wsub.cgs
+END
+wmul.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmul.cgs
+END
+wunpckeh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wunpckeh.cgs
+END
+wavg2.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wavg2.cgs
+END
+wmov.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmov.cgs
+END
+wunpckel.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wunpckel.cgs
+END
+wunpckih.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wunpckih.cgs
+END
+wror.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wror.cgs
+END
+wand.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wand.cgs
+END
+tmia.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tmia.cgs
+END
+waligni.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/waligni.cgs
+END
+wmadd.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmadd.cgs
+END
+wunpckil.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wunpckil.cgs
+END
+testutils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/testutils.inc
+END
+tinsr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tinsr.cgs
+END
+wxor.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wxor.cgs
+END
+walignr.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/walignr.cgs
+END
+wpack.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wpack.cgs
+END
+iwmmxt.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/iwmmxt.exp
+END
+wzero.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wzero.cgs
+END
+wor.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wor.cgs
+END
+wandn.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wandn.cgs
+END
+wsra.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wsra.cgs
+END
+wacc.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wacc.cgs
+END
+tbcst.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tbcst.cgs
+END
+wsll.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wsll.cgs
+END
+tmiaph.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tmiaph.cgs
+END
+textrm.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/textrm.cgs
+END
+wsrl.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wsrl.cgs
+END
+wmac.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmac.cgs
+END
+wcmpeq.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wcmpeq.cgs
+END
+wsad.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wsad.cgs
+END
+tmovmsk.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/tmovmsk.cgs
+END
+wcmpgt.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wcmpgt.cgs
+END
+wshufh.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wshufh.cgs
+END
+wmin.cgs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/arm/iwmmxt/wmin.cgs
+END

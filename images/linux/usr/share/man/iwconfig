@@ -1,0 +1,488 @@
+IWCONFIG(8)                Linux Programmer's Manual
+IWCONFIG(8)
+
+
+
+NNAAMMEE
+       iwconfig - configure a wireless network interface
+
+SSYYNNOOPPSSIISS
+       iiwwccoonnffiigg
+       [[_i_n_t_e_r_f_a_c_e]]
+       iiwwccoonnffiigg _i_n_t_e_r_f_a_c_e
+       [[eessssiidd _X]] [[nnwwiidd _N]]
+       [[ffrreeqq _F]] [[cchhaannnneell _C]]
+                          [[sseennss _S]]
+                          [[mmooddee _M]] [[aapp
+                          _A]] [[nniicckk _N_N]]
+                          [[rraattee _R]] [[rrttss
+                          _R_T]] [[ffrraagg _F_T]]
+                          [[ttxxppoowweerr _T]]
+                          [[eenncc _E]] [[kkeeyy
+                          _K]] [[ppoowweerr _P]]
+                          [[rreettrryy _R]]
+                          [[ccoommmmiitt]]
+       iiwwccoonnffiigg ----hheellpp
+       iiwwccoonnffiigg ----vveerrssiioonn
+
+DDEESSCCRRIIPPTTIIOONN
+       IIwwccoonnffiigg  is  similar  to
+       _i_f_c_o_n_f_i_g(8), but is dedicated to
+       the wireless interfaces. It is used to set the
+       parameters of the  network  interface which  are
+       specific  to the wireless operation (for example
+       : the fre‐ quency).  IIwwccoonnffiigg
+       may also be used to display  those  parameters,
+       and the wireless statistics (extracted from
+       _/_p_r_o_c_/_n_e_t_/_w_i_r_e_l_e_s_s).
+
+       All  these  parameters and statistics are device
+       dependent. Each driver will provide only some of them
+       depending on hardware support,  and  the range of
+       values may change. Please refer to the man page of
+       each device for details.
+
+PPAARRAAMMEETTEERRSS
+       eessssiidd  Set the ESSID (or Network Name -
+       in some products it may also be
+              called Domain ID). The ESSID is used to identify
+              cells which are part of the same virtual network.
+              As opposed to the AP Address or NWID which define
+              a single cell, the  ESSID  defines  a group of
+              cells connected via repeaters or infrastructure,
+              where the user may roam transparently.  With some
+              cards, you may disable the ESSID checking
+              (ESSID  pro‐ miscuous) with _o_f_f
+              or _a_n_y (and _o_n to reenable it).
+              EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _e_s_s_i_d
+                   _a_n_y _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _e_s_s_i_d _"_M_y
+                   _N_e_t_w_o_r_k_"
+
+       nnwwiidd/ddoommaaiinn
+              Set  the  Network  ID  (in  some  products it
+              may also be called Domain ID). As all adjacent
+              wireless  networks  share  the  same medium,
+              this  parameter  is  used to differenciate
+              them (create logical colocated networks) and
+              identify nodes belonging to  the same cell.
+              This  parameter is only used for pre-802.11
+              hardware, the 802.11 protocol uses the ESSID
+              and AP Address for this function.  With some
+              cards, you may disable the Network ID  checking
+              (NWID promiscuous) with _o_f_f (and _o_n
+              to reenable it).  EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _n_w_i_d _A_B_3_4
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _n_w_i_d _o_f_f
+
+       ffrreeqq/cchhaannnneell
+              Set  the  operating  frequency or channel in
+              the device. A value below 1000 indicates a
+              channel number, a value greater than 1000 is a
+              frequency in Hz. You may append the suffix k,
+              M or G to the value (for example, "2.46G" for
+              2.46  GHz  frequency),  or  add enough '0'.
+              Channels  are  usually  numbered  starting
+              at 1, and you may use _i_w_l_i_s_t(8)
+              to get the total number of channels, list  the
+              avail‐ able  frequencies,  and display the
+              current frequency as a chan‐ nel. Depending
+              on regulations, some frequencies/channels may
+              not be available.  EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _f_r_e_q _2_4_2_2_0_0_0_0_0_0
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _f_r_e_q _2_._4_2_2_G
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _c_h_a_n_n_e_l _3
+
+       sseennss   Set  the  sensitivity threshold. This
+       is the lowest signal level
+              for which the hardware attempt packet reception,
+              signals  weaker than  this  are  ignored.
+              This is used to avoid receiving back‐ ground
+              noise, so you should set  it  according  to
+              the  average noise  level.  Positive  values
+              are assumed to be the raw value used by the
+              hardware  or  a  percentage,  negative  values
+              are assumed to be dBm.  With  some  hardware,
+              this  parameter  also  controls the defer
+              threshold (lowest signal level for which the
+              hardware  consider the channel busy) and the
+              handover threshold (signal level where the
+              hardware start looking for a new access point).
+              EExxaammppllee ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _s_e_n_s _-_8_0
+
+       mmooddee   Set the operating mode of the device,
+       which depends on the  net‐
+              work  topology. The mode can be
+              _A_d_-_H_o_c (network composed of
+              only one cell and without Access Point),
+              _M_a_n_a_g_e_d (node connects to  a
+              network  composed  of  many Access Points,
+              with roaming), _M_a_s_t_e_r (the node
+              is the synchronisation master or  acts  as  an
+              Access Point),  _R_e_p_e_a_t_e_r (the
+              node forwards packets between other wire‐ less
+              nodes),  _S_e_c_o_n_d_a_r_y  (the  node
+              acts  as  a  backup   mas‐ ter/repeater),
+              _M_o_n_i_t_o_r  (the node acts as a
+              passive monitor and only receives packets)
+              or _A_u_t_o.  EExxaammppllee ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _m_o_d_e _M_a_n_a_g_e_d
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _m_o_d_e _A_d_-_H_o_c
+
+       aapp     Force the card to register to the  Access
+       Point  given  by  the
+              address,  if  it is possible. When the quality
+              of the connection goes too low, the driver may
+              revert back to automatic mode  (the card selects
+              the best Access Point in range).  You  may also
+              use _o_f_f to re-enable automatic mode without
+              chang‐ ing the current Access Point, or you
+              may  use  _a_n_y  or  _a_u_t_o  to force
+              the  card  to  reassociate with the currently
+              best Access Point.  EExxaammppllee ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0 _a_p
+                   _0_0_:_6_0_:_1_D_:_0_1_:_2_3_:_4_5
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _a_p _a_n_y _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _a_p _o_f_f
+
+       nniicckk[name]
+              Set the nickname, or the station name. Some
+              802.11  products  do define  it,  but  this is
+              not used as far as the protocols (MAC, IP, TCP)
+              are concerned and completely useless as far as
+              configu‐ ration goes. Only some diagnostic
+              tools may use it.  EExxaammppllee ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _n_i_c_k_n_a_m_e _"_M_y
+                   _L_i_n_u_x _N_o_d_e_"
+
+       rraattee/bbiitt[rate]
+              For  cards  supporting  multiple  bit rates,
+              set the bit-rate in b/s. The bit-rate is the
+              speed at  which  bits  are  transmitted over
+              the  medium,  the  user  speed of the link is
+              lower due to medium sharing and various overhead.
+              You may append the suffix k, M or G to the value
+              (decimal multi‐ plier  :  10^3,  10^6  and
+              10^9 b/s), or add enough '0'. Values below 1000
+              are card specific, usually an index in  the
+              bit-rate list.  Use  _a_u_t_o  to select
+              automatic bit-rate mode (fallback to lower rate
+              on noisy channels), which is  the  default  for
+              most cards, and _f_i_x_e_d to revert back to
+              fixed setting. If you specify a bit-rate value
+              and append _a_u_t_o, the driver will use
+              all  bit- rates lower and equal than this value.
+              EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _r_a_t_e
+                   _1_1_M _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _r_a_t_e _a_u_t_o
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _r_a_t_e _5_._5_M _a_u_t_o
+
+       rrttss[_threshold]
+              RTS/CTS adds a handshake before each
+              packet transmission to make sure  that  the
+              channel  is  clear.  This  adds  overhead,
+              but increases  performance in case of hidden
+              nodes or a large number of active nodes. This
+              parameter sets the size  of  the  smallest
+              packet for which the node sends RTS ; a value
+              equal to the maxi‐ mum packet size disable the
+              mechanism. You  may  also  set  this parameter
+              to _a_u_t_o, _f_i_x_e_d or _o_f_f.
+              EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _r_t_s _2_5_0 _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _r_t_s _o_f_f
+
+       ffrraagg[mentation_threshold]
+              Fragmentation allows to split an IP packet
+              in a burst of smaller fragments transmitted
+              on the medium. In  most  cases  this  adds
+              overhead, but in a very noisy environment
+              this reduces the error penalty and allow
+              packets to get  through  interference  bursts.
+              This parameter sets the maximum fragment size ;
+              a value equal to the maximum packet size disable
+              the mechanism. You may also  set this parameter
+              to _a_u_t_o, _f_i_x_e_d or _o_f_f.
+              EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _f_r_a_g _5_1_2
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _f_r_a_g _o_f_f
+
+       kkeeyy/eenncc[ryption]
+              Used  to  manipulate  encryption or
+              scrambling keys and security mode.
+              To set the current encryption key,
+              just enter  the  key  in  hex digits  as
+              _X_X_X_X_-_X_X_X_X_-_X_X_X_X_-_X_X_X_X
+              or _X_X_X_X_X_X_X_X.  To set a key
+              other than the current key, prepend  or  append
+              _[_i_n_d_e_x_]  to  the  key itself (this
+              won't change which is the active key). You can
+              also enter the key as  an  ASCII  string  by
+              using  the  _s_:  prefix.  Passphrase is
+              currently not supported.  To  change  which
+              key  is  the currently active key, just enter
+              _[_i_n_d_e_x_] (without entering any
+              key value).  _o_f_f and _o_n disable and
+              reenable encryption.  The security mode may be
+              _o_p_e_n or  _r_e_s_t_r_i_c_t_e_d,
+              and  its  meaning depends  on  the  card  used.
+              With  most cards, in _o_p_e_n mode no
+              authentication is  used  and  the  card
+              may  also  accept  non- encrypted  sessions,
+              whereas  in _r_e_s_t_r_i_c_t_e_d mode
+              only encrypted sessions are accepted and the
+              card will  use  authentication  if available.
+              If  you  need  to set multiple keys, or set a
+              key and change the active key, you need to use
+              multiple kkeeyy  directives.  Arguments can
+              be put in any order, the last one will take
+              precedence.  EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _k_e_y
+                   _0_1_2_3_-_4_5_6_7_-_8_9
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _k_e_y _[_3_]
+                   _0_1_2_3_-_4_5_6_7_-_8_9
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _k_e_y _s_:_p_a_s_s_w_o_r_d
+                   _[_2_] _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _k_e_y _[_2_]
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _k_e_y _o_p_e_n
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _k_e_y _o_f_f
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _k_e_y _r_e_s_t_r_i_c_t_e_d
+                   _[_3_] _0_1_2_3_4_5_6_7_8_9
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _k_e_y _0_1_-_2_3 _k_e_y
+                   _4_5_-_6_7 _[_4_] _k_e_y
+                   _[_4_]
+
+       ppoowweerr  Used to manipulate power management
+       scheme parameters and mode.
+              To  set  the  period between wake ups, enter
+              _p_e_r_i_o_d _`_v_a_l_u_e_'.
+              To set the timeout  before  going  back
+              to  sleep,  enter  _t_i_m_e_o_u_t
+              _`_v_a_l_u_e_'.   You  can  also  add  the
+              _m_i_n  and  _m_a_x modifiers. By default,
+              those values are in seconds, append the suffix
+              m  or  u to  specify  values  in milliseconds
+              or microseconds. Sometimes, those values are
+              without units (number of beacon periods,  dwell
+              or similar).  _o_f_f  and  _o_n disable and
+              reenable power management. Finally, you may set
+              the power management mode to _a_l_l (receive
+              all  packets), _u_n_i_c_a_s_t  (receive
+              unicast  packets  only, discard multicast and
+              broadcast) and _m_u_l_t_i_c_a_s_t
+              (receive multicast and broadcast  only, discard
+              unicast packets).  EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _p_o_w_e_r _p_e_r_i_o_d
+                   _2 _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _p_o_w_e_r
+                   _5_0_0_m _u_n_i_c_a_s_t
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _p_o_w_e_r
+                   _t_i_m_e_o_u_t _3_0_0_u
+                   _a_l_l _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _p_o_w_e_r
+                   _o_f_f _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _p_o_w_e_r _m_i_n
+                   _p_e_r_i_o_d _2 _p_o_w_e_r
+                   _m_a_x _p_e_r_i_o_d _4
+
+       ttxxppoowweerr
+              For  cards supporting multiple transmit powers,
+              set the transmit power in dBm. If _W is the
+              power in Watt, the power in dBm is _P _= _3_0
+              _+  _1_0_._l_o_g_(_W_).   If  the value
+              is postfixed by _m_W, it will be automatically
+              converted to dBm.  In addition, _o_n and
+              _o_f_f enable and disable the radio,  and
+              _a_u_t_o and  _f_i_x_e_d  enable  and
+              disable power control (if those features are
+              available).  EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _t_x_p_o_w_e_r _1_5
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _t_x_p_o_w_e_r _3_0_m_W
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _t_x_p_o_w_e_r _a_u_t_o
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _t_x_p_o_w_e_r _o_f_f
+
+       rreettrryy  Most cards have MAC retransmissions,
+       and some allow to  set  the
+              behaviour of the retry mechanism.  To set the
+              maximum number of retries, enter _l_i_m_i_t
+              _`_v_a_l_u_e_'.  This is an absolute
+              value (without unit).  The set the maximum
+              length of  time  the  MAC  should  retry,  enter
+              _l_i_f_e_t_i_m_e _`_v_a_l_u_e_'.
+              By defaults, this value in in seconds, append the
+              suffix m or u  to specify values in milliseconds
+              or microseconds.  You can also add the _m_i_n
+              and _m_a_x modifiers. If the card supports
+              automatic mode, they define the bounds of the
+              limit or lifetime.  Some  other  cards  define
+              different values depending on packet size, for
+              example in 802.11 _m_i_n _l_i_m_i_t is
+              the short  retry  limit (non RTS/CTS packets).
+              EExxaammpplleess ::
+                   _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _r_e_t_r_y _1_6
+                   _i_w_c_o_n_f_i_g _e_t_h_0
+                   _r_e_t_r_y _l_i_f_e_t_i_m_e
+                   _3_0_0_m _i_w_c_o_n_f_i_g
+                   _e_t_h_0 _r_e_t_r_y _m_i_n
+                   _l_i_m_i_t _8
+
+       ccoommmmiitt Some  cards  may  not apply changes
+       done through Wireless Exten‐
+              sions immediately (they may wait  to  agregate
+              the  changes  or apply  it  only  when the
+              card is brought up via ifconfig). This command
+              (when available) forces the card to  apply
+              all  pending changes.  This  is  normally  not
+              needed, because the card will eventually apply
+              the changes, but can be useful for debugging.
+
+DDIISSPPLLAAYY
+       For each device which supports wireless extensions,
+       _i_w_c_o_n_f_i_g will  dis‐ play  the
+       name of the MMAACC pprroottooccooll used
+       (name of device for proprietary protocols), the
+       EESSSSIIDD (Network Name), the NNWWIIDD,
+       the ffrreeqquueennccyy (or chan‐
+       nel), the sseennssiittiivviittyy, the
+       mmooddee of operation, the AAcccceessss
+       PPooiinntt address, the bbiitt--rraattee
+       the  RRTTSS  tthhrreesshhoolldd,
+       the  ffrraaggmmeennttaattiioonn
+       tthhrreesshhoolldd,  the
+       eennccrryyppttiioonn  kkeeyy  and the
+       ppoowweerr mmaannaaggeemmeenntt settings
+       (depending on avail‐ ability).
+
+       The parameters displayed have the same meaning and
+       values as the param‐ eter  you  can  set,  please
+       refer to the previous part for a detailed explanation
+       of them.  Some parameters are only displayed in
+       short/abreviated  form  (such  as encryption). You
+       may use _i_w_l_i_s_t(8) to get all the details.
+       Some  parameters have two modes (such as bitrate). If
+       the value is pre‐ fixed by `==', it means that the
+       parameter is fixed and forced  to  that value, if it
+       is prefixed by `::', the parameter is in automatic
+       mode and the current value is shown (and may change).
+
+       AAcccceessss PPooiinntt/CCeellll
+              An address equal to 00:00:00:00:00:00 means that
+              the card failed to  associate  with an Access
+              Point (most likely a configuration issue). The
+              AAcccceessss PPooiinntt parameter will
+              be shown as CCeellll in  ad- hoc mode (for
+              obvious reasons), but otherwise works the same.
+
+       If
+       _/_p_r_o_c_/_n_e_t_/_w_i_r_e_l_e_s_s
+       exists, _i_w_c_o_n_f_i_g will also display
+       its content.  Note that those values will depend  on
+       the  driver  and  the  hardware specifics, so you
+       need to refer to your driver documentation for proper
+       interpretation of those values.
+
+       LLiinnkk qquuaalliittyy
+              Overall quality of the link. May be based on the
+              level  of  con‐ tention  or  interference, the
+              bit or frame error rate, how good the received
+              signal is, some timing  synchronisation,  or
+              other hardware metric. This is an aggregate
+              value, and depends totally on the driver and
+              hardware.
+
+       SSiiggnnaall lleevveell
+              Received signal strength (RSSI - how strong the
+              received  signal is).  May  be  arbitrary units
+              or dBm, _i_w_c_o_n_f_i_g uses driver meta
+              information to interpret the raw value given by
+              _/_p_r_o_c_/_n_e_t_/_w_i_r_e_‐
+              _l_e_s_s  and  display the proper unit or
+              maximum value (using 8 bit arithmetic). In
+              _A_d_-_H_o_c mode,  this  may  be
+              undefined  and  you should use _i_w_s_p_y.
+
+       NNooiissee lleevveell
+              Background  noise level (when no packet
+              is transmitted). Similar comments as for
+              SSiiggnnaall lleevveell.
+
+       RRxx iinnvvaalliidd nnwwiidd
+              Number of packets received with a different
+              NWID or ESSID.  Used to  detect  configuration
+              problems or adjacent network existence (on the
+              same frequency).
+
+       RRxx iinnvvaalliidd ccrryypptt
+              Number of packets that the hardware was unable
+              to decrypt.  This can be used to detect invalid
+              encryption settings.
+
+       RRxx iinnvvaalliidd ffrraagg
+              Number  of  packets for which the hardware was
+              not able to prop‐ erly re-assemble the link
+              layer fragments (most likely  one  was missing).
+
+       TTxx eexxcceessssiivvee rreettrriieess
+              Number  of packets that the hardware failed
+              to deliver. Most MAC protocols will retry the
+              packet a number of times before  giving up.
+
+       IInnvvaalliidd mmiisscc
+              Other  packets  lost  in  relation with specific
+              wireless opera‐ tions.
+
+       MMiisssseedd bbeeaaccoonn
+              Number of periodic beacons from the Cell or
+              the Access Point  we have  missed.  Beacons are
+              sent at regular intervals to maintain the cell
+              coordination, failure to receive them usually
+              indicates that the card is out of range.
+
+AAUUTTHHOORR
+       Jean Tourrilhes - jt@hpl.hp.com
+
+FFIILLEESS
+       _/_p_r_o_c_/_n_e_t_/_w_i_r_e_l_e_s_s
+
+SSEEEE AALLSSOO
+       iiffccoonnffiigg(8), iiwwssppyy(8),
+       iiwwlliisstt(8), iiwweevveenntt(8),
+       iiwwpprriivv(8), wwiirreelleessss(7).
+
+
+
+wireless-tools                   22 June 2004
+IWCONFIG(8)

@@ -1,0 +1,846 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:652: checking whether make sets ${MAKE}
+configure:681: checking for gcc
+configure:758: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc   -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) works
+configure:772: ucfront-gcc arm-linux-elf-gcc  -o conftest   -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:792: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc   -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) is a cross-compiler
+configure:797: checking whether we are using GNU C
+configure:806: ucfront-gcc arm-linux-elf-gcc  -E conftest.c
+configure:821: checking whether ucfront-gcc arm-linux-elf-gcc  accepts -g
+configure:849: checking how to run the C preprocessor
+configure:870: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:912: checking for ranlib
+configure:939: checking whether ln -s works
+configure:964: checking for mawk
+configure:1009: checking whether we are using GNU make
+configure:1035: checking for AIX
+configure:1060: checking for minix/config.h
+configure:1070: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1066:26: error: minix/config.h: No such file or directory
+configure: failed program was:
+#line 1065 "configure"
+#include "confdefs.h"
+#include <minix/config.h>
+configure:1108: checking for POSIXized ISC
+configure:1129: checking for ucfront-gcc arm-linux-elf-gcc  option to accept ANSI C
+configure:1153: ucfront-gcc arm-linux-elf-gcc  -c -g -O2   conftest.c 1>&5
+configure:1173: checking whether sys/types.h defines makedev
+configure:1185: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:1279: checking for working const
+configure:1333: ucfront-gcc arm-linux-elf-gcc  -c -g -O2  conftest.c 1>&5
+configure:1356: checking for mv
+configure:1388: checking for cp
+configure:1420: checking for rm
+configure:1452: checking for chmod
+configure:1484: checking for ar
+configure:1517: checking for uname
+configure:1548: checking for netscape
+configure:1548: checking for arena
+configure:1548: checking for Mosaic
+configure:1548: checking for chimera
+configure:1582: checking for ANSI C header files
+configure:1595: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1686: checking for inline
+configure:1700: ucfront-gcc arm-linux-elf-gcc  -c -g -O2  conftest.c 1>&5
+configure:1726: checking for off_t
+configure:1759: checking for size_t
+configure:1794: checking for working alloca.h
+configure:1806: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:1827: checking for alloca
+configure:1855: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2024: checking for unistd.h
+configure:2034: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2063: checking for getpagesize
+configure:2091: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2116: checking for working mmap
+configure:2292: checking for argz.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2298:18: error: argz.h: No such file or directory
+configure: failed program was:
+#line 2297 "configure"
+#include "confdefs.h"
+#include <argz.h>
+configure:2292: checking for limits.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for locale.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for nl_types.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for malloc.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for string.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for unistd.h
+configure:2292: checking for values.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2292: checking for sys/param.h
+configure:2302: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2332: checking for getcwd
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:2332: checking for munmap
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2332: checking for putenv
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:2332: checking for setenv
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:2332: checking for setlocale
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2332: checking for strchr
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:2344: warning: conflicting types for built-in function 'strchr'
+No relocations in code!
+configure:2332: checking for strcasecmp
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2332: checking for __argz_count
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:2354: undefined reference to `__argz_count'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 2337 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char __argz_count(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char __argz_count();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub___argz_count) || defined (__stub_____argz_count)
+choke me
+#else
+__argz_count();
+#endif
+
+; return 0; }
+configure:2332: checking for __argz_stringify
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:2354: undefined reference to `__argz_stringify'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 2337 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char __argz_stringify(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char __argz_stringify();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub___argz_stringify) || defined (__stub_____argz_stringify)
+choke me
+#else
+__argz_stringify();
+#endif
+
+; return 0; }
+configure:2332: checking for __argz_next
+configure:2360: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:2354: undefined reference to `__argz_next'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 2337 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char __argz_next(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char __argz_next();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub___argz_next) || defined (__stub_____argz_next)
+choke me
+#else
+__argz_next();
+#endif
+
+; return 0; }
+configure:2389: checking for stpcpy
+configure:2417: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:2401: warning: conflicting types for built-in function 'stpcpy'
+No relocations in code!
+configure:2451: checking for LC_MESSAGES
+configure:2463: ucfront-gcc arm-linux-elf-gcc  -o conftest -g -O2  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:2484: checking whether NLS is requested
+configure:3442: checking for a BSD compatible install
+configure:3495: checking for unistd.h
+configure:3495: checking for string.h
+configure:3495: checking for memory.h
+configure:3505: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:3495: checking for crypt.h
+configure:3505: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:3495: checking for grp.h
+configure:3505: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:3495: checking for limits.h
+configure:3495: checking for malloc.h
+configure:3535: checking for stdlib.h
+configure:3545: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:3535: checking for termios.h
+configure:3545: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:3577: checking for sys/wait.h that is POSIX.1 compatible
+configure:3598: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  conftest.c 1>&5
+configure:3623: checking for dirent.h that defines DIR
+configure:3636: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  conftest.c 1>&5
+configure: In function 'main':
+configure:3632: warning: unused variable 'dirp'
+configure:3661: checking for opendir in -ldir
+configure:3680: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -ldir   1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -ldir
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 3669 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char opendir();
+
+int main() {
+opendir()
+; return 0; }
+configure:3745: checking filename fits on dirent.d_name
+configure:3805: checking for ANSI C header files
+configure:3914: checking for st_blksize in struct stat
+configure:3927: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  conftest.c 1>&5
+configure: In function 'main':
+configure:3923: warning: statement with no effect
+configure:3948: checking for st_blocks in struct stat
+configure:3961: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  conftest.c 1>&5
+configure: In function 'main':
+configure:3957: warning: statement with no effect
+configure:3984: checking for st_rdev in struct stat
+configure:3997: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  conftest.c 1>&5
+configure: In function 'main':
+configure:3993: warning: statement with no effect
+configure:4022: checking for strerror
+configure:4050: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4022: checking for statfs
+configure:4050: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4022: checking for getwd
+configure:4050: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:4044: undefined reference to `getwd'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4027 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char getwd(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char getwd();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_getwd) || defined (__stub___getwd)
+choke me
+#else
+getwd();
+#endif
+
+; return 0; }
+configure:4022: checking for strcasecmp
+configure:4022: checking for strncasecmp
+configure:4050: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4077: checking for strdup
+configure:4105: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:4077: checking for memmove
+configure:4105: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4077: checking for pwdauth
+configure:4105: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:4099: undefined reference to `pwdauth'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4082 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char pwdauth(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pwdauth();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_pwdauth) || defined (__stub___pwdauth)
+choke me
+#else
+pwdauth();
+#endif
+
+; return 0; }
+configure:4077: checking for truncate
+configure:4105: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4077: checking for initgroups
+configure:4105: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:4077: checking for putenv
+configure:4132: checking for memset
+configure:4160: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4132: checking for memcpy
+configure:4160: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4132: checking for tcsetattr
+configure:4160: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4132: checking for tcgetattr
+configure:4160: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4132: checking for cfgetospeed
+configure:4160: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4187: checking for sigaction
+configure:4215: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4187: checking for sigemptyset
+configure:4215: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4187: checking for sigprocmask
+configure:4215: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4187: checking for sigaddset
+configure:4215: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4242: checking for sysconf
+configure:4270: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:4298: checking for pw_encrypt in -lshadow
+configure:4317: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lshadow   1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lshadow
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4306 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pw_encrypt();
+
+int main() {
+pw_encrypt()
+; return 0; }
+configure:4443: warning: unused variable 'p'
+configure:4491: checking for sys/select.h
+configure:4501: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4531: checking for crypt
+configure:4559: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:4553: undefined reference to `crypt'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4536 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char crypt(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char crypt();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_crypt) || defined (__stub___crypt)
+choke me
+#else
+crypt();
+#endif
+
+; return 0; }
+configure:4581: checking for crypt in -lcrypt
+configure:4600: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lcrypt   1>&5
+No relocations in code!
+configure:4668: checking for grantpt
+configure:4696: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  -lcrypt 1>&5
+configure:4774: checking for tolower in -lintl
+configure:4793: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl   -lcrypt 1>&5
+No relocations in code!
+configure:4825: checking for statlstat
+configure:4853: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:4847: undefined reference to `statlstat'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4830 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char statlstat(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char statlstat();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_statlstat) || defined (__stub___statlstat)
+choke me
+#else
+statlstat();
+#endif
+
+; return 0; }
+configure:4879: checking for AIX defines
+configure:4906: checking for getmntent in -lgen
+configure:4925: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgen  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lgen
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4914 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char getmntent();
+
+int main() {
+getmntent()
+; return 0; }
+configure:4951: checking for fcntl.h
+configure:4961: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4951: checking for sys/dustat.h
+configure:4961: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4957:24: error: sys/dustat.h: No such file or directory
+configure: failed program was:
+#line 4956 "configure"
+#include "confdefs.h"
+#include <sys/dustat.h>
+configure:4951: checking for sys/param.h
+configure:4951: checking for sys/statfs.h
+configure:4961: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4951: checking for sys/fstyp.h
+configure:4961: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4957:23: error: sys/fstyp.h: No such file or directory
+configure: failed program was:
+#line 4956 "configure"
+#include "confdefs.h"
+#include <sys/fstyp.h>
+configure:4991: checking for mnttab.h
+configure:5001: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4997:20: error: mnttab.h: No such file or directory
+configure: failed program was:
+#line 4996 "configure"
+#include "confdefs.h"
+#include <mnttab.h>
+configure:4991: checking for mntent.h
+configure:5001: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4991: checking for utime.h
+configure:5001: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4991: checking for sys/statvfs.h
+configure:5001: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:4991: checking for sys/vfs.h
+configure:5001: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5031: checking for sys/mount.h
+configure:5041: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5031: checking for sys/filsys.h
+configure:5041: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5037:24: error: sys/filsys.h: No such file or directory
+configure: failed program was:
+#line 5036 "configure"
+#include "confdefs.h"
+#include <sys/filsys.h>
+configure:5031: checking for sys/fs_types.h
+configure:5041: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5037:26: error: sys/fs_types.h: No such file or directory
+configure: failed program was:
+#line 5036 "configure"
+#include "confdefs.h"
+#include <sys/fs_types.h>
+configure:5070: checking for getmntinfo
+configure:5098: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:5092: undefined reference to `getmntinfo'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5075 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char getmntinfo(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char getmntinfo();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_getmntinfo) || defined (__stub___getmntinfo)
+choke me
+#else
+getmntinfo();
+#endif
+
+; return 0; }
+configure:5125: checking for d_ino member in directory struct
+configure:5153: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+No relocations in code!
+configure:5180: checking for getmntent in -lsun
+configure:5199: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lsun  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lsun
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5188 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char getmntent();
+
+int main() {
+getmntent()
+; return 0; }
+configure:5218: checking for getmntent in -lseq
+configure:5237: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lseq  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lseq
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5226 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char getmntent();
+
+int main() {
+getmntent()
+; return 0; }
+configure:5256: checking for getmntent in -lgen
+configure:5300: checking for getmntent
+configure:5328: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+configure:5359: checking for two-argument getmntent function
+configure:5365:24: error: sys/mnttab.h: No such file or directory
+configure:5393: checking for one-argument getmntent function
+configure:5667: checking how to get filesystem space usage
+configure:5677: checking for statvfs
+configure:5705: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+configure:5996: checking for mode_t
+configure:6029: checking for umode_t
+configure:6062: checking for off_t
+configure:6095: checking for pid_t
+configure:6128: checking for uid_t in sys/types.h
+configure:6162: checking for nlink_t
+configure:6199: checking for unistd.h
+configure:6238: checking for getpagesize
+configure:6291: checking for working mmap
+configure:6464: checking for working alloca.h
+configure:6497: checking for alloca
+configure:6697: checking for X
+configure:6764: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:6760:27: error: X11/Intrinsic.h: No such file or directory
+configure: failed program was:
+#line 6759 "configure"
+#include "confdefs.h"
+#include <X11/Intrinsic.h>
+configure:6840: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lXt -lintl  -lcrypt 1>&5
+configure: In function 'main':
+configure:6836: warning: implicit declaration of function 'XtMalloc'
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lXt
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 6833 "configure"
+#include "confdefs.h"
+
+int main() {
+XtMalloc()
+; return 0; }
+configure:8013: checking for t_accept in -lnsl
+configure:8032: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lnsl  -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:8028: undefined reference to `t_accept'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8021 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char t_accept();
+
+int main() {
+t_accept()
+; return 0; }
+configure:8060: checking for socket in -lsocket
+configure:8079: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lsocket  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lsocket
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8068 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char socket();
+
+int main() {
+socket()
+; return 0; }
+configure:8111: checking for socket
+configure:8139: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+No relocations in code!
+configure:8218: checking for gethostbyname
+configure:8246: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+configure:8314: checking for socketpair
+configure:8342: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+No relocations in code!
+configure:8368: checking for get_process_stats in -lseq
+configure:8387: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lseq  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lseq
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8376 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char get_process_stats();
+
+int main() {
+get_process_stats()
+; return 0; }
+configure:8420: checking struct linger is available
+configure:8468: checking for pmap_set
+configure:8496: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:8490: undefined reference to `pmap_set'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8473 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char pmap_set(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pmap_set();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_pmap_set) || defined (__stub___pmap_set)
+choke me
+#else
+pmap_set();
+#endif
+
+; return 0; }
+configure:8518: checking for pmap_set in -lrpc
+configure:8537: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lrpc  -lintl  -lcrypt 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lrpc
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8526 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pmap_set();
+
+int main() {
+pmap_set()
+; return 0; }
+configure:8569: checking for pmap_getport
+configure:8597: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:8591: undefined reference to `pmap_getport'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8574 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char pmap_getport(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pmap_getport();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_pmap_getport) || defined (__stub___pmap_getport)
+choke me
+#else
+pmap_getport();
+#endif
+
+; return 0; }
+configure:8569: checking for pmap_getmaps
+configure:8597: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:8591: undefined reference to `pmap_getmaps'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8574 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char pmap_getmaps(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pmap_getmaps();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_pmap_getmaps) || defined (__stub___pmap_getmaps)
+choke me
+#else
+pmap_getmaps();
+#endif
+
+; return 0; }
+configure:8569: checking for rresvport
+configure:8597: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt 1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/mc/src/configure:8591: undefined reference to `rresvport'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 8574 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char rresvport(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char rresvport();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_rresvport) || defined (__stub___rresvport)
+choke me
+#else
+rresvport();
+#endif
+
+; return 0; }
+configure:8625: checking for rpc/pmap_clnt.h
+configure:8635: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:8800: checking for Gpm_Repeat in -lgpm
+configure:8819: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lintl  -lcrypt -lintl  -lcrypt 1>&5
+configure:9361: checking for nroff
+configure:9389: checking for manual formatting macros
+configure:9413: checking If nroff accepts -Tascii
+configure:9437: checking for file
+configure:9465: checking for - option to file command
+configure:9508: checking for -L option to file command
+configure:9534: checking for - option to grep command
+configure:9559: checking for du arguments
+configure:9622: checking for subshell support
+configure:9735: checking for libintl.h
+configure:9745: ucfront-gcc arm-linux-elf-gcc  -E  -I/home/andrewec/dslinux/lib/libncurses/include conftest.c >/dev/null 2>conftest.out
+configure:9797: checking for SLang_init_tty in -lslang
+configure:9816: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -I/home/andrewec/dslinux/lib/libncurses/include -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lslang  -lintl  -lcrypt -lgpm -L/home/andrewec/dslinux/lib/libncurses/lib -lncurses 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lslang
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 9805 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char SLang_init_tty();
+
+int main() {
+SLang_init_tty()
+; return 0; }
+configure:10349: checking for ext2fs_close in -lext2fs
+configure:10368: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -I/home/andrewec/dslinux/lib/libncurses/include -I$(rootdir) -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lext2fs -lcom_err -lintl  -lcrypt -lgpm -L/home/andrewec/dslinux/lib/libncurses/lib -lncurses 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lext2fs
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 10357 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char ext2fs_close();
+
+int main() {
+ext2fs_close()
+; return 0; }
+configure:10690: checking for resizeterm
+configure:10718: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -I/home/andrewec/dslinux/lib/libncurses/include -I$(rootdir) -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt -lgpm -L/home/andrewec/dslinux/lib/libncurses/lib -lncurses 1>&5
+configure:10690: checking for keyok
+configure:10718: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -I/home/andrewec/dslinux/lib/libncurses/include -I$(rootdir) -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lintl  -lcrypt -lgpm -L/home/andrewec/dslinux/lib/libncurses/lib -lncurses 1>&5
+configure:10860: checking for pam_start in -lpam
+configure:10879: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -DRENAMED_NCURSES  -I/home/andrewec/dslinux/lib/libncurses/include -I$(rootdir) -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpam -ldl -lintl  -lcrypt -lgpm -L/home/andrewec/dslinux/lib/libncurses/lib -lncurses 1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lpam
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 10868 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char pam_start();
+
+int main() {
+pam_start()
+; return 0; }

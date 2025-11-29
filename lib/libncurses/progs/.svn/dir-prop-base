@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 47
+clear
+infocmp
+termsort.c
+tput
+transform.h
+tset
+
+END

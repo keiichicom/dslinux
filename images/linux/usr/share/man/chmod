@@ -1,0 +1,163 @@
+CHMOD(1)                         User Commands
+CHMOD(1)
+
+
+
+NNAAMMEE
+       chmod - change file mode bits
+
+SSYYNNOOPPSSIISS
+       cchhmmoodd [_O_P_T_I_O_N]...
+       _M_O_D_E[_,_M_O_D_E]... _F_I_L_E...
+       cchhmmoodd
+       [_O_P_T_I_O_N]... _O_C_T_A_L_-_M_O_D_E
+       _F_I_L_E...  cchhmmoodd [_O_P_T_I_O_N]...
+       _-_-_r_e_f_e_r_e_n_c_e_=_R_F_I_L_E
+       _F_I_L_E...
+
+DDEESSCCRRIIPPTTIIOONN
+       This manual page documents the GNU version of
+       cchhmmoodd.  cchhmmoodd changes the file mode
+       bits of each given file  according  to  _m_o_d_e,
+       which  can  be either a symbolic representation of
+       changes to make, or an octal number representing the
+       bit pattern for the new mode bits.
+
+       The format of a symbolic mode is
+       [uuggooaa...][[++--==][_p_e_r_m_s...]...],
+       where _p_e_r_m_s  is  either zero or more letters
+       from the set rrwwxxXXsstt, or a single letter
+       from the set uuggoo.  Multiple symbolic modes can
+       be  given,  sepa‐ rated by commas.
+
+       A  combination  of the letters uuggooaa controls
+       which users' access to the file will be changed:
+       the user who owns it  (uu),  other  users  in  the
+       file's group (gg), other users not in the file's group
+       (oo), or all users (aa).  If none of these are given,
+       the effect is as if aa were given, but bits that are
+       set in the umask are not affected.
+
+       The  operator  ++  causes the selected file mode
+       bits to be added to the existing file mode bits of
+       each file; -- causes them to be removed;  and ==
+       causes  them  to  be added and causes unmentioned bits
+       to be removed except that a directory's unmentioned
+       set user and group  ID  bits  are not affected.
+
+       The  letters  rrwwxxXXsstt select file mode bits
+       for the affected users: read (rr), write (ww), execute
+       (or search for directories) (xx), execute/search only
+       if  the file is a directory or already has execute
+       permission for some user (XX), set user or group ID
+       on execution (ss), restricted  dele‐ tion  flag or
+       sticky bit (tt).  Instead of one or more of these
+       letters, you can specify exactly one of the letters
+       uuggoo: the permissions granted to  the  user  who
+       owns the file (uu), the permissions granted to other
+       users who are members of the file's  group  (gg),
+       and  the  permissions granted  to  users  that are in
+       neither of the two preceding categories (oo).
+
+       A numeric mode is from one to  four  octal  digits
+       (0-7),  derived  by adding up the bits with values 4,
+       2, and 1.  Omitted digits are assumed to be leading
+       zeros, except that if  the  first  digit  is  omitted,
+       a directory's  set  user  and  group ID bits are not
+       affected.  The first digit selects the set user ID
+       (4) and set group ID (2)  and  restricted deletion
+       or  sticky  (1) attributes.  The second digit selects
+       permis‐ sions for the user who owns the file: read
+       (4), write (2), and  execute (1); the third selects
+       permissions for other users in the file's group, with
+       the same values; and the fourth for other users not
+       in the  file's group, with the same values.
+
+       cchhmmoodd never changes the permissions of
+       symbolic links; the cchhmmoodd system call cannot
+       change their permissions.  This is not a problem since
+       the permissions  of  symbolic links are never used.
+       However, for each sym‐ bolic link listed on the
+       command line, cchhmmoodd changes the permissions
+       of the pointed-to file.  In contrast, cchhmmoodd
+       ignores symbolic links encoun‐ tered during recursive
+       directory traversals.
+
+RREESSTTRRIICCTTEEDD DDEELLEETTIIOONN
+FFLLAAGG OORR SSTTIICCKKYY BBIITT
+       The restricted deletion flag or sticky  bit  is  a
+       single  bit,  whose interpretation  depends on the file
+       type.  For directories, it prevents unprivileged users
+       from removing or renaming a file  in  the  directory
+       unless  they  own  the  file  or  the  directory;
+       this  is  called the _r_e_s_t_r_i_c_t_e_d
+       _d_e_l_e_t_i_o_n _f_l_a_g for the directory,
+       and is  commonly  found  on world-writable  directories
+       like //ttmmpp.  For regular files on some older
+       systems, the bit saves the program's text image on the
+       swap  device  so it will load more quickly when run;
+       this is called the _s_t_i_c_k_y _b_i_t.
+
+OOPPTTIIOONNSS
+       Change the mode of each FILE to MODE.
+
+       --cc, ----cchhaannggeess
+              like verbose but report only when a change
+              is made
+
+       ----nnoo--pprreesseerrvvee--rroooott
+              do not treat `/' specially (the default)
+
+       ----pprreesseerrvvee--rroooott
+              fail to operate recursively on `/'
+
+       --ff, ----ssiilleenntt, ----qquuiieett
+              suppress most error messages
+
+       --vv, ----vveerrbboossee
+              output a diagnostic for every file processed
+
+       ----rreeffeerreennccee=_R_F_I_L_E
+              use RFILE's mode instead of MODE values
+
+       --RR, ----rreeccuurrssiivvee
+              change files and directories recursively
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       Each MODE is of the form
+       `[ugoa]*([-+=]([rwxXst]*|[ugo]))+'.
+
+AAUUTTHHOORR
+       Written by David MacKenzie and Jim Meyering.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       chmod(2)
+
+       The full documentation for cchhmmoodd is
+       maintained as a Texinfo manual.  If the  iinnffoo
+       and  cchhmmoodd programs are properly installed
+       at your site, the command
+
+              iinnffoo cchhmmoodd
+
+       should give you access to the complete manual.
+
+
+
+chmod 6.7                        December 2006
+CHMOD(1)

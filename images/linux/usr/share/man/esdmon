@@ -1,0 +1,37 @@
+ESDMON(1)                  Enlightened Sound Daemon
+ESDMON(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       esdmon - The Enlightened Sound Daemon
+
+DDDDEEEESSSSCCCCRRRRIIIIPPPPTTTTIIIIOOOONNNN
+       EsounD monitor.  Opens the esd socket and duplicates
+       the stream being sent to the sound device.
+
+UUUUSSSSAAAAGGGGEEEE
+       esdmon [OPTIONS] [FILE]
+
+       Options:
+
+       "-s", --server=HOSTNAME set EsounD server "-b", output
+       file should be 8-bit "-m", output file should be mono
+       "-r" RATE, set output rate to RATE
+
+       FILE is the file to write the output stream to.
+       Default is stdout.
+
+SSSSEEEEEEEE AAAALLLLSSSSOOOO
+       _e_s_d(1), _e_s_d_c_a_t(1),
+       _e_s_d_d_s_p(1), _e_s_d_l_o_o_p(1),
+       _e_s_d_p_l_a_y(1),
+       _e_s_d_s_a_m_p_l_e(1),
+       _e_s_d_-_c_o_n_f_i_g(1),
+       _e_s_d_c_t_l(1), _e_s_d_f_i_l_t(1),
+       _e_s_d_r_e_c(1)
+
+
+
+3rd Berkeley Distribution        EsounD 0.2.38
+ESDMON(1)

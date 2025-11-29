@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse
+END
+parse_spoolss.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_spoolss.c
+END
+parse_samr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_samr.c
+END
+parse_wks.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_wks.c
+END
+parse_prs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_prs.c
+END
+parse_ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_ds.c
+END
+parse_srv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_srv.c
+END
+parse_sec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_sec.c
+END
+parse_shutdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_shutdown.c
+END
+parse_dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_dfs.c
+END
+parse_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_reg.c
+END
+parse_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_echo.c
+END
+parse_lsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_lsa.c
+END
+parse_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_rpc.c
+END
+parse_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_net.c
+END
+parse_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_parse/parse_misc.c
+END

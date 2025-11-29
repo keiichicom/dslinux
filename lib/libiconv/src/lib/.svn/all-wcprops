@@ -1,0 +1,1295 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib
+END
+cns11643.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643.h
+END
+iso646_jp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso646_jp.h
+END
+big5hkscs2001.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/big5hkscs2001.h
+END
+aliases_dos.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases_dos.h
+END
+gb12345.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb12345.h
+END
+canonical_aix.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical_aix.h
+END
+iso8859_10.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_10.h
+END
+encodings_local.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings_local.def
+END
+Makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/Makefile.vms
+END
+iso2022_kr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_kr.h
+END
+iso8859_14.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_14.h
+END
+mac_hebrew.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_hebrew.h
+END
+ces_gbk.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ces_gbk.h
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/Makefile.msvc
+END
+koi8_u.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/koi8_u.h
+END
+cp850.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp850.h
+END
+cp437.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp437.h
+END
+utf32.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf32.h
+END
+euc_jp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/euc_jp.h
+END
+gbkext2.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gbkext2.h
+END
+cp858.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp858.h
+END
+encodings_osf1.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings_osf1.def
+END
+iso8859_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_2.h
+END
+cp1250.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1250.h
+END
+nextstep.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/nextstep.h
+END
+tcvn.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/tcvn.h
+END
+iso8859_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_6.h
+END
+cp1254.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1254.h
+END
+mac_croatian.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_croatian.h
+END
+cp932ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp932ext.h
+END
+aliases.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases.h
+END
+isoir165.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/isoir165.h
+END
+cp1258.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1258.h
+END
+ucs2be.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs2be.h
+END
+encodings_dos.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings_dos.def
+END
+ucs4be.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs4be.h
+END
+utf16le.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf16le.h
+END
+tis620.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/tis620.h
+END
+mac_centraleurope.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_centraleurope.h
+END
+iso2022_jp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_jp.h
+END
+converters.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/converters.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/Makefile.in
+END
+gbkext_inv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gbkext_inv.h
+END
+gb2312.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb2312.h
+END
+cp863.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp863.h
+END
+cns11643_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_2.h
+END
+dec_kanji.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/dec_kanji.h
+END
+cns11643_4b.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_4b.h
+END
+cns11643_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_6.h
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/relocatable.c
+END
+aliases_osf1.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases_osf1.h
+END
+mac_turkish.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_turkish.h
+END
+cp1161.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1161.h
+END
+ucs4internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs4internal.h
+END
+iso2022_jp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_jp3.h
+END
+cp1046.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1046.h
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/relocatable.h
+END
+georgian_academy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/georgian_academy.h
+END
+euc_jisx0213.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/euc_jisx0213.h
+END
+loop_unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/loop_unicode.h
+END
+mac_iceland.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_iceland.h
+END
+hz.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/hz.h
+END
+johab.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/johab.h
+END
+aliases_extra.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases_extra.h
+END
+utf7.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf7.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ascii.h
+END
+iso8859_11.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_11.h
+END
+canonical_extra.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical_extra.h
+END
+koi8_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/koi8_r.h
+END
+loops.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/loops.h
+END
+georgian_ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/georgian_ps.h
+END
+aliases.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases.gperf
+END
+iso8859_15.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_15.h
+END
+loop_wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/loop_wchar.h
+END
+cns11643_inv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_inv.h
+END
+cp932.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp932.h
+END
+isoir165ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/isoir165ext.h
+END
+cp936.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp936.h
+END
+cp855.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp855.h
+END
+utf16.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf16.h
+END
+atarist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/atarist.h
+END
+sjis.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/sjis.h
+END
+vietcomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/vietcomb.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/config.h.in
+END
+iso8859_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_3.h
+END
+cp1251.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1251.h
+END
+ucs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs2.h
+END
+utf16be.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf16be.h
+END
+big5hkscs1999.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/big5hkscs1999.h
+END
+iso8859_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_7.h
+END
+cp1255.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1255.h
+END
+koi8_ru.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/koi8_ru.h
+END
+hkscs2004.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/hkscs2004.h
+END
+genflags.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/genflags.c
+END
+cp950ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp950ext.h
+END
+jisx0212.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/jisx0212.h
+END
+utf32le.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf32le.h
+END
+gentranslit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gentranslit.c
+END
+hp_roman8.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/hp_roman8.h
+END
+flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/flags.h
+END
+mac_roman.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_roman.h
+END
+uhc_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/uhc_1.h
+END
+gb18030uni.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb18030uni.h
+END
+cp860.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp860.h
+END
+mac_arabic.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_arabic.h
+END
+cp864.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp864.h
+END
+cns11643_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_3.h
+END
+gb12345ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb12345ext.h
+END
+cp949.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp949.h
+END
+cns11643_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_7.h
+END
+iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iconv.c
+END
+cp1124.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1124.h
+END
+cp1162.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1162.h
+END
+cjk_variants.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cjk_variants.h
+END
+mac_ukraine.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_ukraine.h
+END
+canonical_osf1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical_osf1.h
+END
+java.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/java.h
+END
+aliases_aix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases_aix.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf8.h
+END
+jisx0208.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/jisx0208.h
+END
+config.h_vms
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/config.h_vms
+END
+mac_cyrillic.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_cyrillic.h
+END
+canonical_dos.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical_dos.h
+END
+ksc5601.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ksc5601.h
+END
+iso8859_16.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_16.h
+END
+cp950.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp950.h
+END
+ucs2swapped.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs2swapped.h
+END
+cp852.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp852.h
+END
+cp737.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp737.h
+END
+cp856.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp856.h
+END
+cp775.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp775.h
+END
+genaliases.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/genaliases.c
+END
+translit.def
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/translit.def
+END
+cp1133.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1133.h
+END
+utf32be.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/utf32be.h
+END
+iso8859_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_4.h
+END
+cp1252.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1252.h
+END
+hkscs2001.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/hkscs2001.h
+END
+armscii_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/armscii_8.h
+END
+iso8859_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_8.h
+END
+cp1256.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1256.h
+END
+encodings_aix.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings_aix.def
+END
+johab_hangul.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/johab_hangul.h
+END
+jisx0213.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/jisx0213.h
+END
+gb18030.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb18030.h
+END
+cp936ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp936ext.h
+END
+euc_tw.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/euc_tw.h
+END
+big5.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/big5.h
+END
+cns11643_15.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_15.h
+END
+canonical.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical.h
+END
+genaliases2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/genaliases2.c
+END
+tds565.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/tds565.h
+END
+dec_hanyu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/dec_hanyu.h
+END
+translit.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/translit.h
+END
+uhc_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/uhc_2.h
+END
+cp861.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp861.h
+END
+canonical_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/canonical_local.h
+END
+c99.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/c99.h
+END
+cp865.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp865.h
+END
+cns11643_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_4.h
+END
+cp869.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp869.h
+END
+ucs2internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs2internal.h
+END
+iso2022_jp1.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_jp1.h
+END
+flushwc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/flushwc.h
+END
+cp1125.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1125.h
+END
+config.h.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/config.h.msvc
+END
+cp1163.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1163.h
+END
+mac_greek.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_greek.h
+END
+cp1129.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1129.h
+END
+jisx0201.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/jisx0201.h
+END
+big5hkscs2004.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/big5hkscs2004.h
+END
+Makefile.os2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/Makefile.os2
+END
+big5_2003.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/big5_2003.h
+END
+iso8859_13.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_13.h
+END
+koi8_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/koi8_t.h
+END
+mulelao.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mulelao.h
+END
+iso2022_cnext.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_cnext.h
+END
+cp853.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp853.h
+END
+ucs4swapped.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs4swapped.h
+END
+gbkext1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gbkext1.h
+END
+cp874.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp874.h
+END
+cp857.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp857.h
+END
+mac_romania.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_romania.h
+END
+iso8859_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_1.h
+END
+iso646_cn.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso646_cn.h
+END
+iso8859_5.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_5.h
+END
+cp1253.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1253.h
+END
+pt154.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/pt154.h
+END
+ucs4.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs4.h
+END
+iso8859_9.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso8859_9.h
+END
+shift_jisx0213.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/shift_jisx0213.h
+END
+cp1257.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp1257.h
+END
+encodings_extra.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings_extra.def
+END
+riscos1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/riscos1.h
+END
+viscii.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/viscii.h
+END
+euc_cn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/euc_cn.h
+END
+ucs2le.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs2le.h
+END
+cp922.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp922.h
+END
+ucs4le.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ucs4le.h
+END
+cp943.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp943.h
+END
+cp862.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp862.h
+END
+cns11643_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_1.h
+END
+gbk.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gbk.h
+END
+aliases2.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/aliases2.h
+END
+gb18030ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/gb18030ext.h
+END
+mac_thai.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/mac_thai.h
+END
+cp866.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cp866.h
+END
+cns11643_4a.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_4a.h
+END
+cns11643_5.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/cns11643_5.h
+END
+hkscs1999.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/hkscs1999.h
+END
+euc_kr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/euc_kr.h
+END
+iso2022_jp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_jp2.h
+END
+iso2022_cn.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/iso2022_cn.h
+END
+encodings.def
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/encodings.def
+END
+ces_big5.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/lib/ces_big5.h
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples
+END
+davsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/davsample.c
+END
+ptri.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/ptri.c
+END
+multichunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/multichunk.c
+END
+tiny.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/tiny.c
+END
+showtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/showtext.c
+END
+upgrade.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/upgrade.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/Makefile.am
+END
+rdf_parse_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/rdf_parse_buffer.c
+END
+listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/listen.c
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/trace.c
+END
+showtags.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/showtags.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/Makefile.in
+END
+rdf_parse_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/rdf_parse_file.c
+END
+isredirected.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/isredirected.c
+END
+wwwssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/wwwssl.c
+END
+put.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/put.c
+END
+postform.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/postform.c
+END
+cookie.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/cookie.c
+END
+eventloop.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/eventloop.c
+END
+getheaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/getheaders.c
+END
+showlinks.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/showlinks.c
+END
+stri.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/stri.c
+END
+LoadToFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/LoadToFile.c
+END
+post.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/post.c
+END
+chunkbody.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/chunkbody.c
+END
+libapp_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/libapp_1.c
+END
+myext2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/myext2.c
+END
+libapp_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/libapp_2.c
+END
+libapp_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/libapp_3.c
+END
+libapp_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/libapp_4.c
+END
+tzcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/tzcheck.c
+END
+range.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/range.c
+END
+mget.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/mget.c
+END
+head.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/head.c
+END
+showxml.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/showxml.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/init.c
+END
+myext.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/myext.c
+END
+memput.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/memput.c
+END
+chunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/Examples/chunk.c
+END

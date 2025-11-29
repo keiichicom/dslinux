@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots
+END
+pathnames.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/pathnames.h.in
+END
+move_robs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/move_robs.c
+END
+play_level.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/play_level.c
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/Makefrag
+END
+robots.6.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/robots.6.in
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/Makefile.bsd
+END
+rnd_pos.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/rnd_pos.c
+END
+make_level.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/make_level.c
+END
+query.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/query.c
+END
+extern.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/extern.c
+END
+move.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/move.c
+END
+init_field.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/init_field.c
+END
+flush_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/flush_in.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/.svnignore
+END
+auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/auto.c
+END
+score.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/score.c
+END
+robots.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/robots.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/main.c
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/robots/pathnames.h
+END

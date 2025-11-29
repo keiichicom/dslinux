@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text
+END
+irssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/irssi.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/module.h
+END
+textbuffer-view.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer-view.h
+END
+module-formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/module-formats.c
+END
+mainwindows.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/mainwindows.c
+END
+term-dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/term-dummy.c
+END
+module-formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/module-formats.h
+END
+mainwindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/mainwindows.h
+END
+mainwindow-activity.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/mainwindow-activity.c
+END
+term.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/term.c
+END
+statusbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/statusbar.c
+END
+term.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/term.h
+END
+statusbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/statusbar.h
+END
+textbuffer-commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer-commands.c
+END
+gui-entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-entry.c
+END
+gui-printtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-printtext.c
+END
+tparm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/tparm.c
+END
+statusbar-items.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/statusbar-items.c
+END
+term-terminfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/term-terminfo.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/Makefile.am
+END
+gui-entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-entry.h
+END
+gui-printtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-printtext.h
+END
+textbuffer-reformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer-reformat.c
+END
+textbuffer-reformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer-reformat.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/Makefile.in
+END
+gui-expandos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-expandos.c
+END
+gui-readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-readline.c
+END
+lastlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/lastlog.c
+END
+terminfo-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/terminfo-core.c
+END
+term-curses.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/term-curses.c
+END
+gui-readline.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-readline.h
+END
+mainwindows-layout.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/mainwindows-layout.c
+END
+statusbar-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/statusbar-config.c
+END
+gui-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-windows.c
+END
+terminfo-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/terminfo-core.h
+END
+textbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer.c
+END
+statusbar-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/statusbar-config.h
+END
+gui-windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/gui-windows.h
+END
+textbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer.h
+END
+textbuffer-view.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-text/textbuffer-view.c
+END

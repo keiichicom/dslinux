@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/codeset.m4
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/localcharset.c
+END
+libcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/libcharset.h
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/ref-del.sin
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/Makefile.am
+END
+libcharset-glib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/libcharset-glib.patch
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/ref-add.sin
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/update.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/README
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/config.charset
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/Makefile.in
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/glibc21.m4
+END
+make-patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/libcharset/make-patch.sh
+END

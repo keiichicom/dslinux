@@ -1,0 +1,35 @@
+ESDPLAY(1)                 Enlightened Sound Daemon
+ESDPLAY(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       esddsp - attempt to reroute audio device to esd
+
+DDDDEEEESSSSCCCCRRRRIIIIPPPPTTTTIIIIOOOONNNN
+       Plays the FILE on EsounD.
+
+UUUUSSSSAAAAGGGGEEEE
+       esdplay [OPTIONS] FILE
+
+       Options:
+
+       "-s", --server=HOSTNAME set EsounD server
+
+       "-h", --help            display this help and exit
+
+       "-v", --version         output version information
+       and exit
+
+SSSSEEEEEEEE AAAALLLLSSSSOOOO
+       _e_s_d(1), _e_s_d_c_a_t(1),
+       _e_s_d_d_s_p(1), _e_s_d_l_o_o_p(1),
+       _e_s_d_s_a_m_p_l_e(1),
+       _e_s_d_-_c_o_n_f_i_g(1),
+       _e_s_d_c_t_l(1), _e_s_d_f_i_l_t(1),
+       _e_s_d_m_o_n(1), _e_s_d_r_e_c(1)
+
+
+
+3rd Berkeley Distribution        EsounD 0.2.38
+ESDPLAY(1)

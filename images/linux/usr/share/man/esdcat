@@ -1,0 +1,81 @@
+ESDCAT(1)                  Enlightened Sound Daemon
+ESDCAT(1)
+
+
+
+NNAAMMEE
+       esdcat - play a sound file from ssttddiinn
+
+SSYYNNOOPPSSIISS
+       eessddccaatt [-ss
+       _h_o_s_t_n_a_m_e:_p_o_r_t] [-n name] [-bb]
+       [-hh] [-mm] [-rr _f_r_e_q] < file
+
+DDEESSCCRRIIPPTTIIOONN
+       The eessddccaatt application pipes data from
+       ssttddiinn to the sound device, using the
+       Enlightened Sound Daemon (eessdd).
+
+OOPPTTIIOONNSS
+       The following options are supported:
+
+       --ss _h_o_s_t_n_a_m_e:_p_o_r_tContact
+       the eessdd server on _h_o_s_t_n_a_m_e
+       at _p_o_r_t.
+
+
+
+       --bb              Specify that the output should be
+       in 8-bit  format.  By
+                       default, the output is in 16-bit format.
+
+
+
+       --hh              Display help text, and exit.
+
+
+
+       --mm              Specify  that  the  output should
+       be in mono format. By
+                       default, the output is in stereo format.
+
+
+
+       --rr _f_r_e_q         Specify that the output
+       rate should be set to _f_r_e_q.  By
+                       default, the output rate is set to
+                       44.1 kHz.
+
+
+
+EEXXAAMMPPLLEESS
+       EExxaammppllee 11:: PPllaayyiinngg
+       aa ssoouunndd ffiillee ""bbeeeepp""
+       ffrroomm ssttddiinn
+
+       example% eessddccaatt << bbeeeepp
+
+EEXXIITT SSTTAATTUUSS
+       The following exit values are returned:
+
+       00        Application exited successfully
+
+
+
+       >>00       Application exited with failure
+
+
+
+SSEEEE AALLSSOO
+       _e_s_d(1),  _e_s_d_d_s_p(1),
+       _e_s_d_f_i_l_t(1),  _e_s_d_l_o_o_p(1),
+       _e_s_d_p_l_a_y(1),
+       _e_s_d_s_a_m_p_l_e(1),
+       _e_s_d_-_c_o_n_f_i_g(1),
+       _e_s_d_c_t_l(1), _e_s_d_m_o_n(1),
+       _e_s_d_r_e_c(1)
+
+
+
+Feb 2006                         EsounD 0.2.38
+ESDCAT(1)

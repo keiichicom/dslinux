@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86
+END
+powermgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/powermgmt.c
+END
+x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/x86.c
+END
+calibrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/calibrate.c
+END
+backlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/backlight.c
+END
+sysinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/sysinfo.c
+END
+sound_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/x86/sound_dsp.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/Makefile.in
+END
+diff.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/diff.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/Makefile.am
+END
+diff3.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/diff3.1
+END
+sdiff.1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/sdiff.1
+END
+cmp.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/man/cmp.1
+END

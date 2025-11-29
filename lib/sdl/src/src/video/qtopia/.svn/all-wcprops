@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia
+END
+SDL_sysevents.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_sysevents.cc
+END
+SDL_sysvideo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_sysvideo.cc
+END
+SDL_QPEApp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_QPEApp.cc
+END
+SDL_syswm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_syswm_c.h
+END
+SDL_sysevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_sysevents_c.h
+END
+SDL_sysmouse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_sysmouse.cc
+END
+SDL_QPEApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_QPEApp.h
+END
+SDL_lowvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_lowvideo.h
+END
+SDL_sysmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_sysmouse_c.h
+END
+SDL_QWin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_QWin.cc
+END
+SDL_QWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_QWin.h
+END
+SDL_syswm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/qtopia/SDL_syswm.cc
+END

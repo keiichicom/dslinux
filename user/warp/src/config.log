@@ -1,0 +1,22 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:563: checking for a BSD compatible install
+configure:616: checking whether build environment is sane
+configure:673: checking whether make sets ${MAKE}
+configure:719: checking for working aclocal
+configure:732: checking for working autoconf
+configure:745: checking for working automake
+configure:758: checking for working autoheader
+configure:771: checking for working makeinfo
+configure:789: checking for gcc
+configure:902: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) works
+configure:918: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lSDL -lpthread -lm 1>&5
+configure:915: warning: return type defaults to 'int'
+No relocations in code!
+configure:944: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) is a cross-compiler
+configure:949: checking whether we are using GNU C
+configure:958: ucfront-gcc arm-linux-elf-gcc  -E conftest.c
+configure:977: checking whether ucfront-gcc arm-linux-elf-gcc  accepts -g
+configure:1051: checking for sdl-config
+configure:1086: checking for SDL - version >= 1.0.1

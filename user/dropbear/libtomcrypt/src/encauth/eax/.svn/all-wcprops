@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax
+END
+eax_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_decrypt.c
+END
+eax_encrypt_authenticate_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_encrypt_authenticate_memory.c
+END
+eax_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_test.c
+END
+eax_addheader.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_addheader.c
+END
+eax_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_init.c
+END
+eax_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_encrypt.c
+END
+eax_done.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_done.c
+END
+eax_decrypt_verify_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/eax/eax_decrypt_verify_memory.c
+END

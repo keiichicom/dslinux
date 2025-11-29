@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse
+END
+hashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/hashtable.h
+END
+xmlparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/xmlparse.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/Makefile.am
+END
+hashtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/hashtable.c
+END
+xmlparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/xmlparse.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmlparse/Makefile
+END

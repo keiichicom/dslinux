@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs
+END
+rc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/rc4.c
+END
+rng_make_prng.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/rng_make_prng.c
+END
+sprng.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/sprng.c
+END
+rng_get_bytes.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/rng_get_bytes.c
+END
+sober128tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/sober128tab.c
+END
+fortuna.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/fortuna.c
+END
+yarrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/yarrow.c
+END
+sober128.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/prngs/sober128.c
+END

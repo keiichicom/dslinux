@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32
+END
+remove_inadyn_service.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32/remove_inadyn_service.bat
+END
+configure_inadyn_service_freedns.reg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32/configure_inadyn_service_freedns.reg
+END
+install_inadyn_service.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32/install_inadyn_service.bat
+END
+configure_inadyn_service_dyndns.reg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32/configure_inadyn_service_dyndns.reg
+END
+inadyn.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/inadyn/bin/win32/inadyn.exe
+END

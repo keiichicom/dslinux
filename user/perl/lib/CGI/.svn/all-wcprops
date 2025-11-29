@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI
+END
+Carp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Carp.pm
+END
+Pretty.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Pretty.pm
+END
+Cookie.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Cookie.pm
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Changes
+END
+Fast.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Fast.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Util.pm
+END
+Push.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Push.pm
+END
+Apache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Apache.pm
+END
+Switch.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI/Switch.pm
+END

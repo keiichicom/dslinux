@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu
+END
+m_req_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_req_name.c
+END
+m_item_nam.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_nam.c
+END
+m_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_driver.c
+END
+m_item_val.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_val.c
+END
+m_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_global.c
+END
+m_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_hook.c
+END
+llib-lmenu
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/llib-lmenu
+END
+m_pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_pad.c
+END
+m_item_cur.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_cur.c
+END
+m_item_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_new.c
+END
+m_item_use.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_use.c
+END
+eti.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/eti.h
+END
+modules
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/modules
+END
+menu.priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/menu.priv.h
+END
+m_pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_pattern.c
+END
+m_cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_cursor.c
+END
+READ.ME
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/READ.ME
+END
+m_item_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_vis.c
+END
+m_item_top.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_top.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/Makefile
+END
+m_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_post.c
+END
+m_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_opts.c
+END
+m_scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_scale.c
+END
+m_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_format.c
+END
+m_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_sub.c
+END
+m_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_new.c
+END
+llib-lmenuw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/llib-lmenuw
+END
+m_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_win.c
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/menu.h
+END
+m_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_trace.c
+END
+mf_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/mf_common.h
+END
+m_userptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_userptr.c
+END
+m_attribs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_attribs.c
+END
+headers
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/headers
+END
+m_item_opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_item_opt.c
+END
+m_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_items.c
+END
+m_spacing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/m_spacing.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/menu/Makefile.in
+END

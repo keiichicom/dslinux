@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/morse
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/morse/.svnignore
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/morse/Makefrag
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/morse/Makefile.bsd
+END
+morse.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/morse/morse.c
+END

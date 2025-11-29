@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers
+END
+alsa05.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/alsa05.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/debug.c
+END
+beos.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/beos.c
+END
+alsa_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/alsa_seq.c
+END
+openbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/openbsd.c
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/callback.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/Makefile
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/wav.c
+END
+win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/win32.c
+END
+qnx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/qnx.c
+END
+bsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/bsd.c
+END
+arts.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/arts.c
+END
+osx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/osx.c
+END
+pulseaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/pulseaudio.c
+END
+esd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/esd.c
+END
+oss_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/oss_seq.c
+END
+solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/solaris.c
+END
+os2_dart.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/os2_dart.c
+END
+amiga.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/amiga.c
+END
+netbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/netbsd.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/file.c
+END
+alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/alsa.c
+END
+nas.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/nas.c
+END
+aix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/aix.c
+END
+oss_mix.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/oss_mix.c
+END
+sgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/sgi.c
+END
+hpux.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/drivers/hpux.c
+END

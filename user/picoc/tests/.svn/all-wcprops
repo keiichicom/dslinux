@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2447/trunk/user/picoc/tests
+END
+04_for.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2447/trunk/user/picoc/tests/04_for.c
+END
+25_quicksort.expect
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2447/trunk/user/picoc/tests/25_quicksort.expect
+END
+12_hashdefine.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/12_hashdefine.c
+END
+01_comment.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/01_comment.c
+END
+35_sizeof.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2447/trunk/user/picoc/tests/35_sizeof.c
+END
+27_sizeof.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2447/trunk/user/picoc/tests/27_sizeof.c
+END
+00_assignment.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/00_assignment.c
+END
+19_pointer_arithmetic.expect
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2447/trunk/user/picoc/tests/19_pointer_arithmetic.expect
+END
+09_do_while.expect
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2447/trunk/user/picoc/tests/09_do_while.expect
+END
+27_sizeof.expect
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2447/trunk/user/picoc/tests/27_sizeof.expect
+END
+21_char_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/21_char_array.c
+END
+16_nesting.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/16_nesting.c
+END
+00_assignment.expect
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2447/trunk/user/picoc/tests/00_assignment.expect
+END
+15_recursion.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2447/trunk/user/picoc/tests/15_recursion.c
+END
+06_case.expect
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2447/trunk/user/picoc/tests/06_case.expect
+END
+10_pointer.expect
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/10_pointer.expect
+END
+25_quicksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2447/trunk/user/picoc/tests/25_quicksort.c
+END
+18_include.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/18_include.c
+END
+13_integer_literals.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2447/trunk/user/picoc/tests/13_integer_literals.c
+END
+18_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/18_include.h
+END
+18_include.expect
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/18_include.expect
+END
+19_pointer_arithmetic.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2447/trunk/user/picoc/tests/19_pointer_arithmetic.c
+END
+09_do_while.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2447/trunk/user/picoc/tests/09_do_while.c
+END
+29_array_address.expect
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2447/trunk/user/picoc/tests/29_array_address.expect
+END
+11_precedence.expect
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2447/trunk/user/picoc/tests/11_precedence.expect
+END
+13_integer_literals.expect
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2447/trunk/user/picoc/tests/13_integer_literals.expect
+END
+12_hashdefine.expect
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2447/trunk/user/picoc/tests/12_hashdefine.expect
+END
+14_if.expect
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/14_if.expect
+END
+36_array_initialisers.expect
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2447/trunk/user/picoc/tests/36_array_initialisers.expect
+END
+23_type_coercion.expect
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2447/trunk/user/picoc/tests/23_type_coercion.expect
+END
+08_while.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2447/trunk/user/picoc/tests/08_while.c
+END
+08_while.expect
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/08_while.expect
+END
+05_array.expect
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/05_array.expect
+END
+07_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2447/trunk/user/picoc/tests/07_function.c
+END
+03_struct.expect
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2447/trunk/user/picoc/tests/03_struct.expect
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2447/trunk/user/picoc/tests/Makefile
+END
+11_precedence.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2447/trunk/user/picoc/tests/11_precedence.c
+END
+26_character_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2447/trunk/user/picoc/tests/26_character_constants.c
+END
+04_for.expect
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2447/trunk/user/picoc/tests/04_for.expect
+END
+07_function.expect
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2447/trunk/user/picoc/tests/07_function.expect
+END
+14_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2447/trunk/user/picoc/tests/14_if.c
+END
+02_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2447/trunk/user/picoc/tests/02_printf.c
+END
+26_character_constants.expect
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2447/trunk/user/picoc/tests/26_character_constants.expect
+END
+23_type_coercion.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2447/trunk/user/picoc/tests/23_type_coercion.c
+END
+28_strings.expect
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/28_strings.expect
+END
+02_printf.expect
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2447/trunk/user/picoc/tests/02_printf.expect
+END
+34_array_assignment.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2447/trunk/user/picoc/tests/34_array_assignment.c
+END
+22_floating_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2447/trunk/user/picoc/tests/22_floating_point.c
+END
+05_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2447/trunk/user/picoc/tests/05_array.c
+END
+21_char_array.expect
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2447/trunk/user/picoc/tests/21_char_array.expect
+END
+16_nesting.expect
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/16_nesting.expect
+END
+22_floating_point.expect
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2447/trunk/user/picoc/tests/22_floating_point.expect
+END
+03_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2447/trunk/user/picoc/tests/03_struct.c
+END
+24_math_library.expect
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2447/trunk/user/picoc/tests/24_math_library.expect
+END
+29_array_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2447/trunk/user/picoc/tests/29_array_address.c
+END
+28_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/28_strings.c
+END
+36_array_initialisers.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2447/trunk/user/picoc/tests/36_array_initialisers.c
+END
+01_comment.expect
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/01_comment.expect
+END
+20_pointer_comparison.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2447/trunk/user/picoc/tests/20_pointer_comparison.c
+END
+17_enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2447/trunk/user/picoc/tests/17_enum.c
+END
+35_sizeof.expect
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2447/trunk/user/picoc/tests/35_sizeof.expect
+END
+06_case.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2447/trunk/user/picoc/tests/06_case.c
+END
+10_pointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2447/trunk/user/picoc/tests/10_pointer.c
+END
+20_pointer_comparison.expect
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2447/trunk/user/picoc/tests/20_pointer_comparison.expect
+END
+17_enum.expect
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2447/trunk/user/picoc/tests/17_enum.expect
+END
+34_array_assignment.expect
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2447/trunk/user/picoc/tests/34_array_assignment.expect
+END
+24_math_library.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2447/trunk/user/picoc/tests/24_math_library.c
+END
+15_recursion.expect
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2447/trunk/user/picoc/tests/15_recursion.expect
+END

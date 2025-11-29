@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/user/iptables
+END
+ip6tables.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables.8.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/iptables/TODO
+END
+iptables-restore.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-restore.c
+END
+iptables-save.8
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-save.8
+END
+ip6tables-save.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables-save.c
+END
+Rules.make
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/iptables/Rules.make
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/iptables/INSTALL
+END
+INCOMPATIBILITIES
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/iptables/INCOMPATIBILITIES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/iptables/COPYING
+END
+ip6tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables.c
+END
+iptables-standalone.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-standalone.c
+END
+iptables-multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-multi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/iptables/Makefile
+END
+CURRENT_ISSUES
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/iptables/CURRENT_ISSUES
+END
+iptables.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/iptables/iptables.8.in
+END
+ip6tables-restore.8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables-restore.8
+END
+iptables-save.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-save.c
+END
+iptables.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/iptables/iptables.conf.example
+END
+iptables.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/iptables/iptables.c
+END
+iptables-restore.8
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/iptables/iptables-restore.8
+END
+ip6tables-save.8
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables-save.8
+END
+ip6tables-restore.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables-restore.c
+END
+ip6tables-standalone.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/iptables/ip6tables-standalone.c
+END
+COMMIT_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/iptables/COMMIT_NOTES
+END

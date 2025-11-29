@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 47
+.depend
+keyctrl.c
+keynorm.c
+keynum.c
+keyshft.c
+
+END

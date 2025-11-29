@@ -1,0 +1,19 @@
+#!/bin/sh
+# $Id: gauge 1469 2006-10-23 20:59:34Z stsp $
+: ${DIALOG=dialog}
+
+PCT=10
+(
+while test $PCT != 100
+do
+echo "XXX"
+echo $PCT
+echo "The new\n\
+message ($PCT percent)"
+echo "XXX"
+PCT=`expr $PCT + 10`
+sleep 1
+done
+) |
+
+$DIALOG --title "GAUGE" --gauge "Hi, this is a gauge widget" 20 70 0

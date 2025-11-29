@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/util.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/util.h
+END
+zdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/zdebug.h
+END
+nxscribble.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/nxscribble.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/Makefile
+END
+li_recognizer_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/li_recognizer_internal.h
+END
+letters.cl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/letters.cl
+END
+digits.cl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/digits.cl
+END
+bitvector.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/bitvector.c
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/matrix.c
+END
+widgets_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/widgets_test.c
+END
+widgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/widgets.c
+END
+bitvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/bitvector.h
+END
+hre_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/hre_api.c
+END
+sp_up.gif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/sp_up.gif
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/matrix.h
+END
+widgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/widgets.h
+END
+hre_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/hre_api.h
+END
+hre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/hre_internal.h
+END
+punc.cl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/punc.cl
+END
+hre.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/hre.h
+END
+sp_dn.gif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/sp_dn.gif
+END
+rtn_up.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/rtn_up.gif
+END
+li_recognizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/li_recognizer.c
+END
+bk_dn.gif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/bk_dn.gif
+END
+li_recognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/li_recognizer.h
+END
+sc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/sc.c
+END
+scribwidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/scribwidget.c
+END
+scrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/scrib.h
+END
+rtn_dn.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/rtn_dn.gif
+END
+hre_api_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/hre_api_internal.h
+END
+sc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/scribble/sc.h
+END

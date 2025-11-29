@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11
+END
+SDL_x11video.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11video.c
+END
+SDL_x11modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11modes.c
+END
+SDL_x11gl_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11gl_c.h
+END
+SDL_x11events_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11events_c.h
+END
+SDL_x11video.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11video.h
+END
+SDL_x11sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11sym.h
+END
+SDL_x11modes_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11modes_c.h
+END
+SDL_x11image.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11image.c
+END
+SDL_x11gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11gamma.c
+END
+SDL_x11wm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11wm.c
+END
+SDL_x11yuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11yuv.c
+END
+SDL_x11mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11mouse.c
+END
+SDL_x11image_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11image_c.h
+END
+SDL_x11gamma_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11gamma_c.h
+END
+SDL_x11dyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11dyn.c
+END
+SDL_x11wm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11wm_c.h
+END
+SDL_x11yuv_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11yuv_c.h
+END
+SDL_x11dga.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11dga.c
+END
+SDL_x11mouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11mouse_c.h
+END
+SDL_x11dyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11dyn.h
+END
+SDL_x11gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11gl.c
+END
+SDL_x11dga_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11dga_c.h
+END
+SDL_x11events.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/x11/SDL_x11events.c
+END

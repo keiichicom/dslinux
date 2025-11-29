@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs
+END
+fstatfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/fstatfs64.c
+END
+statvfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/statvfs64.c
+END
+internal_statvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/internal_statvfs.c
+END
+fstatvfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/fstatvfs64.c
+END
+statvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/statvfs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/Makefile
+END
+statfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/statfs64.c
+END
+fstatvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/libc/misc/statfs/fstatvfs.c
+END

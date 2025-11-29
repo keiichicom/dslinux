@@ -1,0 +1,3707 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests
+END
+rwfile_XBM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_truecolor16.sh
+END
+rwfile_MIFF_pallette_bzip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_pallette_bzip.sh
+END
+rwfile_GIF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_pallette.sh
+END
+rwfile_PTIF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_truecolor10.sh
+END
+rwfile_GRAY_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_bilevel.sh
+END
+rwfile_PGM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_gray.sh
+END
+rwblob_PNG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNG_gray.sh
+END
+rwfile_TGA_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_pallette.sh
+END
+rwfile_MTV_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_truecolor12.sh
+END
+rwblob_VDA_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VDA_truecolor.sh
+END
+rwfile_TGA_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_truecolor.sh
+END
+rwfile_XPM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_truecolor16.sh
+END
+rwfile_PCD_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_truecolor16.sh
+END
+rwblob_JBIG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JBIG_bilevel.sh
+END
+rwblob_GIF87_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF87_pallette.sh
+END
+rwfile_PGM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_truecolor.sh
+END
+rwblob_PNG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNG_truecolor.sh
+END
+rwfile_PS_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_truecolor10.sh
+END
+rwfile_RGBA_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RGBA_truecolor_70x46.sh
+END
+rwfile_EPI_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_truecolor16.sh
+END
+rwblob_PNM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNM_pallette.sh
+END
+rwblob_GIF87_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF87_bilevel.sh
+END
+rwblob_EPT_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPT_truecolor.sh
+END
+rwblob_FITS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FITS_gray.sh
+END
+rwfile_AVS_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_truecolor10.sh
+END
+rwfile_VIFF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_truecolor10.sh
+END
+rwfile_PSD_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_truecolor16.sh
+END
+rwfile_PCX_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_truecolor12.sh
+END
+rwfile_FPX_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_truecolor10.sh
+END
+constitute_double_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_rgbo.sh
+END
+constitute_double_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_bgro.sh
+END
+rwfile_VDA_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_gray.sh
+END
+rwblob_VICAR_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VICAR_pallette.sh
+END
+rwfile_VST_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_gray.sh
+END
+constitute_char_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_bgro.sh
+END
+constitute_char_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_rgbo.sh
+END
+rwblob_SUN_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SUN_bilevel.sh
+END
+rwfile_MNG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_pallette.sh
+END
+rwfile_AVS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_gray.sh
+END
+constitute_integer_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_bgro.sh
+END
+constitute_integer_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_rgbo.sh
+END
+rwfile_DIB_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_gray.sh
+END
+rwfile_MIFF_truecolor_rle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor_rle.sh
+END
+rwblob_SGI_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SGI_bilevel.sh
+END
+rwblob_JP2_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JP2_pallette.sh
+END
+rwfile_PTIF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_gray.sh
+END
+rwfile_XPM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_gray.sh
+END
+rwblob_PICT_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICT_pallette.sh
+END
+rwblob_PTIF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PTIF_pallette.sh
+END
+rwfile_PCX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_bilevel.sh
+END
+rwfile_DPX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_bilevel.sh
+END
+rwfile_BMP_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_gray.sh
+END
+rwblob_MNG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MNG_gray.sh
+END
+rwblob_VDA_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VDA_pallette.sh
+END
+rwfile_WBMP_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_truecolor10.sh
+END
+rwfile_FAX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_pallette.sh
+END
+rwblob_PCDS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCDS_gray.sh
+END
+rwblob_DPX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DPX_gray.sh
+END
+rwblob_PPM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PPM_gray.sh
+END
+rwfile_JBIG_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_truecolor16.sh
+END
+constitute_char_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_bgr.sh
+END
+constitute_char_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_rgb.sh
+END
+rwfile_PCDS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_pallette.sh
+END
+rwfile_FAX_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_truecolor16.sh
+END
+rwfile_PNM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_truecolor.sh
+END
+rwfile_TIFF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_truecolor12.sh
+END
+rwfile_EPT_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_bilevel.sh
+END
+rwblob_JBIG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JBIG_gray.sh
+END
+rwfile_EPSI_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_truecolor10.sh
+END
+rwfile_EPI_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_gray.sh
+END
+rwblob_EPDF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPDF_gray.sh
+END
+rwblob_XPM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XPM_truecolor.sh
+END
+rwblob_PICON_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICON_truecolor.sh
+END
+rwfile_EPI_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_pallette.sh
+END
+rwblob_EPDF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPDF_pallette.sh
+END
+rwfile_XBM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_gray.sh
+END
+constitute_short_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_i.sh
+END
+rwfile_RGB_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RGB_truecolor_70x46.sh
+END
+rwfile_MNG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_bilevel.sh
+END
+rwblob_PCX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCX_truecolor.sh
+END
+input_pallette.miff
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_pallette.miff
+END
+rwfile_MIFF_pallette_none.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_pallette_none.sh
+END
+rwblob_FPX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FPX_truecolor.sh
+END
+rwfile_RAS_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_truecolor16.sh
+END
+rwfile_DIB_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_truecolor10.sh
+END
+constitute_double_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_bgrp.sh
+END
+rwfile_PCDS_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_truecolor16.sh
+END
+rwblob_PBM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PBM_gray.sh
+END
+rwfile_MTV_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_pallette.sh
+END
+constitute_char_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_bgrp.sh
+END
+rwfile_XWD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_truecolor.sh
+END
+constitute.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute.c
+END
+rwblob_PBM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PBM_pallette.sh
+END
+rwfile_PSD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_gray.sh
+END
+rwblob_CMYK_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_CMYK_truecolor_70x46.sh
+END
+rwfile_TIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_gray.sh
+END
+rwfile_VST_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_bilevel.sh
+END
+constitute_integer_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_bgrp.sh
+END
+rwfile_MIFF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor12.sh
+END
+rwblob_RAS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RAS_truecolor.sh
+END
+rwfile_JPEG_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_truecolor12.sh
+END
+rwfile_EPS_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_truecolor10.sh
+END
+rwblob_PCD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCD_gray.sh
+END
+rwfile_SUN_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_gray.sh
+END
+rwfile_XBM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_bilevel.sh
+END
+rwfile_JP2_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_truecolor.sh
+END
+rwblob_DIB_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DIB_truecolor.sh
+END
+rwfile_DPX_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_truecolor12.sh
+END
+rwfile_PPM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_bilevel.sh
+END
+rwblob_PCD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCD_pallette.sh
+END
+rwfile_SUN_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_pallette.sh
+END
+rwfile_VICAR_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_bilevel.sh
+END
+rwfile_PCD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_bilevel.sh
+END
+constitute_float_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_rgb.sh
+END
+constitute_float_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_bgr.sh
+END
+rwfile_GIF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_truecolor16.sh
+END
+rwfile_TGA_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_truecolor10.sh
+END
+rwfile_EPI_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_truecolor.sh
+END
+rwblob_EPDF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPDF_truecolor.sh
+END
+rwblob_PCX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCX_gray.sh
+END
+rwfile_VST_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_truecolor10.sh
+END
+rwfile_FAX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_truecolor.sh
+END
+rwblob_PGM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PGM_pallette.sh
+END
+rwfile_PBM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_truecolor10.sh
+END
+rwfile_EPDF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_truecolor10.sh
+END
+constitute_double_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_rgb.sh
+END
+constitute_double_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_bgr.sh
+END
+constitute_integer_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_cmy.sh
+END
+constitute_integer_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_i.sh
+END
+rwfile_FPX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_gray.sh
+END
+rwblob_SGI_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SGI_truecolor.sh
+END
+constitute_long_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_i.sh
+END
+rwblob_RGBA_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RGBA_truecolor_70x46.sh
+END
+constitute_short_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_bgro.sh
+END
+constitute_short_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_rgbo.sh
+END
+rwblob_PAL_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PAL_truecolor_70x46.sh
+END
+rwfile_JPEG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_truecolor.sh
+END
+rwfile_FPX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_pallette.sh
+END
+rwfile_PSD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_bilevel.sh
+END
+rwfile_DIB_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_pallette.sh
+END
+rwblob_DPX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DPX_truecolor.sh
+END
+rwfile_PNM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_truecolor10.sh
+END
+rwfile_PPM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_truecolor10.sh
+END
+rwfile_EPT_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_truecolor16.sh
+END
+rwfile_GRAY_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_truecolor.sh
+END
+rwblob_GIF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF_truecolor.sh
+END
+rwfile_PTIF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_truecolor12.sh
+END
+rwfile_VICAR_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_truecolor10.sh
+END
+rwfile_BMP_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_pallette.sh
+END
+rwblob_PBM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PBM_truecolor.sh
+END
+rwfile_PS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_pallette.sh
+END
+rwfile_BMP_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_truecolor16.sh
+END
+rwfile_PS_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_truecolor12.sh
+END
+rwblob_PGM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PGM_bilevel.sh
+END
+rwblob_JPEG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JPEG_bilevel.sh
+END
+rwfile_AVS_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_truecolor12.sh
+END
+rwfile_VIFF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_truecolor12.sh
+END
+rwfile_FPX_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_truecolor12.sh
+END
+rwblob_PICON_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICON_pallette.sh
+END
+rwblob_MIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MIFF_gray.sh
+END
+rwfile_PTIF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_bilevel.sh
+END
+rwfile_PICON_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_bilevel.sh
+END
+rwfile_MIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_pallette.sh
+END
+rwblob_JPEG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JPEG_pallette.sh
+END
+rwfile_MNG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_truecolor.sh
+END
+rwfile_FAX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_bilevel.sh
+END
+constitute_short_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_cmy.sh
+END
+rwfile_XBM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_pallette.sh
+END
+constitute_long_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_bgro.sh
+END
+constitute_long_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_rgbo.sh
+END
+rwfile_PAM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_truecolor16.sh
+END
+rwfile_EPT_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_pallette.sh
+END
+rwfile_PS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_bilevel.sh
+END
+rwfile_EPS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_truecolor.sh
+END
+constitute_float_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_i.sh
+END
+rwfile_MIFF_gray_bzip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_gray_bzip.sh
+END
+rwblob.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob.c
+END
+rwfile_PGM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_truecolor16.sh
+END
+rwfile_VIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_bilevel.sh
+END
+rwfile_TGA_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_gray.sh
+END
+rwfile_EPSF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_truecolor16.sh
+END
+rwblob_GIF87_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF87_gray.sh
+END
+rwfile_WBMP_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_truecolor12.sh
+END
+rwfile_TGA_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_bilevel.sh
+END
+rwfile_PSD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_pallette.sh
+END
+rwblob_GIF87_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF87_truecolor.sh
+END
+constitute_short_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_bgrp.sh
+END
+rwfile_PCX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_pallette.sh
+END
+rwblob_TIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TIFF_truecolor.sh
+END
+rwblob_VICAR_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VICAR_gray.sh
+END
+rwblob_VIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VIFF_truecolor.sh
+END
+rwfile_MIFF_pallette_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_pallette_zip.sh
+END
+rwblob_DIB_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DIB_bilevel.sh
+END
+rwfile_EPSI_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_truecolor12.sh
+END
+rwfile_WBMP_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_truecolor.sh
+END
+rwfile_PICT_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_truecolor16.sh
+END
+rwfile_XWD_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_truecolor16.sh
+END
+rwblob_G3_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_G3_bilevel.sh
+END
+rwfile_BMP_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_truecolor.sh
+END
+rwfile_EPI_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_bilevel.sh
+END
+rwblob_EPDF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPDF_bilevel.sh
+END
+rwblob_RGB_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RGB_truecolor_70x46.sh
+END
+rwfile_VDA_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_truecolor16.sh
+END
+constitute_long_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_cmy.sh
+END
+rwfile_MIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_bilevel.sh
+END
+rwblob_XWD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XWD_gray.sh
+END
+rwfile_DPX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_pallette.sh
+END
+rwfile_JP2_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_truecolor10.sh
+END
+rwblob_PCDS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCDS_bilevel.sh
+END
+rwfile_PICT_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_truecolor.sh
+END
+rwblob_FPX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FPX_bilevel.sh
+END
+rwfile_PAM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_gray.sh
+END
+rwfile_DIB_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_truecolor12.sh
+END
+rwfile_PICT_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_bilevel.sh
+END
+input_truecolor_70x46.miff
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_truecolor_70x46.miff
+END
+rwblob_VST_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VST_pallette.sh
+END
+rwblob_WBMP_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_WBMP_bilevel.sh
+END
+rwfile_PAM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_pallette.sh
+END
+rwfile_MIFF_bilevel_bzip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_bilevel_bzip.sh
+END
+rwfile_GRAY_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_truecolor_70x46.sh
+END
+rwblob_VST_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VST_truecolor.sh
+END
+rwfile_SUN_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_truecolor16.sh
+END
+rwblob_VIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VIFF_gray.sh
+END
+rwfile_PICON_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_truecolor16.sh
+END
+rwblob_PBM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PBM_bilevel.sh
+END
+constitute_long_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_bgrp.sh
+END
+rwfile_PNG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_bilevel.sh
+END
+rwfile_MNG_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_truecolor16.sh
+END
+rwfile_EPS_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_truecolor12.sh
+END
+rwblob_PPM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PPM_truecolor.sh
+END
+rwblob_XPM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XPM_pallette.sh
+END
+rwfile_ICB_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_truecolor16.sh
+END
+rwblob_SUN_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SUN_truecolor.sh
+END
+rwblob_MTV_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MTV_truecolor.sh
+END
+rwfile_MIFF_bilevel_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_bilevel_zip.sh
+END
+rwfile_JBIG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_pallette.sh
+END
+rwblob_JPEG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JPEG_gray.sh
+END
+rwfile_GRAY_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_truecolor16.sh
+END
+rwfile_JBIG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_truecolor.sh
+END
+rwfile_TGA_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_truecolor12.sh
+END
+rwfile_MIFF_pallette_rle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_pallette_rle.sh
+END
+rwfile_VST_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_truecolor12.sh
+END
+rwfile_PNG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_pallette.sh
+END
+rwfile_PBM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_truecolor12.sh
+END
+rwfile_EPDF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_truecolor12.sh
+END
+rwfile_BMP_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_bilevel.sh
+END
+input_gray.miff
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_gray.miff
+END
+rwfile_MIFF_gray_none.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_gray_none.sh
+END
+rwfile_PNG_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_truecolor10.sh
+END
+rwblob_AVS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_AVS_truecolor.sh
+END
+rwfile_YUV_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_YUV_truecolor_70x46.sh
+END
+rwfile_TIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_bilevel.sh
+END
+rwfile_PNM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_truecolor12.sh
+END
+rwfile_AVS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_bilevel.sh
+END
+rwfile_PPM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_truecolor12.sh
+END
+input_truecolor16.pam
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_truecolor16.pam
+END
+rwblob_XWD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XWD_bilevel.sh
+END
+rwfile_VICAR_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_truecolor12.sh
+END
+rwblob_FITS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FITS_bilevel.sh
+END
+rwblob_TGA_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TGA_truecolor.sh
+END
+rwblob_EPT_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPT_gray.sh
+END
+rwfile_PAM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_truecolor.sh
+END
+rwfile_MTV_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_truecolor16.sh
+END
+rwblob_VDA_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VDA_bilevel.sh
+END
+rwblob_PGM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PGM_truecolor.sh
+END
+rwfile_SGI_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_truecolor10.sh
+END
+rwfile_RAS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_bilevel.sh
+END
+rwfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile.c
+END
+rwfile_EPSF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_truecolor.sh
+END
+rwfile_PNM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_bilevel.sh
+END
+rwfile_XWD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_pallette.sh
+END
+rwfile_JP2_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_bilevel.sh
+END
+rwblob_GIF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF_pallette.sh
+END
+rwfile_PCX_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_truecolor16.sh
+END
+rwfile_PTIF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_truecolor.sh
+END
+rwblob_TGA_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TGA_pallette.sh
+END
+rwfile_XPM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_bilevel.sh
+END
+rwblob_JP2_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JP2_gray.sh
+END
+rwfile_MIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor.sh
+END
+rwfile_PS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_truecolor.sh
+END
+rwfile_PICT_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_gray.sh
+END
+rwfile_MIFF_bilevel_rle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_bilevel_rle.sh
+END
+rwfile_XBM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_truecolor10.sh
+END
+rwfile_PPM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_pallette.sh
+END
+rwfile_MIFF_bilevel_none.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_bilevel_none.sh
+END
+rwfile_XPM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_truecolor10.sh
+END
+rwfile_PCD_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_truecolor10.sh
+END
+rwfile_GIF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_bilevel.sh
+END
+rwfile_RAS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_gray.sh
+END
+rwblob_MNG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MNG_pallette.sh
+END
+rwfile_EPI_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_truecolor10.sh
+END
+rwfile_RAS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_pallette.sh
+END
+rwblob_PCDS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCDS_pallette.sh
+END
+rwfile_VIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_pallette.sh
+END
+rwfile_PSD_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_truecolor10.sh
+END
+rwblob_PNM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNM_truecolor.sh
+END
+rwfile_WBMP_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_gray.sh
+END
+common.shi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/common.shi
+END
+rwfile_GRAY_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_pallette.sh
+END
+rwfile_TIFF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_truecolor16.sh
+END
+rwblob_FAX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FAX_gray.sh
+END
+rwfile_WBMP_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_pallette.sh
+END
+rwfile_VICAR_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_truecolor.sh
+END
+rwblob_SGI_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SGI_gray.sh
+END
+rwfile_PNG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_gray.sh
+END
+rwblob_GRAY_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GRAY_truecolor_70x46.sh
+END
+rwblob_FAX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FAX_pallette.sh
+END
+rwfile_PICON_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_gray.sh
+END
+rwfile_ICB_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_truecolor.sh
+END
+rwblob_PCX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCX_bilevel.sh
+END
+rwfile_JP2_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_truecolor12.sh
+END
+rwblob_DPX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DPX_bilevel.sh
+END
+rwblob_XWD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XWD_truecolor.sh
+END
+input_bilevel.miff
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_bilevel.miff
+END
+constitute_float_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_cmyk.sh
+END
+rwfile_JBIG_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_truecolor10.sh
+END
+rwblob_PNM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNM_gray.sh
+END
+rwfile_FAX_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_truecolor10.sh
+END
+rwfile_PAM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_bilevel.sh
+END
+rwblob_JPEG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JPEG_truecolor.sh
+END
+rwfile_TIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_pallette.sh
+END
+rwfile_MIFF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor16.sh
+END
+rwblob_GIF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF_gray.sh
+END
+rwfile_PCDS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_truecolor.sh
+END
+rwfile_FITS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FITS_gray.sh
+END
+rwblob_MTV_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MTV_gray.sh
+END
+rwblob_JP2_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JP2_truecolor.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/Makefile.am
+END
+rwblob_EPT_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPT_bilevel.sh
+END
+rwfile_JPEG_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_truecolor16.sh
+END
+rwfile_EPSF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_bilevel.sh
+END
+rwblob_MTV_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MTV_pallette.sh
+END
+rwfile_DPX_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_truecolor16.sh
+END
+rwfile_MNG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_gray.sh
+END
+rwblob_PGM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PGM_gray.sh
+END
+rwblob_VICAR_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VICAR_bilevel.sh
+END
+rwfile_MTV_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_bilevel.sh
+END
+constitute_float_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_rgba.sh
+END
+rwblob_FAX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FAX_truecolor.sh
+END
+rwfile_DPX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_gray.sh
+END
+rwfile_PPM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_gray.sh
+END
+rwblob_MNG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MNG_bilevel.sh
+END
+rwfile_AVS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_pallette.sh
+END
+rwblob_PTIF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PTIF_gray.sh
+END
+rwfile_RAS_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_truecolor10.sh
+END
+rwfile_PNG_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_truecolor12.sh
+END
+rwfile_PCDS_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_truecolor10.sh
+END
+rwblob_YUV_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_YUV_truecolor_70x46.sh
+END
+rwblob_G3_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_G3_gray.sh
+END
+rwblob_VDA_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VDA_gray.sh
+END
+rwblob_VST_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VST_gray.sh
+END
+rwblob_SUN_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SUN_pallette.sh
+END
+rwfile_EPSI_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_bilevel.sh
+END
+rwfile_PS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_gray.sh
+END
+rwfile_PTIF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_truecolor16.sh
+END
+rwblob_AVS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_AVS_gray.sh
+END
+rwfile_PCDS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_gray.sh
+END
+rwfile_SGI_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_pallette.sh
+END
+rwblob_VST_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VST_bilevel.sh
+END
+rwblob_DIB_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DIB_gray.sh
+END
+rwfile_EPSI_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_gray.sh
+END
+rwfile_SGI_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_truecolor12.sh
+END
+rwfile_XBM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_truecolor.sh
+END
+rwblob_XPM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XPM_gray.sh
+END
+rwblob_FPX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FPX_pallette.sh
+END
+rwblob_DIB_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DIB_pallette.sh
+END
+rwblob_XBM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XBM_bilevel.sh
+END
+rwfile_PS_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PS_truecolor16.sh
+END
+rwfile_JBIG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_gray.sh
+END
+rwblob_PPM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PPM_bilevel.sh
+END
+rwfile_AVS_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_truecolor16.sh
+END
+rwblob_BMP_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_BMP_gray.sh
+END
+rwfile_VIFF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_truecolor16.sh
+END
+rwfile_PBM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_gray.sh
+END
+rwfile_EPDF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_gray.sh
+END
+constitute_integer_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_bgr.sh
+END
+constitute_integer_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_rgb.sh
+END
+rwfile_FPX_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_truecolor16.sh
+END
+rwfile_PCD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_truecolor.sh
+END
+rwfile_GIF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_truecolor10.sh
+END
+rwblob_BMP_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_BMP_pallette.sh
+END
+rwblob_PCD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCD_bilevel.sh
+END
+rwfile_SUN_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_bilevel.sh
+END
+rwfile_EPS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_gray.sh
+END
+rwblob_PICON_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICON_bilevel.sh
+END
+rwblob_MIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MIFF_pallette.sh
+END
+rwfile_JBIG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_bilevel.sh
+END
+rwblob_MNG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MNG_truecolor.sh
+END
+rwfile_PSD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_truecolor.sh
+END
+rwfile_PNM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_pallette.sh
+END
+rwfile_SGI_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_bilevel.sh
+END
+rwfile_EPT_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_truecolor10.sh
+END
+rwblob_PSD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PSD_bilevel.sh
+END
+rwfile_XBM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XBM_truecolor12.sh
+END
+rwfile_PCD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_gray.sh
+END
+constitute_float_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_prgb.sh
+END
+input_truecolor10.pam
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_truecolor10.pam
+END
+rwfile_EPSI_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_truecolor.sh
+END
+rwfile_ICB_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_bilevel.sh
+END
+rwblob_WBMP_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_WBMP_truecolor.sh
+END
+rwblob_PTIF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PTIF_bilevel.sh
+END
+rwfile_XPM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_truecolor12.sh
+END
+rwfile_PCD_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_truecolor12.sh
+END
+rwblob_XBM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XBM_gray.sh
+END
+rwfile_VDA_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_truecolor.sh
+END
+rwblob_TIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TIFF_gray.sh
+END
+rwfile_WBMP_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_truecolor16.sh
+END
+rwfile_PCX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_gray.sh
+END
+rwfile_BMP_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_truecolor10.sh
+END
+rwfile_EPI_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPI_truecolor12.sh
+END
+rwblob_XBM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XBM_pallette.sh
+END
+rwblob_EPT_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_EPT_pallette.sh
+END
+rwfile_PNG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_truecolor.sh
+END
+rwfile_JP2_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_pallette.sh
+END
+rwfile_EPT_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_truecolor.sh
+END
+rwfile_PSD_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PSD_truecolor12.sh
+END
+rwblob_VIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VIFF_bilevel.sh
+END
+rwblob_PICT_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICT_truecolor.sh
+END
+constitute_char_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_cmy.sh
+END
+constitute_char_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_i.sh
+END
+constitute_short_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_bgr.sh
+END
+constitute_short_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_rgb.sh
+END
+rwfile_VDA_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_pallette.sh
+END
+rwfile_EPSI_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_truecolor16.sh
+END
+constitute_double_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_cmyk.sh
+END
+rwblob_PSD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PSD_gray.sh
+END
+constitute_char_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_cmyk.sh
+END
+rwblob_BMP_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_BMP_truecolor.sh
+END
+rwfile_PAM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_truecolor10.sh
+END
+rwfile_MONO_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MONO_truecolor_70x46.sh
+END
+rwblob_FAX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FAX_bilevel.sh
+END
+rwblob_PSD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PSD_pallette.sh
+END
+rwfile_PGM_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_truecolor10.sh
+END
+rwblob_PCX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCX_pallette.sh
+END
+rwblob_SUN_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SUN_gray.sh
+END
+rwfile_PICT_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_pallette.sh
+END
+constitute_integer_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_cmyk.sh
+END
+rwfile_EPSF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_truecolor10.sh
+END
+rwfile_PTIF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PTIF_pallette.sh
+END
+rwfile_VICAR_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_pallette.sh
+END
+rwfile_DIB_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_truecolor16.sh
+END
+rwblob_JBIG_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JBIG_truecolor.sh
+END
+rwfile_JBIG_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JBIG_truecolor12.sh
+END
+rwblob_TGA_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TGA_bilevel.sh
+END
+rwblob_FPX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_FPX_gray.sh
+END
+constitute_double_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_rgba.sh
+END
+rwfile_FAX_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_truecolor12.sh
+END
+constitute_char_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_rgba.sh
+END
+rwblob_MIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MIFF_bilevel.sh
+END
+rwfile_UYVY_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_UYVY_truecolor_70x46.sh
+END
+rwblob_DPX_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_DPX_pallette.sh
+END
+rwfile_EPS_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_truecolor16.sh
+END
+rwfile_PICT_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_truecolor10.sh
+END
+rwblob_PICT_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICT_bilevel.sh
+END
+constitute_integer_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_rgba.sh
+END
+rwfile_XWD_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_truecolor10.sh
+END
+constitute_long_bgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_bgr.sh
+END
+constitute_long_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_rgb.sh
+END
+rwfile_XPM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_truecolor.sh
+END
+rwfile_MIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_gray.sh
+END
+rwblob_JBIG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JBIG_pallette.sh
+END
+rwblob_PAM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PAM_pallette.sh
+END
+rwfile_PBM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_pallette.sh
+END
+rwfile_EPDF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_pallette.sh
+END
+rwfile_VDA_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_truecolor10.sh
+END
+rwfile_TGA_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TGA_truecolor16.sh
+END
+rwfile_VST_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_truecolor16.sh
+END
+rwfile_PBM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_truecolor16.sh
+END
+rwfile_EPDF_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_truecolor16.sh
+END
+constitute_float_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_cmy.sh
+END
+rwfile_RAS_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_truecolor12.sh
+END
+rwfile_PCX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_truecolor.sh
+END
+rwfile_EPS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_bilevel.sh
+END
+rwfile_PCDS_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_truecolor12.sh
+END
+rwfile_FPX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_truecolor.sh
+END
+constitute_double_cmy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_cmy.sh
+END
+input_truecolor.miff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_truecolor.miff
+END
+rwfile_PNM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_truecolor16.sh
+END
+rwblob_PTIF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PTIF_truecolor.sh
+END
+rwfile_PCD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCD_pallette.sh
+END
+rwfile_PPM_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_truecolor16.sh
+END
+rwfile_SUN_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_truecolor10.sh
+END
+rwfile_PICON_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_truecolor10.sh
+END
+rwfile_VICAR_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_truecolor16.sh
+END
+rwblob_PAM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PAM_truecolor.sh
+END
+rwfile_PGM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_pallette.sh
+END
+rwblob_PNG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNG_pallette.sh
+END
+rwblob_MIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MIFF_truecolor.sh
+END
+rwfile_MNG_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_truecolor10.sh
+END
+rwfile_RAS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_RAS_truecolor.sh
+END
+rwfile_XWD_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_gray.sh
+END
+rwfile_PGM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_bilevel.sh
+END
+rwfile_MIFF_gray_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_gray_zip.sh
+END
+rwblob_PNG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNG_bilevel.sh
+END
+rwblob_TIFF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TIFF_bilevel.sh
+END
+rwfile_ICB_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_truecolor10.sh
+END
+rwfile_DIB_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_truecolor.sh
+END
+rwblob_TGA_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TGA_gray.sh
+END
+constitute_double_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_prgb.sh
+END
+constitute_char_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_char_prgb.sh
+END
+rwfile_GRAY_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_truecolor10.sh
+END
+rwblob_VICAR_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VICAR_truecolor.sh
+END
+rwfile_PICON_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_truecolor.sh
+END
+rwfile_GIF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_truecolor12.sh
+END
+rwblob_BMP_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_BMP_bilevel.sh
+END
+constitute_integer_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_integer_prgb.sh
+END
+rwfile_SGI_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_truecolor.sh
+END
+rwfile_VICAR_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VICAR_gray.sh
+END
+rwfile_JPEG_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_bilevel.sh
+END
+rwfile_EPT_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_truecolor12.sh
+END
+rwfile_DPX_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_truecolor.sh
+END
+rwblob_AVS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_AVS_bilevel.sh
+END
+constitute_short_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_cmyk.sh
+END
+rwblob_XWD_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XWD_pallette.sh
+END
+rwfile_MIFF_truecolor_bzip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor_bzip.sh
+END
+rwfile_GIF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_truecolor.sh
+END
+rwfile_MTV_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_truecolor10.sh
+END
+rwfile_PBM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_truecolor.sh
+END
+rwfile_EPDF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_truecolor.sh
+END
+rwfile_VIFF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_gray.sh
+END
+rwblob_MONO_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MONO_truecolor_70x46.sh
+END
+rwfile_EPSF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_gray.sh
+END
+rwfile_BMP_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_BMP_truecolor12.sh
+END
+rwblob_VIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_VIFF_pallette.sh
+END
+rwfile_GRAY_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_gray.sh
+END
+rwblob_PPM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PPM_pallette.sh
+END
+rwblob_RAS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RAS_bilevel.sh
+END
+rwfile_EPSF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_pallette.sh
+END
+rwfile_PCX_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCX_truecolor10.sh
+END
+rwblob_PNM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PNM_bilevel.sh
+END
+rwblob_JP2_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_JP2_bilevel.sh
+END
+rwblob_PAM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PAM_gray.sh
+END
+rwblob_WBMP_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_WBMP_pallette.sh
+END
+rwfile_DIB_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DIB_bilevel.sh
+END
+constitute_short_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_rgba.sh
+END
+rwfile_MIFF_gray_rle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_gray_rle.sh
+END
+rwblob_XPM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XPM_bilevel.sh
+END
+rwblob_G3_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_G3_truecolor.sh
+END
+rwfile_JPEG_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_gray.sh
+END
+rwfile_EPT_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPT_gray.sh
+END
+rwfile_PAM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAM_truecolor12.sh
+END
+rwblob_RAS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RAS_pallette.sh
+END
+rwfile_JPEG_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_pallette.sh
+END
+rwfile_EPS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPS_pallette.sh
+END
+rwblob_UYVY_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_UYVY_truecolor_70x46.sh
+END
+rwfile_PGM_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PGM_truecolor12.sh
+END
+rwblob_PCDS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCDS_truecolor.sh
+END
+constitute_float_bgro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_bgro.sh
+END
+constitute_float_rgbo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_rgbo.sh
+END
+input_truecolor12.pam
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/input_truecolor12.pam
+END
+constitute_long_cmyk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_cmyk.sh
+END
+rwfile_EPSF_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSF_truecolor12.sh
+END
+rwfile_FPX_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FPX_bilevel.sh
+END
+rwfile_JP2_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_truecolor16.sh
+END
+rwfile_PICON_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_pallette.sh
+END
+rwblob_GIF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_GIF_bilevel.sh
+END
+rwfile_JP2_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JP2_gray.sh
+END
+rwfile_PBM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PBM_bilevel.sh
+END
+rwfile_EPDF_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPDF_bilevel.sh
+END
+rwblob_TIFF_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_TIFF_pallette.sh
+END
+rwfile_TIFF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_truecolor10.sh
+END
+rwfile_PCDS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PCDS_bilevel.sh
+END
+rwfile_PICT_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICT_truecolor12.sh
+END
+constitute_long_rgba.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_rgba.sh
+END
+rwfile_XWD_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_truecolor12.sh
+END
+rwfile_VST_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_pallette.sh
+END
+rwfile_WBMP_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_WBMP_bilevel.sh
+END
+rwfile_VDA_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_truecolor12.sh
+END
+rwfile_ICB_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_gray.sh
+END
+rwblob_PICT_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICT_gray.sh
+END
+constitute_short_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_short_prgb.sh
+END
+rwfile_TIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_TIFF_truecolor.sh
+END
+rwfile_ICB_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_pallette.sh
+END
+rwfile_VIFF_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VIFF_truecolor.sh
+END
+rwfile_PNG_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNG_truecolor16.sh
+END
+constitute_double_i.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_double_i.sh
+END
+rwfile_MIFF_truecolor_none.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor_none.sh
+END
+rwfile_XPM_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XPM_pallette.sh
+END
+rwfile_FAX_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FAX_gray.sh
+END
+rwblob_G3_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_G3_pallette.sh
+END
+rwfile_SGI_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_gray.sh
+END
+rwfile_XWD_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_XWD_bilevel.sh
+END
+rwfile_SUN_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_truecolor12.sh
+END
+rwfile_PICON_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PICON_truecolor12.sh
+END
+rwfile_VST_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VST_truecolor.sh
+END
+rwfile_VDA_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_VDA_bilevel.sh
+END
+rwblob_PAM_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PAM_bilevel.sh
+END
+rwfile_MIFF_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor10.sh
+END
+rwfile_MNG_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MNG_truecolor12.sh
+END
+rwblob_AVS_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_AVS_pallette.sh
+END
+rwblob_XBM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_XBM_truecolor.sh
+END
+rwfile_JPEG_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_JPEG_truecolor10.sh
+END
+rwblob_WBMP_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_WBMP_gray.sh
+END
+rwfile_SGI_truecolor16.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SGI_truecolor16.sh
+END
+constitute_float_bgrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_float_bgrp.sh
+END
+rwblob_PICON_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PICON_gray.sh
+END
+rwfile_PPM_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PPM_truecolor.sh
+END
+rwfile_EPSI_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_EPSI_pallette.sh
+END
+rwfile_DPX_truecolor10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_DPX_truecolor10.sh
+END
+rwfile_ICB_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_ICB_truecolor12.sh
+END
+rwfile_MIFF_truecolor_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MIFF_truecolor_zip.sh
+END
+rwfile_GRAY_truecolor12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GRAY_truecolor12.sh
+END
+rwblob_PCD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PCD_truecolor.sh
+END
+rwfile_SUN_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_SUN_truecolor.sh
+END
+rwfile_MTV_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_truecolor.sh
+END
+rwblob_RAS_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_RAS_gray.sh
+END
+rwfile_FITS_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_FITS_bilevel.sh
+END
+rwblob_MTV_bilevel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_MTV_bilevel.sh
+END
+rwfile_CMYK_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_CMYK_truecolor_70x46.sh
+END
+rwblob_SGI_pallette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_SGI_pallette.sh
+END
+rwfile_PNM_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PNM_gray.sh
+END
+rwfile_PAL_truecolor_70x46.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_PAL_truecolor_70x46.sh
+END
+constitute_long_prgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/constitute_long_prgb.sh
+END
+rwblob_PSD_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwblob_PSD_truecolor.sh
+END
+rwfile_GIF_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_GIF_gray.sh
+END
+rwfile_AVS_truecolor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_AVS_truecolor.sh
+END
+rwfile_MTV_gray.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/tests/rwfile_MTV_gray.sh
+END

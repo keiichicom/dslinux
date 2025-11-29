@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/user/perl/lib
+END
+integer.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/integer.t
+END
+if.t
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/perl/lib/if.t
+END
+Env.pm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/Env.pm
+END
+Shell.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/Shell.t
+END
+blib.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/blib.t
+END
+assert.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/assert.pl
+END
+CGI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/CGI.pm
+END
+Memoize.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize.pm
+END
+DBM_Filter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/DBM_Filter.pm
+END
+FindBin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/FindBin.pm
+END
+base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/base.pm
+END
+AutoSplit.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/AutoSplit.t
+END
+CPAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/CPAN.pm
+END
+importenv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/importenv.pl
+END
+AutoLoader.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/AutoLoader.t
+END
+attributes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/attributes.pm
+END
+English.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/English.pm
+END
+ph.t
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/perl/lib/ph.t
+END
+diagnostics.t
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/diagnostics.t
+END
+Exporter.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/Exporter.t
+END
+ctime.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/ctime.pl
+END
+FindBin.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/FindBin.t
+END
+charnames.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/charnames.pm
+END
+strict.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/strict.pm
+END
+timelocal.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/timelocal.pl
+END
+subs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/subs.pm
+END
+hostname.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/hostname.pl
+END
+utf8.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/utf8.t
+END
+sort.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/sort.t
+END
+Fatal.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/Fatal.t
+END
+find.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/find.pl
+END
+English.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/English.t
+END
+Benchmark.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/Benchmark.t
+END
+utf8_heavy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/utf8_heavy.pl
+END
+getopts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/getopts.pl
+END
+shellwords.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/shellwords.pl
+END
+DB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/lib/DB.pm
+END
+bytes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/bytes.pm
+END
+charnames.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/charnames.t
+END
+validate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/validate.pl
+END
+cacheout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/cacheout.pl
+END
+Benchmark.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/Benchmark.pm
+END
+locale.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/locale.pm
+END
+Switch.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/Switch.pm
+END
+Symbol.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/Symbol.pm
+END
+vmsish.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/vmsish.pm
+END
+dumpvar.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/dumpvar.pl
+END
+NEXT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/NEXT.pm
+END
+syslog.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/syslog.pl
+END
+dotsh.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/dotsh.pl
+END
+open2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/open2.pl
+END
+FileHandle.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/FileHandle.t
+END
+AutoSplit.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/AutoSplit.pm
+END
+Carp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/Carp.pm
+END
+Dumpvalue.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/Dumpvalue.t
+END
+Config.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/Config.t
+END
+integer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/integer.pm
+END
+strict.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/strict.t
+END
+vmsish.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/vmsish.t
+END
+Dumpvalue.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/Dumpvalue.pm
+END
+less.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/less.pm
+END
+UNIVERSAL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/UNIVERSAL.pm
+END
+stat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/stat.pl
+END
+autouse.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/autouse.t
+END
+Cwd.pm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/Cwd.pm
+END
+filetest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/filetest.pm
+END
+flush.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/flush.pl
+END
+bigfloat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigfloat.pl
+END
+FileHandle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/FileHandle.pm
+END
+if.pm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/lib/if.pm
+END
+bigintpl.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigintpl.t
+END
+dbm_filter_util.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/lib/dbm_filter_util.pl
+END
+h2xs.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/h2xs.t
+END
+Digest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/Digest.pm
+END
+SelfLoader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/SelfLoader.pm
+END
+DirHandle.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/DirHandle.t
+END
+locale.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/locale.t
+END
+warnings.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/warnings.pm
+END
+fastcwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/fastcwd.pl
+END
+DirHandle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/DirHandle.pm
+END
+PerlIO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/PerlIO.pm
+END
+abbrev.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/abbrev.pl
+END
+open.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/open.pm
+END
+look.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/look.pl
+END
+finddepth.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/finddepth.pl
+END
+fields.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/fields.pm
+END
+Shell.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/Shell.pm
+END
+sigtrap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/sigtrap.pm
+END
+AnyDBM_File.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/lib/AnyDBM_File.pm
+END
+bigfloatpl.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigfloatpl.t
+END
+bigint.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigint.pl
+END
+getcwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/getcwd.pl
+END
+bigint.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigint.pm
+END
+bytes.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/bytes.t
+END
+Test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test.pm
+END
+SelectSaver.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/lib/SelectSaver.pm
+END
+bytes_heavy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/lib/bytes_heavy.pl
+END
+bignum.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/bignum.pm
+END
+open3.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/open3.pl
+END
+utf8.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/utf8.pm
+END
+tainted.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/tainted.pl
+END
+open.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/open.t
+END
+h2ph.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/h2ph.t
+END
+pwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/pwd.pl
+END
+constant.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/constant.pm
+END
+termcap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/termcap.pl
+END
+perl5db.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/perl5db.pl
+END
+AutoLoader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/AutoLoader.pm
+END
+sigtrap.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/sigtrap.t
+END
+AnyDBM_File.t
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/AnyDBM_File.t
+END
+lib_pm.PL
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/lib_pm.PL
+END
+getopt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/getopt.pl
+END
+overload.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/overload.t
+END
+vars.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/vars.t
+END
+dumpvar.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/dumpvar.t
+END
+filetest.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/filetest.t
+END
+diagnostics.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/lib/diagnostics.pm
+END
+SelfLoader.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/SelfLoader.t
+END
+bigrat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigrat.pl
+END
+blib.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/blib.pm
+END
+bigrat.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/bigrat.pm
+END
+DB.t
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/perl/lib/DB.t
+END
+warnings.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/warnings.t
+END
+exceptions.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/exceptions.pl
+END
+constant.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/constant.t
+END
+autouse.pm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/lib/autouse.pm
+END
+Internals.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/Internals.t
+END
+sort.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/sort.pm
+END
+Fatal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/Fatal.pm
+END
+Symbol.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/lib/Symbol.t
+END
+lib.t
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/lib/lib.t
+END
+less.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/less.t
+END
+subs.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/subs.t
+END
+FileCache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/FileCache.pm
+END
+complete.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/complete.pl
+END
+SelectSaver.t
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/lib/SelectSaver.t
+END
+Thread.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/Thread.pm
+END
+Exporter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/Exporter.pm
+END
+overload.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/lib/overload.pm
+END
+newgetopt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/lib/newgetopt.pl
+END
+vars.pm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/lib/vars.pm
+END
+Carp.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/lib/Carp.t
+END

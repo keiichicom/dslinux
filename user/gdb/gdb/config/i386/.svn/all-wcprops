@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386
+END
+nm-i386gnu.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386gnu.h
+END
+nm-i386v4.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386v4.h
+END
+tm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/tm-linux.h
+END
+ncr3000.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/ncr3000.mt
+END
+nbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nbsd.mt
+END
+obsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/obsd.mt
+END
+i386.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386.mt
+END
+sol2-64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/sol2-64.mh
+END
+linux64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/linux64.mh
+END
+nbsdelf.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nbsdelf.mh
+END
+nm-i386sco4.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386sco4.h
+END
+nm-i386v42mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386v42mp.h
+END
+nm-i386sco5.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386sco5.h
+END
+nbsdaout.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nbsdaout.mh
+END
+i386v.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386v.mh
+END
+obsdaout.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/obsdaout.mh
+END
+i386v42mp.mh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386v42mp.mh
+END
+i386sco4.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386sco4.mh
+END
+sol2-64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/sol2-64.mt
+END
+nm-i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386.h
+END
+linux64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/linux64.mt
+END
+fbsd64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/fbsd64.mh
+END
+i386sol2.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386sol2.mh
+END
+nm-i386sco.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386sco.h
+END
+nm-cygwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-cygwin.h
+END
+i386sco.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386sco.mh
+END
+linux.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/linux.mh
+END
+nbsd64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nbsd64.mh
+END
+cygwin.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/cygwin.mh
+END
+nto.mh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nto.mh
+END
+obsd64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/obsd64.mh
+END
+tm-nto.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/tm-nto.h
+END
+i386v4.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386v4.mh
+END
+i386gnu.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386gnu.mh
+END
+fbsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/fbsd64.mt
+END
+nm-linux64.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-linux64.h
+END
+nm-go32.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-go32.h
+END
+i386sol2.mt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386sol2.mt
+END
+nm-fbsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-fbsd.h
+END
+go32.mh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/go32.mh
+END
+nm-i386v.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386v.h
+END
+linux.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/linux.mt
+END
+nbsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nbsd64.mt
+END
+cygwin.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/cygwin.mt
+END
+nto.mt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nto.mt
+END
+obsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/obsd64.mt
+END
+fbsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/fbsd.mh
+END
+i386gnu.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386gnu.mt
+END
+i386sco5.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/i386sco5.mh
+END
+nm-i386sol2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-i386sol2.h
+END
+ncr3000.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/ncr3000.mh
+END
+obsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/obsd.mh
+END
+fbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/fbsd.mt
+END
+nm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/nm-linux.h
+END
+tm-i386sol2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/i386/tm-i386sol2.h
+END

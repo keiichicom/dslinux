@@ -1,0 +1,61 @@
+prowiz.o: prowiz.c ../include/xmp.h prowiz.h ../include/list.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h
+ptktable.o: ptktable.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+tuning.o: tuning.c
+ac1d.o: ac1d.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+di.o: di.c prowiz.h ../include/list.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+eureka.o: eureka.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+fc-m.o: fc-m.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+fuchs.o: fuchs.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+fuzzac.o: fuzzac.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+gmc.o: gmc.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+heatseek.o: heatseek.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+kris.o: kris.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+ksm.o: ksm.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+mp.o: mp.c prowiz.h ../include/list.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+np1.o: np1.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+np2.o: np2.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+np3.o: np3.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+p60a.o: p60a.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+pm10c.o: pm10c.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+pm18a.o: pm18a.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+pha.o: pha.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+prun1.o: prun1.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+prun2.o: prun2.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+tdd.o: tdd.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+unic.o: unic.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+unic2.o: unic2.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+wn.o: wn.c prowiz.h ../include/list.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+zen.o: zen.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+tp3.o: tp3.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+p40.o: p40.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+xann.o: xann.c prowiz.h ../include/list.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h

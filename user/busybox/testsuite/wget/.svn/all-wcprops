@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wget
+END
+wget-handles-empty-path
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wget/wget-handles-empty-path
+END
+wget--O-overrides--P
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wget/wget--O-overrides--P
+END
+wget-retrieves-google-index
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wget/wget-retrieves-google-index
+END
+wget-supports--P
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/wget/wget-supports--P
+END

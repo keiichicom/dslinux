@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/source/python
+END
+py_samr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_samr.h
+END
+py_spoolss_forms.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_forms.c
+END
+py_tdbpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_tdbpack.c
+END
+py_tdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_tdb.c
+END
+py_spoolss_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_common.c
+END
+py_ntsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_ntsec.c
+END
+py_spoolss_printers_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_printers_conv.c
+END
+py_tdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_tdb.h
+END
+py_spoolss_jobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_jobs.c
+END
+py_srvsvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_srvsvc.c
+END
+py_samr_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_samr_conv.c
+END
+py_winbind.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_winbind.c
+END
+py_srvsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_srvsvc.h
+END
+gprinterdata
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/gprinterdata
+END
+py_winreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_winreg.c
+END
+py_spoolss_forms_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_forms_conv.c
+END
+py_spoolss_printerdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_printerdata.c
+END
+py_winbind.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_winbind.h
+END
+py_spoolss_drivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_drivers.c
+END
+py_winreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_winreg.h
+END
+py_spoolss.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss.c
+END
+py_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_conv.c
+END
+py_spoolss.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss.h
+END
+py_conv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_conv.h
+END
+py_srvsvc_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_srvsvc_conv.c
+END
+py_spoolss_ports_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_ports_conv.c
+END
+py_lsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_lsa.c
+END
+py_winbind_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_winbind_conv.c
+END
+py_smb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_smb.c
+END
+py_lsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_lsa.h
+END
+py_spoolss_drivers_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_drivers_conv.c
+END
+gtdbtool
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/gtdbtool
+END
+py_smb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_smb.h
+END
+py_spoolss_printers.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_printers.c
+END
+py_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_common.c
+END
+py_spoolss_ports.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_ports.c
+END
+gtkdictbrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/python/gtkdictbrowser.py
+END
+py_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_common.h
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/source/python/setup.py
+END
+py_samr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_samr.c
+END
+py_spoolss_jobs_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/source/python/py_spoolss_jobs_conv.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/source/python/README
+END

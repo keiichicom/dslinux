@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src
+END
+robot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/robot.sh
+END
+HTRobMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/HTRobMan.h
+END
+HTQueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/HTQueue.c
+END
+HTRobot.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/HTRobot.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/Makefile.in
+END
+HTQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/HTQueue.h
+END
+RobotTxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/RobotTxt.c
+END
+HTRobot.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/HTRobot.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/Makefile.am
+END
+RobotMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/RobotMain.c
+END
+RobotTxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Robot/src/RobotTxt.h
+END

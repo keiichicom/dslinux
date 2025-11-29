@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/Makefile.bsd
+END
+gomoku.6
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/gomoku.6
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/main.c
+END
+makemove.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/makemove.c
+END
+gomoku.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/gomoku.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/.svnignore
+END
+stoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/stoc.c
+END
+bdinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/bdinit.c
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/Makefrag
+END
+pickmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/pickmove.c
+END
+bdisp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/gomoku/bdisp.c
+END

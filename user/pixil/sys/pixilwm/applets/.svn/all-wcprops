@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/Makefile
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/date.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/version.c
+END
+backlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/backlight.c
+END
+loadmon.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/loadmon.c
+END
+battery.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/sys/pixilwm/applets/battery.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2361/trunk/user/console-tools/src/kbdtools
+END
+showkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/showkey.c
+END
+loadkeys.y
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/loadkeys.y
+END
+dumpkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/dumpkeys.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2361/trunk/user/console-tools/src/kbdtools/Makefile.in
+END
+setleds.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/setleds.c
+END
+analyze.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/analyze.c
+END
+kbd_mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/kbd_mode.c
+END
+getkeycodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/getkeycodes.c
+END
+setmetamode.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/setmetamode.c
+END
+loadkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/loadkeys.c
+END
+analyze.l
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/analyze.l
+END
+loadkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/loadkeys.h
+END
+setkeycodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/setkeycodes.c
+END
+mk_modmap
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/mk_modmap
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/kbdtools/Makefile.am
+END

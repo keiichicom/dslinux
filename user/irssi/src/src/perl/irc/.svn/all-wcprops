@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc
+END
+Query.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Query.xs
+END
+Server.xs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Server.xs
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/typemap
+END
+Modes.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Modes.xs
+END
+Channel.xs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Channel.xs
+END
+Ctcp.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Ctcp.xs
+END
+Dcc.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Dcc.xs
+END
+Irc.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Irc.xs
+END
+Irc.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Irc.pm
+END
+Netsplit.xs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Netsplit.xs
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/module.h
+END
+Makefile.PL.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Makefile.PL.in
+END
+Notifylist.xs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/irc/Notifylist.xs
+END

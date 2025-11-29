@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir
+END
+t-slash
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/t-slash
+END
+parents
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/parents
+END
+p-1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-1
+END
+p-thru-slink
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-thru-slink
+END
+p-2
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-2
+END
+p-slashdot
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-slashdot
+END
+special-1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/special-1
+END
+p-3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-3
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/Makefile.in
+END
+p-v
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/p-v
+END
+perm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/perm
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/coreutils/src/tests/mkdir/Makefile.am
+END

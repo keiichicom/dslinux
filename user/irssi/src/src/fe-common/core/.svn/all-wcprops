@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core
+END
+fe-log.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-log.c
+END
+fe-expandos.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-expandos.c
+END
+wcwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/wcwidth.c
+END
+hilight-text.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/hilight-text.c
+END
+windows-layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/windows-layout.h
+END
+fe-ignore.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-ignore.c
+END
+formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/formats.c
+END
+fe-exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-exec.c
+END
+hilight-text.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/hilight-text.h
+END
+fe-ignore-messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-ignore-messages.c
+END
+fe-help.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-help.c
+END
+formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/formats.h
+END
+fe-exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-exec.h
+END
+themes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/themes.c
+END
+themes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/themes.h
+END
+translation.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/translation.c
+END
+window-activity.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/window-activity.c
+END
+translation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/translation.h
+END
+fe-queries.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-queries.c
+END
+fe-common-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-common-core.c
+END
+window-activity.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/window-activity.h
+END
+completion.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/completion.c
+END
+fe-queries.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-queries.h
+END
+fe-common-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-common-core.h
+END
+command-history.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/command-history.c
+END
+completion.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/completion.h
+END
+fe-core-commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-core-commands.c
+END
+command-history.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/command-history.h
+END
+fe-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-windows.c
+END
+fe-channels.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-channels.c
+END
+fe-core-commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-core-commands.h
+END
+chat-completion.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/chat-completion.c
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/utf8.c
+END
+window-items.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/window-items.c
+END
+fe-windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-windows.h
+END
+fe-settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-settings.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/Makefile.am
+END
+fe-channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-channels.h
+END
+fe-recode.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-recode.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/module.h
+END
+chat-completion.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/chat-completion.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/utf8.h
+END
+window-items.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/window-items.h
+END
+autorun.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/autorun.c
+END
+fe-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-server.c
+END
+fe-recode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-recode.h
+END
+module-formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/module-formats.c
+END
+fe-messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-messages.c
+END
+fe-modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-modules.c
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/keyboard.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/Makefile.in
+END
+printtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/printtext.c
+END
+autorun.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/autorun.h
+END
+module-formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/module-formats.h
+END
+fe-messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/fe-messages.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/keyboard.h
+END
+windows-layout.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/windows-layout.c
+END
+printtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/printtext.h
+END
+window-commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/fe-common/core/window-commands.c
+END

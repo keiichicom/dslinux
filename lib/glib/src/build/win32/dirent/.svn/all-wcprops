@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/Makefile.am
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/dirent.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/README
+END
+wdirent.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/wdirent.c
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/makefile.msc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/Makefile.in
+END
+dirent-zip
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/dirent-zip
+END
+dirent.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/build/win32/dirent/dirent.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail
+END
+lightweight_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lightweight_mutex.hpp
+END
+lwm_win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_win32.hpp
+END
+lwm_win32_cs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_win32_cs.hpp
+END
+lwm_pthreads.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_pthreads.hpp
+END
+lwm_irix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_irix.hpp
+END
+lwm_gcc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_gcc.hpp
+END
+lwm_nop.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_nop.hpp
+END
+workaround.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/workaround.hpp
+END
+lwm_linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/lwm_linux.hpp
+END
+shared_count.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/games/noiz2sa/src/bulletml/boost/detail/shared_count.hpp
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib
+END
+stdbool_.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/stdbool_.h
+END
+stat-time.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/stat-time.h
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/getopt1.c
+END
+dup-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/dup-safer.c
+END
+fd-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/fd-safer.c
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/xalloc.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/error.c
+END
+match.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/match.c
+END
+creat-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/creat-safer.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/yesno.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/error.h
+END
+sys_time_.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/sys_time_.h
+END
+config.hin
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/config.hin
+END
+time_.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/time_.h
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/getopt.c
+END
+yesno.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/yesno.h
+END
+gnulib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/gnulib.mk
+END
+exitfail.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/exitfail.c
+END
+unistd-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/unistd-safer.h
+END
+fcntl-safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/fcntl-safer.h
+END
+unistd_.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/unistd_.h
+END
+exitfail.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/exitfail.h
+END
+fcntl_.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/fcntl_.h
+END
+stat_.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/stat_.h
+END
+getopt_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/getopt_int.h
+END
+xalloc-die.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/xalloc-die.c
+END
+utimens.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/utimens.c
+END
+stdlib_.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/stdlib_.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/Makefile.am
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/gettext.h
+END
+utimens.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/utimens.h
+END
+pipe-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/pipe-safer.c
+END
+open-safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/open-safer.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/xmalloc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/Makefile.in
+END
+unistd--.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/unistd--.h
+END
+fcntl--.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/fcntl--.h
+END
+getopt_.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gzip/src/lib/getopt_.h
+END

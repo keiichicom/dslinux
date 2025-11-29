@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm
+END
+x86nasm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/x86nasm.pl
+END
+x86ms.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/x86ms.pl
+END
+x86asm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/x86asm.pl
+END
+cbc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/cbc.pl
+END
+x86_64-xlate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/x86_64-xlate.pl
+END
+x86unix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/x86unix.pl
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/perlasm/readme
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/octet
+END
+der_encode_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/octet/der_encode_octet_string.c
+END
+der_length_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/octet/der_length_octet_string.c
+END
+der_decode_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/octet/der_decode_octet_string.c
+END

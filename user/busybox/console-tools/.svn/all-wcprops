@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools
+END
+clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/clear.c
+END
+loadfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/loadfont.c
+END
+loadkmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/loadkmap.c
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/Config.in
+END
+openvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/openvt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/Makefile
+END
+deallocvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/deallocvt.c
+END
+dumpkmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/dumpkmap.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/Makefile.in
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/reset.c
+END
+setkeycodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/setkeycodes.c
+END
+chvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/console-tools/chvt.c
+END

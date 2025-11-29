@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/busybox/libbb
+END
+u_signal_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/u_signal_names.c
+END
+safe_strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/safe_strtol.c
+END
+verror_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/verror_msg.c
+END
+get_ug_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/get_ug_id.c
+END
+my_getpwnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/my_getpwnam.c
+END
+hash_fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/hash_fd.c
+END
+remove_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/remove_file.c
+END
+full_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/full_read.c
+END
+wfopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/wfopen.c
+END
+error_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/error_msg.c
+END
+restricted_shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/restricted_shell.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/interface.c
+END
+get_last_path_component.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/get_last_path_component.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/Makefile.in
+END
+fflush_stdout_and_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/fflush_stdout_and_exit.c
+END
+chomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/chomp.c
+END
+inet_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/inet_common.c
+END
+bb_askpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/bb_askpass.c
+END
+my_getgrnam.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/my_getgrnam.c
+END
+create_icmp6_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/create_icmp6_socket.c
+END
+safe_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/safe_read.c
+END
+mode_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/mode_string.c
+END
+default_error_retval.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/default_error_retval.c
+END
+find_mount_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/find_mount_point.c
+END
+getopt_ulflags.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/getopt_ulflags.c
+END
+warn_ignoring_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/warn_ignoring_args.c
+END
+concat_path_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/concat_path_file.c
+END
+xgethostbyname2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xgethostbyname2.c
+END
+setup_environment.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/setup_environment.c
+END
+process_escape_sequence.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/process_escape_sequence.c
+END
+human_readable.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/human_readable.c
+END
+bb_asprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/bb_asprintf.c
+END
+read_package_field.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/read_package_field.c
+END
+last_char_is.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/last_char_is.c
+END
+print_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/print_file.c
+END
+run_shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/run_shell.c
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/syscalls.c
+END
+fgets_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/fgets_str.c
+END
+inode_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/inode_hash.c
+END
+get_terminal_width_height.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/get_terminal_width_height.c
+END
+obscure.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/obscure.c
+END
+module_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/module_syscalls.c
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/dump.c
+END
+find_pid_by_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/find_pid_by_name.c
+END
+qmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/qmodule.c
+END
+xfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xfuncs.c
+END
+messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/messages.c
+END
+herror_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/herror_msg.c
+END
+speed_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/speed_table.c
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/login.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/README
+END
+full_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/full_write.c
+END
+perror_nomsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/perror_nomsg.c
+END
+parse_mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/parse_mode.c
+END
+perror_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/perror_msg.c
+END
+my_getug.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/my_getug.c
+END
+device_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/device_open.c
+END
+syslog_msg_with_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/syslog_msg_with_name.c
+END
+xreadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xreadlink.c
+END
+parse_number.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/parse_number.c
+END
+mtab_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/mtab_file.c
+END
+skip_whitespace.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/skip_whitespace.c
+END
+mtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/mtab.c
+END
+copyfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/copyfd.c
+END
+kernel_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/kernel_version.c
+END
+ask_confirmation.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/ask_confirmation.c
+END
+safe_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/safe_write.c
+END
+pw_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/pw_encrypt.c
+END
+my_getpwuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/my_getpwuid.c
+END
+my_getgrgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/my_getgrgid.c
+END
+make_directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/make_directory.c
+END
+llist_add_to.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/llist_add_to.c
+END
+error_msg_and_die.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/error_msg_and_die.c
+END
+find_root_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/find_root_device.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/printf.c
+END
+xgetularg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xgetularg.c
+END
+xgetcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xgetcwd.c
+END
+procps.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/procps.c
+END
+get_line_from_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/get_line_from_file.c
+END
+copy_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/copy_file.c
+END
+compare_string_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/compare_string_array.c
+END
+pwd2spwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/pwd2spwd.c
+END
+run_parts.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/run_parts.c
+END
+wfopen_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/wfopen_input.c
+END
+xgetlarg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xgetlarg.c
+END
+create_icmp_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/create_icmp_socket.c
+END
+correct_password.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/correct_password.c
+END
+xregcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xregcomp.c
+END
+fclose_nonstdin.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/fclose_nonstdin.c
+END
+concat_subpath_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/concat_subpath_file.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/Makefile
+END
+vdprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/vdprintf.c
+END
+vherror_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/vherror_msg.c
+END
+change_identity.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/change_identity.c
+END
+isdirectory.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/isdirectory.c
+END
+safe_strncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/safe_strncpy.c
+END
+vfork_daemon_rexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/vfork_daemon_rexec.c
+END
+get_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/get_console.c
+END
+xgethostbyname.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xgethostbyname.c
+END
+recursive_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/recursive_action.c
+END
+vperror_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/vperror_msg.c
+END
+simplify_path.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/simplify_path.c
+END
+loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/loop.c
+END
+herror_msg_and_die.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/herror_msg_and_die.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/trim.c
+END
+perror_nomsg_and_die.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/perror_nomsg_and_die.c
+END
+xconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/xconnect.c
+END
+perror_msg_and_die.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/libbb/perror_msg_and_die.c
+END

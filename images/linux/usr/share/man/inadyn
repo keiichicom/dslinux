@@ -1,0 +1,252 @@
+
+INADYN(8)                 System management commands
+INADYN(8)
+
+
+
+NNAAMMEE
+       inadyn - a client for open DNS servers.
+
+SSYYNNOOPPSSIISS
+       iinnaaddyynn  [-h  |  --help]  [-u  | --username
+       _u_s_e_r_n_a_m_e ] [-p | -- password
+       _p_a_s_s_w_o_r_d  ]  [-a  |  --alias[,hash]
+       _a_l_i_a_s_,_h_a_s_h  [-a  |  --alias[,hash]
+       _a_n_o_t_h_e_r___a_l_i_a_s_,_t_h_e___o_t_h_e_r___h_a_s_h
+       ...   ]]   [--input_file
+       _p_a_t_h_/_n_a_m_e  ] [--ip_server_name
+       _s_e_r_v_e_r_[_:_p_o_r_t_]
+       _u_r_l  ]   [--dyndns_server_name[:port]
+       _s_e_r_v_e_r_[_:_p_o_r_t_]   ]
+       [--dyndns_system  _s_e_r_v_i_c_e
+       ]  [--proxy_server[:port]
+       _p_r_o_x_y_[_:_p_o_r_t_]  ]
+       [--update_period  _m_s  ]  [--update_period_sec
+       _s_e_c   ] [--forced_update_period  _s_e_c  ]
+       [--log_file _p_a_t_h_/_n_a_m_e ] [--background]
+       [--verbose  _l_e_v_e_l   ]   [--iterations
+       _i_t_e_r_a_t_i_o_n_s   ]   [--syslog]   ]
+       [--change_persona _u_i_d_[_:_g_i_d_] ]
+
+DDEESSCCRRIIPPTTIIOONN
+       iinnaaddyynn  is  a  client for `open' name
+       servers. That is, it let the user have an Internet
+       recognized name for his machine by transferring to him
+       some  control  over  a name server that he does not
+       manage. Some of the services that are offered by  those
+       open  name  servers  are  free  of charge,  and  work
+       even when the client machine does not have a static IP.
+       The   name   servers   that   are   supported   by
+       iinnaayynn   are: http://www.dyndns.org ⟨⟩
+       and http://freedns.afraid.org ⟨⟩
+
+       Its  basic  operation is to periodically check whether
+       the actual IP of the client machine is the same one
+       that is recorded in the name server, and update the
+       name server records when there is a mismatch.
+
+   OOPPTTIIOONNSS
+       _-_h_, _-_-_h_e_l_p
+              Print a summary of the options to
+              iinnaaddyynn and exit.
+
+       _-_u_, _-_-_u_s_e_r_n_a_m_e
+              The username, if applicable. This might be
+              referred to as hash.
+
+       _-_p_, _-_-_p_a_s_s_w_o_r_d
+              The password, if applicable.
+
+       _-_a_, _-_-_a_l_i_a_s_[_,_h_a_s_h_]
+              A  host  name  alias. This option can appear
+              multiple times, for each domain that has the
+              same IP.
+
+       _-_-_i_n_p_u_t___f_i_l_e
+              The file name that contains inadyn command
+              options  exactly  as specified  in  the  command
+              line  syntax (adds to those already present in
+              the cmd line). The default configuration file
+              name is '/etc/inadyn.conf'.  It  is looked
+              at automatically if iinnaaddyynn is
+              called without any  command  line  options.
+              The  format  is  as expected for a **NIX config
+              the hash character is used to com‐ ment entire
+              lines. Spaces are ingored. The long options
+              may  be specified without -- if placed at the
+              beginning of the line.
+
+       _-_-_i_p___s_e_r_v_e_r___n_a_m_e_[_:_p_o_r_t_]
+       _u_r_l
+              The   client   IP   is  detected  by  calling
+              'url'  from  this 'ip_server_name:port'.
+              Defaults to checkip.dyndns.org:80 /.
+
+       _-_-_d_y_n_d_n_s___s_e_r_v_e_r___n_a_m_e_[_:_p_o_r_t_]
+              The server that receives the update DNS
+              requests. When no  proxy is  specified  it is
+              sufficient to set the dyndns_system so that the
+              default servers will be taken.  The  option
+              is  useful  for generic DynDNS services that
+              support HTTP update.
+
+       _-_-_d_y_n_d_n_s___s_e_r_v_e_r___u_r_l
+       _n_a_m_e
+              The update path inside the DynDNS server.
+
+       _-_-_d_y_n_d_n_s___s_y_s_t_e_m
+              An  optional  DNS  service.
+              For  http://www.dyndns.org  ⟨⟩
+              the acceptable services are one of
+              dyndns@dyndns.org,  statdns@dyn‐
+              dns.org  or custom@dyndns.org. There
+              is only one acceptable ser‐ vice   for
+              http://freedns.afraid.org    ⟨⟩    ,    which
+              is default@freedns.afraid.org.       Other
+              services      are: default@zoneedit.com,
+              custom@http_svr_basic_auth.  The  default service
+              is  dyndns@dyndns.org,  which is believed to
+              be used by most users, at least initially.
+
+       _-_-_p_r_o_x_y___s_e_r_v_e_r_[_:_p_o_r_t_]
+              An http proxy server name and port. The default
+              is none.
+
+       _-_-_u_p_d_a_t_e___p_e_r_i_o_d
+              How often the IP is  checked.  This  value
+              denotes  millisecond (There  are  1000
+              milliseconds  in  one second). The default is
+              about 1 minute. The maximum is 10 days.
+
+       _-_-_u_p_d_a_t_e___p_e_r_i_o_d___s_e_c
+              How often the IP is checked. Here the value
+              denotes seconds. The default is about 1
+              minute. The maximum value is 10 days.
+
+       _-_-_f_o_r_c_e_d___u_p_d_a_t_e___p_e_r_i_o_d
+              How  often  the  IP should be updated even if
+              it is not changed.  The time should be given
+              in seconds.
+
+       _-_-_l_o_g___f_i_l_e
+              The name, including the full path, of a log file.
+
+       _-_-_b_a_c_k_g_r_o_u_n_d
+              run in background. Output is sent to the UNIX
+              syslog  facilities or to a log file, if one
+              was specified.
+
+       _-_-_v_e_r_b_o_s_e
+              Set the debug level, which is an integer between
+              0 to 5.
+
+       _-_-_i_t_e_r_a_t_i_o_n_s
+              Set  the  number  of  DNS updates. The default
+              is 0, which means infinity.
+
+       _-_-_s_y_s_l_o_g
+              Explicitly sending the output to a syslog  like
+              file,  such  as /var/log/messages.
+
+       _-_-_c_h_a_n_g_e___p_e_r_s_o_n_a
+       _u_i_d_[_:_g_i_d_]
+              After  init  changes  user ID and group ID to
+              the provided ones.  This allows dropping unneeded
+              [root] privileges after startup.
+
+
+
+TTYYPPIICCAALL UUSSAAGGEE
+   hhttttpp::////wwwwww..ddyynnddnnss..oorrgg
+       ⟨⟩
+
+       iinnaaddyynn
+               -u username -p password -a my.registered.name
+
+       iinnaaddyynn --username test --password test
+       --update_period  60000  --alias
+              test.homeip.net --alias my.second.domain
+
+       iinnaaddyynn --background -u test -p test
+       --update_period 60000 --alias inar‐
+              cis.homeip.net   --alias   my.second.domain
+              --log_file    ina‐ dyn_srv.log
+
+   hhttttpp::////ffrreeeeddnnss..aaffrraaiidd..oorrgg
+       ⟨⟩
+
+       iinnaaddyynn --dyndns_service
+       default@freedns.afraid.org    -a   my.regis‐
+              trated.name,hash_from_freedns
+
+       iinnaaddyynn --update_period 60000 --alias
+       test.homeip.net,hash_for_host1  -a
+              my.second.domain,hash2
+              --dyndns_system default@freedns.afraid.org
+
+       The 'hash' should be extracted from the grab url batch
+       file that can be downloaded  from  the  site. A single
+       hashed (base64 encoded) string is preferred upon a
+       username and password pair, apparently to  reduce  the
+       computational  resources  that is required on their
+       side. Unfortunately the hash can not be computed by
+       inadyn because it requires the index to the  username
+       record  in the freedns database, which is not known. The
+       simplest solution seems to be a copy&paste action
+       from  the  grab  url batch file offered on their
+       website. When the batch file looks is like
+
+       graburl
+       http://freedns.afraid.org/dynamic/update.php?YUGIUGSEIUFGOUI‐
+       HEOIFEOIHJFEIO=
+
+       the hash string, which is what the user should copy
+       and paste,  is  the string  that begins right after the
+       '?' character and ends with the end of line. This string
+       shell be used as the username in  inadyn  command.
+       When  the user has several names then each name should
+       be followed with that name hash string.
+
+OOUUTTPPUUTT
+       iinnaaddyynn prints a message when the IP is
+       updated. If no update is  needed then  by  default it
+       prints a single '.' character, unless --verbose is
+       set to 0.  Therefore, unless --verbose is set to 0,
+       the log  file  will contains  lot  of  dots. When the
+       connection goes down it could be that iinnaaddyynn
+       will print some error messages. Those are harmless
+       and should be followed by 'OK' messages after the
+       connection is back up.
+
+
+SSiiggnnaallss
+       Any  of  the  SIG_HUP, SIG_INT, SIG_QUIT will cause
+       inadyn to terminate gracefully.
+
+
+SSEEEE AALLSSOO
+   OOtthheerr mmaannuuaall ppaaggeess
+       The syntax  of  the  optional  configuration
+       file  is  given  by  iinnaa‐‐
+       ddyynn..ccoonnff((55))..
+
+   IInntteerrnneett rreessoouurrcceess
+       IInnaaddyynn ´s home page is
+       http://inadyn.ina-tech.net.  ⟨⟩
+
+AAUUTTHHOORR
+       iinnaaddyynn was written by Narcis Ilisei,
+       <inarcis2002@hotpop.com>.
+
+       This manual page was written by Shaul Karl,
+       <shaul@debian.org>, for the DDeebbiiaann
+       GGNNUU//LLiinnuuxx system, based on the
+       readme.html file that is found in the source.
+
+
+
+
+
+
+Linux applications               October, 2004
+INADYN(8)

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32
+END
+openvpn.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/openvpn.nsi
+END
+setpath.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/setpath.nsi
+END
+openvpn.nsi.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/openvpn.nsi.in
+END
+sample.ovpn
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/sample.ovpn
+END
+buildopensslpath.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/buildopensslpath.bat
+END
+prebuild
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/prebuild
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/.svnignore
+END
+openssl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/openssl.bat
+END
+u2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/install-win32/u2d.c
+END

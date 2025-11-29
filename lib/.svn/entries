@@ -1,0 +1,128 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/lib
+https://svn.dslinux.org/svn
+
+
+
+2009-01-04T15:34:56.196896Z
+2408
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+libpcap
+dir
+
+libsndfile
+dir
+
+libpng
+dir
+
+libwww
+dir
+
+libjpeg
+dir
+
+libg
+dir
+
+glib
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:19.384805Z
+a9d84af183db87b5b1210dcfa9b8910e
+2009-01-04T15:34:56.196896Z
+2408
+dslinux_sonny_jim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8538
+
+sdl
+dir
+
+libm
+dir
+
+gpm
+dir
+
+libsamplerate
+dir
+
+gettext
+dir
+
+sdl_mixer
+dir
+
+uClibc++
+dir
+
+libmad
+dir
+
+libssl
+dir
+
+libtremor
+dir
+
+zlib
+dir
+
+audiofile
+dir
+
+libid3tag
+dir
+
+libiconv
+dir
+
+libncurses
+dir
+

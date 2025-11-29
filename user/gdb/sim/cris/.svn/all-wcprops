@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris
+END
+cris-desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cris-desc.c
+END
+arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/arch.c
+END
+decodev32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/decodev32.c
+END
+decodev10.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/decodev10.h
+END
+sim-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/sim-main.h
+END
+cris-desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cris-desc.h
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/devices.c
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/arch.h
+END
+decodev32.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/decodev32.h
+END
+sim-if.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/sim-if.c
+END
+modelv10.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/modelv10.c
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/config.in
+END
+modelv32.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/modelv32.c
+END
+cris-sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cris-sim.h
+END
+crisv10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/crisv10f.c
+END
+crisv32f.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/crisv32f.c
+END
+rvdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/rvdummy.c
+END
+mloop.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/mloop.in
+END
+tconfig.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/tconfig.in
+END
+cpuv10.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cpuv10.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/configure.ac
+END
+cpuv32.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cpuv32.c
+END
+cpuv10.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cpuv10.h
+END
+cris-opc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cris-opc.h
+END
+cpuall.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cpuall.h
+END
+cpuv32.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cpuv32.h
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/traps.c
+END
+dv-rv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/dv-rv.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/configure
+END
+semcrisv10f-switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/semcrisv10f-switch.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/Makefile.in
+END
+semcrisv32f-switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/semcrisv32f-switch.c
+END
+dv-cris.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/dv-cris.c
+END
+decodev10.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/decodev10.c
+END
+cris-tmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/sim/cris/cris-tmpl.c
+END

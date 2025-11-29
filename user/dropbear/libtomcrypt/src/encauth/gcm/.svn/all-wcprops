@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm
+END
+gcm_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_memory.c
+END
+gcm_add_aad.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_add_aad.c
+END
+gcm_gf_mult.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_gf_mult.c
+END
+gcm_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_process.c
+END
+gcm_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_test.c
+END
+gcm_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_reset.c
+END
+gcm_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_init.c
+END
+gcm_done.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_done.c
+END
+gcm_add_iv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/encauth/gcm/gcm_add_iv.c
+END

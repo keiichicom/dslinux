@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc
+END
+version.texi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/version.texi
+END
+texi2dvi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/texi2dvi
+END
+history.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/history.3
+END
+history.texi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/history.texi
+END
+fdl.texi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/fdl.texi
+END
+texi2html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/texi2html
+END
+rluserman.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/rluserman.texi
+END
+rlman.texi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/rlman.texi
+END
+hsuser.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/hsuser.texi
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/Makefile.in
+END
+ChangeLog.gdb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/ChangeLog.gdb
+END
+rluser.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/rluser.texi
+END
+readline.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/readline.3
+END
+hstech.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/hstech.texi
+END
+rltech.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/rltech.texi
+END
+inc-hist.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/readline/doc/inc-hist.texinfo
+END

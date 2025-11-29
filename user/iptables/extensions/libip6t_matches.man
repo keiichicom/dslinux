@@ -1,0 +1,276 @@
+.SS ah
+This module matches the SPIs in AH header of IPSec packets.
+.TP
+.BR "--ahspi " "[!] \fIspi\fP[:\fIspi\fP]"
+.SS condition
+This matches if a specific /proc filename is '0' or '1'.
+.TP
+.BI "--condition " "[!] filename"
+Match on boolean value stored in /proc/net/ip6t_condition/filename file
+.SS dst
+This module matches the IPv6 destination header options
+.TP
+.BI "--dst-len" "[!]" "length"
+Total length of this header
+.TP
+.BI "--dst-opts " "TYPE[:LEN],[,TYPE[:LEN]...]"
+Options and it's length (List).
+.SS esp
+This module matches the SPIs in ESP header of IPSec packets.
+.TP
+.BR "--espspi " "[!] \fIspi\fP[:\fIspi\fP]"
+.SS eui64
+This module matches the EUI64 part of a stateless autoconfigured IPv6 address.  It compares the source MAC address with the lower 64 bits of the IPv6 address. 
+.SS frag
+This module matches the time IPv6 fragmentathion header
+.TP
+.BI "--fragid " "[!]" "id[:id]"
+Matches the given fragmentation ID (range).
+.TP
+.BI "--fraglen " "[!]" "length"
+Matches the total length of this header.
+.TP
+.BI "--fragres "
+Matches the reserved field, too.
+.TP
+.BI "--fragfirst "
+Matches on the first fragment.
+.TP
+.BI "[--fragmore]"
+Matches if there are more fragments.
+.TP
+.BI "[--fraglast]"
+Matches if this is the last fragement.
+.SS fuzzy
+This module matches a rate limit based on a fuzzy logic controller [FLC]
+.TP
+.BI "--lower-limit  "number"
+Specifies the lower limit (in packets per second).
+.TP
+.BI "--upper-limit " "number"
+Specifies the upper limit (in packets per second).
+.SS hbh
+This module matches the IPv6 hop-by-hop header options
+.TP
+.BI "--hbh-len" "[!]" "length"
+Total length of this header
+.TP
+.BI "--hbh-opts " "TYPE[:LEN],[,TYPE[:LEN]...]"
+Options and it's length (List).
+.SS hl
+This module matches the HOPLIMIT field in the IPv6 header.
+.TP
+.BI "--hl-eq " "value"
+Matches if HOPLIMIT equals the given value.
+.TP
+.BI "--hl-lt " "ttl"
+Matches if HOPLIMIT is less than the given value.
+.TP
+.BI "--hl-gt " "ttl"
+Matches if HOPLIMIT is greater than the given value.
+.SS icmpv6
+This extension is loaded if `--protocol ipv6-icmp' or `--protocol icmpv6' is
+specified. It provides the following option:
+.TP
+.BR "--icmpv6-type " "[!] \fItypename\fP"
+This allows specification of the ICMP type, which can be a numeric
+IPv6-ICMP type, or one of the IPv6-ICMP type names shown by the command
+.nf
+ ip6tables -p ipv6-icmp -h
+.fi
+.SS ipv6header
+This module matches on IPv6 option headers
+.TP
+.BI "--header " "[!]" "headers"
+Matches the given type of headers.  
+Names: hop,dst,route,frag,auth,esp,none,proto
+Long Names: hop-by-hop,ipv6-opts,ipv6-route,ipv6-frag,ah,esp,ipv6-nonxt,protocol
+Numbers: 0,60,43,44,51,50,59
+.TP
+.BI "--soft"
+The header CONTAINS the specified extensions.
+.SS length
+This module matches the length of a packet against a specific value
+or range of values.
+.TP
+.BR "--length " "\fIlength\fP[:\fIlength\fP]"
+.SS limit
+This module matches at a limited rate using a token bucket filter.
+A rule using this extension will match until this limit is reached
+(unless the `!' flag is used).  It can be used in combination with the
+.B LOG
+target to give limited logging, for example.
+.TP
+.BI "--limit " "rate"
+Maximum average matching rate: specified as a number, with an optional
+`/second', `/minute', `/hour', or `/day' suffix; the default is
+3/hour.
+.TP
+.BI "--limit-burst " "number"
+Maximum initial number of packets to match: this number gets
+recharged by one every time the limit specified above is not reached,
+up to this number; the default is 5.
+.SS mac
+.TP
+.BR "--mac-source " "[!] \fIaddress\fP"
+Match source MAC address.  It must be of the form XX:XX:XX:XX:XX:XX.
+Note that this only makes sense for packets coming from an Ethernet device
+and entering the
+.BR PREROUTING ,
+.B FORWARD
+or
+.B INPUT
+chains.
+.SS mark
+This module matches the netfilter mark field associated with a packet
+(which can be set using the
+.B MARK
+target below).
+.TP
+.BR "--mark " "\fIvalue\fP[/\fImask\fP]"
+Matches packets with the given unsigned mark value (if a mask is
+specified, this is logically ANDed with the mask before the
+comparison).
+.SS multiport
+This module matches a set of source or destination ports.  Up to 15
+ports can be specified.  It can only be used in conjunction with
+.B "-p tcp"
+or
+.BR "-p udp" .
+.TP
+.BR "--source-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the source port is one of the given ports.  The flag
+.B --sports
+is a convenient alias for this option.
+.TP
+.BR "--destination-ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the destination port is one of the given ports.  The flag
+.B --dports
+is a convenient alias for this option.
+.TP
+.BR "--ports " "\fIport\fP[,\fIport\fP[,\fIport\fP...]]"
+Match if the both the source and destination ports are equal to each
+other and to one of the given ports.
+.SS nth
+This module matches every `n'th packet
+.TP
+.BI "--every " "value"
+Match every `value' packet
+.TP
+.BI "[" "--counter " "num" "]"
+Use internal counter number `num'.  Default is `0'.
+.TP
+.BI "[" "--start " "num" "]"
+Initialize the counter at the number `num' insetad of `0'.  Most between `0'
+and `value'-1.
+.TP
+.BI "[" "--packet " "num" "]"
+Match on `num' packet.  Most be between `0' and `value'-1.
+.SS owner
+This module attempts to match various characteristics of the packet
+creator, for locally-generated packets.  It is only valid in the
+.B OUTPUT
+chain, and even this some packets (such as ICMP ping responses) may
+have no owner, and hence never match.  This is regarded as experimental.
+.TP
+.BI "--uid-owner " "userid"
+Matches if the packet was created by a process with the given
+effective user id.
+.TP
+.BI "--gid-owner " "groupid"
+Matches if the packet was created by a process with the given
+effective group id.
+.TP
+.BI "--pid-owner " "processid"
+Matches if the packet was created by a process with the given
+process id.
+.TP
+.BI "--sid-owner " "sessionid"
+Matches if the packet was created by a process in the given session
+group.
+.SS random
+This module randomly matches a certain percentage of all packets.
+.TP
+.BI "--average " "percent"
+Matches the given percentage.  If omitted, a probability of 50% is set. 
+.SS rt
+Match on IPv6 routing header
+.TP
+.BI "--rt-type " "[!]" "type"
+Match the type (numeric).
+.TP
+.BI "--rt-segsleft" "[!]" "num[:num]"
+Match the `segments left' field (range).
+.TP
+.BI "--rt-len" "[!]" "length"
+Match the length of this header
+.TP
+.BI "--rt-0-res"
+Match the reserved field, too (type=0)
+.TP
+.BI "--rt-0-addrs ADDR[,ADDR...]
+Match type=0 addresses (list).
+.TP
+.BI "--rt-0-not-strict"
+List of type=0 addresses is not a strict list.
+.SS tcp
+These extensions are loaded if `--protocol tcp' is specified. It
+provides the following options:
+.TP
+.BR "--source-port " "[!] \fIport\fP[:\fIport\fP]"
+Source port or port range specification. This can either be a service
+name or a port number. An inclusive range can also be specified,
+using the format
+.IR port : port .
+If the first port is omitted, "0" is assumed; if the last is omitted,
+"65535" is assumed.
+If the second port greater then the first they will be swapped.
+The flag
+.B --sport
+is a convenient alias for this option.
+.TP
+.BR "--destination-port " "[!] \fIport\fP[:\fIport\fP]"
+Destination port or port range specification.  The flag
+.B --dport
+is a convenient alias for this option.
+.TP
+.BR "--tcp-flags " "[!] \fImask\fP \fIcomp\fP"
+Match when the TCP flags are as specified.  The first argument is the
+flags which we should examine, written as a comma-separated list, and
+the second argument is a comma-separated list of flags which must be
+set.  Flags are: 
+.BR "SYN ACK FIN RST URG PSH ALL NONE" .
+Hence the command
+.nf
+ ip6tables -A FORWARD -p tcp --tcp-flags SYN,ACK,FIN,RST SYN
+.fi
+will only match packets with the SYN flag set, and the ACK, FIN and
+RST flags unset.
+.TP
+.B "[!] --syn"
+Only match TCP packets with the SYN bit set and the ACK and RST bits
+cleared.  Such packets are used to request TCP connection initiation;
+for example, blocking such packets coming in an interface will prevent
+incoming TCP connections, but outgoing TCP connections will be
+unaffected.
+It is equivalent to \fB--tcp-flags SYN,RST,ACK SYN\fP.
+If the "!" flag precedes the "--syn", the sense of the
+option is inverted.
+.TP
+.BR "--tcp-option " "[!] \fInumber\fP"
+Match if TCP option set.
+.SS udp
+These extensions are loaded if `--protocol udp' is specified.  It
+provides the following options:
+.TP
+.BR "--source-port " "[!] \fIport\fP[:\fIport\fP]"
+Source port or port range specification.
+See the description of the
+.B --source-port
+option of the TCP extension for details.
+.TP
+.BR "--destination-port " "[!] \fIport\fP[:\fIport\fP]"
+Destination port or port range specification.
+See the description of the
+.B --destination-port
+option of the TCP extension for details.

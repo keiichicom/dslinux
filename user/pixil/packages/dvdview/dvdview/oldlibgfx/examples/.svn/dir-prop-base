@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 78
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+test-libvideogfx
+bitstream_output
+
+END

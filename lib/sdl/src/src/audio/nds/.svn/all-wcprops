@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/nds
+END
+SDL_ndsaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/nds/SDL_ndsaudio.h
+END
+sound9.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/nds/sound9.c
+END
+soundcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/nds/soundcommon.h
+END
+SDL_ndsaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/nds/SDL_ndsaudio.c
+END

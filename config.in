@@ -1,0 +1,32 @@
+mainmenu_name 'DSLinux Configuration'
+mainmenu_option next_comment
+comment 'DSLinux build type selection'
+comment 'To pick a build, move the cursor all the way down to the'
+comment 'selection menu and press return.'
+comment 'See the help menu inside the selection menu if you'
+comment 'are not sure what type of build you want.'
+define_bool CONFIG_DEFAULTS_NINTENDO y
+if [ "$CONFIG_DEFAULTS_NINTENDO" = "y" ]; then
+choice '' "DLDI CONFIG_DEFAULTS_NINTENDO_DLDI \
+DLDI-EXT2 CONFIG_DEFAULTS_NINTENDO_DLDI_EXT2 \
+DSGBA CONFIG_DEFAULTS_NINTENDO_DSGBA \
+DSMEM CONFIG_DEFAULTS_NINTENDO_DSMEM \
+GBAMP CONFIG_DEFAULTS_NINTENDO_GBAMP \
+GBAMP-EXT2 CONFIG_DEFAULTS_NINTENDO_GBAMP_EXT2 \
+NDS CONFIG_DEFAULTS_NINTENDO_NDS \
+" DLDI
+fi
+bool 'Compile a release build'	CONFIG_DEFAULTS_RELEASE_BUILD
+endmenu
+mainmenu_option next_comment
+comment 'Kernel/Library/Defaults Selection'
+comment 'Kernel is linux-2.6.x'
+define_bool CONFIG_DEFAULTS_KERNEL_2_6 y
+choice 'Libc Version' "None CONFIG_DEFAULTS_LIBC_NONE \
+uClibc CONFIG_DEFAULTS_LIBC_UCLIBC \
+" uClibc
+bool 'Default all settings (lose changes)'	CONFIG_DEFAULTS_OVERRIDE
+bool 'Customize Kernel Settings'			CONFIG_DEFAULTS_KERNEL
+bool 'Customize Vendor/User Settings'		CONFIG_DEFAULTS_VENDOR
+bool 'Update Default Vendor Settings'		CONFIG_DEFAULTS_VENDOR_UPDATE
+endmenu

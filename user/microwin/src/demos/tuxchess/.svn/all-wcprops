@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess
+END
+README.license
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/README.license
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/search.c
+END
+images.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/images.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/.svnignore
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/data.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/README
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/data.h
+END
+README.chess
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/README.chess
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/main.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/INSTALL
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/defs.h
+END
+eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/eval.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/board.c
+END
+protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/protos.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/tuxchess/Makefile
+END

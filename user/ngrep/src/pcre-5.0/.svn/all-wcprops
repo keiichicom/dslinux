@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/COPYING
+END
+RunTest.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/RunTest.in
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/config.in
+END
+pcretest.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcretest.c
+END
+ucpinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ucpinternal.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/NEWS
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/mkinstalldirs
+END
+ucptable.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ucptable.c
+END
+ucptypetable.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ucptypetable.c
+END
+pcre.def
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcre.def
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ChangeLog
+END
+pcregrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcregrep.c
+END
+printint.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/printint.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/README
+END
+pcreposix.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcreposix.c
+END
+get.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/get.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/internal.h
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcreposix.h
+END
+NON-UNIX-USE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/NON-UNIX-USE
+END
+dftables.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/dftables.c
+END
+ucp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ucp.c
+END
+pcre.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcre.c
+END
+libpcre.def
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/libpcre.def
+END
+ucp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ucp.h
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/install-sh
+END
+pcredemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcredemo.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/AUTHORS
+END
+libpcre.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/libpcre.pc.in
+END
+makevp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/makevp.bat
+END
+maketables.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/maketables.c
+END
+study.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/study.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/config.sub
+END
+pcre.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcre.in
+END
+libpcreposix.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/libpcreposix.def
+END
+pcre-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/pcre-config.in
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/LICENCE
+END
+perltest
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/perltest
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ngrep/src/pcre-5.0/INSTALL
+END

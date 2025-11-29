@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages
+END
+ntlm_auth.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/ntlm_auth.1
+END
+mount.cifs.8
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/mount.cifs.8
+END
+lmhosts.5
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/lmhosts.5
+END
+smbumount.8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbumount.8
+END
+smbspool.8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbspool.8
+END
+tdbdump.8
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/tdbdump.8
+END
+smbmnt.8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbmnt.8
+END
+smbmount.8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbmount.8
+END
+smbsh.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbsh.1
+END
+smbclient.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbclient.1
+END
+smbget.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbget.1
+END
+smbcquotas.1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbcquotas.1
+END
+findsmb.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/findsmb.1
+END
+pdbedit.8
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/pdbedit.8
+END
+profiles.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/profiles.1
+END
+wbinfo.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/wbinfo.1
+END
+smbstatus.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbstatus.1
+END
+swat.8
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/swat.8
+END
+smbcacls.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbcacls.1
+END
+smbtar.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbtar.1
+END
+samba.7
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/samba.7
+END
+smbd.8
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbd.8
+END
+net.8
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/net.8
+END
+pam_winbind.8
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/pam_winbind.8
+END
+vfstest.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/vfstest.1
+END
+testparm.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/testparm.1
+END
+smbtree.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbtree.1
+END
+winbindd.8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/winbindd.8
+END
+nmblookup.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/nmblookup.1
+END
+tdbbackup.8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/tdbbackup.8
+END
+smbpasswd.5
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbpasswd.5
+END
+log2pcap.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/log2pcap.1
+END
+smb.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smb.conf.5
+END
+smbpasswd.8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbpasswd.8
+END
+smbgetrc.5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbgetrc.5
+END
+smbcontrol.1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/smbcontrol.1
+END
+testprns.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/testprns.1
+END
+editreg.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/editreg.1
+END
+rpcclient.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/rpcclient.1
+END
+nmbd.8
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/docs/manpages/nmbd.8
+END

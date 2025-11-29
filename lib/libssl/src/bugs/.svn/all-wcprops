@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs
+END
+alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/alpha.c
+END
+dggccbug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/dggccbug.c
+END
+sgiccbug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/sgiccbug.c
+END
+SSLv3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/SSLv3
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/stream.c
+END
+ultrixcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/ultrixcc.c
+END
+MS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/MS
+END
+sslref.dif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/bugs/sslref.dif
+END

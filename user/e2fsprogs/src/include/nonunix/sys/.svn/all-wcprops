@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys
+END
+wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/wait.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/resource.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/socket.h
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/ioctl.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/time.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/file.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/include/nonunix/sys/param.h
+END

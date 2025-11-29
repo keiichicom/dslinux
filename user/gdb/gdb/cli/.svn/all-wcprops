@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli
+END
+cli-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-utils.c
+END
+cli-interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-interp.c
+END
+cli-setshow.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-setshow.h
+END
+cli-decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-decode.c
+END
+cli-script.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-script.c
+END
+cli-dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-dump.c
+END
+cli-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-utils.h
+END
+cli-cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-cmds.c
+END
+cli-logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-logging.c
+END
+cli-decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-decode.h
+END
+cli-script.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-script.h
+END
+cli-dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-dump.h
+END
+cli-cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-cmds.h
+END
+cli-setshow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/cli/cli-setshow.c
+END

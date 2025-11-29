@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src
+END
+load_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_ogg.h
+END
+music_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_ogg.h
+END
+wavestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/wavestream.h
+END
+load_voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_voc.c
+END
+VisualC.zip
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/VisualC.zip
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/COPYING
+END
+playwave.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/playwave.c
+END
+playmus.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/playmus.c
+END
+load_voc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_voc.h
+END
+SDL_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/SDL_mixer.h
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/gcc-fat.sh
+END
+MPWmake.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/MPWmake.sea.bin
+END
+SDL_mixer.spec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/SDL_mixer.spec
+END
+SDL_mixer.qpg.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/SDL_mixer.qpg.in
+END
+dynamic_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/dynamic_mp3.c
+END
+SDL_mixer.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/SDL_mixer.spec.in
+END
+load_aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_aiff.c
+END
+dynamic_mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/dynamic_mp3.h
+END
+load_aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_aiff.h
+END
+effect_stereoreverse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/effect_stereoreverse.c
+END
+effects_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/effects_internal.c
+END
+Watcom-OS2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/Watcom-OS2.zip
+END
+effects_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/effects_internal.h
+END
+effect_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/effect_position.c
+END
+dynamic_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/dynamic_ogg.c
+END
+CWProjects.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/CWProjects.sea.bin
+END
+music.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music.c
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mixer.c
+END
+dynamic_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/dynamic_ogg.h
+END
+Xcode.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/Xcode.tar.gz
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/autogen.sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/Makefile.in
+END
+music_mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_mad.c
+END
+music_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_cmd.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/configure.in
+END
+music_mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_mad.h
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/version.rc
+END
+music_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_cmd.h
+END
+load_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/load_ogg.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/README
+END
+music_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/music_ogg.c
+END
+wavestream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/wavestream.c
+END

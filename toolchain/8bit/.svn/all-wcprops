@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/toolchain/8bit
+END
+gcc-4.1.2-8bit.diff
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/toolchain/8bit/gcc-4.1.2-8bit.diff
+END
+arm.md
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/toolchain/8bit/arm.md
+END
+predicates.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/toolchain/8bit/predicates.md
+END
+101-arm-swp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/toolchain/8bit/101-arm-swp.patch
+END
+t-arm-elf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/toolchain/8bit/t-arm-elf
+END
+arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/toolchain/8bit/arm.h
+END
+gcc-4.2.0-8bit.diff
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/toolchain/8bit/gcc-4.2.0-8bit.diff
+END

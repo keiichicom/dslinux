@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src
+END
+float_cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/float_cast.h
+END
+mid_qual_coeffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/mid_qual_coeffs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/Makefile.am
+END
+high_qual_coeffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/high_qual_coeffs.h
+END
+samplerate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/samplerate.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/common.h
+END
+Version_script.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/Version_script.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/Makefile.in
+END
+samplerate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/samplerate.h
+END
+src_sinc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/src_sinc.c
+END
+fastest_coeffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/fastest_coeffs.h
+END
+check_asm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/check_asm.sh
+END
+src_zoh.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/src_zoh.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/config.h.in
+END
+src_linear.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/src/src_linear.c
+END

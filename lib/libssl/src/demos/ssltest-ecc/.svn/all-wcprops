@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc
+END
+ssltest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc/ssltest.sh
+END
+ECCcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc/ECCcertgen.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc/README
+END
+ECC-RSAcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc/ECC-RSAcertgen.sh
+END
+RSAcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/ssltest-ecc/RSAcertgen.sh
+END

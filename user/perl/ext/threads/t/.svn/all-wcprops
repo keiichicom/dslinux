@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t
+END
+join.t
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/join.t
+END
+basic.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/basic.t
+END
+problems.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/problems.t
+END
+end.t
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/end.t
+END
+thread.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/thread.t
+END
+libc.t
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/libc.t
+END
+stress_re.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/stress_re.t
+END
+stress_string.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/stress_string.t
+END
+list.t
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/list.t
+END
+stress_cv.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/threads/t/stress_cv.t
+END

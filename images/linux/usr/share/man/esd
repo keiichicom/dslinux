@@ -1,0 +1,53 @@
+ESD(1)                     Enlightened Sound Daemon
+ESD(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       esd - The Enlightened Sound Daemon
+
+DDDDEEEESSSSCCCCRRRRIIIIPPPPTTTTIIIIOOOONNNN
+       Starts up EsounD, which provides a sound mixing server.
+
+UUUUSSSSAAAAGGGGEEEE
+       esd [options]
+
+         -d DEVICE     force esd to use sound device DEVICE
+         -b            run server in 8 bit sound mode -r
+         RATE       run server at sample rate of RATE -as
+         SECS      free audio device after SECS of inactivity
+         (-1 to disable) -unix         use unix domain sockets
+         instead of tcp/ip -tcp          use tcp/ip sockets
+         instead of unix domain -public       make tcp/ip
+         access public (other than localhost) -promiscuous
+         start unlocked and owned (disable authenticaton) NOT
+         RECOMMENDED -terminate    terminate esd daemon after
+         last client exits -noterminate  do not terminate esd
+         daemon after last client exits -nobeeps      disable
+         startup beeps -beeps        enable startup beeps
+         -trust        start esd even if use of /tmp/.esd can
+         be insecure -port PORT    listen for connections at
+         PORT (only for tcp/ip) -bind ADDRESS binds to ADDRESS
+         (only for tcp/ip)
+
+         -v --version  print version information
+
+       Possible devices are:  /dev/dsp, /dev/dsp2, etc.
+
+FFFFIIIILLLLEEEESSSS
+////eeeettttcccc////eeeessssdddd....ccccoooonnnnffff
+ddddaaaaeeeemmmmoooonnnn
+ccccoooonnnnffffiiiigggguuuurrrraaaattttiiiioooonnnn
+ffffiiiilllleeee SSSSEEEEEEEE
+AAAALLLLSSSSOOOO
+       _e_s_d_c_a_t(1), _e_s_d_d_s_p(1),
+       _e_s_d_l_o_o_p(1), _e_s_d_p_l_a_y(1),
+       _e_s_d_s_a_m_p_l_e(1),
+       _e_s_d_-_c_o_n_‐ _f_i_g(1),
+       _e_s_d_c_t_l(1), _e_s_d_f_i_l_t(1),
+       _e_s_d_m_o_n(1), _e_s_d_r_e_c(1)
+
+
+
+3rd Berkeley Distribution        EsounD 0.2.38
+ESD(1)

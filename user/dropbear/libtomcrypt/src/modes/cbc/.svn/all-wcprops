@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc
+END
+cbc_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_encrypt.c
+END
+cbc_done.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_done.c
+END
+cbc_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_decrypt.c
+END
+cbc_setiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_setiv.c
+END
+cbc_start.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_start.c
+END
+cbc_getiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/modes/cbc/cbc_getiv.c
+END

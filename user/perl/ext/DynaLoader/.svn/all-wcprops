@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader
+END
+dl_dyld.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_dyld.xs
+END
+dl_none.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_none.xs
+END
+dl_mac.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_mac.xs
+END
+dl_dld.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_dld.xs
+END
+dl_vms.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_vms.xs
+END
+dl_vmesa.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_vmesa.xs
+END
+dl_dllload.xs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_dllload.xs
+END
+dl_next.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_next.xs
+END
+XSLoader_pm.PL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/XSLoader_pm.PL
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/Makefile.PL
+END
+DynaLoader_pm.PL
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/DynaLoader_pm.PL
+END
+dl_dlopen.xs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_dlopen.xs
+END
+dl_aix.xs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_aix.xs
+END
+dl_mpeix.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_mpeix.xs
+END
+dl_hpux.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_hpux.xs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/README
+END
+dl_beos.xs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dl_beos.xs
+END
+dlutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/DynaLoader/dlutils.c
+END

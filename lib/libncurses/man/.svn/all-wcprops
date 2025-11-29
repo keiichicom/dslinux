@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libncurses/man
+END
+curs_bkgd.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_bkgd.3x
+END
+curs_ins_wstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_ins_wstr.3x
+END
+form_field.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field.3x
+END
+curs_inchstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_inchstr.3x
+END
+curs_inopts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_inopts.3x
+END
+curs_util.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_util.3x
+END
+form_new.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_new.3x
+END
+curs_get_wch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_get_wch.3x
+END
+menu_requestname.3x
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_requestname.3x
+END
+infocmp.1m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/infocmp.1m
+END
+menu_driver.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_driver.3x
+END
+curs_terminfo.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_terminfo.3x
+END
+term.5
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/term.5
+END
+terminfo.tail
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/terminfo.tail
+END
+term.7
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/term.7
+END
+mitem_new.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_new.3x
+END
+mitem_visible.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_visible.3x
+END
+make_sed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/make_sed.sh
+END
+curs_instr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_instr.3x
+END
+curs_addwstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_addwstr.3x
+END
+key_defined.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/key_defined.3x
+END
+curs_scanw.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_scanw.3x
+END
+form_new_page.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_new_page.3x
+END
+form_field_just.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_just.3x
+END
+curs_delch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_delch.3x
+END
+mitem_current.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_current.3x
+END
+form_driver.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_driver.3x
+END
+keybound.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/keybound.3x
+END
+curs_mouse.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_mouse.3x
+END
+curs_add_wch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_add_wch.3x
+END
+form_userptr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_userptr.3x
+END
+menu_userptr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_userptr.3x
+END
+curs_deleteln.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_deleteln.3x
+END
+curs_refresh.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_refresh.3x
+END
+form_data.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_data.3x
+END
+curs_in_wchstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_in_wchstr.3x
+END
+panel.3x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/panel.3x
+END
+mitem_userptr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_userptr.3x
+END
+form_page.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_page.3x
+END
+captoinfo.1m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/captoinfo.1m
+END
+form_fieldtype.3x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_fieldtype.3x
+END
+menu_format.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_format.3x
+END
+curs_getcchar.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_getcchar.3x
+END
+curs_printw.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_printw.3x
+END
+form_win.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_win.3x
+END
+form_hook.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_hook.3x
+END
+curs_get_wstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_get_wstr.3x
+END
+curs_scroll.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_scroll.3x
+END
+form_field_buffer.3x
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_buffer.3x
+END
+curs_pad.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_pad.3x
+END
+curs_window.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_window.3x
+END
+curs_getstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_getstr.3x
+END
+infotocap.1m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/infotocap.1m
+END
+mitem_value.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_value.3x
+END
+menu_post.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_post.3x
+END
+menu_opts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_opts.3x
+END
+curs_addstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_addstr.3x
+END
+menu_mark.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_mark.3x
+END
+curs_touch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_touch.3x
+END
+form_field_validation.3x
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_validation.3x
+END
+keyok.3x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/keyok.3x
+END
+curs_slk.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_slk.3x
+END
+curs_ins_wch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_ins_wch.3x
+END
+wresize.3x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/wresize.3x
+END
+terminfo.head
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/terminfo.head
+END
+form_field_userptr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_userptr.3x
+END
+MKterminfo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/MKterminfo.sh
+END
+manlinks.sed
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/manlinks.sed
+END
+tput.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/tput.1
+END
+define_key.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/define_key.3x
+END
+menu_spacing.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_spacing.3x
+END
+curs_outopts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_outopts.3x
+END
+form_requestname.3x
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_requestname.3x
+END
+menu_new.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_new.3x
+END
+curs_add_wchstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_add_wchstr.3x
+END
+curs_insstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_insstr.3x
+END
+form_field_info.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_info.3x
+END
+ncurses.3x
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/ncurses.3x
+END
+curs_inwstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_inwstr.3x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/Makefile
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/Makefile.in
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/.svnignore
+END
+menu_cursor.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_cursor.3x
+END
+curs_in_wch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_in_wch.3x
+END
+curs_border.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_border.3x
+END
+menu_attributes.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_attributes.3x
+END
+curs_color.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_color.3x
+END
+form_field_attributes.3x
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_attributes.3x
+END
+curs_inch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_inch.3x
+END
+curs_print.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_print.3x
+END
+curs_addch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_addch.3x
+END
+form_cursor.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_cursor.3x
+END
+curs_insch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_insch.3x
+END
+menu_pattern.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_pattern.3x
+END
+curs_move.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_move.3x
+END
+form.3x
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form.3x
+END
+menu.3x
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu.3x
+END
+curs_attr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_attr.3x
+END
+curs_beep.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_beep.3x
+END
+curs_initscr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_initscr.3x
+END
+form_post.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_post.3x
+END
+form_opts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_opts.3x
+END
+curs_scr_dump.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_scr_dump.3x
+END
+toe.1m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/toe.1m
+END
+mitem_name.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_name.3x
+END
+curs_overlay.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_overlay.3x
+END
+form_field_new.3x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_new.3x
+END
+mitem_opts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/mitem_opts.3x
+END
+menu_win.3x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_win.3x
+END
+curs_termattrs.3x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_termattrs.3x
+END
+curs_getch.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_getch.3x
+END
+curs_addchstr.3x
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_addchstr.3x
+END
+clear.1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/clear.1
+END
+curs_bkgrnd.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_bkgrnd.3x
+END
+menu_items.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_items.3x
+END
+default_colors.3x
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/default_colors.3x
+END
+form_field_opts.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/form_field_opts.3x
+END
+curs_kernel.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_kernel.3x
+END
+man_db.renames
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/man_db.renames
+END
+curs_clear.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_clear.3x
+END
+curs_extend.3x
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_extend.3x
+END
+menu_hook.3x
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/menu_hook.3x
+END
+curs_border_set.3x
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_border_set.3x
+END
+tset.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/tset.1
+END
+curs_termcap.3x
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_termcap.3x
+END
+resizeterm.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/resizeterm.3x
+END
+curs_trace.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_trace.3x
+END
+curs_getyx.3x
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/curs_getyx.3x
+END
+tic.1m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libncurses/man/tic.1m
+END

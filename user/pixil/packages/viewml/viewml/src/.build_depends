@@ -1,0 +1,3364 @@
+# Dependancy file for /home/andrewec/dslinux/user/pixil/packages/viewml/viewml/src
+# Automatically generated.  Do not edit.
+html.o: html.cpp ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qstring.h fltk/qarray.h \
+  fltk/qcollection.h fltk/kapp.h fltk/kcharsets.h fltk/qfont.h \
+  fltk/qrect.h fltk/qpoint.h fltk/qsize.h fltk/fltk-qbase.h \
+  fltk/qstrlist.h fltk/qevent.h fltk/qkeycode.h fltk/qlist.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h \
+  fltk/qdict.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/klocale.h fltk/qcursor.h fltk/qbitmap.h ../kimgio/kimgio.h \
+  ../kdeui/kcursor.h /home/andrewec/dslinux/uClibc/include/assert.h \
+  htmlchain.h htmltable.h fltk/qpainter.h fltk/qpen.h fltk/qfontinfo.h \
+  fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qlist.h fltk/qarray.h \
+  fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h htmlfont.h fltk/qcolor.h htmlobj.h fltk/qdict.h \
+  htmlclue.h htmliter.h html.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h \
+  fltk/qpalette.h htmldata.h fltk/qcursor.h htmlform.h fltk/qwidget.h \
+  jscript.h ../jscript/jsexec.h ../jscript/jstree.h ../jscript/jsexec.h \
+  ../jscript/jserror.h htmltoken.h htmlframe.h fltk/qframe.h htmlview.h \
+  fltk/qscrollbar.h fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h /home/andrewec/dslinux/uClibc/include/strings.h \
+  fltk/qregexp.h fltk/qkeycode.h fltk/qprinter.h fltk/qdrawutil.h \
+  fltk/qbitmap.h html.moc fltk/qmetaobject.h fltk/qobjectdefs.h
+htmlchain.o: htmlchain.cpp
+htmlclue.o: htmlclue.cpp ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qstring.h fltk/qarray.h \
+  fltk/qcollection.h htmlchain.h htmlobj.h fltk/qpainter.h fltk/qpen.h \
+  fltk/qcolor.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qsize.h \
+  fltk/fltk-qbase.h fltk/qstrlist.h fltk/qevent.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h \
+  fltk/qdict.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qlist.h \
+  fltk/qdict.h fltk/qarray.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h htmlfont.h fltk/qcolor.h fltk/kcharsets.h htmlclue.h \
+  htmliter.h html.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h \
+  fltk/qcursor.h fltk/qpalette.h htmldata.h fltk/qcursor.h htmlform.h \
+  fltk/qwidget.h jscript.h ../jscript/jsexec.h ../jscript/jstree.h \
+  ../jscript/jsexec.h ../jscript/jserror.h htmltoken.h htmlframe.h \
+  fltk/qframe.h htmlview.h fltk/qscrollbar.h fltk/nxscrollbar.h \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h fltk/qimage.h fltk/qdrawutil.h
+htmldata.o: htmldata.cpp htmldata.h fltk/qcolor.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qcursor.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qbitmap.h fltk/qstring.h fltk/kcharsets.h fltk/qfont.h \
+  fltk/qrect.h fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h \
+  fltk/qcollection.h fltk/qevent.h fltk/qkeycode.h fltk/qlist.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h \
+  fltk/qdict.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/kapp.h fltk/klocale.h fltk/qcursor.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h
+htmlfont.o: htmlfont.cpp htmlfont.h fltk/qlist.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  fltk/qcollection.h fltk/qcolor.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/kcharsets.h fltk/qfont.h fltk/qstring.h fltk/kapp.h fltk/klocale.h \
+  fltk/qcursor.h fltk/qbitmap.h fltk/klocale.h
+htmliter.o: htmliter.cpp htmlobj.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qpainter.h \
+  fltk/qpen.h fltk/qcolor.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qlist.h \
+  fltk/qdict.h fltk/qstrlist.h fltk/qarray.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  htmlfont.h fltk/qcolor.h fltk/kcharsets.h htmlclue.h htmliter.h \
+  htmltable.h
+htmltable.o: htmltable.cpp ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qstring.h fltk/qarray.h \
+  fltk/qcollection.h htmlchain.h htmlobj.h fltk/qpainter.h fltk/qpen.h \
+  fltk/qcolor.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qsize.h \
+  fltk/fltk-qbase.h fltk/qstrlist.h fltk/qevent.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h \
+  fltk/qdict.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qlist.h \
+  fltk/qdict.h fltk/qarray.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h htmlfont.h fltk/qcolor.h fltk/kcharsets.h htmlclue.h \
+  htmliter.h htmltable.h html.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h \
+  fltk/qcursor.h fltk/qpalette.h htmldata.h fltk/qcursor.h htmlform.h \
+  fltk/qwidget.h jscript.h ../jscript/jsexec.h ../jscript/jstree.h \
+  ../jscript/jsexec.h ../jscript/jserror.h htmltoken.h htmlframe.h \
+  fltk/qframe.h htmlview.h fltk/qscrollbar.h fltk/nxscrollbar.h \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h fltk/qimage.h fltk/qdrawutil.h
+htmltoken.o: htmltoken.cpp \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h htmltoken.h \
+  fltk/qlist.h /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  fltk/qcollection.h fltk/qstrlist.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qarray.h fltk/qarray.h jscript.h fltk/qstring.h \
+  ../jscript/jsexec.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  ../jscript/jstree.h ../jscript/jsexec.h ../jscript/jserror.h html.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qcolor.h fltk/qfont.h fltk/qrect.h \
+  fltk/qpoint.h fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h \
+  fltk/qevent.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qpixmap.h \
+  fltk/qfont.h fltk/qtimer.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qdict.h \
+  fltk/qbuffer.h fltk/drag.h fltk/qwidget.h fltk/qcursor.h \
+  fltk/qpalette.h htmldata.h fltk/qcolor.h fltk/qcursor.h \
+  fltk/kcharsets.h htmlobj.h htmlfont.h htmlclue.h htmliter.h htmlform.h \
+  fltk/qwidget.h htmlframe.h fltk/qframe.h htmlview.h fltk/qscrollbar.h \
+  fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h /home/andrewec/dslinux/uClibc/include/strings.h fltk/kapp.h \
+  fltk/klocale.h
+jscript.o: jscript.cpp /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h jscript.h \
+  fltk/qstring.h /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h ../jscript/jsexec.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qstack.h /home/andrewec/dslinux/lib/uClibc++/include/stack \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  ../jscript/jstree.h ../jscript/jsexec.h ../jscript/jserror.h html.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qcolor.h fltk/qstring.h fltk/qfont.h \
+  fltk/qrect.h fltk/qpoint.h fltk/qarray.h fltk/qsize.h fltk/fltk-qbase.h \
+  fltk/qstrlist.h fltk/qevent.h fltk/qkeycode.h fltk/qlist.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h \
+  fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qstrlist.h \
+  fltk/qpixmap.h fltk/qfont.h fltk/qtimer.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qdict.h \
+  fltk/qbuffer.h fltk/drag.h fltk/qwidget.h fltk/qcursor.h \
+  fltk/qpalette.h htmldata.h fltk/qcolor.h fltk/qcursor.h \
+  fltk/kcharsets.h htmlobj.h fltk/qarray.h htmlfont.h htmlclue.h \
+  htmliter.h htmlform.h fltk/qwidget.h htmltoken.h htmlframe.h \
+  fltk/qframe.h htmlview.h fltk/qscrollbar.h fltk/nxscrollbar.h \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h
+htmlview.o: htmlview.cpp htmlview.h fltk/qscrollbar.h fltk/qwidget.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qarray.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h \
+  fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qcursor.h \
+  fltk/qbitmap.h fltk/qpalette.h fltk/qfontmetrics.h fltk/qfont.h \
+  fltk/qfontinfo.h fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h fltk/qlist.h \
+  html.h fltk/qpainter.h fltk/qpen.h fltk/qbrush.h fltk/qpixmap.h \
+  fltk/qwmatrix.h fltk/qstrlist.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qdict.h fltk/qbuffer.h fltk/drag.h htmldata.h fltk/qcolor.h \
+  fltk/qcursor.h fltk/kcharsets.h htmlobj.h fltk/qarray.h htmlfont.h \
+  htmlclue.h htmliter.h htmlform.h fltk/qwidget.h jscript.h \
+  ../jscript/jsexec.h ../jscript/jstree.h ../jscript/jsexec.h \
+  ../jscript/jserror.h html.h htmltoken.h htmlframe.h fltk/qframe.h \
+  htmlview.h fltk/drag.h ../kdeui/kcursor.h htmlview.moc \
+  fltk/qmetaobject.h fltk/qobjectdefs.h
+htmlframe.o: htmlframe.cpp htmlframe.h fltk/qwidget.h fltk/fltk-qbase.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qarray.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h \
+  fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qcursor.h \
+  fltk/qbitmap.h fltk/qpalette.h fltk/qfontmetrics.h fltk/qfont.h \
+  fltk/qfontinfo.h fltk/qlist.h fltk/qframe.h fltk/qwidget.h html.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qbrush.h fltk/qpixmap.h \
+  fltk/qwmatrix.h fltk/qstrlist.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qdict.h fltk/qbuffer.h fltk/drag.h htmldata.h fltk/qcolor.h \
+  fltk/qcursor.h fltk/kcharsets.h htmlobj.h fltk/qarray.h htmlfont.h \
+  htmlclue.h htmliter.h htmlform.h jscript.h ../jscript/jsexec.h \
+  ../jscript/jstree.h ../jscript/jsexec.h ../jscript/jserror.h \
+  htmltoken.h htmlview.h fltk/qscrollbar.h fltk/nxscrollbar.h \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h ../kdeui/kcursor.h \
+  /home/andrewec/dslinux/uClibc/include/strings.h htmlframe.moc \
+  fltk/qmetaobject.h
+htmlobj.o: htmlobj.cpp ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qstring.h fltk/qarray.h \
+  fltk/qcollection.h fltk/kapp.h fltk/kcharsets.h fltk/qfont.h \
+  fltk/qrect.h fltk/qpoint.h fltk/qsize.h fltk/fltk-qbase.h \
+  fltk/qstrlist.h fltk/qevent.h fltk/qkeycode.h fltk/qlist.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h \
+  fltk/qdict.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/klocale.h fltk/qcursor.h fltk/qbitmap.h htmlchain.h htmlobj.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qfontinfo.h fltk/qbrush.h \
+  fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qlist.h fltk/qdict.h \
+  fltk/qarray.h fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h htmlfont.h fltk/qcolor.h html.h fltk/qbuffer.h \
+  fltk/drag.h fltk/qwidget.h fltk/qpalette.h htmldata.h fltk/qcursor.h \
+  htmlclue.h htmliter.h htmlform.h fltk/qwidget.h jscript.h \
+  ../jscript/jsexec.h ../jscript/jstree.h ../jscript/jsexec.h \
+  ../jscript/jserror.h htmltoken.h htmlframe.h fltk/qframe.h htmlview.h \
+  fltk/qscrollbar.h fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h /home/andrewec/dslinux/uClibc/include/strings.h \
+  /home/andrewec/dslinux/uClibc/include/sys/stat.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stat.h fltk/qfile.h \
+  fltk/qimage.h fltk/qdrawutil.h fltk/qmovie.h fltk/qregexp.h \
+  fltk/qbitmap.h htmlobj.moc fltk/qmetaobject.h
+debug.o: debug.cpp /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h html.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qcolor.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qstrlist.h \
+  fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h fltk/qlist.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qdict.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h fltk/qcursor.h \
+  fltk/qpalette.h htmldata.h fltk/qcolor.h fltk/qcursor.h \
+  fltk/kcharsets.h htmlobj.h fltk/qarray.h htmlfont.h htmlclue.h \
+  htmliter.h htmlform.h fltk/qwidget.h jscript.h ../jscript/jsexec.h \
+  ../jscript/jstree.h ../jscript/jsexec.h ../jscript/jserror.h \
+  htmltoken.h htmlframe.h fltk/qframe.h htmlview.h fltk/qscrollbar.h \
+  fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h
+htmlform.o: htmlform.cpp fltk/qobject.h fltk/qobjectdefs.h \
+  fltk/qmetaobject.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qconnection.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qdict.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobject.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h fltk/qlistbox.h \
+  fltk/qwidget.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qcursor.h \
+  fltk/qbitmap.h fltk/qpalette.h fltk/qfontmetrics.h fltk/qfont.h \
+  fltk/qfontinfo.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Browser.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Browser_.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Scrollbar.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  fltk/qcombobox.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Choice.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Menu_.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Menu_Item.H \
+  fltk/qcheckbox.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Button.H \
+  fltk/qradiobutton.h fltk/qpushbutton.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/n_x.h \
+  /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+  /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+  fltk/qlineedit.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input_.H \
+  fltk/qmultilinedit.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Multiline_Input.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input.H \
+  fltk/qfontmetrics.h fltk/qapp.h htmlform.h fltk/qwidget.h fltk/qtimer.h \
+  htmlobj.h fltk/qpainter.h fltk/qpen.h fltk/qbrush.h fltk/qpixmap.h \
+  fltk/qwmatrix.h fltk/qlist.h fltk/qdict.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  ../kdecore/kurl.h /home/andrewec/dslinux/user/pixil/libs/flnx/config.h \
+  fltk/qstring.h htmlfont.h fltk/qcolor.h fltk/kcharsets.h jscript.h \
+  ../jscript/jsexec.h ../jscript/jstree.h ../jscript/jsexec.h \
+  ../jscript/jserror.h html.h fltk/qbuffer.h fltk/drag.h htmldata.h \
+  fltk/qcursor.h htmlclue.h htmliter.h htmltoken.h htmlframe.h \
+  fltk/qframe.h htmlview.h fltk/qscrollbar.h fltk/nxscrollbar.h \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h /home/andrewec/dslinux/uClibc/include/strings.h \
+  htmlform.moc fltk/qmetaobject.h fltk/qobjectdefs.h
+main.o: main.cpp fltk/kapp.h fltk/kcharsets.h fltk/qfont.h fltk/qrect.h \
+  fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qsize.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/klocale.h fltk/qcursor.h fltk/qbitmap.h html.h fltk/qpainter.h \
+  fltk/qpen.h fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h \
+  fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qstrlist.h fltk/qpixmap.h \
+  fltk/qstack.h /home/andrewec/dslinux/lib/uClibc++/include/stack \
+  fltk/qfont.h fltk/qtimer.h fltk/qlist.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qdict.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h fltk/qpalette.h \
+  htmldata.h fltk/qcolor.h fltk/qcursor.h htmlobj.h fltk/qarray.h \
+  htmlfont.h htmlclue.h htmliter.h htmlform.h fltk/qwidget.h jscript.h \
+  ../jscript/jsexec.h ../jscript/jstree.h ../jscript/jsexec.h \
+  ../jscript/jserror.h htmltoken.h htmlframe.h fltk/qframe.h htmlview.h \
+  fltk/qscrollbar.h fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/n_x.h \
+  /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+  /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Button.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Pixmap.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input_.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Pack.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  fltk/nxscroll.h fltk/nxscrollbar.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Scrollbar.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Image.H http.h \
+  fltk/qobject.h /home/andrewec/dslinux/lib/uClibc++/include/queue \
+  vmlapp.h fltk/history.h fltk/qconst.h fltk/qlist.h pixmaps.h bookmark.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Menu_Button.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Menu_.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Menu_Item.H \
+  bookmark.xpm viewml.xpm \
+  /home/andrewec/dslinux/uClibc/include/sys/stat.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stat.h
+http.o: http.cpp http.h fltk/qobject.h fltk/qobjectdefs.h \
+  fltk/qmetaobject.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qconnection.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qdict.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobject.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/queue \
+  /home/andrewec/dslinux/include/WWWLib.h \
+  /home/andrewec/dslinux/include/wwwsys.h \
+  /home/andrewec/dslinux/include/wwwconf.h \
+  /home/andrewec/dslinux/uClibc/include/limits.h \
+  /home/andrewec/dslinux/include/gcc/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/local_lim.h \
+  /home/andrewec/dslinux/uClibc/include/linux/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h \
+  /home/andrewec/dslinux/uClibc/include/sys/stat.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stat.h \
+  /home/andrewec/dslinux/uClibc/include/netinet/in.h \
+  /home/andrewec/dslinux/uClibc/include/stdint.h \
+  /home/andrewec/dslinux/uClibc/include/bits/socket.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sockaddr.h \
+  /home/andrewec/dslinux/uClibc/include/asm/socket.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sockios.h \
+  /home/andrewec/dslinux/uClibc/include/bits/in.h \
+  /home/andrewec/dslinux/uClibc/include/bits/byteswap.h \
+  /home/andrewec/dslinux/uClibc/include/netinet/tcp.h \
+  /home/andrewec/dslinux/uClibc/include/sys/file.h \
+  /home/andrewec/dslinux/uClibc/include/sys/ioctl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/ioctls.h \
+  /home/andrewec/dslinux/uClibc/include/asm/ioctls.h \
+  /home/andrewec/dslinux/uClibc/include/asm/ioctl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/ioctl-types.h \
+  /home/andrewec/dslinux/uClibc/include/sys/ttydefaults.h \
+  /home/andrewec/dslinux/uClibc/include/termios.h \
+  /home/andrewec/dslinux/uClibc/include/bits/termios.h \
+  /home/andrewec/dslinux/uClibc/include/sys/time.h \
+  /home/andrewec/dslinux/uClibc/include/syslog.h \
+  /home/andrewec/dslinux/uClibc/include/sys/syslog.h \
+  /home/andrewec/dslinux/uClibc/include/sys/socket.h \
+  /home/andrewec/dslinux/uClibc/include/sys/uio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uio.h \
+  /home/andrewec/dslinux/uClibc/include/sys/ipc.h \
+  /home/andrewec/dslinux/uClibc/include/bits/ipc.h \
+  /home/andrewec/dslinux/uClibc/include/pwd.h \
+  /home/andrewec/dslinux/uClibc/include/grp.h \
+  /home/andrewec/dslinux/uClibc/include/arpa/inet.h \
+  /home/andrewec/dslinux/uClibc/include/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/rpc/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/bits/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/malloc.h \
+  /home/andrewec/dslinux/uClibc/include/memory.h \
+  /home/andrewec/dslinux/uClibc/include/sys/resource.h \
+  /home/andrewec/dslinux/uClibc/include/bits/resource.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/dirent.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/filename.H \
+  /home/andrewec/dslinux/uClibc/include/sys/wait.h \
+  /home/andrewec/dslinux/uClibc/include/bits/waitflags.h \
+  /home/andrewec/dslinux/uClibc/include/bits/waitstatus.h \
+  /home/andrewec/dslinux/include/WWWUtil.h \
+  /home/andrewec/dslinux/include/HTUtils.h \
+  /home/andrewec/dslinux/include/HTMemory.h \
+  /home/andrewec/dslinux/include/HTArray.h \
+  /home/andrewec/dslinux/include/HTAssoc.h \
+  /home/andrewec/dslinux/include/HTList.h \
+  /home/andrewec/dslinux/include/HTAtom.h \
+  /home/andrewec/dslinux/include/HTChunk.h \
+  /home/andrewec/dslinux/include/HTString.h \
+  /home/andrewec/dslinux/include/HTUU.h \
+  /home/andrewec/dslinux/include/WWWCore.h \
+  /home/andrewec/dslinux/include/HTLib.h \
+  /home/andrewec/dslinux/include/HTUser.h \
+  /home/andrewec/dslinux/include/HTReq.h \
+  /home/andrewec/dslinux/include/HTEvent.h \
+  /home/andrewec/dslinux/include/HTFormat.h \
+  /home/andrewec/dslinux/include/HTStream.h \
+  /home/andrewec/dslinux/include/HTAnchor.h \
+  /home/andrewec/dslinux/include/HTLink.h \
+  /home/andrewec/dslinux/include/HTMethod.h \
+  /home/andrewec/dslinux/include/HTResponse.h \
+  /home/andrewec/dslinux/include/HTError.h \
+  /home/andrewec/dslinux/include/HTNet.h \
+  /home/andrewec/dslinux/include/HTTrans.h \
+  /home/andrewec/dslinux/include/HTIOStream.h \
+  /home/andrewec/dslinux/include/HTChannl.h \
+  /home/andrewec/dslinux/include/HTHost.h \
+  /home/andrewec/dslinux/include/HTProt.h \
+  /home/andrewec/dslinux/include/HTTimer.h \
+  /home/andrewec/dslinux/include/HTDNS.h \
+  /home/andrewec/dslinux/include/HTParse.h \
+  /home/andrewec/dslinux/include/HTEscape.h \
+  /home/andrewec/dslinux/include/HTUTree.h \
+  /home/andrewec/dslinux/include/HTWWWStr.h \
+  /home/andrewec/dslinux/include/HTMemLog.h \
+  /home/andrewec/dslinux/include/HTAlert.h \
+  /home/andrewec/dslinux/include/HTStruct.h \
+  /home/andrewec/dslinux/include/HTNoFree.h \
+  /home/andrewec/dslinux/include/HTInet.h \
+  /home/andrewec/dslinux/include/HTHstMan.h \
+  /home/andrewec/dslinux/include/WWWHTTP.h \
+  /home/andrewec/dslinux/include/HTTPUtil.h \
+  /home/andrewec/dslinux/include/HTTP.h \
+  /home/andrewec/dslinux/include/HTTPServ.h \
+  /home/andrewec/dslinux/include/HTTPGen.h \
+  /home/andrewec/dslinux/include/HTTPReq.h \
+  /home/andrewec/dslinux/include/HTTPRes.h \
+  /home/andrewec/dslinux/include/HTTChunk.h \
+  /home/andrewec/dslinux/include/HTPEP.h \
+  /home/andrewec/dslinux/include/HTAAUtil.h \
+  /home/andrewec/dslinux/include/HTAABrow.h \
+  /home/andrewec/dslinux/include/HTCookie.h \
+  /home/andrewec/dslinux/include/WWWLib.h \
+  /home/andrewec/dslinux/include/WWWInit.h \
+  /home/andrewec/dslinux/include/HTInit.h \
+  /home/andrewec/dslinux/include/WWWApp.h \
+  /home/andrewec/dslinux/include/HTEvtLst.h \
+  /home/andrewec/dslinux/include/HTHome.h \
+  /home/andrewec/dslinux/include/HTDialog.h \
+  /home/andrewec/dslinux/include/HTAccess.h \
+  /home/andrewec/dslinux/include/HTRules.h \
+  /home/andrewec/dslinux/include/HTProxy.h \
+  /home/andrewec/dslinux/include/HTFilter.h \
+  /home/andrewec/dslinux/include/HTLog.h \
+  /home/andrewec/dslinux/include/HTHist.h \
+  /home/andrewec/dslinux/include/WWWTrans.h \
+  /home/andrewec/dslinux/include/HTANSI.h \
+  /home/andrewec/dslinux/include/HTLocal.h \
+  /home/andrewec/dslinux/include/HTTCP.h \
+  /home/andrewec/dslinux/include/HTSocket.h \
+  /home/andrewec/dslinux/include/HTReader.h \
+  /home/andrewec/dslinux/include/HTWriter.h \
+  /home/andrewec/dslinux/include/HTBufWrt.h \
+  /home/andrewec/dslinux/include/WWWHTTP.h \
+  /home/andrewec/dslinux/include/WWWFile.h \
+  /home/andrewec/dslinux/include/HTFile.h \
+  /home/andrewec/dslinux/include/HTMulti.h \
+  /home/andrewec/dslinux/include/HTBind.h \
+  /home/andrewec/dslinux/include/HTBInit.h \
+  /home/andrewec/dslinux/include/WWWFTP.h \
+  /home/andrewec/dslinux/include/HTFTP.h \
+  /home/andrewec/dslinux/include/HTFTPDir.h \
+  /home/andrewec/dslinux/include/WWWGophe.h \
+  /home/andrewec/dslinux/include/HTGopher.h \
+  /home/andrewec/dslinux/include/WWWTelnt.h \
+  /home/andrewec/dslinux/include/HTTelnet.h \
+  /home/andrewec/dslinux/include/WWWNews.h \
+  /home/andrewec/dslinux/include/HTNews.h \
+  /home/andrewec/dslinux/include/HTNewsRq.h \
+  /home/andrewec/dslinux/include/HTNewsLs.h \
+  /home/andrewec/dslinux/include/HTNDir.h \
+  /home/andrewec/dslinux/include/WWWMIME.h \
+  /home/andrewec/dslinux/include/HTMIME.h \
+  /home/andrewec/dslinux/include/HTHeader.h \
+  /home/andrewec/dslinux/include/HTMIMERq.h \
+  /home/andrewec/dslinux/include/HTMIMImp.h \
+  /home/andrewec/dslinux/include/HTBound.h \
+  /home/andrewec/dslinux/include/HTMulpar.h \
+  /home/andrewec/dslinux/include/WWWHTML.h \
+  /home/andrewec/dslinux/include/HTMLPDTD.h \
+  /home/andrewec/dslinux/include/SGML.h \
+  /home/andrewec/dslinux/include/HTMLGen.h \
+  /home/andrewec/dslinux/include/HTTeXGen.h \
+  /home/andrewec/dslinux/include/HTPlain.h \
+  /home/andrewec/dslinux/include/HTML.h \
+  /home/andrewec/dslinux/include/HText.h \
+  /home/andrewec/dslinux/include/HTHInit.h \
+  /home/andrewec/dslinux/include/HTStyle.h \
+  /home/andrewec/dslinux/include/WWWStream.h \
+  /home/andrewec/dslinux/include/HTConLen.h \
+  /home/andrewec/dslinux/include/HTFWrite.h \
+  /home/andrewec/dslinux/include/HTFSave.h \
+  /home/andrewec/dslinux/include/HTGuess.h \
+  /home/andrewec/dslinux/include/HTTee.h \
+  /home/andrewec/dslinux/include/HTMerge.h \
+  /home/andrewec/dslinux/include/HTSChunk.h \
+  /home/andrewec/dslinux/include/HTXParse.h \
+  /home/andrewec/dslinux/include/HTEPtoCl.h \
+  /home/andrewec/dslinux/include/HTNetTxt.h \
+  /home/andrewec/dslinux/include/WWWDir.h \
+  /home/andrewec/dslinux/include/HTDir.h \
+  /home/andrewec/dslinux/include/HTIcons.h \
+  /home/andrewec/dslinux/include/HTDescpt.h \
+  /home/andrewec/dslinux/include/WWWCache.h \
+  /home/andrewec/dslinux/include/HTCache.h \
+  /home/andrewec/dslinux/include/WWWZip.h \
+  /home/andrewec/dslinux/include/HTZip.h \
+  /home/andrewec/dslinux/include/HTProfil.h \
+  /home/andrewec/dslinux/include/WWWInit.h \
+  /home/andrewec/dslinux/include/HTProxy.h vmlapp.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Input_.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Button.H html.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H http.moc \
+  fltk/qmetaobject.h
+http_.o: http_.cpp http.h fltk/qobject.h fltk/qobjectdefs.h \
+  fltk/qmetaobject.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qconnection.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qdict.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  fltk/qobject.h /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/queue \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H html.h \
+  fltk/qpainter.h fltk/qpen.h fltk/qfont.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qstrlist.h \
+  fltk/qpixmap.h fltk/qstack.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/stack fltk/qfont.h \
+  fltk/qtimer.h fltk/qlist.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qdict.h fltk/qbuffer.h fltk/drag.h fltk/qwidget.h fltk/qcursor.h \
+  fltk/qpalette.h htmldata.h fltk/qcolor.h fltk/qcursor.h \
+  fltk/kcharsets.h htmlobj.h fltk/qarray.h htmlfont.h htmlclue.h \
+  htmliter.h htmlform.h fltk/qwidget.h jscript.h ../jscript/jsexec.h \
+  ../jscript/jstree.h ../jscript/jsexec.h ../jscript/jserror.h \
+  htmltoken.h htmlframe.h fltk/qframe.h htmlview.h fltk/qscrollbar.h \
+  fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h html.h \
+  fltk/drag.h
+kurl.o: ../kdecore/kurl.cpp fltk/qdir.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h ../kdecore/kurl.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/config.h fltk/qstring.h \
+  fltk/qstrlist.h fltk/qarray.h fltk/qcollection.h fltk/qregexp.h
+kcursor.o: ../kdeui/kcursor.cpp ../kdeui/kcursor.h fltk/kapp.h \
+  fltk/kcharsets.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qsize.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/klocale.h fltk/qcursor.h fltk/qbitmap.h fltk/qbitmap.h
+qtimer.o: fltk/qtimer.cpp fltk/qtimer.h fltk/fltk-qbase.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qarray.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h \
+  fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h fltk/qtimer.moc \
+  fltk/qmetaobject.h
+qobject.o: fltk/qobject.cpp fltk/qobject.h fltk/qobjectdefs.h \
+  fltk/qmetaobject.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qconnection.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qdict.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/math.h
+qpainter.o: fltk/qpainter.cpp fltk/qpainter.h fltk/qpen.h fltk/qcolor.h \
+  fltk/qstring.h /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qwidget.h \
+  fltk/qcursor.h fltk/qpalette.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/n_x.h \
+  /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+  /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h
+qdrawutil.o: fltk/qdrawutil.cpp fltk/qpainter.h fltk/qpen.h fltk/qcolor.h \
+  fltk/qstring.h /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qfont.h fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  fltk/qsize.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/qfontinfo.h fltk/qbrush.h fltk/qpixmap.h fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  fltk/qbitmap.h fltk/qwmatrix.h fltk/qfontmetrics.h fltk/qdrawutil.h
+qfont.o: fltk/qfont.cpp fltk/qfont.h fltk/qrect.h fltk/qpoint.h \
+  fltk/qarray.h /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qsize.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H
+qrect.o: fltk/qrect.cpp /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qrect.h \
+  fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h
+qregexp.o: fltk/qregexp.cpp fltk/qregexp.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h /home/andrewec/dslinux/uClibc/include/regex.h
+qstring.o: fltk/qstring.cpp \
+  /home/andrewec/dslinux/uClibc/include/assert.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qregexp.h
+kcharsets.o: fltk/kcharsets.cpp fltk/kcharsets.h fltk/qfont.h \
+  fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qsize.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H
+qcolor.o: fltk/qcolor.cpp fltk/qcolor.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h
+qpixmap.o: fltk/qpixmap.cpp fltk/qpixmap.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qpaintdevice.h fltk/qobject.h fltk/qobjectdefs.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qlist.h fltk/qcollection.h \
+  fltk/qdict.h fltk/fltk-qbase.h fltk/qstrlist.h fltk/qarray.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qbitmap.h \
+  fltk/qwmatrix.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Image.H \
+  /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+  /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+qfontinfo.o: fltk/qfontinfo.cpp fltk/qfontinfo.h fltk/qfont.h \
+  fltk/qrect.h fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qsize.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h \
+  fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h \
+  fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H
+qwidget.o: fltk/qwidget.cpp fltk/qpoint.h fltk/qarray.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h fltk/qwidget.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qcollection.h fltk/qevent.h \
+  fltk/qrect.h fltk/qsize.h fltk/qkeycode.h fltk/qlist.h fltk/qbuffer.h \
+  fltk/qiodevice.h fltk/qregion.h fltk/qcolor.h fltk/qobjectdefs.h \
+  fltk/qobject.h fltk/qmetaobject.h fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qcursor.h \
+  fltk/qbitmap.h fltk/qpalette.h fltk/qfontmetrics.h fltk/qfont.h \
+  fltk/qfontinfo.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/n_x.h \
+  /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+  /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+history.o: fltk/history.cpp \
+  /home/andrewec/dslinux/uClibc/include/malloc.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/uClibc/include/string.h fltk/history.h
+qscrollbar.o: fltk/qscrollbar.cpp fltk/qscrollbar.h fltk/qwidget.h \
+  fltk/fltk-qbase.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h fltk/qstring.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/algorithm \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdlib \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/basic_definitions \
+  /home/andrewec/dslinux/lib/uClibc++/include/system_configuration.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator \
+  /home/andrewec/dslinux/lib/uClibc++/include/iosfwd \
+  /home/andrewec/dslinux/lib/uClibc++/include/char_traits \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/memory \
+  /home/andrewec/dslinux/lib/uClibc++/include/new \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstddef \
+  /home/andrewec/dslinux/lib/uClibc++/include/iterator_base \
+  /home/andrewec/dslinux/lib/uClibc++/include/utility \
+  /home/andrewec/dslinux/lib/uClibc++/include/cstdio \
+  /home/andrewec/dslinux/lib/uClibc++/include/functional \
+  /home/andrewec/dslinux/lib/uClibc++/include/string \
+  /home/andrewec/dslinux/lib/uClibc++/include/func_exception \
+  /home/andrewec/dslinux/lib/uClibc++/include/vector \
+  /home/andrewec/dslinux/lib/uClibc++/include/type_traits \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/cctype \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  fltk/fltk-qdefs.h fltk/qstrlist.h fltk/qarray.h fltk/qcollection.h \
+  fltk/qevent.h fltk/qpoint.h fltk/qrect.h fltk/qsize.h fltk/qkeycode.h \
+  fltk/qlist.h fltk/qbuffer.h fltk/qiodevice.h fltk/qregion.h \
+  fltk/qcolor.h fltk/qobjectdefs.h fltk/qobject.h fltk/qmetaobject.h \
+  fltk/qconnection.h fltk/qdict.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/map \
+  /home/andrewec/dslinux/lib/uClibc++/include/deque \
+  /home/andrewec/dslinux/lib/uClibc++/include/stdexcept \
+  /home/andrewec/dslinux/lib/uClibc++/include/iostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ios \
+  /home/andrewec/dslinux/lib/uClibc++/include/locale \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream \
+  /home/andrewec/dslinux/lib/uClibc++/include/streambuf \
+  /home/andrewec/dslinux/lib/uClibc++/include/istream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream \
+  /home/andrewec/dslinux/lib/uClibc++/include/ostream_helpers \
+  /home/andrewec/dslinux/lib/uClibc++/include/fstream \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/lib/uClibc++/include/string_iostream \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/pthread.h \
+  /home/andrewec/dslinux/uClibc/include/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/bits/initspin.h \
+  fltk/qpaintdevice.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Double_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Window.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H fltk/qcursor.h \
+  fltk/qbitmap.h fltk/qpalette.h fltk/qfontmetrics.h fltk/qfont.h \
+  fltk/qfontinfo.h fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h \
+  fltk/qscrollbar.moc fltk/qmetaobject.h
+nxslider.o: fltk/nxslider.cpp \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/nxslider.h /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h
+nxscrollbar.o: fltk/nxscrollbar.cpp \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h
+nxscroll.o: fltk/nxscroll.cpp \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/nxscroll.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Group.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Widget.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Enumerations.H \
+  fltk/nxscrollbar.h fltk/nxslider.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/config.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/fl_draw.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Valuator.H \
+  /home/andrewec/dslinux/user/pixil/include/par/par.h \
+  /home/andrewec/dslinux/user/pixil/include/par/pardb.h \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Scrollbar.H \
+  /home/andrewec/dslinux/user/pixil/libs/flnx/FL/Fl_Slider.H \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h

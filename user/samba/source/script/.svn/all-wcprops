@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/source/script
+END
+mkbuildoptions.awk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mkbuildoptions.awk
+END
+findsmb.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/script/findsmb.in
+END
+uninstallscripts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/script/uninstallscripts.sh
+END
+gen-8bit-gap.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/script/gen-8bit-gap.sh.in
+END
+installdirs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installdirs.sh
+END
+installbin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installbin.sh
+END
+installdat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installdat.sh
+END
+installmodules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installmodules.sh
+END
+mknissmbpwdtbl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mknissmbpwdtbl.sh
+END
+uninstallman.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/script/uninstallman.sh
+END
+gaptab.awk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/script/gaptab.awk
+END
+updatesmbpasswd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/script/updatesmbpasswd.sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mkinstalldirs
+END
+mkversion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mkversion.sh
+END
+installmsg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installmsg.sh
+END
+installscripts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installscripts.sh
+END
+smbtar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/source/script/smbtar
+END
+gap.awk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/samba/source/script/gap.awk
+END
+makeunicodecasemap.awk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/source/script/makeunicodecasemap.awk
+END
+linkmodules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/script/linkmodules.sh
+END
+findstatic.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/findstatic.pl
+END
+gen-8bit-gap.awk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/script/gen-8bit-gap.awk
+END
+mksmbpasswd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mksmbpasswd.sh
+END
+mkproto.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mkproto.sh
+END
+uninstallbin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/source/script/uninstallbin.sh
+END
+installman.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installman.sh
+END
+uninstallmodules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/script/uninstallmodules.sh
+END
+scancvslog.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/script/scancvslog.pl
+END
+mkproto.awk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mkproto.awk
+END
+mknissmbpasswd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/script/mknissmbpasswd.sh
+END
+installswat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/script/installswat.sh
+END
+extract_allparms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/script/extract_allparms.sh
+END
+revert.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/samba/source/script/revert.sh
+END
+build_env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/script/build_env.sh
+END
+creategroup
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/source/script/creategroup
+END

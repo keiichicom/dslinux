@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw
+END
+draw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/draw.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/Makefile.in
+END
+draw_x11.hh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/draw_x11.hh
+END
+bmformat.hh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/bmformat.hh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/Makefile.am
+END
+draw_x11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/draw_x11.cc
+END
+bmformat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/bmformat.cc
+END
+draw.hh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/draw.hh
+END
+draw_mwin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/draw/draw_mwin.cc
+END

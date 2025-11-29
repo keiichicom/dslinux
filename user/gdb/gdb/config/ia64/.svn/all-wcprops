@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64
+END
+ia64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64/ia64.mt
+END
+linux.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64/linux.mh
+END
+tm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64/tm-linux.h
+END
+nm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64/nm-linux.h
+END
+linux.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/ia64/linux.mt
+END

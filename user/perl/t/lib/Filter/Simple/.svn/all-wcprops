@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/Filter/Simple
+END
+ImportTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/Filter/Simple/ImportTest.pm
+END
+ExportTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/Filter/Simple/ExportTest.pm
+END
+FilterTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/Filter/Simple/FilterTest.pm
+END
+FilterOnlyTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/Filter/Simple/FilterOnlyTest.pm
+END

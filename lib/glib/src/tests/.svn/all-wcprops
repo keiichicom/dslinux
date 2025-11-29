@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests
+END
+mapping-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/mapping-test.c
+END
+unicode-encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/unicode-encoding.c
+END
+run-bookmark-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/run-bookmark-test.sh
+END
+uri-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/uri-test.c
+END
+patterntest.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/patterntest.c
+END
+utf8-validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/utf8-validate.c
+END
+threadpool-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/threadpool-test.c
+END
+bookmarkfile-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/bookmarkfile-test.c
+END
+timeloop.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/timeloop.c
+END
+memchunks.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/memchunks.c
+END
+array-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/array-test.c
+END
+libmoduletestplugin_b.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/libmoduletestplugin_b.c
+END
+iochannel-test-infile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/iochannel-test-infile
+END
+testgdateparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/testgdateparser.c
+END
+strfunc-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/strfunc-test.c
+END
+base64-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/base64-test.c
+END
+utf8-pointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/utf8-pointer.c
+END
+spawn-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/spawn-test.c
+END
+unicode-collate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/unicode-collate.c
+END
+slice-color.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/slice-color.c
+END
+slice-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/slice-test.c
+END
+markup-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/markup-test.c
+END
+testglib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/testglib.c
+END
+casefold.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/casefold.txt
+END
+string-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/string-test.c
+END
+testgdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/testgdate.c
+END
+qsort-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/qsort-test.c
+END
+completion-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/completion-test.c
+END
+date-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/date-test.c
+END
+bit-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/bit-test.c
+END
+file-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/file-test.c
+END
+child-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/child-test.c
+END
+queue-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/queue-test.c
+END
+errorcheck-mutex-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/errorcheck-mutex-test.c
+END
+casemap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/casemap.txt
+END
+iochannel-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/iochannel-test.c
+END
+cxx-test.C
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/cxx-test.C
+END
+strtoll-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/strtoll-test.c
+END
+makefile.msc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/makefile.msc.in
+END
+utf8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/utf8.txt
+END
+shell-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/shell-test.c
+END
+option-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/option-test.c
+END
+spawn-test-win32-gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/spawn-test-win32-gui.c
+END
+run-markup-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/run-markup-tests.sh
+END
+atomic-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/atomic-test.c
+END
+relation-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/relation-test.c
+END
+libmoduletestplugin_a.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/libmoduletestplugin_a.c
+END
+dirname-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/dirname-test.c
+END
+gen-casefold-txt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/gen-casefold-txt.pl
+END
+type-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/type-test.c
+END
+asyncqueue-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/asyncqueue-test.c
+END
+hash-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/hash-test.c
+END
+rand-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/rand-test.c
+END
+env-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/env-test.c
+END
+keyfile-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/keyfile-test.c
+END
+timeloop-basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/timeloop-basic.c
+END
+markup-escape-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/markup-escape-test.c
+END
+slist-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/slist-test.c
+END
+tree-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/tree-test.c
+END
+run-collate-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/run-collate-tests.sh
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/makefile.msc
+END
+printf-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/printf-test.c
+END
+thread-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/thread-test.c
+END
+unicode-normalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/unicode-normalize.c
+END
+unicode-caseconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/unicode-caseconv.c
+END
+gen-casemap-txt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/gen-casemap-txt.pl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/Makefile.am
+END
+list-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/list-test.c
+END
+gio-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/gio-test.c
+END
+mainloop-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/mainloop-test.c
+END
+strtod-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/strtod-test.c
+END
+convert-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/convert-test.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/Makefile.in
+END
+node-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/node-test.c
+END
+module-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/module-test.c
+END
+timeloop-closure.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/tests/timeloop-closure.c
+END

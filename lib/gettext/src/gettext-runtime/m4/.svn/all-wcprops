@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4
+END
+ansi-c++.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/ansi-c++.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/intmax.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/xsize.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/glibc2.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/lcmessage.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/wint_t.m4
+END
+ulonglong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/ulonglong.m4
+END
+intl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/intl.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/progtest.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/inttypes-pri.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/ChangeLog
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/stdint_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/intdiv0.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/po.m4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/README
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/size_max.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/gettext.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/wchar_t.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/Makefile.am
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/printf-posix.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/Makefile.in
+END
+intldir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/intldir.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/uintmax_t.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/iconv.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/longlong.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/codeset.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/inttypes_h.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/visibility.m4
+END
+lock.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/lock.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/longdouble.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/m4/nls.m4
+END

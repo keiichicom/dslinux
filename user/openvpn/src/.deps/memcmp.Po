@@ -1,0 +1,16 @@
+memcmp.o memcmp.o: memcmp.c \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:

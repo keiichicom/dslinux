@@ -1,0 +1,22 @@
+nxkbd.o .depend : $(TOP)/config nxkbd.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+srvconn.o .depend : $(TOP)/config srvconn.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+keynorm.o .depend : $(TOP)/config keynorm.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+keyctrl.o .depend : $(TOP)/config keyctrl.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+keyshft.o .depend : $(TOP)/config keyshft.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+keynum.o .depend : $(TOP)/config keynum.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h

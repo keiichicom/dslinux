@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/mc/src/edit
+END
+wordproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/wordproc.c
+END
+ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/ext.c
+END
+editoptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editoptions.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/Makefile.in
+END
+editdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editdraw.c
+END
+bookmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/bookmark.c
+END
+editpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editpos.c
+END
+editcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editcmd.c
+END
+editmenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editmenu.c
+END
+edit-widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/edit-widget.h
+END
+editkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editkeys.c
+END
+edit.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/edit.c
+END
+syntax.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/syntax.c
+END
+editwidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editwidget.c
+END
+edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/edit.h
+END
+editcmddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/mc/src/edit/editcmddef.h
+END

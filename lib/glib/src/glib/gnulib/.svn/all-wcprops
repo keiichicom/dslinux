@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/Makefile.am
+END
+g-gnulib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/g-gnulib.h
+END
+printf-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf-parse.c
+END
+vasnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/vasnprintf.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/README
+END
+printf-args.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf-args.c
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/makefile.msc
+END
+printf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf-parse.h
+END
+vasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/vasnprintf.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/Makefile.in
+END
+printf-args.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf-args.h
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf.c
+END
+asnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/asnprintf.c
+END
+printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnulib/printf.h
+END

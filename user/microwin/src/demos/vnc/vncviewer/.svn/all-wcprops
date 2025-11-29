@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/.svnignore
+END
+vncviewer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/vncviewer.c
+END
+sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/sockets.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/Makefile
+END
+args.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/args.c
+END
+rfbproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/rfbproto.c
+END
+vncviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/vncviewer.h
+END
+listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/listen.c
+END
+nanox.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/vnc/vncviewer/nanox.c
+END

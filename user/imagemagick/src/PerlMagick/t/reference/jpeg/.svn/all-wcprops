@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/reference/jpeg
+END
+read_plane_interlaced.miff
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/reference/jpeg/read_plane_interlaced.miff
+END
+write_non_interlaced.miff
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/reference/jpeg/write_non_interlaced.miff
+END
+read_non_interlaced.miff
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/reference/jpeg/read_non_interlaced.miff
+END
+write_plane_interlaced.miff
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/reference/jpeg/write_plane_interlaced.miff
+END

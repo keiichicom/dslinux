@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/control
+END
+libvorbisidec-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/libvorbisidec-dev.install
+END
+libvorbisidec1.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/libvorbisidec1.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/copyright
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/Makefile.am
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libtremor/src/debian/rules
+END

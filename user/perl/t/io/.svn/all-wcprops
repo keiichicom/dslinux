@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/user/perl/t/io
+END
+read.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/read.t
+END
+inplace.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/io/inplace.t
+END
+nargv.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/t/io/nargv.t
+END
+binmode.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/io/binmode.t
+END
+through.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/io/through.t
+END
+crlf_through.t
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/t/io/crlf_through.t
+END
+crlf.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/crlf.t
+END
+utf8.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/utf8.t
+END
+fflush.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/t/io/fflush.t
+END
+dup.t
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/t/io/dup.t
+END
+print.t
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/t/io/print.t
+END
+pipe.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/pipe.t
+END
+openpid.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/io/openpid.t
+END
+layers.t
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/t/io/layers.t
+END
+argv.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/argv.t
+END
+tell.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/tell.t
+END
+open.t
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/t/io/open.t
+END
+iprefix.t
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/t/io/iprefix.t
+END
+fs.t
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/t/io/fs.t
+END

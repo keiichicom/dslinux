@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris
+END
+irq1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq1.ms
+END
+irq2.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq2.ms
+END
+irq3.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq3.ms
+END
+irq4.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq4.ms
+END
+irq5.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq5.ms
+END
+trivial4.r
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial4.r
+END
+irq6.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/irq6.ms
+END
+mbox1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/mbox1.ms
+END
+poll1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/poll1.ms
+END
+std.dev
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/std.dev
+END
+testutils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/testutils.inc
+END
+trivial1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial1.ms
+END
+wd1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/wd1.ms
+END
+trivial2.ms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial2.ms
+END
+trivial3.ms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial3.ms
+END
+host1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/host1.ms
+END
+trivial4.ms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial4.ms
+END
+mem1.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/mem1.ms
+END
+trivial5.ms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/trivial5.ms
+END
+mem2.ms
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/mem2.ms
+END
+quit.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/quit.s
+END
+rvc.exp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/sim/cris/hw/rv-n-cris/rvc.exp
+END

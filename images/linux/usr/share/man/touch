@@ -1,0 +1,80 @@
+TOUCH(1)                         User Commands
+TOUCH(1)
+
+
+
+NNAAMMEE
+       touch - change file timestamps
+
+SSYYNNOOPPSSIISS
+       ttoouucchh [_O_P_T_I_O_N]... _F_I_L_E...
+
+DDEESSCCRRIIPPTTIIOONN
+       Update  the  access  and modification times of each
+       FILE to the current time.
+
+       Mandatory arguments to long options are  mandatory
+       for  short  options too.
+
+       --aa     change only the access time
+
+       --cc, ----nnoo--ccrreeaattee
+              do not create any files
+
+       --dd, ----ddaattee=_S_T_R_I_N_G
+              parse STRING and use it instead of current time
+
+       --ff     (ignored)
+
+       --mm     change only the modification time
+
+       --rr, ----rreeffeerreennccee=_F_I_L_E
+              use this file's times instead of current time
+
+       --tt STAMP
+              use [[CC]YY]MMDDhhmm[.ss] instead of current time
+
+       ----ttiimmee=_W_O_R_D
+              change the specified time: WORD is access,
+              atime, or use: equiv‐ alent to --aa WORD
+              is modify or mtime: equivalent to --mm
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       Note that the --dd and --tt options accept different
+       time-date formats.
+
+       If a FILE is -, touch standard output.
+
+AAUUTTHHOORR
+       Written by Paul Rubin, Arnold Robbins, Jim  Kingdon,
+       David  MacKenzie, and Randy Smith.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for ttoouucchh is
+       maintained as a Texinfo manual.  If the  iinnffoo
+       and  ttoouucchh programs are properly installed
+       at your site, the command
+
+              iinnffoo ttoouucchh
+
+       should give you access to the complete manual.
+
+
+
+touch 6.7                        December 2006
+TOUCH(1)

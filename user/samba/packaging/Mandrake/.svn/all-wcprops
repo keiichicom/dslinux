@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake
+END
+smbw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smbw.patch
+END
+smb-migrate
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smb-migrate
+END
+samba-3.0-smbmount-sbin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-3.0-smbmount-sbin.patch
+END
+samba.xinetd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba.xinetd
+END
+samba-2.2.0-buildroot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-2.2.0-buildroot.patch
+END
+samba-slapd-include.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-slapd-include.conf
+END
+system-auth-winbind.pamd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/system-auth-winbind.pamd
+END
+empty.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/empty.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/README
+END
+samba-print-pdf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-print-pdf.sh
+END
+smbusers
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smbusers
+END
+makerpms.sh.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/makerpms.sh.tmpl
+END
+swat_48.png.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/swat_48.png.bz2
+END
+samba2.spec.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba2.spec.tmpl
+END
+README.mandrake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/README.mandrake
+END
+makerpms-cvs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/makerpms-cvs.sh
+END
+findsmb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/findsmb
+END
+smb.init
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smb.init
+END
+makerpms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/makerpms.sh
+END
+mount.cifs.8
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/mount.cifs.8
+END
+winbind.init
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/winbind.init
+END
+smbprint
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smbprint
+END
+samba2.spec
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba2.spec
+END
+wrepld.init
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/wrepld.init
+END
+swat_32.png.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/swat_32.png.bz2
+END
+samba-3.0.6-revert-libsmbclient-move.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-3.0.6-revert-libsmbclient-move.patch
+END
+swat_16.png.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/swat_16.png.bz2
+END
+samba-3.0.2a-smbldap-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba-3.0.2a-smbldap-config.patch
+END
+samba.log
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba.log
+END
+samba.pamd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/samba.pamd
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Mandrake/smb.conf
+END

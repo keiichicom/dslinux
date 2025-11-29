@@ -1,0 +1,49 @@
+GROUPS(1)                        User Commands
+GROUPS(1)
+
+
+
+NNAAMMEE
+       groups - print the groups a user is in
+
+SSYYNNOOPPSSIISS
+       ggrroouuppss
+       [_O_P_T_I_O_N]... [_U_S_E_R_N_A_M_E]...
+
+DDEESSCCRRIIPPTTIIOONN
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       Same as id --GGnn.  If no USERNAME, use current
+       process.
+
+AAUUTTHHOORR
+       Written by David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for ggrroouuppss
+       is maintained as  a  Texinfo  manual.  If  the
+       iinnffoo  and ggrroouuppss programs are
+       properly installed at your site, the command
+
+              iinnffoo ggrroouuppss
+
+       should give you access to the complete manual.
+
+
+
+groups 6.7-pre                   December 2006
+GROUPS(1)

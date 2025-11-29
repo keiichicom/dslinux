@@ -1,0 +1,170 @@
+gmappedfile.lo gmappedfile.o: gmappedfile.c ../config.h \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/sys/stat.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stat.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h ../glibconfig.h \
+  ../glib/gmacros.h /home/andrewec/dslinux/uClibc/include/limits.h \
+  /home/andrewec/dslinux/include/gcc/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/local_lim.h \
+  /home/andrewec/dslinux/uClibc/include/linux/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h \
+  /home/andrewec/dslinux/include/gcc/float.h gconvert.h ../glib/gerror.h \
+  ../glib/gquark.h ../glib/gtypes.h ../glibconfig.h gerror.h gfileutils.h \
+  gmappedfile.h gmem.h ../glib/gslice.h gmessages.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h gstdio.h ../glib/gprintf.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h gstrfuncs.h \
+  glibintl.h /home/andrewec/dslinux/uClibc/include/libintl.h \
+  /home/andrewec/dslinux/uClibc/include/locale.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_locale.h galias.h \
+  galiasdef.c
+
+../config.h:
+
+/home/andrewec/dslinux/uClibc/include/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno_values.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/time.h:
+
+/home/andrewec/dslinux/uClibc/include/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigset.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/time.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/sysmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/stat.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stat.h:
+
+/home/andrewec/dslinux/uClibc/include/fcntl.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/fcntl.h:
+
+/home/andrewec/dslinux/uClibc/include/unistd.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix_opt.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/confname.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/getopt.h:
+
+../glibconfig.h:
+
+../glib/gmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/limits.h:
+
+/home/andrewec/dslinux/include/gcc/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/local_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h:
+
+/home/andrewec/dslinux/include/gcc/float.h:
+
+gconvert.h:
+
+../glib/gerror.h:
+
+../glib/gquark.h:
+
+../glib/gtypes.h:
+
+../glibconfig.h:
+
+gerror.h:
+
+gfileutils.h:
+
+gmappedfile.h:
+
+gmem.h:
+
+../glib/gslice.h:
+
+gmessages.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+gstdio.h:
+
+../glib/gprintf.h:
+
+/home/andrewec/dslinux/uClibc/include/stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h:
+
+gstrfuncs.h:
+
+glibintl.h:
+
+/home/andrewec/dslinux/uClibc/include/libintl.h:
+
+/home/andrewec/dslinux/uClibc/include/locale.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_locale.h:
+
+galias.h:
+
+galiasdef.c:

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32
+END
+dynmodules.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynmodules.dsp
+END
+clean_dist.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/clean_dist.bat
+END
+sfcommands.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfcommands.dsp
+END
+modules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/modules.mak
+END
+modules.dep
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/modules.dep
+END
+clean_all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/clean_all.bat
+END
+dynamiclib.dep
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynamiclib.dep
+END
+dynamiclib.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynamiclib.mak
+END
+sfinfo.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfinfo.mak
+END
+sfinfo.dep
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfinfo.dep
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/config.h
+END
+build_all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/build_all.bat
+END
+modules.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/modules.dsp
+END
+README.win32
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/README.win32
+END
+audiofile.def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/audiofile.def
+END
+dynamiclib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynamiclib.dsp
+END
+lib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/lib.dsw
+END
+sfinfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfinfo.dsp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/Makefile.am
+END
+prebuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/prebuild.bat
+END
+sfconvert.mak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfconvert.mak
+END
+sfconvert.dep
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfconvert.dep
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/Makefile.in
+END
+staticlib.mak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/staticlib.mak
+END
+staticlib.dep
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/staticlib.dep
+END
+dynmodules.dep
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynmodules.dep
+END
+dynmodules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/dynmodules.mak
+END
+all.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/all.dsp
+END
+sfconvert.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/sfconvert.dsp
+END
+staticlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/staticlib.dsp
+END
+all.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/win32/all.dsw
+END

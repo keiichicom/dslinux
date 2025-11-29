@@ -1,0 +1,265 @@
+DUNGEON(6)
+DUNGEON(6)
+
+
+
+NNAAMMEE
+       dungeon - Adventures in the Dungeons of Doom
+
+SSYYNNOOPPSSIISS
+       dduunnggeeoonn
+
+DDEESSCCRRIIPPTTIIOONN
+       Dungeon  is  a  game  of adventure, danger, and
+       low cunning.  In it you will explore some of the
+       most amazing territory  ever  seen  by  mortal man.
+       Hardened  adventurers  have  run screaming from the
+       terrors con‐ tained within.
+
+       In Dungeon, the intrepid explorer delves into the
+       forgotten secrets  of a  lost  labyrinth  deep in
+       the bowels of the earth, searching for vast treasures
+       long hidden from prying eyes, treasures guarded  by
+       fearsome monsters and diabolical traps!
+
+       Dungeon  was  created at the Programming Technology
+       Division of the MIT Laboratory for Computer Science
+       by  Tim  Anderson,  Marc  Blank,  Bruce Daniels,  and
+       Dave  Lebling.  It was inspired by the Adventure game
+       of Crowther and Woods, and the Dungeons and  Dragons
+       game  of  Gygax  and Arneson.   The original version
+       was written in MDL (alias MUDDLE).  The current version
+       was translated from MDL into FORTRAN IV by  a  somewhat
+       paranoid DEC engineer who prefers to remain anonymous.
+
+       On-line information may be obtained with the commands
+       HELP and INFO.
+
+DDEETTAAIILLSS
+       Following is the summary produced by the iinnffoo
+       command:
+
+              Welcome to Dungeon!
+
+              You  are  near a large dungeon, which is
+              reputed to contain vast quantities of treasure.
+              Naturally, you wish to acquire some of it.
+              In  order  to do so, you must of course remove
+              it from the dungeon.  To receive full credit
+              for it,  you  must  deposit  it safely in the
+              trophy case in the living room of the house.
+
+              In  addition  to valuables, the dungeon contains
+              various objects which may or may not be useful in
+              your attempt to get rich.  You may  need  sources
+              of light, since dungeons are often dark, and
+              weapons, since dungeons often have unfriendly
+              things  wandering about.   Reading  material
+              is  scattered  around the dungeon as well;
+              some of it is rumored to be useful.
+
+              To determine how successful you have  been,
+              a  score  is  kept.  When  you  find  a
+              valuable object and pick it up, you receive a
+              certain number of points, which depends  on  the
+              difficulty  of finding  the  object.  You receive
+              extra points for transporting the treasure safely
+              to the living room and  placing  it  in  the
+              trophy  case.   In addition, some particularly
+              interesting rooms have a value associated with
+              visiting them.  The only penalty is for getting
+              yourself killed, which you may do only twice.
+
+              Of  special  note  is  a thief (always carrying
+              a large bag) who likes to wander around in the
+              dungeon (he has never been seen by the  light
+              of  day).  He likes to take things.  Since he
+              steals for pleasure rather than profit and  is
+              somewhat  sadistic,  he only  takes  things
+              which  you  have seen.  Although he prefers
+              valuables, sometimes in his haste he may take
+              something which is worthless.  From time to time,
+              he examines his take and discards objects which
+              he doesn't like.  He may occasionally  stop  in
+              a room  you  are  visiting, but more often he
+              just wanders through and rips you off (he is
+              a skilled pickpocket).
+
+CCOOMMMMAANNDDSS
+       bbrriieeff          suppresses printing of long
+       room descriptions for  rooms
+                      which have been visited.
+
+       ssuuppeerrbbrriieeff     suppresses  printing
+       of  long room descriptions for all
+                      rooms.
+
+       vveerrbboossee        restores long descriptions.
+
+       iinnffoo           prints information which might
+       give some  idea  of  what
+                      the game is about.
+
+       qquuiitt           prints  your score and asks
+       whether you wish to continue
+                      playing.
+
+       ssaavvee           saves the state of the game
+       for later continuation.
+
+       rreessttoorree        restores a saved game.
+
+       iinnvveennttoorryy      lists the objects in
+       your possession.
+
+       llooookk           prints a description of your
+       surroundings.
+
+       ssccoorree          prints your current score
+       and ranking.
+
+       ttiimmee           tells you how long you have
+       been playing.
+
+       ddiiaaggnnoossee       reports on your injuries,
+       if any.
+
+       The iinnvveennttoorryy command may be
+       abbreviated ii; the  llooookk  command  may
+       be abbreviated ll; the qquuiitt command may be
+       abbreviated qq.
+
+       A  command that begins with '!' as the first character
+       is taken to be a shell command and is passed unchanged
+       to the shell via _s_y_s_t_e_m_(_3_)_.
+
+CCOONNTTAAIINNMMEENNTT
+       Some objects can contain other objects.  Many such
+       containers  can  be opened  and closed.  The rest are
+       always open.   They may or may not be transparent.
+       For you to access (e.g., take) an object which  is  in
+       a container,  the container must be open.  For you to
+       see such an object, the container must be either open
+       or transparent.   Containers  have  a capacity,  and
+       objects have sizes; the number of objects which will
+       fit therefore depends on their sizes.  You may  put
+       any  object  you  have access  to  (it  need  not be
+       in your hands) into any other object.  At some point,
+       the program will attempt to pick it up if you don't
+       already have  it, which process may fail if you're
+       carrying too much.  Although containers can contain
+       other containers,  the  program  doesn't  access more
+       than one level down.
+
+FFIIGGHHTTIINNGG
+       Occupants of the dungeon will, as a rule, fight back
+       when attacked.  In some cases, they may attack even if
+       unprovoked.  Useful verbs here  are _a_t_t_a_c_k
+       <villain>  _w_i_t_h <weapon>, _k_i_l_l, etc.
+       Knife-throwing may or may not be useful.  You have a
+       fighting strength which  varies  with  time.  Being  in
+       a  fight,  getting  killed, and being injured all lower
+       this strength.  Strength is regained with time.  Thus,
+       it is not a good idea to  fight someone immediately
+       after being killed.  Other details should become
+       apparent after a few melees or deaths.
+
+CCOOMMMMAANNDD PPAARRSSEERR
+       A command is one line of text terminated by  a
+       carriage  return.   For reasons  of  simplicity,
+       all words are distinguished by their first six
+       letters.  All others are ignored.  For example,
+       typing _d_i_s_a_s_s_e_m_b_l_e  _t_h_e
+       _e_n_c_y_c_l_o_p_e_d_i_a is not only
+       meaningless, it also creates excess effort for
+       your fingers.  Note that this truncation may produce
+       ambiguities in the intepretation  of  longer  words.
+       [Also note that upper and lower case are equivalent.]
+
+       You are dealing with a fairly stupid parser, which
+       understands the fol‐ lowing types of things:
+
+              AAccttiioonnss::
+                   Among  the  more obvious of these, such as
+                   _t_a_k_e_, _p_u_t_, _d_r_o_p_,
+                   etc.  Fairly general forms of these may
+                   be  used,  such  as _p_i_c_k _u_p_,
+                   _p_u_t _d_o_w_n_, etc.
+
+              DDiirreeccttiioonnss::
+                   _n_o_r_t_h_,  _s_o_u_t_h_,
+                   _u_p_,  _d_o_w_n_, etc. and their
+                   various abbrevia‐ tions.  Other more
+                   obscure  directions  (_l_a_n_d_,
+                   _c_r_o_s_s)  are appropriate in only
+                   certain situations.
+
+              OObbjjeeccttss::
+                   Most objects have names and can be
+                   referenced by them.
+
+              AAddjjeeccttiivveess::
+                   Some  adjectives are understood and required
+                   when there are two objects which can be
+                   referenced with  the  same  'name' (e.g.,
+                   _d_o_o_r_s_, _b_u_t_t_o_n_s).
+
+              PPrreeppoossiittiioonnss::
+                   It  may be necessary in some cases to
+                   include prepositions, but the  parser
+                   attempts  to  handle  cases  which  aren't
+                   ambiguous  without.   Thus  _g_i_v_e
+                   _c_a_r _t_o _d_e_m_o_n will work,
+                   as will _g_i_v_e _d_e_m_o_n
+                   _c_a_r.  _g_i_v_e _c_a_r
+                   _d_e_m_o_n probably won't do any‐
+                   thing  interesting.   When a preposition is
+                   used, it should be appropriate; _g_i_v_e
+                   _c_a_r _w_i_t_h _d_e_m_o_n
+                   won't parse.
+
+              SSeenntteenncceess::
+                   The parser understands a  reasonable
+                   number  of  syntactic construc-  tions.
+                   In particular, multiple commands (sepa‐
+                   rated by commas) can be placed on the
+                   same line.
+
+              AAmmbbiigguuiittyy::
+                   The parser tries to be clever about what to
+                   do in the  case of  actions  which  require
+                   objects that are not explicitly specified.
+                   If there  is  only  one  possible  object,
+                   the parser  will assume that it should
+                   be used.  Otherwise, the parser will ask.
+                   Most questions asked by the parser can
+                   be answered.
+
+FFIILLEESS
+       dtextc.dat     - encoded messages and initialization
+       information dsave.dat      - save file
+
+BBUUGGSS
+       For those familiar with the MDL version of the game
+       on the ARPAnet, the following is a list of the major
+       incompatabilties:
+              -The first six letters of a  word  are
+              considered  significant, instead of the
+              first five.  -The syntax for _t_e_l_l_,
+              _a_n_s_w_e_r_, and _i_n_c_a_n_t is
+              different.  -Compound objects are not recognized.
+              -Compound  commands  can  be  delimited  with
+              comma  as well as period.
+
+       Also, the palantir, brochure, and dead  man  problems
+       are  not  imple‐ mented.
+
+AAUUTTHHOORRSS
+       Many  people  have  had  a hand in this version.
+       See the "History" and "README" files for credits.   Send
+       bug  reports  to  ian@airs.com  (or uunet!airs!ian).
+
+
+
+                                March 11, 1991
+                                DUNGEON(6)

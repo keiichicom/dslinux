@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle
+END
+bog.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/bog.c
+END
+helpfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/helpfile
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/help.c
+END
+mach.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/mach.c
+END
+prtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/prtable.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/extern.h
+END
+word.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/word.c
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/Makefrag
+END
+bog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/bog.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/timer.c
+END
+bog.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/bog.h.in
+END
+boggle.6
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/boggle.6
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/boggle/boggle/Makefile.bsd
+END

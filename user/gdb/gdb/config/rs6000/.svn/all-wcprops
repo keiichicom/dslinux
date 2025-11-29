@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000
+END
+aix4.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/aix4.mh
+END
+nm-rs6000.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/nm-rs6000.h
+END
+rs6000lynx.mh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/rs6000lynx.mh
+END
+rs6000.mt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/rs6000.mt
+END
+rs6000.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/rs6000.mh
+END
+tm-rs6000.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/tm-rs6000.h
+END
+tm-rs6000ly.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/tm-rs6000ly.h
+END
+aix4.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/aix4.mt
+END
+rs6000lynx.mt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/rs6000/rs6000lynx.mt
+END

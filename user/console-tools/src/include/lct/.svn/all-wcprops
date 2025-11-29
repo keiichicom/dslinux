@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2361/trunk/user/console-tools/src/include/lct
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/utils.h
+END
+modifiers.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/modifiers.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/console.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/Makefile.am
+END
+cyrillic.syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/cyrillic.syms.h
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/font.h
+END
+ksyms.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/ksyms.h
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/unicode.h
+END
+latin8.syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/latin8.syms.h
+END
+local.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/local.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2361/trunk/user/console-tools/src/include/lct/Makefile.in
+END
+ethiopic.syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2287/trunk/user/console-tools/src/include/lct/ethiopic.syms.h
+END

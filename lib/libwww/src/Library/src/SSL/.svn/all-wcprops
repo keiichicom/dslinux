@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/Makefile.in
+END
+HTSSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSL.h
+END
+HTSSLReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLReader.h
+END
+HTSSLhttps.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLhttps.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/Makefile.am
+END
+HTSSLWriter.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLWriter.c
+END
+WWWSSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/WWWSSL.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/Makefile
+END
+HTSSL.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSL.c
+END
+HTSSLMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLMan.h
+END
+HTSSLWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLWriter.h
+END
+HTSSLReader.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLReader.c
+END
+HTSSLhttps.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SSL/HTSSLhttps.c
+END

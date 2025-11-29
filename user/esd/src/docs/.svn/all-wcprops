@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/user/esd/src/docs
+END
+esd.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esd.1.in
+END
+esdsample.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdsample.1.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/Makefile.in
+END
+esd-config.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esd-config.1.in
+END
+esdctl.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdctl.1.in
+END
+esdplay.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdplay.1.in
+END
+esddsp.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esddsp.1.in
+END
+esdcat.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdcat.1.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/Makefile.am
+END
+esdloop.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdloop.1.in
+END
+esdmon.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdmon.1.in
+END
+esdrec.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdrec.1.in
+END
+esdfilt.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esdfilt.1.in
+END
+esound.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/esd/src/docs/esound.sgml
+END

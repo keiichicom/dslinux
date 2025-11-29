@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32
+END
+SDL_systhread_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/SDL_systhread_c.h
+END
+SDL_sysmutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/SDL_sysmutex.c
+END
+SDL_syssem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/SDL_syssem.c
+END
+win_ce_semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/win_ce_semaphore.c
+END
+SDL_systhread.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/SDL_systhread.c
+END
+win_ce_semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/thread/win32/win_ce_semaphore.h
+END

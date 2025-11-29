@@ -1,0 +1,124 @@
+demo.o .depend : $(TOP)/config demo.c /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+move.o .depend : $(TOP)/config move.c /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+landmine.o .depend : $(TOP)/config landmine.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+world.o .depend : $(TOP)/config world.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+nxclock.o .depend : $(TOP)/config nxclock.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+nxterm.o .depend : $(TOP)/config nxterm.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h nxterm.h
+nxview.o .depend : $(TOP)/config nxview.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+nxlsclients.o .depend : $(TOP)/config nxlsclients.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/windef.h
+nxev.o .depend : $(TOP)/config nxev.c /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+nxmag.o .depend : $(TOP)/config nxmag.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h
+npanel.o .depend : $(TOP)/config npanel.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+nterm.o .depend : $(TOP)/config nterm.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+demo2.o .depend : $(TOP)/config demo2.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+demo5.o .depend : $(TOP)/config demo5.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+demo6.o .depend : $(TOP)/config demo6.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+t1demo.o .depend : $(TOP)/config t1demo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+ftdemo.o .depend : $(TOP)/config ftdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+logfont.o .depend : $(TOP)/config logfont.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+slider.o .depend : $(TOP)/config slider.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+ntetris.o .depend : $(TOP)/config ntetris.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h ntetris.h
+getselection.o .depend : $(TOP)/config getselection.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+setselection.o .depend : $(TOP)/config setselection.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+dashdemo.o .depend : $(TOP)/config dashdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+tsdemo.o .depend : $(TOP)/config tsdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+pcfdemo.o .depend : $(TOP)/config pcfdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+fontdemo.o .depend : $(TOP)/config fontdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+setportrait.o .depend : $(TOP)/config setportrait.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+arcdemo.o .depend : $(TOP)/config arcdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+polydemo.o .depend : $(TOP)/config polydemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+snap_ppm.o .depend : $(TOP)/config snap_ppm.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+bmpdemo.o .depend : $(TOP)/config bmpdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h
+rgndemo.o .depend : $(TOP)/config rgndemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h tuxmask.h
+convpbm.o .depend : $(TOP)/config convpbm.c
+launcher.o .depend : $(TOP)/config launcher.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h launcher.h
+nsaver.o .depend : $(TOP)/config nsaver.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h nsaver.h
+nxeyes.o .depend : $(TOP)/config nxeyes.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h nxeyes.h
+tux.o .depend : $(TOP)/config tux.c /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h tuxmask.h
+nxcal.o .depend : $(TOP)/config nxcal.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/nxcolors.h
+grabdemo.o .depend : $(TOP)/config grabdemo.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h
+snap_jpg.o .depend : $(TOP)/config snap_jpg.c \
+ /home/andrewec/dslinux/user/microwin/src/include/nano-X.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h

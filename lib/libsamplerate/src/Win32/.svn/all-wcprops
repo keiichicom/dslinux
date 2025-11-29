@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32
+END
+libsamplerate-0.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/libsamplerate-0.def
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/Makefile.in
+END
+Makefile.mingw.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/Makefile.mingw.in
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/Makefile.msvc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/Makefile.am
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/config.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Win32/unistd.h
+END

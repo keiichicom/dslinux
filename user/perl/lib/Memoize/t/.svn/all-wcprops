@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t
+END
+expmod_t.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/expmod_t.t
+END
+tiefeatures.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tiefeatures.t
+END
+tie_ndbm.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tie_ndbm.t
+END
+tie.t
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tie.t
+END
+flush.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/flush.t
+END
+tie_sdbm.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tie_sdbm.t
+END
+correctness.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/correctness.t
+END
+expire.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/expire.t
+END
+expfile.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/expfile.t
+END
+speed.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/speed.t
+END
+normalize.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/normalize.t
+END
+array_confusion.t
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/array_confusion.t
+END
+prototype.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/prototype.t
+END
+unmemoize.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/unmemoize.t
+END
+expmod_n.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/expmod_n.t
+END
+tie_gdbm.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tie_gdbm.t
+END
+errors.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/errors.t
+END
+tie_storable.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/tie_storable.t
+END
+array.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/lib/Memoize/t/array.t
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old
+END
+addcity.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/addcity.c
+END
+scfxn.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/scfxn.c
+END
+hashdb_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/hashdb_api.c
+END
+scfxn.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/scfxn.h
+END
+hashdb_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/hashdb_api.h
+END
+nxsunclock.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/nxsunclock.cxx
+END
+astro.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/astro.c
+END
+citylist.out
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/citylist.out
+END
+hashdb_low.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/hashdb_low.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/Makefile
+END
+gray_grid_240.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/gray_grid_240.c
+END
+nxsunclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/sysconfig/clock/old/nxsunclock.h
+END

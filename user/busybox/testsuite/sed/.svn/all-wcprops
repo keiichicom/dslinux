@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed
+END
+sed-handles-unsatisfied-backrefs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-handles-unsatisfied-backrefs
+END
+sed-chains-substs2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-chains-substs2
+END
+sed-append-next-line
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-append-next-line
+END
+sed-append-hold-space-to-pattern-space
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-append-hold-space-to-pattern-space
+END
+sed-splits-edit-commands-on-command-line
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-splits-edit-commands-on-command-line
+END
+sed-branch-conditional2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-branch-conditional2
+END
+sed-handles-empty-lines
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-handles-empty-lines
+END
+sed-prints-line-once-for-multiple-substs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-prints-line-once-for-multiple-substs
+END
+sed-branch-no-label
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-branch-no-label
+END
+sed-chains-substs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-chains-substs
+END
+sed-write-to-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-write-to-stdout
+END
+sed-aic-commands
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-aic-commands
+END
+sed-branch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-branch
+END
+sed-does-not-substitute-in-deleted-line
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-does-not-substitute-in-deleted-line
+END
+sed-branch-conditional
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-branch-conditional
+END
+sed-next-line
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-next-line
+END
+sed-regex-match-newline
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-regex-match-newline
+END
+sed-subst-subprint
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-subst-subprint
+END
+sed-handles-embedded-slashes
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-handles-embedded-slashes
+END
+sed-recurses-properly
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-recurses-properly
+END
+sed-accepts-blanks-before-command
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/sed/sed-accepts-blanks-before-command
+END

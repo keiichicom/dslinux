@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal/script
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal/expect.1
+END
+expect.2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal/expect.2
+END
+journal.gz
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal/journal.gz
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_ext_journal/image.gz
+END

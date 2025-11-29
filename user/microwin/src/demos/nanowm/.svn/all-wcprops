@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm
+END
+nanowm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/nanowm.c
+END
+actions.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/actions.c
+END
+clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/clients.c
+END
+wlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/wlist.c
+END
+events.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/events.c
+END
+nanowm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/nanowm.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/.svnignore
+END
+nanowm.syms
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/nanowm.syms
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanowm/Makefile
+END

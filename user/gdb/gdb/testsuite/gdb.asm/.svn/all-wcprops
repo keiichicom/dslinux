@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm
+END
+openbsd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/openbsd.inc
+END
+xstormy16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/xstormy16.inc
+END
+frv.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/frv.inc
+END
+s390.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/s390.inc
+END
+empty.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/empty.inc
+END
+pa.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/pa.inc
+END
+asmsrc1.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/asmsrc1.s
+END
+asmsrc2.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/asmsrc2.s
+END
+ia64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/ia64.inc
+END
+m32c.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/m32c.inc
+END
+spu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/spu.inc
+END
+sparc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/sparc.inc
+END
+mips.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/mips.inc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/Makefile.in
+END
+netbsd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/netbsd.inc
+END
+m32r-linux.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/m32r-linux.inc
+END
+m32r.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/m32r.inc
+END
+m68k.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/m68k.inc
+END
+s390x.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/s390x.inc
+END
+m68hc11.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/m68hc11.inc
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/common.inc
+END
+i386.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/i386.inc
+END
+x86_64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/x86_64.inc
+END
+asm-source.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/asm-source.exp
+END
+v850.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/v850.inc
+END
+h8300.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/h8300.inc
+END
+sh.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/sh.inc
+END
+pa64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/pa64.inc
+END
+d10v.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/d10v.inc
+END
+iq2000.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/iq2000.inc
+END
+powerpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/powerpc.inc
+END
+arm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/arm.inc
+END
+sparc64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/sparc64.inc
+END
+alpha.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.asm/alpha.inc
+END

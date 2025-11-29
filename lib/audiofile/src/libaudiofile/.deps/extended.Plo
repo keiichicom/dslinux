@@ -1,0 +1,24 @@
+extended.lo extended.o: extended.c \
+  /home/andrewec/dslinux/uClibc/include/math.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/huge_val.h \
+  /home/andrewec/dslinux/uClibc/include/bits/mathdef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/mathcalls.h extended.h
+
+/home/andrewec/dslinux/uClibc/include/math.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/huge_val.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/mathdef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/mathcalls.h:
+
+extended.h:

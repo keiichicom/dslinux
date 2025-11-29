@@ -1,0 +1,20 @@
+rom8x16.o .depend : $(TOP)/config rom8x16.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+rom8x8.o .depend : $(TOP)/config rom8x8.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+winFreeSansSerif11x13.o .depend : $(TOP)/config winFreeSansSerif11x13.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+winFreeSystem14x16.o .depend : $(TOP)/config winFreeSystem14x16.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+X6x13.o .depend : $(TOP)/config X6x13.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h

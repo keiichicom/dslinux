@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp
+END
+u_feat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_feat.c
+END
+io_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_util.c
+END
+rglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/rglob.c
+END
+libncftp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/libncftp.dsp
+END
+u_gmtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_gmtime.c
+END
+u_pathcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_pathcat.c
+END
+c_rename.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_rename.c
+END
+u_shutdownci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_shutdownci.c
+END
+libncftp.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/libncftp.dsw
+END
+c_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_size.c
+END
+io_gettar.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_gettar.c
+END
+c_chdir3.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_chdir3.c
+END
+c_exists.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_exists.c
+END
+linelist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/linelist.c
+END
+c_filetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_filetype.c
+END
+ncftp_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/ncftp_errno.h
+END
+c_utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_utime.c
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/errno.c
+END
+u_miscdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_miscdebug.c
+END
+rglobr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/rglobr.c
+END
+c_chdirlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_chdirlist.c
+END
+u_getpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getpass.c
+END
+u_getusr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getusr.c
+END
+c_sizemdtm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_sizemdtm.c
+END
+u_slash.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_slash.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/Makefile.in
+END
+u_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_signal.c
+END
+io_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_list.c
+END
+c_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_delete.c
+END
+u_decodehost.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_decodehost.c
+END
+io_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_get.c
+END
+c_mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_mkdir.c
+END
+c_rhelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_rhelp.c
+END
+u_mkdirs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_mkdirs.c
+END
+c_rmdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_rmdir.c
+END
+c_getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_getcwd.c
+END
+u_getutc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getutc.c
+END
+unls.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/unls.c
+END
+u_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_printf.c
+END
+pch.mk.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/pch.mk.macosx
+END
+pch.mk.gcc-gch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/pch.mk.gcc-gch
+END
+io_getfiles.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_getfiles.c
+END
+c_chdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_chdir.c
+END
+pch.mk.none
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/pch.mk.none
+END
+u_localtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_localtime.c
+END
+io_putmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_putmem.c
+END
+io_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_put.c
+END
+ftw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/ftw.c
+END
+io_putonefile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_putonefile.c
+END
+io_listmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_listmem.c
+END
+u_fileextn.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_fileextn.c
+END
+io_getmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_getmem.c
+END
+io_getonefile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_getonefile.c
+END
+c_mlist1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_mlist1.c
+END
+u_gethome.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_gethome.c
+END
+lglobr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/lglobr.c
+END
+rftw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/rftw.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/util.h
+END
+rcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/rcmd.c
+END
+u_unmdtm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_unmdtm.c
+END
+u_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_close.c
+END
+c_opennologin.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_opennologin.c
+END
+syshdrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/syshdrs.h
+END
+u_getpw.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getpw.c
+END
+u_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_error.c
+END
+ncftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/ncftp.h
+END
+u_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_misc.c
+END
+io_putfiles.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/io_putfiles.c
+END
+c_umask.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_umask.c
+END
+wincfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/wincfg.h
+END
+c_type.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_type.c
+END
+u_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getopt.c
+END
+u_rebuildci.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_rebuildci.c
+END
+c_symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_symlink.c
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/ftp.c
+END
+u_scram.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_scram.c
+END
+u_decodeurl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_decodeurl.c
+END
+c_chmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_chmod.c
+END
+ftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/ftp.h
+END
+lglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/lglob.c
+END
+util2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/util2.cpp
+END
+c_modtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_modtime.c
+END
+u_getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/u_getcwd.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/open.c
+END
+c_rmdirr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/libncftp/c_rmdirr.c
+END

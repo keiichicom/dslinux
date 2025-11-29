@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada
+END
+array_return.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/array_return.exp
+END
+exec_changed.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/exec_changed.exp
+END
+start.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/start.exp
+END
+watch_arg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/watch_arg.exp
+END
+arrayidx.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/arrayidx.exp
+END
+packed_array.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/packed_array.exp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/Makefile.in
+END
+null_record.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/null_record.exp
+END
+gnat_ada.gpr
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/gnat_ada.gpr
+END
+fixed_points.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.ada/fixed_points.exp
+END

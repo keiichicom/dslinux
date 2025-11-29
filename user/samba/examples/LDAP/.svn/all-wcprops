@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP
+END
+samba.schema.oc.IBM-DS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba.schema.oc.IBM-DS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/README
+END
+samba-schema.IBMSecureWay
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba-schema.IBMSecureWay
+END
+samba.schema.at.IBM-DS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba.schema.at.IBM-DS
+END
+convertSambaAccount
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/convertSambaAccount
+END
+samba-schema-netscapeds4.x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba-schema-netscapeds4.x
+END
+samba.schema
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba.schema
+END
+samba-schema-netscapeds5.x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba-schema-netscapeds5.x
+END
+samba-nds.schema
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/samba-nds.schema
+END
+get_next_oid
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/examples/LDAP/get_next_oid
+END

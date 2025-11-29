@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/mpi
+END
+mpi_to_ltc_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/mpi/mpi_to_ltc_error.c
+END
+is_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/mpi/is_prime.c
+END
+rand_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/misc/mpi/rand_prime.c
+END

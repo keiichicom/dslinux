@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/rc4/asm
+END
+rc4-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/rc4/asm/rc4-x86_64.pl
+END
+rc4-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/rc4/asm/rc4-586.pl
+END
+rc4-ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/rc4/asm/rc4-ia64.S
+END

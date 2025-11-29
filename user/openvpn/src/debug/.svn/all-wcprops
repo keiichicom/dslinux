@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/openvpn/src/debug
+END
+valgrind-suppress
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/openvpn/src/debug/valgrind-suppress
+END

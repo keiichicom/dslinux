@@ -1,0 +1,62 @@
+ARITHMETIC(6)                  BSD Games Manual
+ARITHMETIC(6)
+
+NNAAMMEE
+     aarriitthhmmeettiicc — quiz on simple
+     arithmetic
+
+SSYYNNOOPPSSIISS
+     aarriitthhmmeettiicc [--oo _+_-_x_/]
+     [--rr _r_a_n_g_e]
+
+DDEESSCCRRIIPPTTIIOONN
+     aarriitthhmmeettiicc asks you to solve problems
+     in simple arithmetic.  Each ques‐ tion must be answered
+     correctly before going on to the next.  After every 20
+     problems, it prints the score so far and the time taken.
+     You can quit at any time by typing the interrupt or
+     end-of-file character.
+
+     The options are as follows:
+
+     --oo      By default, aarriitthhmmeettiicc
+     asks questions on addition of numbers from
+             0 to 10, and corresponding subtraction.
+             By supplying one or more of the characters
+             _+_-_x_/, you can ask for problems in
+             addition, subtraction, multiplication, and
+             division, respectively.  If you give one of
+             these characters more than once, that kind of
+             problem will be asked correspondingly more often.
+
+     --rr      If a _r_a_n_g_e is supplied,
+     aarriitthhmmeettiicc selects the numbers in its
+             problems in the following way.  For addition
+             and multiplication, the numbers to be added or
+             multiplied are between 0 and _r_a_n_g_e,
+             inclusive.  For subtraction and division, both the
+             required result and the number to divide by or
+             subtract will be between 0 and _r_a_n_g_e.
+             (Of course, aarriitthhmmeettiicc will
+             not ask you to divide by 0.)  The default is 10.
+
+     When you get a problem wrong,
+     aarriitthhmmeettiicc will remember the numbers
+     involved, and will tend to select those numbers more
+     often than others, in problems of the same sort.
+     Eventually it will forgive and forget.
+
+     aarriitthhmmeettiicc cannot be persuaded to tell
+     you the right answer.  You must work it out for yourself.
+
+DDIIAAGGNNOOSSTTIICCSS
+     “What?” if you get a question wrong.  “Right!”
+     if you get it right.  “Please type a number.” if
+     aarriitthhmmeettiicc doesn't understand what
+     you typed.
+
+SSEEEE AALLSSOO
+     bc(1), dc(1)
+
+BSD                              May 31, 1993
+BSD

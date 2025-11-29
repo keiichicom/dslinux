@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/iptables/libipq
+END
+libipq.3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/libipq.3
+END
+libipq.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/libipq.c
+END
+ipq_perror.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_perror.3
+END
+ipq_read.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_read.3
+END
+ipq_set_verdict.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_set_verdict.3
+END
+ipq_create_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_create_handle.3
+END
+ipq_get_msgerr.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_get_msgerr.3
+END
+ipq_set_mode.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_set_mode.3
+END
+ipq_errstr.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_errstr.3
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/Makefile
+END
+ipq_destroy_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_destroy_handle.3
+END
+ipq_message_type.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_message_type.3
+END
+ipq_get_packet.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/iptables/libipq/ipq_get_packet.3
+END

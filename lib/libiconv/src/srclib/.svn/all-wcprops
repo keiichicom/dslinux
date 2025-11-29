@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib
+END
+uniwidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/uniwidth.h
+END
+streq.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/streq.h
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/Makefile.msvc
+END
+relocwrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/relocwrapper.c
+END
+progname.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/progname.c
+END
+stdint_.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/stdint_.h
+END
+xstrdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/xstrdup.c
+END
+stdbool_.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/stdbool_.h
+END
+progname.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/progname.h
+END
+allocsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/allocsa.c
+END
+xreadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/xreadlink.c
+END
+allocsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/allocsa.h
+END
+xreadlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/xreadlink.h
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/xalloc.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/Makefile.am
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/readlink.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/gettext.h
+END
+progreloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/progreloc.c
+END
+canonicalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/canonicalize.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/xmalloc.c
+END
+Makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/Makefile.vms
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/Makefile.in
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/setenv.c
+END
+canonicalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/canonicalize.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/memmove.c
+END
+pathmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/pathmax.h
+END
+unsetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/unsetenv.c
+END
+setenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/setenv.h
+END
+cjk.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/cjk.h
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/relocatable.c
+END
+exit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/exit.h
+END
+unlocked-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/unlocked-io.h
+END
+width.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/width.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/strerror.c
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/relocatable.h
+END
+unitypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/unitypes.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/error.c
+END
+binary-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/binary-io.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/error.h
+END
+alloca_.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/srclib/alloca_.h
+END

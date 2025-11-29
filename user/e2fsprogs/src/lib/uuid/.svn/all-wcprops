@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid
+END
+uuid_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_time.c
+END
+uuid_copy.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_copy.3.in
+END
+uuid_parse.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_parse.3.in
+END
+compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/compare.c
+END
+clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/clear.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/COPYING
+END
+uuid_unparse.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_unparse.3.in
+END
+uuid.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid.3.in
+END
+uuid.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid.pc.in
+END
+uuidP.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuidP.h
+END
+gen_uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/gen_uuid.c
+END
+tst_uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/tst_uuid.c
+END
+gen_uuid_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/gen_uuid_nt.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/Makefile.in
+END
+uuid_clear.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_clear.3.in
+END
+uuid_compare.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_compare.3.in
+END
+uuid_types.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_types.h.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/configure.in
+END
+uuid_generate.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_generate.3.in
+END
+isnull.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/isnull.c
+END
+uuid_time.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_time.3.in
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/parse.c
+END
+copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/copy.c
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid.h
+END
+unparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/unparse.c
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/pack.c
+END
+uuidd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuidd.h
+END
+uuid_is_null.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/uuid_is_null.3.in
+END
+unpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/uuid/unpack.c
+END

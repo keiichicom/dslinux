@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint
+END
+SDL_mintaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio.c
+END
+SDL_mintaudio_mcsn.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_mcsn.c
+END
+SDL_mintaudio_stfa.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_stfa.h
+END
+SDL_mintaudio_gsxb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_gsxb.c
+END
+SDL_mintaudio_xbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_xbios.c
+END
+SDL_mintaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio.h
+END
+SDL_mintaudio_mcsn.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_mcsn.h
+END
+SDL_mintaudio_gsxb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_gsxb.h
+END
+SDL_mintaudio_dma8.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_dma8.c
+END
+SDL_mintaudio_it.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_it.S
+END
+SDL_mintaudio_stfa.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_stfa.c
+END
+SDL_mintaudio_dma8.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/audio/mint/SDL_mintaudio_dma8.h
+END

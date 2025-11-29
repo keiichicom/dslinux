@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posix
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posix/Makefile.am
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posix/regex.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posix/Makefile.in
+END

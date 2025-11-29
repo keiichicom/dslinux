@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/iptables/include/libiptc
+END
+libip6tc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/iptables/include/libiptc/libip6tc.h
+END
+libiptc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/iptables/include/libiptc/libiptc.h
+END
+ipt_kernel_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/iptables/include/libiptc/ipt_kernel_headers.h
+END

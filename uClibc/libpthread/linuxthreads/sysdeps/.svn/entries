@@ -1,0 +1,113 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/uClibc/libpthread/linuxthreads/sysdeps
+https://svn.dslinux.org/svn
+
+
+
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+sh
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:31.072805Z
+5414040801e119f6f7f0f2b0c1e869a1
+2006-02-20T17:09:11.000000Z
+573
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1595
+
+powerpc
+dir
+
+arm
+dir
+
+sh64
+dir
+
+m68k
+dir
+
+alpha
+dir
+
+pthread
+dir
+
+microblaze
+dir
+
+i386
+dir
+
+nios2
+dir
+
+frv
+dir
+
+cris
+dir
+
+h8300
+dir
+
+v850
+dir
+
+nios
+dir
+
+mips
+dir
+
+sparc
+dir
+

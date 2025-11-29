@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss
+END
+pager.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/pager.c
+END
+listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/listen.c
+END
+mit-sipb-copyright.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/mit-sipb-copyright.h
+END
+list_rqs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/list_rqs.c
+END
+ct_c.sed
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ct_c.sed
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/Makefile.in
+END
+std_rqs.ct
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/std_rqs.ct
+END
+test_script_expected
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/test_script_expected
+END
+ct_c.awk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ct_c.awk
+END
+invocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/invocation.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/data.c
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/parse.c
+END
+mk_cmds.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/mk_cmds.sh.in
+END
+ss.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ss.pc.in
+END
+requests.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/requests.c
+END
+prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/prompt.c
+END
+get_readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/get_readline.c
+END
+test_script
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/test_script
+END
+ss_err.et
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ss_err.et
+END
+test_ss.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/test_ss.c
+END
+execute_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/execute_cmd.c
+END
+ss_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ss_internal.h
+END
+test_cmd.ct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/test_cmd.ct
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/help.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/error.c
+END
+request_tbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/request_tbl.c
+END
+ss.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/ss.h
+END
+mk_cmds.1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/ss/mk_cmds.1
+END

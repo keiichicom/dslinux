@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats
+END
+reg-ppc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-ppc.dat
+END
+reg-m32r.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-m32r.dat
+END
+reg-m68k.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-m68k.dat
+END
+reg-s390x.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-s390x.dat
+END
+reg-i386-linux.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-i386-linux.dat
+END
+reg-i386.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-i386.dat
+END
+reg-crisv32.dat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-crisv32.dat
+END
+reg-ppc64.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-ppc64.dat
+END
+regdat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/regdat.sh
+END
+reg-s390.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-s390.dat
+END
+reg-cris.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-cris.dat
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/regdef.h
+END
+reg-ia64.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-ia64.dat
+END
+reg-spu.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-spu.dat
+END
+reg-mips.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-mips.dat
+END
+reg-x86-64-linux.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-x86-64-linux.dat
+END
+reg-sh.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-sh.dat
+END
+reg-x86-64.dat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-x86-64.dat
+END
+reg-arm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/regformats/reg-arm.dat
+END

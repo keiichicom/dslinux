@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc
+END
+embed.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/embed.mt
+END
+nm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nm-linux.h
+END
+fbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/fbsd.mt
+END
+sol2.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/sol2.mt
+END
+sparc64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/sparc64.mt
+END
+linux.mh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/linux.mh
+END
+nbsd64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nbsd64.mh
+END
+nbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nbsd.mt
+END
+obsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/obsd.mt
+END
+linux64.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/linux64.mh
+END
+nm-sol2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nm-sol2.h
+END
+linux.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/linux.mt
+END
+nbsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nbsd64.mt
+END
+obsd64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/obsd64.mt
+END
+nbsdelf.mh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nbsdelf.mh
+END
+fbsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/fbsd.mh
+END
+nbsdaout.mh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/nbsdaout.mh
+END
+sol2.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/sol2.mh
+END
+tm-sol2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/tm-sol2.h
+END
+sol2-64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/sol2-64.mt
+END
+sparc.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/sparc.mt
+END
+linux64.mt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/sparc/linux64.mt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib
+END
+Makefile.checker
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.checker
+END
+Makefile.library
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.library
+END
+Makefile.darwin-lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.darwin-lib
+END
+Makefile.elf-lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.elf-lib
+END
+Makefile.bsd-lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.bsd-lib
+END
+fpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/fpopen.c
+END
+Makefile.profile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.profile
+END
+Makefile.solaris-lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/lib/Makefile.solaris-lib
+END

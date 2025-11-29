@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn
+END
+Strn.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strn.dsp
+END
+Strn.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strn.h
+END
+Strnpcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strnpcat.c
+END
+DStrInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrInit.c
+END
+DStrCatList.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrCatList.c
+END
+Strn.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strn.dsw
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Makefile.in
+END
+Strncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strncpy.c
+END
+DStrCat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrCat.c
+END
+Strntok.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strntok.c
+END
+syshdrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/syshdrs.h
+END
+Dynscat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Dynscat.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/configure.in
+END
+Strn.3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strn.3
+END
+StrFree.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/StrFree.c
+END
+DStrInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrInternal.h
+END
+DStrFree.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrFree.c
+END
+Strncat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strncat.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/config.h.in
+END
+Dynsrecpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Dynsrecpy.c
+END
+Strnpcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Strnpcpy.c
+END
+DStrCpyList.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrCpyList.c
+END
+DStrNew.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrNew.c
+END
+DStrCpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/DStrCpy.c
+END
+Dynscpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/Dynscpy.c
+END
+strtokc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncftp/src/Strn/strtokc.c
+END

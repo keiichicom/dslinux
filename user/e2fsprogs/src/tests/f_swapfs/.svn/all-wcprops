@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs
+END
+expect
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/expect
+END
+name
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/name
+END
+debugfs.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/debugfs.cmd
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/image.gz
+END
+image
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/image
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_swapfs/script
+END

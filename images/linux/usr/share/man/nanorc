@@ -1,0 +1,200 @@
+NANORC(5)
+NANORC(5)
+
+
+
+NNAAMMEE
+       nanorc - GNU nano's rcfile
+
+DDEESSCCRRIIPPTTIIOONN
+       This manual page documents GNU nnaannoo's rcfile.
+
+       nnaannoo  is  a small, free and friendly editor
+       which aims to replace Pico, the default editor
+       included in the non-free Pine package.  Rather  than
+       just  copying  Pico's  look and feel, nnaannoo
+       also implements some missing (or disabled by default)
+       features in Pico, such as "search and replace" and
+       "go to line number".
+
+       The  _n_a_n_o_r_c  file  contains
+       the  default  settings  for  nnaannoo.
+       During startup,  nnaannoo  will  first
+       read   its   system-wide   settings   from
+       _$_S_Y_S_C_O_N_F_D_I_R_/_n_a_n_o_r_c,
+       and then user-specific settings from
+       _~_/_._n_a_n_o_r_c.
+
+
+OOPPTTIIOONNSS
+       The  configuration file accepts a series of "set"
+       and "unset" commands, which can be used to configure
+       nano on startup without using  the  com‐ mand-line
+       options. Additionally, the "syntax" and "color"
+       keywords are used to define syntax highlighting rules
+       for different  text  patterns.  GNU nano will read
+       one command per line.
+
+       Options  in  rcfiles  take precedence over nano's
+       defaults, and command line options override rcfile
+       settings.
+
+       Options are unset by default, except for options that
+       take an argument.
+
+       The supported commands and arguments are:
+
+
+       sseett//uunnsseett
+       aauuttooiinnddeenntt
+          Use auto-indentation.
+
+       sseett//uunnsseett bbaacckkuupp
+          Create backup files in _f_i_l_e_n_a_m_e_~.
+
+       sseett//uunnsseett ccoonnsstt
+          Constantly display the cursor position in the
+          status bar.
+
+       sseett//uunnsseett ccuutt
+          Use cut to end of line with ^K by default.
+
+       sseett ffiillll _n
+          Wrap lines at column number _n.  If _n is 0 or
+          less, the  line  length will be the screen width
+          less _n.  The default value is -8.
+
+       sseett//uunnsseett
+       hhiissttoorryylloogg
+          Enable
+          _~_/_._n_a_n_o___h_i_s_t_o_r_y   for
+          saving  and  reading  search/replace strings.
+
+       sseett//uunnsseett kkeeyyppaadd
+          Use alternate keypad routines.
+
+       sseett//uunnsseett
+       mmuullttiibbuuffffeerr
+          Allow inserting files into their own buffers.
+
+       sseett//uunnsseett nnooccoonnvveerrtt
+          Don't convert files from DOS/Mac format.
+
+       sseett//uunnsseett nnooffoollllooww
+          Don't follow symlinks when writing files.
+
+       sseett//uunnsseett nnoohheellpp
+          Don't display the help lists at the bottom of
+          the screen.
+
+       sseett//uunnsseett nnoowwrraapp
+          Don't wrap text at all.
+
+       sseett ooppeerraattiinnggddiirr
+       ""_d_i_r_e_c_t_o_r_y""
+          nnaannoo will only read and write files inside
+          _d_i_r_e_c_t_o_r_y and its  subdi‐
+          rectories.  Also, the current directory is changed
+          to here, so files are inserted from this dir.
+          By default the operating directory fea‐ ture is
+          turned off.
+
+       sseett//uunnsseett pprreesseerrvvee
+          Preserve the XON and XOFF keys (^Q and ^S).
+
+       sseett qquuootteessttrr
+       ""_s_t_r_i_n_g""
+          The  email-quote  string,  used  to justify
+          email-quoted paragraphs.  This is an "extended
+          regular expression"  if  your  system  supports them,
+          otherwise a literal string.  The default value is
+
+               set quotestr "^([ \t]*[|>:}#])+"
+
+          if  you  have  regexps, otherwise set quotestr ">
+          ".  Note that '\t' above stands for a literal
+          Tab character.
+
+       sseett//uunnsseett rreeggeexxpp
+          Do regular expression searches by default.
+
+       sseett//uunnsseett ssmmooootthh
+          Use smooth scrolling by default.
+
+       sseett ssppeelllleerr
+       _s_p_e_l_l_p_r_o_g
+          Use spelling checker _s_p_e_l_l_p_r_o_g
+          instead of the  built-in  one,  which calls
+          _s_p_e_l_l.
+
+       sseett//uunnsseett ssuussppeenndd
+          Allow nano to be suspended with ^Z.
+
+       sseett ttaabbssiizzee _n
+          Use a tab size of _n instead of the default (8);
+          must be greater than 0.
+
+       sseett//uunnsseett tteemmppffiillee
+          Save automatically on exit, don't prompt.
+
+       sseett//uunnsseett vviieeww
+          Disallow file modification.
+
+       ssyynnttaaxx _s_t_r
+       [[""_f_i_l_e_r_e_g_e_x"" ...... ]]
+          Defines a syntax named _s_t_r which can be
+          activated via the  --YY  flag, or  will  be
+          automatically activated if the current filename
+          matches _f_i_l_e_r_e_g_e_x.  All following
+          ccoolloorr  statements  will  apply  to
+          _s_y_n_t_a_x until a new syntax is defined.
+
+       ccoolloorr
+       _f_g_c_o_l_o_r[[,,_b_g_c_o_l_o_r]]
+       _r_e_g_e_x ......
+          For  the  currently defined syntax, display all
+          expressions matching _r_e_g_e_x with foreground
+          color _f_g_c_o_l_o_r and  optional  background
+          color _b_g_c_o_l_o_r.  Legal  colors  for
+          foreground  and  background color are: white,
+          black, red, blue, green, yellow, magenta, and cyan.
+          You  may use  the  prefix  "bright"  to force a
+          stronger color highlight.  If your terminal supports
+          transparency, not specifying a _b_g_c_o_l_o_r
+          tells nnaannoo to attempt to use a transparent
+          background.
+
+       ccoolloorr
+       _f_g_c_o_l_o_r[[,,_b_g_c_o_l_o_r]]
+       ssttaarrtt==""_s_r"" eenndd==""_e_r""
+          Display  expressions  which start with _s_r
+          and end with _e_r with fore‐ ground color
+          _f_g_c_o_l_o_r and optional background
+          color  _b_g_c_o_l_o_r.   This allows  syntax
+          highlighting  to span multiple lines.  Note that
+          all subsequent instances of _s_r after an initial
+          _s_r  is  found  will  be highlighted until the
+          first instance of _e_r.
+
+
+FFIILLEESS
+       _$_S_Y_S_C_O_N_F_D_I_R_/_n_a_n_o_r_c
+              System-wide configuration file
+
+       _~_/_._n_a_n_o_r_c
+              Per-user configuration file
+
+SSEEEE AALLSSOO
+       nnaannoo(1)
+       _/_u_s_r_/_s_h_a_r_e_/_d_o_c_/_n_a_n_o_/_e_x_a_m_p_l_e_s_/_n_a_n_o_r_c_._s_a_m_p_l_e
+       (or equivalent on your sys‐ tem)
+AAUUTTHHOORR
+       Chris Allegretta <chrisa@asty.org>, et al (see
+       _A_U_T_H_O_R_S and  _T_H_A_N_K_S  for
+       details).    This   manual   page   was   written   by
+       Jordi  Mallach <jordi@gnu.org>.
+
+
+
+                                 June 19, 2003
+                                 NANORC(5)

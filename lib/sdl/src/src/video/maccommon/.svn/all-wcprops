@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon
+END
+SDL_mackeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_mackeys.h
+END
+SDL_macgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macgl.c
+END
+SDL_macwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macwm.c
+END
+SDL_macevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macevents.c
+END
+SDL_macmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macmouse.c
+END
+SDL_macgl_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macgl_c.h
+END
+SDL_macwm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macwm_c.h
+END
+SDL_macevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macevents_c.h
+END
+SDL_lowvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_lowvideo.h
+END
+SDL_macmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/maccommon/SDL_macmouse_c.h
+END

@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib
+END
+goption.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/goption.h
+END
+pltcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/pltcheck.sh
+END
+glib-object.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glib-object.h
+END
+gstdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstdio.c
+END
+gmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmain.c
+END
+gdataset.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdataset.c
+END
+gstdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstdio.h
+END
+gspawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gspawn.c
+END
+gquark.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gquark.h
+END
+gmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmacros.h
+END
+gmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmain.h
+END
+gdataset.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdataset.h
+END
+gspawn.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gspawn.h
+END
+glib.rc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glib.rc.in
+END
+gstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstring.c
+END
+gqsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gqsort.c
+END
+gstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstring.h
+END
+gqsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gqsort.h
+END
+ghash.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/ghash.c
+END
+gmirroringtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmirroringtable.h
+END
+ghash.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/ghash.h
+END
+gunicollate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunicollate.c
+END
+gtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gtree.c
+END
+gutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gutils.c
+END
+gwin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gwin32.c
+END
+gtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gtree.h
+END
+gutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gutils.h
+END
+gmappedfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmappedfile.c
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/makefile.msc
+END
+gthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gthread.c
+END
+gwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gwin32.h
+END
+gmappedfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmappedfile.h
+END
+makefile.msc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/makefile.msc.in
+END
+gthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gthread.h
+END
+gdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdate.c
+END
+gdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdate.h
+END
+gasyncqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gasyncqueue.c
+END
+gbase64.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbase64.c
+END
+gasyncqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gasyncqueue.h
+END
+gspawn-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gspawn-win32.c
+END
+gkeyfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gkeyfile.c
+END
+glib.rc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glib.rc
+END
+gbase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbase64.h
+END
+gerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gerror.c
+END
+gunicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunicode.h
+END
+gkeyfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gkeyfile.h
+END
+gerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gerror.h
+END
+gfileutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gfileutils.c
+END
+gspawn-win32-helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gspawn-win32-helper.c
+END
+gfileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gfileutils.h
+END
+gshell.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gshell.c
+END
+giounix.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/giounix.c
+END
+gshell.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gshell.h
+END
+glib.symbols
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glib.symbols
+END
+gpattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gpattern.c
+END
+makegalias.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/makegalias.pl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/Makefile.am
+END
+gprintfint.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gprintfint.h
+END
+gpattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gpattern.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/Makefile.in
+END
+giowin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/giowin32.c
+END
+gmarkup.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmarkup.c
+END
+ghook.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/ghook.c
+END
+gmarkup.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmarkup.h
+END
+ghook.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/ghook.h
+END
+gstrfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstrfuncs.c
+END
+gtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gtypes.h
+END
+gstrfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gstrfuncs.h
+END
+gatomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gatomic.c
+END
+gunicomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunicomp.h
+END
+gbacktrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbacktrace.c
+END
+gatomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gatomic.h
+END
+grand.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/grand.c
+END
+gbacktrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbacktrace.h
+END
+gnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnode.c
+END
+grand.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/grand.h
+END
+gnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gnode.h
+END
+gslist.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gslist.c
+END
+gunibreak.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunibreak.c
+END
+gthreadpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gthreadpool.c
+END
+gslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gslist.h
+END
+gcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gcache.c
+END
+gunibreak.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunibreak.h
+END
+gbookmarkfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbookmarkfile.c
+END
+gthreadpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gthreadpool.h
+END
+gthreadprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gthreadprivate.h
+END
+gcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gcache.h
+END
+galiasdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/galiasdef.c
+END
+gbookmarkfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbookmarkfile.h
+END
+gbsearcharray.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gbsearcharray.h
+END
+gmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmem.c
+END
+gtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gtimer.c
+END
+gmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmem.h
+END
+gqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gqueue.c
+END
+gtimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gtimer.h
+END
+gdatasetprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdatasetprivate.h
+END
+gen-unicode-tables.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gen-unicode-tables.pl
+END
+gi18n-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gi18n-lib.h
+END
+gscanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gscanner.c
+END
+gqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gqueue.h
+END
+gscanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gscanner.h
+END
+gslice.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gslice.c
+END
+giochannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/giochannel.c
+END
+glibintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glibintl.h
+END
+gslice.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gslice.h
+END
+giochannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/giochannel.h
+END
+gcompletion.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gcompletion.c
+END
+glist.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glist.c
+END
+gcompletion.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gcompletion.h
+END
+garray.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/garray.c
+END
+glist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glist.h
+END
+gunidecomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunidecomp.c
+END
+garray.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/garray.h
+END
+gi18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gi18n.h
+END
+gunicodeprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunicodeprivate.h
+END
+gutf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gutf8.c
+END
+gunidecomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunidecomp.h
+END
+gunichartables.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gunichartables.h
+END
+gdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdebug.h
+END
+galloca.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/galloca.h
+END
+gprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gprintf.c
+END
+gspawn-win32-helper-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gspawn-win32-helper-console.c
+END
+gprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gprintf.h
+END
+abicheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/abicheck.sh
+END
+glib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/glib.h
+END
+gdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdir.c
+END
+gconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gconvert.c
+END
+grel.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/grel.c
+END
+gdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gdir.h
+END
+gconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gconvert.h
+END
+grel.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/grel.h
+END
+guniprop.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/guniprop.c
+END
+galias.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/galias.h
+END
+gprimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gprimes.c
+END
+gprimes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gprimes.h
+END
+gmessages.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmessages.c
+END
+goption.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/goption.c
+END
+gmessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/glib/src/glib/gmessages.h
+END

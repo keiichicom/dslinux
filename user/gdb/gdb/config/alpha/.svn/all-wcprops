@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha
+END
+fbsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/fbsd.mh
+END
+nm-osf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nm-osf.h
+END
+alpha-linux.mh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-linux.mh
+END
+nbsd.mh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nbsd.mh
+END
+tm-alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/tm-alpha.h
+END
+nm-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nm-linux.h
+END
+fbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/fbsd.mt
+END
+alpha-osf1.mh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-osf1.mh
+END
+alpha-osf2.mh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-osf2.mh
+END
+alpha-osf3.mh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-osf3.mh
+END
+alpha-linux.mt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-linux.mt
+END
+alpha.mt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha.mt
+END
+nbsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nbsd.mt
+END
+obsd.mt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/obsd.mt
+END
+nm-osf2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nm-osf2.h
+END
+nm-osf3.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/nm-osf3.h
+END
+tm-alphalinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/tm-alphalinux.h
+END
+alpha-osf1.mt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/config/alpha/alpha-osf1.mt
+END

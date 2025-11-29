@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/user/perl/x2p
+END
+a2p.pod
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/perl/x2p/a2p.pod
+END
+a2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/x2p/a2p.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/util.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/hash.c
+END
+cflags.SH
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/perl/x2p/cflags.SH
+END
+a2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/x2p/a2p.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/hash.h
+END
+s2p.PL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/s2p.PL
+END
+walk.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/walk.c
+END
+INTERN.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/x2p/INTERN.h
+END
+Makefile.SH
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/x2p/Makefile.SH
+END
+str.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/x2p/str.c
+END
+a2p.y
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/x2p/a2p.y
+END
+EXTERN.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/x2p/EXTERN.h
+END
+a2py.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/a2py.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/perl/x2p/util.c
+END
+str.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/x2p/str.h
+END
+find2perl.PL
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/perl/x2p/find2perl.PL
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar
+END
+lib_unget_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_unget_wch.c
+END
+lib_erasewchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_erasewchar.c
+END
+lib_inwstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_inwstr.c
+END
+lib_vline_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_vline_set.c
+END
+lib_add_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_add_wch.c
+END
+lib_ins_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_ins_wch.c
+END
+lib_slk_wset.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_slk_wset.c
+END
+lib_wacs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_wacs.c
+END
+lib_get_wstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_get_wstr.c
+END
+lib_wunctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_wunctrl.c
+END
+lib_box_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_box_set.c
+END
+lib_in_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_in_wch.c
+END
+lib_hline_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_hline_set.c
+END
+charable.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/charable.c
+END
+lib_vid_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_vid_attr.c
+END
+lib_in_wchnstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_in_wchnstr.c
+END
+lib_get_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_get_wch.c
+END
+lib_cchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_cchar.c
+END
+lib_pecho_wchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/widechar/lib_pecho_wchar.c
+END

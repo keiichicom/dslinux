@@ -1,0 +1,3 @@
+lzo.o lzo.o: lzo.c config.h
+
+config.h:

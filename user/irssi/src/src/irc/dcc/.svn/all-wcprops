@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc
+END
+dcc-queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-queue.c
+END
+dcc-get.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-get.h
+END
+dcc-file.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-file.h
+END
+dcc-chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-chat.h
+END
+dcc-send.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-send.c
+END
+dcc-queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-queue.h
+END
+dcc-file-rec.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-file-rec.h
+END
+dcc-send.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-send.h
+END
+dcc-resume.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-resume.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/Makefile.am
+END
+dcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/module.h
+END
+dcc-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-server.c
+END
+dcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc.h
+END
+dcc-autoget.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-autoget.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/Makefile.in
+END
+dcc-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-server.h
+END
+dcc-rec.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-rec.h
+END
+dcc-get.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-get.c
+END
+dcc-chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/irc/dcc/dcc-chat.c
+END

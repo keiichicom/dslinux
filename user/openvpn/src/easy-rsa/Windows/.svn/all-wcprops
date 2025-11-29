@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows
+END
+build-key.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/build-key.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/README.txt
+END
+build-key-pkcs12.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/build-key-pkcs12.bat
+END
+init-config.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/init-config.bat
+END
+serial.start
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/serial.start
+END
+build-dh.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/build-dh.bat
+END
+clean-all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/clean-all.bat
+END
+build-key-server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/build-key-server.bat
+END
+revoke-full.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/revoke-full.bat
+END
+vars.bat.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/vars.bat.sample
+END
+index.txt.start
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/index.txt.start
+END
+build-ca.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/Windows/build-ca.bat
+END

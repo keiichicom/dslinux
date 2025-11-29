@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib
+END
+canonicalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/canonicalize.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/memmove.c
+END
+striconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/striconv.c
+END
+pathmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/pathmax.h
+END
+striconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/striconv.h
+END
+c-strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-strstr.c
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/getopt1.c
+END
+c-strstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-strstr.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/error.c
+END
+mbchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/mbchar.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/error.h
+END
+alloca_.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/alloca_.h
+END
+strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strstr.c
+END
+mbchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/mbchar.h
+END
+strstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strstr.h
+END
+progname.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/progname.c
+END
+xstrdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xstrdup.c
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/config.charset
+END
+progname.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/progname.h
+END
+xreadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xreadlink.c
+END
+c-strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-strcasecmp.c
+END
+xreadlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xreadlink.h
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strtol.c
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xalloc.h
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/gettext.h
+END
+closeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/closeout.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xmalloc.c
+END
+xstriconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xstriconv.c
+END
+c-strncasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-strncasecmp.c
+END
+allocsa.valgrind
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/allocsa.valgrind
+END
+closeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/closeout.h
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/setenv.c
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/localcharset.c
+END
+xstriconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/xstriconv.h
+END
+getopt_.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/getopt_.h
+END
+unsetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/unsetenv.c
+END
+setenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/setenv.h
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/localcharset.h
+END
+fwriteerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/fwriteerror.c
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/memchr.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/basename.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strtoul.c
+END
+mbuiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/mbuiter.h
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/relocatable.c
+END
+exit.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/exit.h
+END
+unlocked-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/unlocked-io.h
+END
+wcwidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/wcwidth.h
+END
+fwriteerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/fwriteerror.h
+END
+basename.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/basename.h
+END
+getopt_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/getopt_int.h
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strerror.c
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/relocatable.h
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/ref-del.sin
+END
+c-ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-ctype.c
+END
+relocwrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/relocwrapper.c
+END
+strnlen1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strnlen1.c
+END
+propername.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/propername.c
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/ref-add.sin
+END
+c-ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-ctype.h
+END
+stdbool_.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/stdbool_.h
+END
+strnlen1.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strnlen1.h
+END
+propername.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/propername.h
+END
+allocsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/allocsa.c
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strdup.c
+END
+allocsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/allocsa.h
+END
+strdup.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/strdup.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/Makefile.am
+END
+readlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/readlink.c
+END
+c-strcase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/c-strcase.h
+END
+progreloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/progreloc.c
+END
+atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/atexit.c
+END
+canonicalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/canonicalize.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/Makefile.in
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-runtime/gnulib-lib/getopt.c
+END

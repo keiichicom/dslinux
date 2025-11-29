@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2326/trunk/user/imagemagick/src/utilities
+END
+display.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/display.1.in
+END
+conjure.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/conjure.1.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/Makefile.am
+END
+montage.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/montage.c
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/stream.c
+END
+import.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/import.1.in
+END
+identify.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/identify.1.in
+END
+mogrify.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/mogrify.1.in
+END
+animate.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/animate.1.in
+END
+composite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/composite.c
+END
+convert.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/convert.1.in
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/display.c
+END
+conjure.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/conjure.c
+END
+compare.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/compare.1.in
+END
+import.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/import.c
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/identify.c
+END
+mogrify.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/mogrify.c
+END
+montage.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/montage.1.in
+END
+animate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/animate.c
+END
+stream.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/stream.1.in
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/convert.c
+END
+ImageMagick.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/ImageMagick.1.in
+END
+composite.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/composite.1.in
+END
+compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/compare.c
+END

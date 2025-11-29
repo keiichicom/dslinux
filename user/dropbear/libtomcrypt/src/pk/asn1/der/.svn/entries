@@ -1,0 +1,58 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der
+https://svn.dslinux.org/svn
+
+
+
+2006-05-22T23:58:10.000000Z
+1054
+stsp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+printable_string
+dir
+
+object_identifier
+dir
+
+sequence
+dir
+
+choice
+dir
+
+utctime
+dir
+
+short_integer
+dir
+
+integer
+dir
+
+bit
+dir
+
+ia5
+dir
+
+octet
+dir
+

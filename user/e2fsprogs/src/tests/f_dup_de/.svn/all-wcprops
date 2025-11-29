@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de
+END
+name
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/name
+END
+image.gz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/image.gz
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/script
+END
+expect.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/expect.1
+END
+expect.2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/expect.2
+END
+expect-nohtree.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/expect-nohtree.1
+END
+expect-nohtree.2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/f_dup_de/expect-nohtree.2
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/Makefile
+END
+nxsunclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/nxsunclock.h
+END
+city.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/city.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/main.c
+END
+astro.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/astro.c
+END
+city.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/apps/nanox/wclock/city.c
+END

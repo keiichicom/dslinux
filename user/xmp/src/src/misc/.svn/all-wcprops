@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc
+END
+oxm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/oxm.c
+END
+readdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/readdata.c
+END
+unarc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/unarc.c
+END
+readlzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/readlzw.c
+END
+mmcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/mmcmp.c
+END
+ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/ipc.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/crc32.c
+END
+readrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/readrle.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/load.c
+END
+mkstemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/mkstemp.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/control.c
+END
+unsqsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/unsqsh.c
+END
+xfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/xfd.c
+END
+readhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/readhuff.c
+END
+ppdepack.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/ppdepack.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/info.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/Makefile
+END
+arcfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/xmp/src/src/misc/arcfs.c
+END

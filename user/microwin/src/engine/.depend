@@ -1,0 +1,89 @@
+devopen.o .depend : $(TOP)/config devopen.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h \
+ /home/andrewec/dslinux/user/microwin/src/include/swap.h
+devdraw.o .depend : $(TOP)/config devdraw.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devfont.o .depend : $(TOP)/config devfont.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h devfont.h \
+ ../drivers/genfont.h
+devmouse.o .depend : $(TOP)/config devmouse.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devkbd.o .depend : $(TOP)/config devkbd.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devclip.o .depend : $(TOP)/config devclip.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h devclip2.c
+devrgn.o .depend : $(TOP)/config devrgn.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devpal1.o .depend : $(TOP)/config devpal1.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devpal2.o .depend : $(TOP)/config devpal2.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devlist.o .depend : $(TOP)/config devlist.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+selfont.o .depend : $(TOP)/config selfont.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+error.o .depend : $(TOP)/config error.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devrgn2.o .depend : $(TOP)/config devrgn2.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devarc.o .depend : $(TOP)/config devarc.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devpoly.o .depend : $(TOP)/config devpoly.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devstipple.o .depend : $(TOP)/config devstipple.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+font_dbcs.o .depend : $(TOP)/config font_dbcs.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h devfont.h \
+ ../drivers/genfont.h
+font_fnt.o .depend : $(TOP)/config font_fnt.c \
+ /home/andrewec/dslinux/user/microwin/src/include/swap.h \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h devfont.h \
+ ../drivers/genfont.h
+devtimer.o .depend : $(TOP)/config devtimer.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devpal8.o .depend : $(TOP)/config devpal8.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h
+devpal4.o .depend : $(TOP)/config devpal4.c \
+ /home/andrewec/dslinux/user/microwin/src/include/device.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwtypes.h \
+ /home/andrewec/dslinux/user/microwin/src/include/mwsystem.h

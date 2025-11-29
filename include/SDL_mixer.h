@@ -1,0 +1,1 @@
+/home/andrewec/dslinux/lib/sdl_mixer/src/SDL_mixer.h

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi
+END
+SDL_ggimouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggimouse_c.h
+END
+SDL_ggikeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggikeys.h
+END
+SDL_ggievents.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggievents.c
+END
+SDL_ggivideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggivideo.c
+END
+SDL_ggimouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggimouse.c
+END
+SDL_ggievents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggievents_c.h
+END
+SDL_ggivideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/ggi/SDL_ggivideo.h
+END

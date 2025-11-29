@@ -1,0 +1,373 @@
+FROTZ(6)
+FROTZ(6)
+
+
+
+NNAAMMEE
+       dfrotz - interpreter for Infocom and other Z-Machine
+       games (dumb inter‐ face)
+
+
+SSYYNNOOPPSSIISS
+       ddffrroottzz [_o_p_t_i_o_n_s] _f_i_l_e
+
+
+DDEESSCCRRIIPPTTIIOONN
+       FFrroottzz is a Z-Machine interpreter.
+       The Z-machine is a  virtual  machine designed  by
+       Infocom  to  run  all  of their text adventures.
+       It went through multiple revisions during the lifetime
+       of the company, and  two further  revisions  (V7 and
+       V8) were created by Graham Nelson after the company's
+       demise.  The specification is now quite well documented;
+       this version of Frotz supports version 1.0.
+
+       This  version  of  Frotz  fully  supports  all these
+       versions of the Z- Machine except for version 6.
+       Version 6 is semi-supported by  display‐ ing  the
+       outlines of V6 graphics with the picture number in
+       the bottom- right corner.
+
+
+       This manpage is for Frotz with the dumb interface.
+       No sound-effect  or colors are supported.
+
+
+
+OOPPTTIIOONNSS
+       --aa     Watch  attribute setting.  Setting and
+       clearing of attributes on
+              objects will be noted in debugging messages.
+
+
+       --AA     Watch attribute testing.  Every  time  the
+       z-machine  tests  an
+              attribute value, the test and the result will
+              be reported.
+
+
+       --hh NN   Manually  sets  the screen height.
+       Though most curses libraries
+              are intelligent enough to determine the current
+              width  from  the terminal,  it  may  sometimes
+              be necessary to use this option to override
+              the default.
+
+
+       --ii     Ignore fatal errors.  If a Z-Machine
+       interpreter  encounters  a
+              zcode  error  such  as division-by-zero
+              or addressing an illegal object, the proper
+              response is to abort execution.  This is done
+              because  the  zcode program doesn't have a
+              clear idea of what is going on.  There are
+              some  games  out  there  that  cause  fatal
+              errors because the authors were careless and
+              used an interpreter that didn't properly check
+              for errors.  This option is  intended to  get
+              around such bugs, but be warned that Strange
+              Things may happen if fatal errors are not caught.
+
+
+       --oo     Watch object movement.  This option enables
+       debugging  messages
+              from the interpreter which describe the moving
+              of objects in the object tree.
+
+
+       --OO     Watch object location.   These  debugging
+       messages  detail  the
+              locations of objects in the object tree.
+
+
+       --pp     Plain  ASCII  output only.  This inhibits
+       the output of accented
+              letters and other characters from  the  Latin-1
+              character  set, replacing them with reasonable
+              alternatives.  This may be neces‐ sary on
+              devices lacking these characters.
+
+
+       --PP     Alter the piracy opcode.  The piracy opcode
+       was  never  used  by
+              Infocom.   This  switch is really only useful
+              for those who like to toy around with Z-code.
+
+
+       --QQ     No Quetzal.  By default, Frotz uses the
+       new Quetzal save  format
+              when  you  save  your game.  If for some reason
+              you want to save and restore using the old
+              Frotz format, use this flag.
+
+
+       --RR \\xxxxxx
+              Set runtime options.  This option may be used
+              repeatedly.
+
+
+       --ss NN   Set the random number seed value.
+       The given seed value is  used
+              as  the initial seed value on every
+              restart. This is helpful for testing games like
+              CCuurrsseess which make random decisions
+              before the first input (such that the hot key
+              Alt-S does not really help).
+
+
+       --SS NN   Set the transcript width.  By default
+       your transscript files are
+              formatted to a width of 80 columns per line,
+              regardless  of  the current  screen  width.
+              This  switch allows you to change this
+              setting. In particular, use -S 0 to  deactivate
+              automatic  line splitting in transscript files.
+
+
+       --tt     Sets the z-machine's _T_a_n_d_y
+       _b_i_t_, which may affect the behavior of
+              certain Infocom games.  For example, Zork I
+              pretends not to have sequels, and Witness has
+              its language toned down.
+
+
+       --uu NN   Sets  the  number  of  slots available
+       for Frotz's multiple undo
+              hotkey (see below).  This defaults to twenty,
+              which  should  be sufficient  for  most
+              purposes.  Setting too high a number here may
+              be dangerous on machines with limited memory.
+
+
+       --ww NN   Manually sets the screen width.
+       This should  not  be  necessary
+              except in special circumstances.
+
+
+       --xx     Expand  the  abbreviations  "g", "x", and
+       "z" to "again", "exam‐
+              ine", and "wait".  This switch is for use iwth
+              old Infocom games that  lack  these  common
+              abbreviations which were introduced in later
+              games.  Use it with caution: A few games  might
+              use  "g", "x" or "z" for different purposes.
+
+
+       --ZZ NN   Error checking mode.
+              0 = don't report errors.  1 = report first
+              instance of an error.  2 = report all errors.
+              3 = exit after any error.  Default is 1 (report
+              first instance of an error).
+
+
+
+CCOONNFFIIGGUURRAATTIIOONN
+       Unline  it's  curses-using  sibling,  ddffrroottzz
+       does not use configuration files.  All configuration is
+       done on the command line or  while  ddffrroottzz
+       is running.
+
+   GGeenneerraall CCoommmmaannddss
+       \\hheellpp  Show help message.
+
+       \\sseett   Show the current values of runtime
+       settings.
+
+       \\ss     Show the current contents of the whole
+       screen.
+
+       \\dd     Discard the part of the input before
+       the cursor.
+
+       \\wwNN    Advance  clock  N/10  seconds,  possibly
+       causing the current and
+              subsequent inputs to timeout.
+
+       \\ww     Advance clock by the  amount  of  real
+       time  since  this  input
+              started (times the current speed factor).
+
+       \\tt     Advance clock just enough to timeout the
+       current input
+
+
+   RReevveerrssee--VViiddeeoo
+   DDiissppllaayy MMeetthhoodd
+   SSeettttiinnggss
+       \\rrnn    none
+
+       \\rrcc    CAPS
+
+       \\rrdd    doublestrike
+
+       \\rruu    underline
+
+
+   OOuuttppuutt CCoommpprreessssiioonn
+   SSeettttiinnggss
+       \\ccnn    none: show whole screen before every input.
+
+       \\ccmm    max: show only lines that have new
+       nonblank characters.
+
+       \\ccss    spans:  like  max,  but  emit  a blank
+       line between each span of
+              screen lines shown.
+
+       \\cchhNN   Hide top N lines (orthogonal to above
+       modes).
+
+
+   MMiisscc SSeettttiinnggss
+       \\ssffXX   Set speed factor to X.  (0 = never
+       timeout automatically).
+
+       \\mmpp    Toggle use of MORE prompts
+
+       \\llnn    Toggle display of line numbers.
+
+       \\lltt    Toggle display of the line type
+       identification chars.
+
+       \\vvbb    Toggle visual bell.
+
+       \\ppbb    Toggle display of picture outline boxes.
+
+       (Toggle commands can be followed by a 1 or 0 to set
+       value ON or OFF.)
+
+
+   CChhaarraacctteerr EEssccaappeess
+       \\\\     backslash
+
+       \\##     backspace
+
+       \\[[     escape
+
+       \\__     return
+
+       \\<<     cursor-left
+
+       \\>>     cursor-right
+
+       \\^^     cursor-up
+
+       \\..     cursor-down
+
+       \\11....\\00 f1..f10
+
+       \\DD....\\XX Standard Frotz hotkeys.
+
+       use \H (help) to see the list of hotkeys.
+
+
+   LLiinnee TTyyppee
+   IIddeennttiiffiiccaattiioonn
+   CChhaarraacctteerrss IInnppuutt
+   lliinneess ((uunnttiimmeedd))
+       >>      A regular line-oriented input
+
+       ))      A single-character input
+
+       }}      A line input with some input before the cursor.
+       Use \d to  dis‐
+              card it.
+
+   IInnppuutt lliinneess ((ttiimmeedd))
+       TT      A regular line-oriented input
+
+       tt      A single-character input
+
+       DD      A  line input with some input before the
+       cursor.  Use \d to dis‐
+              card it.
+
+   OOuuttppuutt lliinneess
+       ]]      Output line that contains the cursor.
+
+       ..      A blank line emitted as part of span
+       compression.
+
+              (blank) Any other output line.
+
+
+
+
+EENNVVIIRROONNMMEENNTT
+       Unline it's curses-using sibling, ddffrroottzz
+       does not search any  path  for game files.
+
+
+
+       Latest information on Unix Frotz is here:
+       http://www.cs.csubak.edu/~dgriffi/proj/frotz/
+
+
+       The latest release of Unix Frotz is here:
+       ftp://ftp.ifarchive.org/if-archive/infocom/interpreters/frotz/
+
+
+       See this website for a list of mirrors:
+       http://www.ifarchive.org
+
+
+       See  this  website  for  more information on Infocom
+       past, present, and future; and where to get new
+       Z-Machine games and the old ones by  Info‐ com:
+       http://www.csd.uwo.ca/Infocom/
+
+
+       Frotz for other platforms (very old and out of date):
+       http://www.geocities.com/SiliconValley/Heights/3222/frotz.html
+
+
+
+CCAAVVEEAATTSS
+       The  Z Machine itself has trouble with the concept
+       of resizing a termi‐ nal.  It assumes that once
+       the screen height and width  are  set,  they will
+       never change; even across saves.  This made sense
+       when 24x80 ter‐ minals were the norm and graphical
+       user interfaces were mostly unknown.  I'm  fairly
+       sure there's a way around this problem, but for now,
+       don't resize an xterm in which frotz is running.  Also,
+       you  should  try  to make  sure  the terminal on which
+       you restore a saved game has the same dimensions as
+       the one on which you saved the game.
+
+
+       This manpage is not intended to tell users HOW
+       to play interactive fic‐ tion.   Refer  to
+       the file HOW_TO_PLAY included in the Unix Frotz
+       docu‐ mentation or visit one of the following
+       sites: http://www.csd.uwo.ca/Infocom/faq.html
+       http://www.cs.csubak.edu/~dgriffi/proj/frotz/HOW_TO_PLAY
+       http://www.ifarchive.org
+
+
+BBUUGGSS
+       This program has no bugs.  no bugs.  no bugs.
+       no *WHAP* thank you.  Well,      if      you
+       insist,      you      can      look      at
+       http://www.cs.csubak.edu/~dgriffi/proj/frotz/BUGS  or
+       see the BUGS file in the Unix Frotz tarball
+
+
+AAUUTTHHOORRSS
+       FFrroottzz was written by Stefan Jokisch in
+       1995-7.  The Unix port was done by Galen Hazelwood.
+       Currently the Unix port is maintained by David Griffith.
+
+
+
+SSEEEE AALLSSOO
+       ffrroottzz(6) nniittffooll(6)
+       rreezzrroovv(6) jjzziipp(6) xxzziipp(6)
+       iinnffoorrmm(1)
+
+
+
+
+
+                                     2.43
+                                     FROTZ(6)

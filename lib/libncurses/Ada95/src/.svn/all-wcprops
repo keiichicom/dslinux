@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src
+END
+terminal_interface-curses-forms-field_types-alphanumeric.ads
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.ads
+END
+terminal_interface-curses-forms-field_types-regexp.adb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-regexp.adb
+END
+terminal_interface-curses-text_io-modular_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-modular_io.ads
+END
+terminal_interface-curses-forms.adb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms.adb
+END
+terminal_interface-curses-panels-user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-panels-user_data.adb
+END
+terminal_interface-curses-menus.adb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-menus.adb
+END
+terminal_interface-curses-mouse.adb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-mouse.adb
+END
+terminal_interface-curses-forms-field_types-numeric.adb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-numeric.adb
+END
+terminal_interface-curses-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-aux.adb
+END
+terminal_interface-curses-text_io-integer_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-integer_io.adb
+END
+terminal_interface-curses-forms-field_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_user_data.adb
+END
+terminal_interface-curses-forms-field_types-user-choice.adb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-user-choice.adb
+END
+terminal_interface-curses-forms-field_types-alpha.ads
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-alpha.ads
+END
+terminal_interface-curses-forms-field_types-ipv4_address.ads
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.ads
+END
+terminal_interface-curses-forms-field_types-enumeration-ada.adb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.adb
+END
+terminal_interface-curses.adb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses.adb
+END
+terminal_interface-curses-forms-field_types-regexp.ads
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-regexp.ads
+END
+terminal_interface-curses-text_io-float_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-float_io.adb
+END
+terminal_interface-curses-text_io-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-aux.adb
+END
+terminal_interface-curses-forms-field_types-user.adb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-user.adb
+END
+terminal_interface-curses-text_io-complex_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-complex_io.adb
+END
+terminal_interface-curses-text_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io.adb
+END
+terminal_interface-curses-forms-field_types-numeric.ads
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-numeric.ads
+END
+terminal_interface-curses-forms-form_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-form_user_data.adb
+END
+terminal_interface-curses-text_io-integer_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-integer_io.ads
+END
+terminal_interface-curses-forms-field_types-enumeration.adb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration.adb
+END
+terminal_interface-curses-menus-menu_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-menus-menu_user_data.adb
+END
+terminal_interface-curses-forms-field_types-user-choice.ads
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-user-choice.ads
+END
+terminal_interface-curses-panels.adb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-panels.adb
+END
+terminal_interface-curses-forms-field_types-enumeration-ada.ads
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.ads
+END
+terminal_interface-curses-terminfo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-terminfo.adb
+END
+terminal_interface-curses-putwin.adb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-putwin.adb
+END
+terminal_interface-curses-text_io-enumeration_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-enumeration_io.adb
+END
+terminal_interface-curses-text_io-float_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-float_io.ads
+END
+terminal_interface-curses-forms-field_types-intfield.adb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-intfield.adb
+END
+terminal_interface-curses-text_io-aux.ads
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-aux.ads
+END
+terminal_interface-curses-forms-field_types-user.ads
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-user.ads
+END
+terminal_interface-curses-text_io-complex_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-complex_io.ads
+END
+terminal_interface-curses-forms-field_types.adb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types.adb
+END
+terminal_interface-curses-termcap.adb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-termcap.adb
+END
+terminal_interface-curses-text_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io.ads
+END
+terminal_interface-curses-text_io-decimal_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-decimal_io.adb
+END
+terminal_interface-curses-text_io-fixed_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-fixed_io.adb
+END
+terminal_interface-curses-forms-field_types-enumeration.ads
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration.ads
+END
+terminal_interface-curses-forms-field_types-alphanumeric.adb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.adb
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/Makefile.in
+END
+terminal_interface-curses-text_io-modular_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-modular_io.adb
+END
+terminal_interface-curses-terminfo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-terminfo.ads
+END
+terminal_interface-curses-putwin.ads
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-putwin.ads
+END
+terminal_interface-curses-text_io-enumeration_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-enumeration_io.ads
+END
+terminal_interface-curses-forms-field_types-intfield.ads
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-intfield.ads
+END
+terminal_interface-curses-menus-item_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-menus-item_user_data.adb
+END
+terminal_interface-curses-termcap.ads
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-termcap.ads
+END
+terminal_interface-curses-trace.adb_p
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-trace.adb_p
+END
+terminal_interface-curses-forms-field_types-alpha.adb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-alpha.adb
+END
+terminal_interface-curses-text_io-decimal_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-decimal_io.ads
+END
+terminal_interface-curses-forms-field_types-ipv4_address.adb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.adb
+END
+terminal_interface-curses-text_io-fixed_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface-curses-text_io-fixed_io.ads
+END
+terminal_interface.ads
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libncurses/Ada95/src/terminal_interface.ads
+END

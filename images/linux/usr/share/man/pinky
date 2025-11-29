@@ -1,0 +1,74 @@
+PINKY(1)                         User Commands
+PINKY(1)
+
+
+
+NNAAMMEE
+       pinky - lightweight finger
+
+SSYYNNOOPPSSIISS
+       ppiinnkkyy
+       [_O_P_T_I_O_N]... [_U_S_E_R]...
+
+DDEESSCCRRIIPPTTIIOONN
+       --ll     produce long format output for the specified
+       USERs
+
+       --bb     omit the user's home directory and shell
+       in long format
+
+       --hh     omit the user's project file in long format
+
+       --pp     omit the user's plan file in long format
+
+       --ss     do short format output, this is the default
+
+       --ff     omit the line of column headings in short
+       format
+
+       --ww     omit the user's full name in short format
+
+       --ii     omit the user's full name and remote host
+       in short format
+
+       --qq     omit  the  user's  full name, remote host
+       and idle time in short
+              format
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       A lightweight `finger' program;  print user information.
+       The utmp file will be /var/run/utmp.
+
+AAUUTTHHOORR
+       Written by Joseph Arceneaux, David MacKenzie, and
+       Kaveh Ghazi.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for ppiinnkkyy is
+       maintained as a Texinfo manual.  If the  iinnffoo
+       and  ppiinnkkyy programs are properly installed
+       at your site, the command
+
+              iinnffoo ppiinnkkyy
+
+       should give you access to the complete manual.
+
+
+
+pinky 6.7                        December 2006
+PINKY(1)

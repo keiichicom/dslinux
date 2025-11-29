@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t
+END
+overload.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/overload.t
+END
+testlib.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/testlib.pl
+END
+make_overload.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/make_overload.pl
+END
+circular_hook.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/circular_hook.t
+END
+retrieve.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/retrieve.t
+END
+tied.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/tied.t
+END
+attach_singleton.t
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/attach_singleton.t
+END
+tied_items.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/tied_items.t
+END
+lock.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/lock.t
+END
+compat06.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/compat06.t
+END
+threads.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/threads.t
+END
+st-dump.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/st-dump.pl
+END
+make_56_interwork.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/make_56_interwork.pl
+END
+HAS_HOOK.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/HAS_HOOK.pm
+END
+recurse.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/recurse.t
+END
+downgrade.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/downgrade.t
+END
+make_downgrade.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/make_downgrade.pl
+END
+HAS_OVERLOAD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/HAS_OVERLOAD.pm
+END
+freeze.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/freeze.t
+END
+blessed.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/blessed.t
+END
+just_plain_nasty.t
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/just_plain_nasty.t
+END
+utf8.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/utf8.t
+END
+canonical.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/canonical.t
+END
+weak.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/weak.t
+END
+malice.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/malice.t
+END
+utf8hash.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/utf8hash.t
+END
+store.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/store.t
+END
+integer.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/integer.t
+END
+restrict.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/restrict.t
+END
+interwork56.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/interwork56.t
+END
+croak.t
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/croak.t
+END
+attach_errors.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/attach_errors.t
+END
+forgive.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/forgive.t
+END
+sig_die.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/sig_die.t
+END
+dclone.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/dclone.t
+END
+tied_hook.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/tied_hook.t
+END
+HAS_ATTACH.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/HAS_ATTACH.pm
+END
+code.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Storable/t/code.t
+END

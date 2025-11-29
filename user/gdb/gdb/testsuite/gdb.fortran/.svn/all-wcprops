@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran
+END
+array-element.f
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/array-element.f
+END
+derived-type.exp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/derived-type.exp
+END
+exprs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/exprs.exp
+END
+subarray.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/subarray.f
+END
+derived-type.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/derived-type.f90
+END
+types.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/types.exp
+END
+array-element.exp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/array-element.exp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/Makefile.in
+END
+subarray.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.fortran/subarray.exp
+END

@@ -1,0 +1,1 @@
+/home/andrewec/dslinux/lib/libncurses/include/tic.h

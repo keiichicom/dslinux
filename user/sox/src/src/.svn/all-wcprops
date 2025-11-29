@@ -1,0 +1,1169 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2379/trunk/user/sox/src/src
+END
+ima-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ima-fmt.c
+END
+dvms-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dvms-fmt.c
+END
+f4-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/f4-fmt.c
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/delay.c
+END
+f8-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/f8-fmt.c
+END
+8svx.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/8svx.c
+END
+amr-nb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/amr-nb.c
+END
+raw-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/raw-fmt.c
+END
+skelform.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/skelform.c
+END
+soxstdint.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2379/trunk/user/sox/src/src/soxstdint.h.cmake
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mixer.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/filter.c
+END
+loudness.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/loudness.c
+END
+sox-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox-fmt.c
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/xmalloc.c
+END
+vol.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vol.c
+END
+vox-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vox-fmt.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/getopt.c
+END
+vorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vorbis.c
+END
+xmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/xmalloc.h
+END
+flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/flac.c
+END
+biquad.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/biquad.c
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2379/trunk/user/sox/src/src/au.c
+END
+aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/aiff.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/getopt.h
+END
+adpcms.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/adpcms.c
+END
+s1-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/s1-fmt.c
+END
+sf.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sf.c
+END
+biquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/biquad.h
+END
+aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/aiff.h
+END
+swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/swap.c
+END
+adpcms.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/adpcms.h
+END
+example1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/example1.c
+END
+u4-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/u4-fmt.c
+END
+vox.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vox.c
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g711.c
+END
+skeleff.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/skeleff.c
+END
+sounder.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sounder.c
+END
+splice.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/splice.c
+END
+la-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/la-fmt.c
+END
+vox.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vox.h
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g711.h
+END
+dither_fir.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dither_fir.h
+END
+reverb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/reverb.c
+END
+pvf.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/pvf.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/src/CMakeLists.txt
+END
+mcompand.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mcompand.c
+END
+fade.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/fade.c
+END
+echos.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/echos.c
+END
+rabbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rabbit.c
+END
+lu-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/lu-fmt.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mat4.c
+END
+amr1.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/amr1.h
+END
+paf.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/paf.c
+END
+bend.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/bend.c
+END
+band.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/band.h
+END
+monkey.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/monkey.wav
+END
+pan.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/pan.c
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dither.c
+END
+alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/alsa.c
+END
+formats_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/formats_i.c
+END
+amr.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/amr.h
+END
+sndfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sndfile.c
+END
+gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/gsm.c
+END
+aifc-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/aifc-fmt.c
+END
+sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sphere.c
+END
+effects_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/effects_i.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/Makefile.am
+END
+cvsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/cvsd.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/Makefile.in
+END
+cvsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/cvsd.h
+END
+ul-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ul-fmt.c
+END
+s4-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/s4-fmt.c
+END
+u3-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/u3-fmt.c
+END
+stretch.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/stretch.c
+END
+example2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/example2.c
+END
+ima_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ima_rw.c
+END
+silence.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/silence.c
+END
+rate_poly_fir0.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rate_poly_fir0.h
+END
+ima_rw.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ima_rw.h
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/getopt1.c
+END
+monkey.au
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/monkey.au
+END
+g723_40.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g723_40.c
+END
+amr-wb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/amr-wb.c
+END
+earwax.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/earwax.c
+END
+rate_filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rate_filters.h
+END
+tx16w.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/tx16w.c
+END
+rate_half_fir.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rate_half_fir.h
+END
+testall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/testall.bat
+END
+nulfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/nulfile.c
+END
+polyphas.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/polyphas.c
+END
+mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mp3.c
+END
+testall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/testall.sh
+END
+wve.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/wve.c
+END
+mat5.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mat5.c
+END
+amr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/amr2.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/resample.c
+END
+fft4g.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/fft4g.c
+END
+reverse.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/reverse.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/trim.c
+END
+fft4g.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/fft4g.h
+END
+g721.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g721.c
+END
+repeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/repeat.c
+END
+tremolo.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/tremolo.c
+END
+soundtool.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/soundtool.c
+END
+g72x.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g72x.c
+END
+biquads.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/biquads.c
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/fifo.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/raw.c
+END
+aiff-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/aiff-fmt.c
+END
+g72x.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g72x.h
+END
+contrast.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/contrast.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/raw.h
+END
+ao.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ao.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/output.c
+END
+ladspa.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ladspa.c
+END
+ffmpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ffmpeg.c
+END
+ffmpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/ffmpeg.h
+END
+s3-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/s3-fmt.c
+END
+sox.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox.c
+END
+u2-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/u2-fmt.c
+END
+formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/formats.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/stat.c
+END
+echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/echo.c
+END
+sox.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox.h
+END
+lpc10.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/lpc10.c
+END
+effects.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/effects.c
+END
+formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/formats.h
+END
+compand.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/compand.c
+END
+test-comments
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2379/trunk/user/sox/src/src/test-comments
+END
+phaser.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/phaser.c
+END
+dcshift.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dcshift.c
+END
+effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/effects.h
+END
+tempo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/tempo.c
+END
+htk.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/htk.c
+END
+hcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/hcom.c
+END
+g723_24.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/g723_24.c
+END
+dither_iir.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dither_iir.h
+END
+sunaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sunaudio.c
+END
+avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/avr.c
+END
+sd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sd2.c
+END
+caf.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/caf.c
+END
+tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/tests.sh
+END
+vorbis1.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/vorbis1.h
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/input.c
+END
+pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/pad.c
+END
+synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/synth.c
+END
+fap.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/fap.c
+END
+libsox_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/libsox_i.c
+END
+dat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/dat.c
+END
+xa.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2379/trunk/user/sox/src/src/xa.c
+END
+soxconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/src/soxconfig.h.in
+END
+al-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/al-fmt.c
+END
+w64.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/w64.c
+END
+xi.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2379/trunk/user/sox/src/src/xi.c
+END
+cvsd-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/cvsd-fmt.c
+END
+cvsdfilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/cvsdfilt.h
+END
+soxconfig.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2379/trunk/user/sox/src/src/soxconfig.h.cmake
+END
+remix.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/remix.c
+END
+adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/adpcm.c
+END
+maud.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/maud.c
+END
+sox_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox_i.h
+END
+voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/voc.c
+END
+normalise.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/normalise.c
+END
+adpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/adpcm.h
+END
+rate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rate.c
+END
+wavpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/wavpack.c
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/wav.c
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/smp.c
+END
+libsox.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/libsox.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2379/trunk/user/sox/src/src/speed.c
+END
+rate_poly_fir.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/src/rate_poly_fir.h
+END
+chorus.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/chorus.c
+END
+oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/oss.c
+END
+noiseprof.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/noiseprof.c
+END
+compandt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/compandt.c
+END
+noisered.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/noisered.c
+END
+cdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/cdr.c
+END
+s2-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/s2-fmt.c
+END
+sox_sample_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox_sample_test.c
+END
+u1-fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/src/u1-fmt.c
+END
+compandt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/compandt.h
+END
+coreaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/src/coreaudio.c
+END
+example0.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/example0.c
+END
+noisered.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/src/noisered.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/util.c
+END
+flanger.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/flanger.c
+END
+sox_sample_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2379/trunk/user/sox/src/src/sox_sample_test.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2379/trunk/user/sox/src/src/util.h
+END
+prc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2379/trunk/user/sox/src/src/prc.c
+END
+mcompand_xover.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mcompand_xover.h
+END
+spectrogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2379/trunk/user/sox/src/src/spectrogram.c
+END
+tests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/src/tests.bat
+END
+mp3-duration.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/src/mp3-duration.h
+END

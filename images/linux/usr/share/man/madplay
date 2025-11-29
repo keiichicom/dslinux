@@ -1,0 +1,566 @@
+MADPLAY(1)                    MPEG Audio Decoder
+MADPLAY(1)
+
+
+
+NNAAMMEE
+       madplay - decode and play MPEG audio stream(s)
+
+SSYYNNOOPPSSIISS
+       mmaaddppllaayy [_o_p_t_i_o_n_s]
+       _f_i_l_e ...  mmaaddppllaayy
+       [_o_p_t_i_o_n_s] --oo
+       [_t_y_p_e::]_p_a_t_h _f_i_l_e ...
+
+DDEESSCCRRIIPPTTIIOONN
+       mmaaddppllaayy  is  a  command-line MPEG
+       audio decoder and player based on the MAD library
+       (_l_i_b_m_a_d).
+
+       MAD is a high-quality MPEG audio decoder. It currently
+       supports  MPEG-1 and  the MPEG-2 extension to Lower
+       Sampling Frequencies, as well as the so-called MPEG 2.5
+       format. All three audio layers  (Layer I,  Layer II,
+       and Layer III a.k.a. MP3) are fully implemented.
+
+       Among  the  special  features of MAD are 24-bit
+       PCM resolution and 100% fixed-point (integer)
+       computation. Since MAD  is  implemented  entirely
+       without  the  use  of floating point arithmetic,
+       it performs especially well on architectures without
+       an FPU.
+
+       MAD does not yet support MPEG-2 multichannel audio
+       (although it  should be backward compatible with such
+       streams) nor does it currently support AAC.
+
+       By default mmaaddppllaayy reads and decodes
+       one or more input _f_i_l_es containing MPEG audio
+       data and plays them on the native audio device. If
+       the input file is a single dash (-), data is read from
+       standard input.
+
+       Decoded output may optionally be redirected to a file
+       instead of  being played on the audio device by using
+       the --oo (----oouuttppuutt) option.
+
+       For  each  _f_i_l_e,  mmaaddppllaayy
+       will also attempt to read and display ID3 tag
+       information. The supported tag versions are  ID3v1,
+       ID3v1.1,  ID3v2.2, ID3v2.3,  and  ID3v2.4.  If  a
+       tag contains relative volume adjustment information
+       (RVA2), mmaaddppllaayy will use the information
+       to adjust the mas‐ ter  volume  for  output.
+       This  behavior  can  be  changed with the --AA
+       (----aaddjjuusstt--vvoolluummee)
+       and --GG (----rreeppllaayy--ggaaiinn)
+       options.
+
+       If the --TT
+       (----sshhooww--ttaaggss--oonnllyy)
+       option is used, decoding is not  performed but  tag
+       information is still displayed. When used in conjunction
+       with --vv (----vveerrbboossee), encoder as
+       well as ID3 tags are shown.
+
+OOPPTTIIOONNSS
+   VVeerrbboossiittyy
+       --vv or ----vveerrbboossee
+              Generally show more information than the
+              default. During  decod‐ ing,  show  information
+              about the stream including playing time,
+              audio layer, bit rate, sampling frequency,
+              and stereo mode.
+
+       --qq or ----qquuiieett
+              Generally show less information than the default.
+              Do  not  show any information during decoding
+              except warnings.
+
+       --QQ or ----vveerryy--qquuiieett
+              Generally  show no information except severe
+              errors. Do not show any information or warnings
+              during decoding.
+
+       ----ddiissppllaayy--ttiimmee==_m_o_d_e
+              Set the default verbose time display
+              mode to _m_o_d_e, which must be
+              one  of  rreemmaaiinniinngg,
+              ccuurrrreenntt, or oovveerraallll.
+              This is only relevant with --vv
+              (----vveerrbboossee).  See
+              ----ttttyy--ccoonnttrrooll  below
+              for  details  on changing the time display mode
+              during playback.
+
+   DDeeccooddiinngg
+       ----ddoowwnnssaammppllee
+              Reduce the decoded sampling frequency 2:1. This
+              also reduces the computational overhead of
+              the decoder.
+
+       --ii or ----iiggnnoorree--ccrrcc
+              Ignore CRC information in the audio stream. This
+              causes  frames with  CRC errors to be decoded and
+              played anyway. This option is not recommended,
+              but since some encoders have been known to gen‐
+              erate  bad CRC information, this option is a
+              work-around to play streams from such encoders.
+
+       ----aanncciillllaarryy--oouuttppuutt==_p_a_t_h
+              Write ancillary data from the MPEG audio
+              stream  to  _p_a_t_h.   If _p_a_t_h
+              is a single dash (-), the data will be written
+              to standard output.  Bits from the ancillary
+              data  stream  are  packed  into octets;  if any
+              bits remain, the final octet will be padded with
+              zero bits. See the NNOOTTEESS section below
+              for  further  information about this option.
+
+   AAuuddiioo OOuuttppuutt
+       --oo or
+       ----oouuttppuutt==[_t_y_p_e::]_p_a_t_h
+              Direct  output  to _p_a_t_h, rather than
+              playing audio on the native audio device. The
+              format of the  output  is  specified  by
+              _t_y_p_e which  can  be  any  of the
+              supported output formats (see OOuuttppuutt
+              FFoorrmmaattss below.) If a  format
+              is  not  specified,  one  will  be inferred
+              from  _p_a_t_h.   If _p_a_t_h is a
+              single dash (-), the output will be written to
+              standard output.
+
+       --bb or
+       ----bbiitt--ddeepptthh==_d_e_p_t_h
+              Request an output precision of _d_e_p_t_h
+              bits per sample. Higher bit depths yield higher
+              quality sound. Typical bit depths are 8, 16,
+              24, and 32, however other depths may also
+              be possible.   Whether the  request  can
+              be honored depends on the capabilities of
+              the audio device or output format.  See the
+              NNOOTTEESS section below  for further
+              details about this option.
+
+       --RR or
+       ----ssaammppllee--rraattee==_h_e_r_t_z
+              Request an output sampling frequency of
+              _h_e_r_t_z samples per second (Hz).
+              The sample rate must be in the range  1000  to
+              65535 Hz.  Whether  the  request can be honored
+              depends on the capabilities of the audio device
+              or output format.  If the effective rate  is not
+              the  same  as  the rate of the decoded audio,
+              output may be resampled, possibly resulting in
+              lower quality sound.
+
+       --dd or ----nnoo--ddiitthheerr
+              Do not dither output PCM samples. This may
+              result in lower qual‐ ity sound but is useful
+              for analyzing output from the decoder.
+
+       ----ffaaddee--iinn[==_d_u_r_a_t_i_o_n]
+              Gradually  fade-in  the  audio from each
+              file over _d_u_r_a_t_i_o_n.  If not
+              specified, the default duration is 00::0055
+              (five seconds.)
+
+       --aa or
+       ----aatttteennuuaattee==_d_e_c_i_b_e_l_s
+       or
+       ----aammpplliiffyy==_d_e_c_i_b_e_l_s
+              Attenuate or amplify the signal by
+              _d_e_c_i_b_e_l_s (dB).  The signal is
+              attenuated  if the decibel value is negative;
+              it is amplified if the value is positive.
+              The value must be in the range  -175  to +18 dB.
+              The value may be fractional, e.g. -1.5 dB.
+              A value of 0 dB will leave the signal unchanged.
+              Each step  of  6 dB  will approximately  halve
+              (in  the negative direction) or double (in the
+              positive direction) the strength of the signal.
+
+       --AA or
+       ----aaddjjuusstt--vvoolluummee==_d_e_c_i_b_e_l_s
+              Adjust the relative volume for all files. This
+              option  overrides any per-file volume adjustment
+              settings. For example, --AA00 may be used
+              to ignore relative volume adjustments given
+              by  ID3  tags.  Relative  volume  adjustments
+              specified by this option or by ID3 tags are used
+              as the base volume against  which  the  signal
+              is further  attenuated  or  amplified  using  the
+              --aa (----aatttteennuuaattee,
+              ----aammpplliiffyy) option
+              or keyboard controls.  This option
+              cannot  be used together with --GG
+              (----rreeppllaayy--ggaaiinn).
+
+       --GG or
+       ----rreeppllaayy--ggaaiinn[==_p_r_o_f_i_l_e]
+              Enable  Replay  Gain volume adjustments. Replay
+              Gain information contained in the decoded files
+              (if any) is used to  make  volume adjustments
+              for  output.  The  _p_r_o_f_i_l_e
+              may be one of rraaddiioo (the default)
+              or aauuddiioopphhiillee.  See the
+              NNOOTTEESS section below for further
+              details.  When Replay Gain is enabled,
+              a default pre-amp gain of +6 dB is also
+              applied; this can be changed with the --aa
+              (----aatttteenn‐‐ uuaattee,
+              ----aammpplliiffyy) option.
+
+   CChhaannnneell SSeelleeccttiioonn
+       For  dual channel streams, an output channel should
+       be selected. If one is not selected, the first (left)
+       channel will be used.
+
+       For stereo streams, making a channel selection other
+       than  stereo  will cause the output to become monaural.
+
+       --11 or ----lleefftt
+              Output the first (left) channel only.
+
+       --22 or ----rriigghhtt
+              Output the second (right) channel only.
+
+       --mm or ----mmoonnoo
+              Mix the left and right channels together.
+
+       --SS or ----sstteerreeoo
+              Force  stereo output, even if the stream is
+              single or dual chan‐ nel.
+
+   PPllaayybbaacckk
+       --ss or ----ssttaarrtt==_t_i_m_e
+              Begin playing at _t_i_m_e, given as an
+              offset from the beginning  of the first file
+              (00::0000::0000), seeking as necessary.
+
+       --tt or ----ttiimmee==_d_u_r_a_t_i_o_n
+              Stop  playback after the playing time of the
+              output audio equals _d_u_r_a_t_i_o_n.
+
+       --zz or ----sshhuuffffllee
+              Randomize the list of files given on the command
+              line for  play‐ back.
+
+       --rr or ----rreeppeeaatt[==_m_a_x]
+              Play the input files _m_a_x times,
+              or indefinitely. Playback can be stopped
+              prematurely by giving a time limit with the
+              --tt  (----ttiimmee) option.  If  --zz
+              (----sshhuuffffllee) is also used,
+              the files will be con‐ tinuously shuffled
+              and repeated in such a way that the same file
+              is  not played again until at least half of
+              the other files have played in the interim.
+
+       ----ttttyy--ccoonnttrrooll
+              Enable keyboard controls during playback. This
+              is  the  default unless  standard  input  is not
+              a terminal, output is redirected with  --oo
+              (----oouuttppuutt),  or  either  of
+              --qq   (----qquuiieett)   or   --QQ
+              (----vveerryy--qquuiieett) is given.
+              The keyboard controls are:
+
+              PP  Pause; press any key to resume.
+
+              SS  Stop;  press  any  key  to  replay  the
+              current file from the
+                 beginning.
+
+              FF  Forward; advance to the next file.
+
+              BB  Back; replay the current file, unless it
+              has been playing for
+                 less than 4 seconds, in which case replay
+                 the previous file.
+
+              TT  Time  display;  change the time display
+              mode. This only works
+                 with --vv (----vveerrbboossee).
+                 The display mode alternates among over‐
+                 all playing time, current time remaining,
+                 and current playing time.
+
+              ++  Increase gain; increase the audio output
+              gain by 0.5 dB.
+
+              --  Decrease gain; decrease the audio output
+              gain by 0.5 dB.
+
+              QQ  Quit; stop decoding and exit.
+
+       ----nnoo--ttttyy--ccoonnttrrooll
+              Disable keyboard controls during playback. This
+              is  the  default when standard input is not
+              a terminal, output is redirected with --oo
+              (----oouuttppuutt), or either of
+              --qq (----qquuiieett) or --QQ
+              (----vveerryy--qquuiieett) is given.
+
+   MMiisscceellllaanneeoouuss
+       --TT or
+       ----sshhooww--ttaaggss--oonnllyy
+              Show  ID3  and/or  encoder  tags from the input
+              _f_i_l_es but do not otherwise decode or play
+              any audio. By default only ID3 tags are shown (if
+              any). With --vv (----vveerrbboossee),
+              all tags are shown. Encoder tags recognized
+              by mmaaddppllaayy include the Xing VBR
+              header  tag  and the header tag format written
+              by llaammee(1).
+
+       --VV or ----vveerrssiioonn
+              Display  the effective version and build options
+              for mmaaddppllaayy and exit.
+
+       ----lliicceennssee
+              Display copyright, license, and warranty
+              information and exit.
+
+       --hh or ----hheellpp
+              Display usage information and exit.
+
+OOuuttppuutt FFoorrmmaattss
+       Other than playing on the native audio  device,  the
+       following  output formats are supported:
+
+       ccddddaa   CD  audio,  16-bit  big-endian  44100
+       Hz  stereo  PCM, padded to
+              2352-byte block boundary (**..ccddrr,
+              **..ccddaa)
+
+       aaiiffff   Audio IFF, [16-bit] PCM (**..aaiiff,
+       **..aaiiffff)
+
+       wwaavvee   Microsoft RIFF/WAVE, [16-bit] PCM
+       (**..wwaavv)
+
+       ssnndd    Sun/NeXT audio, 8-bit ISDN μ-law
+       (**..aauu, **..ssnndd)
+
+       rraaww    binary [16-bit] host-endian linear PCM,
+       stereo interleaved
+
+       hheexx    ASCII hexadecimal [24-bit] linear PCM,
+       stereo  interleaved,  one
+              sample per output line
+
+       eessdd    Enlightened Sound Daemon (EsounD) [16-bit]
+       (give speaker host as
+              _p_a_t_h)
+
+       nnuullll   no output (usually for testing or timing
+       the decoder)
+
+       Default bit depths shown in square
+       brackets can be changed with the  --bb
+       (----bbiitt--ddeepptthh) option.
+
+       Note that EsounD support requires the _l_i_b_e_s_d
+       library.
+
+TTiimmee SSppeecciiffiiccaattiioonnss
+       For  options  which  accept  a time or duration
+       argument, the following time specifications are
+       recognized:
+
+       _h_h::_m_m::_s_s.._d_d_d
+              Hours, minutes, seconds, and decimal fractions
+              of a second. This specification is flexible;
+              _h_h::_m_m::_s_s, _m_m_m::_s_s,
+              ::_s_s, _s_s_s.._d_d_d, .._d_d_d,
+              and _s_s_s_s are all acceptable. The
+              component values are  not  con‐ strained to
+              any particular range or number of digits.
+
+       _f_r_a_c//_u_n_i_t
+              A  length  of  time  specified as a
+              rational number, in seconds.  This can be
+              used for sample-granularity,  for  example
+              3322//4444110000 for 32 samples,
+              assuming a 44100 Hz sample frequency.
+
+       _t_i_m_e_1++_t_i_m_e_2
+              A  composite  time made by adding two time
+              values together. This permits mixing the above
+              specification forms.
+
+       The resolution of any time value cannot exceed
+       1/352800000 seconds.
+
+DDIIAAGGNNOOSSTTIICCSS
+       eerrrroorr:: ffrraammee ##:: lloosstt
+       ssyynncchhrroonniizzaattiioonn
+              If encountered at the beginning of a file, this
+              means  the  file contains something other than
+              an ID3v2 tag before the MPEG audio data. If
+              encountered in the middle of a file, it  may
+              mean  the file is corrupt. This message is most
+              commonly encountered, how‐ ever, at the end
+              of a file if the file  contains  an  ID3v1  tag
+              that  is  not  aligned  to an MPEG audio frame
+              boundary. In this case, the message is harmless
+              and may be ignored.
+
+       eerrrroorr:: ffrraammee ##:: bbaadd
+       mmaaiinn__ddaattaa__bbeeggiinn
+       ppooiinntteerr
+              This message can occur while decoding a
+              Layer III  stream  that has  been  cut  or
+              spliced without preserving its bit reservoir.
+              The affected frame cannot be properly decoded,
+              but will be  used to help restore the bit
+              reservoir for following frames.
+
+       Most other messages indicate a deficiency in the
+       input stream.
+
+       When a frame cannot be properly decoded, a concealment
+       strategy is used as follows:
+
+       · If the previous frame was properly decoded, it is
+       repeated  in  place
+         of the current frame.
+
+       · If  the previous frame was _n_o_t properly
+       decoded, the current frame is
+         muted.
+
+NNOOTTEESS
+   OOuuttppuutt PPrreecciissiioonn
+       Because MAD produces samples with a precision greater
+       than 24 bits,  by default  mmaaddppllaayy
+       will dither the samples to the precision of the
+       output format. This produces high quality audio that
+       generally sounds superior to  the  output  of a simple
+       rounding algorithm. However, dithering may unfavorably
+       affect an analytic examination of the output, and
+       therefore it may be disabled by using the --dd
+       (----nnoo--ddiitthheerr) option.
+
+       The  actual  precision  of  output
+       samples can be requested with the --bb
+       (----bbiitt--ddeepptthh) option. Whether the
+       request can be honored depends on the capabilities  of
+       the  audio device or output format. If this option is
+       not specified, a typical default depth will be used
+       (often  16)  or  in the case of output to an audio
+       device, the highest bit depth determined to work
+       reliably with the device will be used.
+
+       Note that bit depths greater than 24 are effectively
+       the same as 24-bit precision samples padded to the
+       requested depth.
+
+   AAnncciillllaarryy DDaattaa
+       MPEG  audio  streams  contain  an  ancillary data
+       stream in addition to audio data.  Most often this
+       does not contain  any  useful  information and  may
+       simply consist of padding bits. The MPEG-2 extension
+       to multi‐ channel audio uses part of this ancillary
+       stream to convey multichannel information; presently
+       MAD does not interpret such data.
+
+       For  applications which have uses for the
+       stream, ancillary data can be extracted with the
+       ----aanncciillllaarryy--oouuttppuutt
+       option.
+
+   RReeppllaayy GGaaiinn
+       mmaaddppllaayy optionally supports the
+       Replay Gain proposed standard with  the --GG
+       (----rreeppllaayy--ggaaiinn) option to
+       make compensating volume adjustments when playing
+       decoded audio from different sources. There are two
+       Replay Gain profiles:  rraaddiioo  strives to make
+       gain adjustments that give all tracks equal loudness,
+       while aauuddiioopphhiillee attempts to give
+       ideal listening loud‐ ness. These adjustments are
+       relative to a reference of 83 dB SPL.
+
+       A  pre-amp gain is also used in conjunction with Replay
+       Gain to achieve the overall desired loudness. When
+       Replay Gain is enabled, this pre-amp gain defaults
+       to +6 dB, however it can be changed with the
+       --aa (----aatttteenn‐‐ uuaattee,
+       ----aammpplliiffyy) option or keyboard
+       controls.
+
+       Note that when enabled,  Replay  Gain  overrides  any
+       relative  volume adjustments specified by ID3 tags
+       (RVA2). Replay Gain is also incompat‐ ible with the
+       --AA (----aaddjjuusstt--vvoolluummee)
+       option; any attempt to use  it  will be ignored.
+
+       Replay  Gain  information is read either from an
+       ID3 tag (RGAD) or from an encoder tag written by
+       llaammee(1).  If both are present,  the  informa‐
+       tion  in  the ID3 tag takes precedence. In accordance
+       with the proposed standard, if the requested Replay
+       Gain profile is not available but the alternate is,
+       the alternate is used instead.
+
+       Due  to  an  unfortunate heresy, versions of
+       llaammee(1) since 3.95.1 write Replay Gain
+       information using a reference of 89 dB SPL instead  of
+       the 83 dB  specified  in  the Replay Gain proposed
+       standard. To compensate, mmaaddppllaayy
+       automatically subtracts 6 dB from the Replay Gain
+       values  read from such tags.
+
+       Note  that  mmaaddppllaayy  does not yet support
+       hard limiting as suggested by the Replay Gain proposed
+       standard; nor does it automatically reduce the pre-amp
+       gain to avoid clipping.
+
+CCOONNFFOORRMMIINNGG TTOO
+       MAD  conforms  to  Part 3  of  the ISO/IEC 11172
+       (MPEG-1) international standard for decoding MPEG
+       audio. In addition, MAD supports the  exten‐ sion
+       to  Lower  Sampling  Frequencies  (LSF)  as  defined
+       in Part 3 of ISO/IEC 13818 (MPEG-2).
+
+       The  output  from  MAD  has  been  tested  and  found
+       to  satisfy  the ISO/IEC 11172-4  computational accuracy
+       requirements for compliance. In most configurations,
+       MAD is  a  _F_u_l_l  _L_a_y_e_r _I_I_I
+       _I_S_O_/_I_E_C _1_1_1_7_2_-_3
+       _a_u_d_i_o _d_e_c_o_d_e_r as defined by
+       the standard.
+
+       The  ID3  tag parsing library used by
+       mmaaddppllaayy conforms to the ID3v2.4.0
+       informal standard.
+
+       With the exception of the clipping prevention
+       provisions,  Replay  Gain support  provided by
+       mmaaddppllaayy is in accordance with the Replay
+       Gain pro‐ posed standard published on July 10,
+       2001 by David Robinson.
+
+BBUUGGSS
+       The resampling algorithm used by mmaaddppllaayy
+       is one of a linear  interpola‐ tion, and does not
+       produce optimum quality sound.
+
+       The granularity of start and stop times
+       (----ssttaarrtt and ----ttiimmee) is not
+       yet as fine as this document suggests.
+
+AAUUTTHHOORR
+       Robert Leslie <rob@mars.org>
+
+SSEEEE AALLSSOO
+       llaammee(1), nnoorrmmaalliizzee(1),
+       ssooxx(1), wwggeett(1)
+
+
+
+MAD                            22 February 2004
+MADPLAY(1)

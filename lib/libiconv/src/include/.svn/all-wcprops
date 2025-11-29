@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/export.h
+END
+iconv.h.build.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/iconv.h.build.in
+END
+iconv.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/iconv.h.in
+END
+iconv.h_vms
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/iconv.h_vms
+END
+iconv.h.msvc-shared
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/iconv.h.msvc-shared
+END
+iconv.h.msvc-static
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/include/iconv.h.msvc-static
+END

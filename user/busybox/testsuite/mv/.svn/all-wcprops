@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv
+END
+mv-moves-symlinks
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-symlinks
+END
+mv-moves-empty-file
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-empty-file
+END
+mv-follows-links
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-follows-links
+END
+mv-moves-file
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-file
+END
+mv-moves-hardlinks
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-hardlinks
+END
+mv-preserves-hard-links
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-preserves-hard-links
+END
+mv-moves-unreadable-files
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-unreadable-files
+END
+mv-removes-source-file
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-removes-source-file
+END
+mv-moves-small-file
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-small-file
+END
+mv-preserves-links
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-preserves-links
+END
+mv-files-to-dir
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-files-to-dir
+END
+mv-moves-large-file
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-moves-large-file
+END
+mv-refuses-mv-dir-to-subdir
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/mv/mv-refuses-mv-dir-to-subdir
+END

@@ -1,0 +1,61 @@
+NICE(1)                          User Commands
+NICE(1)
+
+
+
+NNAAMMEE
+       nice - run a program with modified scheduling priority
+
+SSYYNNOOPPSSIISS
+       nniiccee [_O_P_T_I_O_N] [_C_O_M_M_A_N_D
+       [_A_R_G]...]
+
+DDEESSCCRRIIPPTTIIOONN
+       Run  COMMAND  with an adjusted niceness, which affects
+       process schedul‐ ing.  With no COMMAND, print the
+       current  niceness.   Nicenesses  range from --2200
+       (most favorable scheduling) to 19 (least favorable).
+
+       --nn, ----aaddjjuussttmmeenntt=_N
+              add integer N to the niceness (default 10)
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       NOTE: your shell may have its own version of nice,
+       which usually super‐ sedes the version described here.
+       Please refer to your  shell's  docu‐ mentation for
+       details about the options it supports.
+
+AAUUTTHHOORR
+       Written by David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       nice(2)
+
+       The full documentation for nniiccee is maintained
+       as a Texinfo manual.   If the  iinnffoo  and
+       nniiccee  programs are properly installed at your
+       site, the command
+
+              iinnffoo nniiccee
+
+       should give you access to the complete manual.
+
+
+
+nice 6.7                         December 2006
+NICE(1)

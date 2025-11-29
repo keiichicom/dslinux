@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc
+END
+elfinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc/elfinterp.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc/dl-sysdep.h
+END
+dl-syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc/dl-syscalls.h
+END
+resolve.S
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc/resolve.S
+END
+dl-startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/uClibc/ldso/ldso/sparc/dl-startup.h
+END

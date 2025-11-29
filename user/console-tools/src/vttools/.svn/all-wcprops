@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2361/trunk/user/console-tools/src/vttools
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/Makefile.am
+END
+vcstime.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/vcstime.c
+END
+openvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/openvt.c
+END
+deallocvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/deallocvt.c
+END
+fgconsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/fgconsole.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2361/trunk/user/console-tools/src/vttools/Makefile.in
+END
+setvesablank.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/setvesablank.c
+END
+chvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/chvt.c
+END
+resizecons.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/resizecons.c
+END
+writevt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/writevt.c
+END
+screendump.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/screendump.c
+END
+vt-is-UTF8.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2287/trunk/user/console-tools/src/vttools/vt-is-UTF8.c
+END

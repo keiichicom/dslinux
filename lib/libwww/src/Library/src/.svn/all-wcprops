@@ -1,0 +1,1643 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src
+END
+HTTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTP.h
+END
+HTMLPDTD.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMLPDTD.h
+END
+WWWNews.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWNews.h
+END
+HTSChunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSChunk.c
+END
+HTProfil.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProfil.c
+END
+HTEPtoCl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEPtoCl.h
+END
+HTSChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSChunk.h
+END
+HTProfil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProfil.h
+END
+HTBound.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBound.c
+END
+HTextImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTextImp.h
+END
+HTBound.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBound.h
+END
+HTTPGen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPGen.c
+END
+HTArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTArray.c
+END
+HTTPGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPGen.h
+END
+HTReqMan.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTReqMan.c
+END
+HTArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTArray.h
+END
+HTReqMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTReqMan.h
+END
+HTFTP.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFTP.c
+END
+HTFTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFTP.h
+END
+HTMerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMerge.c
+END
+HTReader.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTReader.c
+END
+HTChannl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTChannl.c
+END
+HTInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTInit.c
+END
+HTMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMerge.h
+END
+WWWTelnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWTelnt.h
+END
+HTString.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTString.c
+END
+HTReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTReader.h
+END
+HTChunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTChunk.c
+END
+HTChannl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTChannl.h
+END
+HTInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTInit.h
+END
+HTBufWrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBufWrt.c
+END
+HTString.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTString.h
+END
+HTChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTChunk.h
+END
+HTWSRC.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWSRC.c
+END
+HTUser.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUser.c
+END
+HTBufWrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBufWrt.h
+END
+HTMemLog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMemLog.c
+END
+WWWCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWCache.h
+END
+HTWSRC.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWSRC.h
+END
+HTUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUser.h
+END
+HTMemLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMemLog.h
+END
+HTNetTxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNetTxt.c
+END
+HTIOStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTIOStream.h
+END
+HTNetTxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNetTxt.h
+END
+HTZip.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTZip.c
+END
+HTMLGen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMLGen.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/Makefile.in
+END
+HTZip.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTZip.h
+END
+HTMLGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMLGen.h
+END
+HTML.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTML.c
+END
+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTML.h
+END
+WWWInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWInit.h
+END
+HTMuxCh.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMuxCh.c
+END
+HTMuxCh.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMuxCh.h
+END
+HTTelnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTelnet.c
+END
+HTTPReq.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPReq.c
+END
+HTTelnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTelnet.h
+END
+HTTPReq.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPReq.h
+END
+HTBTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBTree.c
+END
+HTBTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBTree.h
+END
+HTParse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTParse.c
+END
+HTParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTParse.h
+END
+HTNetMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNetMan.h
+END
+HTSQL.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSQL.c
+END
+HText.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HText.c
+END
+HTSQL.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSQL.h
+END
+HText.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HText.h
+END
+HTUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUtils.h
+END
+WWWTrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWTrans.h
+END
+HTIcons.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTIcons.c
+END
+WWWXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWXML.h
+END
+HTNewsRq.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNewsRq.c
+END
+HTAAUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAAUtil.c
+END
+HTIcons.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTIcons.h
+END
+WWWGophe.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWGophe.h
+END
+HTProxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProxy.c
+END
+HTNewsRq.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNewsRq.h
+END
+HTAAUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAAUtil.h
+END
+HTTPUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPUtil.h
+END
+HTProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProxy.h
+END
+HTError.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTError.c
+END
+HTTeXGen.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTeXGen.c
+END
+HTError.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTError.h
+END
+HTTeXGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTeXGen.h
+END
+HTInet.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTInet.c
+END
+HTAtom.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAtom.c
+END
+HTFWrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFWrite.c
+END
+HTXParse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTXParse.c
+END
+HTFSave.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFSave.c
+END
+HTInet.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTInet.h
+END
+HTAtom.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAtom.h
+END
+HTFWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFWrite.h
+END
+WWWCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWCore.h
+END
+SGML.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SGML.c
+END
+HTXParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTXParse.h
+END
+HTFSave.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFSave.h
+END
+SGML.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/SGML.h
+END
+HTAABrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAABrow.c
+END
+HTAABrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAABrow.h
+END
+HTEvent.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEvent.c
+END
+HTUTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUTree.c
+END
+WWWLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWLib.h
+END
+HTTCP.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTCP.c
+END
+HTEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEvent.h
+END
+HTUTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUTree.h
+END
+HTTCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTCP.h
+END
+HTStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTStream.c
+END
+WWWDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWDir.h
+END
+HTStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTStream.h
+END
+HTBInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBInit.c
+END
+HTHist.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHist.c
+END
+HTBInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBInit.h
+END
+HTNewsLs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNewsLs.c
+END
+HTHist.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHist.h
+END
+HTWWWStr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWWWStr.c
+END
+HTNewsLs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNewsLs.h
+END
+HTWWWStr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWWWStr.h
+END
+HTProt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProt.c
+END
+HTMuxTx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMuxTx.c
+END
+HTProt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTProt.h
+END
+HTMuxTx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMuxTx.h
+END
+WWWUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWUtil.h
+END
+HTTChunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTChunk.c
+END
+HTTPRes.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPRes.c
+END
+HTTChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTChunk.h
+END
+HTTPRes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPRes.h
+END
+HTCache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTCache.c
+END
+HTAlert.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAlert.c
+END
+HTAssoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAssoc.c
+END
+HTCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTCache.h
+END
+HTAlert.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAlert.h
+END
+HTTee.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTee.c
+END
+HTAssoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAssoc.h
+END
+HTNoFree.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNoFree.c
+END
+HTDigest.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDigest.c
+END
+HTTee.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTee.h
+END
+HTDemux.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDemux.c
+END
+HTNoFree.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNoFree.h
+END
+HTDigest.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDigest.h
+END
+HTDemux.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDemux.h
+END
+HTMIMImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMImp.c
+END
+HTMIMERq.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMERq.c
+END
+HTReq.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTReq.h
+END
+HTMIMImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMImp.h
+END
+HTResponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTResponse.c
+END
+HTMIMERq.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMERq.h
+END
+HTAccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAccess.c
+END
+HTResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTResponse.h
+END
+HTAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAccess.h
+END
+HTCookie.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTCookie.c
+END
+HTAnchor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAnchor.c
+END
+HTBind.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBind.c
+END
+HTCookie.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTCookie.h
+END
+HTAnchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAnchor.h
+END
+HTFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFile.c
+END
+HTBind.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTBind.h
+END
+HTFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFile.h
+END
+HTMuxHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMuxHeader.h
+END
+HTMulti.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMulti.c
+END
+wwwsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/wwwsys.h
+END
+HTLink.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLink.c
+END
+HTMulti.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMulti.h
+END
+HTAncMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTAncMan.h
+END
+HTLink.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLink.h
+END
+WWWFTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWFTP.h
+END
+HTMIMPrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMPrs.c
+END
+WWWStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWStream.h
+END
+HTMIMPrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIMPrs.h
+END
+HTEvtLst.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEvtLst.c
+END
+HTLog.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLog.c
+END
+HTEvtLst.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEvtLst.h
+END
+HTGuess.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTGuess.c
+END
+HTLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLog.h
+END
+HTTrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTrans.c
+END
+HTGuess.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTGuess.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/Makefile.am
+END
+HTTrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTrans.h
+END
+WWWFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWFile.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/Makefile
+END
+HTPlain.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTPlain.c
+END
+HTMulpar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMulpar.h
+END
+HTPlain.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTPlain.h
+END
+HTHInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHInit.c
+END
+HTList.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTList.c
+END
+HTHInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHInit.h
+END
+HTList.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTList.h
+END
+WWWZip.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWZip.h
+END
+HTDescpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDescpt.c
+END
+HTDescpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDescpt.h
+END
+WWWMux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWMux.h
+END
+HTFormat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFormat.c
+END
+HTHeader.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHeader.c
+END
+HTStruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTStruct.h
+END
+HTResMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTResMan.h
+END
+HTFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFormat.h
+END
+HTHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHeader.h
+END
+WWWApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWApp.h
+END
+HTDAV.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDAV.c
+END
+HTWriter.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWriter.c
+END
+HTDAV.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDAV.h
+END
+HTWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWriter.h
+END
+HTPEP.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTPEP.c
+END
+HTGopher.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTGopher.c
+END
+HTMIME.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIME.c
+END
+HTFTPDir.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFTPDir.c
+END
+HTPEP.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTPEP.h
+END
+HTGopher.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTGopher.h
+END
+HTMIME.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMIME.h
+END
+HTFTPDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFTPDir.h
+END
+WWWHTTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWHTTP.h
+END
+HTTrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTrace.c
+END
+HTXML.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTXML.c
+END
+HTStyle.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTStyle.c
+END
+HTXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTXML.h
+END
+HTStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTStyle.h
+END
+HTMemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMemory.c
+END
+HTRDF.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTRDF.c
+END
+HTMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMemory.h
+END
+WWWSQL.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWSQL.h
+END
+HTConLen.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTConLen.c
+END
+HTRDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTRDF.h
+END
+HTConLen.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTConLen.h
+END
+HTDNS.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDNS.c
+END
+HTFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFilter.c
+END
+HTUU.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUU.c
+END
+HTDNS.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDNS.h
+END
+HTFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTFilter.h
+END
+HTLocal.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLocal.c
+END
+HTNDir.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNDir.c
+END
+HTUU.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTUU.h
+END
+HTLocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLocal.h
+END
+HTSQLLog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSQLLog.c
+END
+HTNDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNDir.h
+END
+WWWMIME.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWMIME.h
+END
+HTSQLLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSQLLog.h
+END
+HTLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLib.c
+END
+HTLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTLib.h
+END
+HTDir.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDir.c
+END
+HTTPServ.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPServ.c
+END
+HTDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDir.h
+END
+HTHash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHash.c
+END
+HTNet.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNet.c
+END
+HTTPServ.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTPServ.h
+END
+HTHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHash.h
+END
+HTHome.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHome.c
+END
+HTRules.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTRules.c
+END
+HTANSI.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTANSI.c
+END
+HTNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNet.h
+END
+HTHome.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHome.h
+END
+HTRules.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTRules.h
+END
+HTANSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTANSI.h
+END
+HTHstMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHstMan.h
+END
+HTWAIS.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWAIS.c
+END
+HTWAIS.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTWAIS.h
+END
+HTNews.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNews.c
+END
+HTHost.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHost.c
+END
+HTNews.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTNews.h
+END
+HTHost.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTHost.h
+END
+WWWHTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWHTML.h
+END
+HTSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSocket.c
+END
+HTSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTSocket.h
+END
+HTDialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDialog.c
+END
+HTEscape.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEscape.c
+END
+HTDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTDialog.h
+END
+HTEscape.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEscape.h
+END
+HTTimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTimer.c
+END
+HTMethod.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMethod.c
+END
+WWWWAIS.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/WWWWAIS.h
+END
+HTTP.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTP.c
+END
+HTMLPDTD.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMLPDTD.c
+END
+HTTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTTimer.h
+END
+HTMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTMethod.h
+END
+HTEPtoCl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/HTEPtoCl.c
+END

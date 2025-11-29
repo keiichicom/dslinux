@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs
+END
+afIntro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afIntro
+END
+afOpenFile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afOpenFile
+END
+sfconvert
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/sfconvert
+END
+afSeekFrame
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afSeekFrame
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/Makefile.am
+END
+afSetErrorHandler
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afSetErrorHandler
+END
+afQuery
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afQuery
+END
+afCloseFile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afCloseFile
+END
+afReadFrames
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afReadFrames
+END
+afNewFileSetup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afNewFileSetup
+END
+afGetTrackBytes
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afGetTrackBytes
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/Makefile.in
+END
+sfinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/sfinfo
+END
+afSetVirtualByteOrder
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afSetVirtualByteOrder
+END
+afGetFrameSize
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afGetFrameSize
+END
+afReadMisc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afReadMisc
+END
+afWriteFrames
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/docs/afWriteFrames
+END

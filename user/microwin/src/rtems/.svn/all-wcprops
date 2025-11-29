@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems
+END
+Makefile.rtems
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/Makefile.rtems
+END
+readme.rtems
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/readme.rtems
+END
+mw_uid_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/mw_uid_test.cc
+END
+net_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/net_cfg.h
+END
+rtems_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/rtems_init.c
+END
+rtemscfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/rtems/rtemscfg.h
+END

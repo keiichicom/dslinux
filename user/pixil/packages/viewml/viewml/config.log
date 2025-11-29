@@ -1,0 +1,70 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:590: checking host system type
+configure:611: checking target system type
+configure:629: checking build system type
+configure:654: checking cached host tuple
+configure:678: checking for gcc
+configure:745: checking for g++
+configure:812: checking for ld
+configure:879: checking for ar
+configure:946: checking for ranlib
+configure:1013: checking for strip
+configure:1082: checking for gcc
+configure:1195: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-deprecated -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) works
+configure:1211: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-deprecated  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+cc1: warning: command line option "-Wno-deprecated" is valid for C++/ObjC++ but not for C
+configure:1208: warning: return type defaults to 'int'
+No relocations in code!
+configure:1237: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-deprecated -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) is a cross-compiler
+configure:1242: checking whether we are using GNU C
+configure:1251: ucfront-gcc arm-linux-elf-gcc  -E conftest.c
+configure:1270: checking whether ucfront-gcc arm-linux-elf-gcc  accepts -g
+configure:1306: checking for c++
+configure:1338: checking whether the C++ compiler (ucfront-g++ arm-linux-elf-g++  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__  -I /home/andrewec/dslinux/lib/uClibc++/include -fno-builtin -nostdinc++ -DGCC_HASCLASSVISIBILITY -Wno-deprecated -fno-rtti -fno-exceptions -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) works
+configure:1354: ucfront-g++ arm-linux-elf-g++  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__  -I /home/andrewec/dslinux/lib/uClibc++/include -fno-builtin -nostdinc++ -DGCC_HASCLASSVISIBILITY -Wno-deprecated -fno-rtti -fno-exceptions  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.C  1>&5
+No relocations in code!
+configure:1380: checking whether the C++ compiler (ucfront-g++ arm-linux-elf-g++  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__  -I /home/andrewec/dslinux/lib/uClibc++/include -fno-builtin -nostdinc++ -DGCC_HASCLASSVISIBILITY -Wno-deprecated -fno-rtti -fno-exceptions -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) is a cross-compiler
+configure:1385: checking whether we are using GNU C++
+configure:1394: ucfront-g++ arm-linux-elf-g++  -E conftest.C
+configure:1413: checking whether ucfront-g++ arm-linux-elf-g++  accepts -g
+configure:1462: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-deprecated  conftest.c 1>&5
+cc1: warning: command line option "-Wno-deprecated" is valid for C++/ObjC++ but not for C
+configure:1479: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-deprecated  conftest.c 1>&5
+cc1: warning: command line option "-Wno-deprecated" is valid for C++/ObjC++ but not for C
+configure: In function 'main':
+configure:1475: warning: implicit declaration of function 'exit'
+configure:1519: ucfront-g++ arm-linux-elf-g++  -c -g  conftest.C 1>&5
+configure: In function 'int main()':
+configure:1514: error: ISO C++ forbids declaration of 'operator++' with no type
+configure:1515: error: no 'operator++(int)' declared for postfix '++', trying prefix operator instead
+configure: failed program was:
+#line 1511 "configure"
+#include "confdefs.h"
+
+int main() {
+class foo { public: operator++() { return 1; } }; 
+foo bar; bar++; 
+; return 0; }
+configure:1627: checking for libwww-config
+configure:1665: checking how to run the C++ preprocessor
+configure:1683: ucfront-g++ arm-linux-elf-g++  -E  conftest.C >/dev/null 2>conftest.out
+configure:1712: checking for X
+configure:1779: ucfront-g++ arm-linux-elf-g++  -E  conftest.C >/dev/null 2>conftest.out
+configure:1775:27: error: X11/Intrinsic.h: No such file or directory
+configure: failed program was:
+#line 1774 "configure"
+#include "confdefs.h"
+#include <X11/Intrinsic.h>
+configure:1855: ucfront-g++ arm-linux-elf-g++  -o conftest -g --permissive -DNANOX -D_NANOX  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.C -lXt /home/andrewec/dslinux/user/pixil/libs/pim/libpixil-pim.a -lpthread -L/home/andrewec/dslinux/user/pixil/libs/flnx/lib -lfltk -ljpeg -L/home/andrewec/dslinux/user/microwin/src/lib -lnano-X -lmwengine -lmwdrivers -lmwfonts 1>&5
+configure: In function 'int main()':
+configure:1851: error: 'XtMalloc' was not declared in this scope
+configure: failed program was:
+#line 1848 "configure"
+#include "confdefs.h"
+
+int main() {
+XtMalloc()
+; return 0; }
+configure:3228: checking whether make sets ${MAKE}

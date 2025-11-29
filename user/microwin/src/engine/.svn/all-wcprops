@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine
+END
+devclip.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devclip.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/error.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/Makefile
+END
+devpal1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpal1.c
+END
+devpal2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpal2.c
+END
+font_pcf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_pcf.c
+END
+devpal4.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpal4.c
+END
+devopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devopen.c
+END
+devdraw.org
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devdraw.org
+END
+font_t1lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_t1lib.c
+END
+devpal8.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpal8.c
+END
+devfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devfont.c
+END
+devrgn2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devrgn2.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/.svnignore
+END
+devclip1.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devclip1.c
+END
+devclip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devclip2.c
+END
+devfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devfont.h
+END
+selfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/selfont.c
+END
+devtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devtimer.c
+END
+devpoly.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpoly.c
+END
+devpalgray4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devpalgray4.c
+END
+devrgn.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devrgn.c
+END
+devmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devmouse.c
+END
+font_freetype2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_freetype2.c
+END
+font_eucjp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_eucjp.c
+END
+devdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devdraw.c
+END
+devkbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devkbd.c
+END
+font_dbcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_dbcs.c
+END
+devarc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devarc.c
+END
+font_freetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_freetype.c
+END
+devlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devlist.c
+END
+font_freetype.cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_freetype.cache.c
+END
+font_fnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_fnt.c
+END
+devstipple.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devstipple.c
+END
+devimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/devimage.c
+END
+font_hzk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/engine/font_hzk.c
+END

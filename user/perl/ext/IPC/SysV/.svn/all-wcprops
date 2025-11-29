@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV
+END
+Msg.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/Msg.pm
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/MANIFEST
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/ChangeLog
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/Makefile.PL
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/README
+END
+SysV.xs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/SysV.xs
+END
+Semaphore.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/Semaphore.pm
+END
+SysV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/perl/ext/IPC/SysV/SysV.pm
+END

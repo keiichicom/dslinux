@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam/README
+END
+auth-pam.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam/auth-pam.c
+END
+pamdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam/pamdl.c
+END
+pamdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/openvpn/src/plugin/auth-pam/pamdl.h
+END

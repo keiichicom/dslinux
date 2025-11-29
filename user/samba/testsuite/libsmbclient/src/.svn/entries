@@ -1,0 +1,137 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/samba/testsuite/libsmbclient/src
+https://svn.dslinux.org/svn
+
+
+
+2008-01-23T13:49:25.732189Z
+2107
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+open_print_job
+dir
+
+rename
+dir
+
+readdir
+dir
+
+read
+dir
+
+stat
+dir
+
+getdents
+dir
+
+rmdir
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:51.636805Z
+b1688580e6de476f32516ff220d60474
+2008-01-23T13:49:25.732189Z
+2107
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24260
+
+chown
+dir
+
+fstat
+dir
+
+chmod
+dir
+
+write
+dir
+
+print_file
+dir
+
+creat
+dir
+
+telldir
+dir
+
+opendir
+dir
+
+unlink
+dir
+
+open
+dir
+
+lseekdir
+dir
+
+lseek
+dir
+
+init
+dir
+
+list_print_jobs
+dir
+
+closedir
+dir
+
+close
+dir
+
+mkdir
+dir
+
+unlink_print_job
+dir
+

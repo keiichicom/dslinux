@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/tar/src/tests
+END
+delete03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/delete03.at
+END
+package.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/package.m4
+END
+rename01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/rename01.at
+END
+multiv02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/multiv02.at
+END
+listed01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/listed01.at
+END
+truncate.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/truncate.at
+END
+genfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/genfile.c
+END
+comprec.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/comprec.at
+END
+extrac03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac03.at
+END
+volsize.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/volsize.at
+END
+pipe.at
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/pipe.at
+END
+options02.at
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/options02.at
+END
+sparse01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/sparse01.at
+END
+incr03.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/incr03.at
+END
+long01.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/long01.at
+END
+delete02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/delete02.at
+END
+append02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/append02.at
+END
+gzip.at
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/gzip.at
+END
+longv7.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/longv7.at
+END
+lustar03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/lustar03.at
+END
+old.at
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/old.at
+END
+multiv01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/multiv01.at
+END
+atlocal.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/atlocal.in
+END
+update.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/update.at
+END
+multiv05.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/multiv05.at
+END
+version.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/version.at
+END
+testsuite
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/testsuite
+END
+extrac02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac02.at
+END
+shortrec.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/shortrec.at
+END
+testsuite.at
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/testsuite.at
+END
+options.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/options.at
+END
+chtype.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/chtype.at
+END
+extrac06.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac06.at
+END
+incr02.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/incr02.at
+END
+delete01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/delete01.at
+END
+verbose.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/verbose.at
+END
+spmvp01.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/spmvp01.at
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/Makefile.am
+END
+delete05.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/delete05.at
+END
+append.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/append.at
+END
+recurse.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/recurse.at
+END
+append01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/append01.at
+END
+rename03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/rename03.at
+END
+lustar02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/lustar02.at
+END
+grow.at
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/grow.at
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/Makefile.in
+END
+argcv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/argcv.c
+END
+multiv04.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/multiv04.at
+END
+argcv.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/argcv.h
+END
+extrac01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac01.at
+END
+extrac05.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac05.at
+END
+incr01.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/incr01.at
+END
+link01.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/link01.at
+END
+sparse03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/sparse03.at
+END
+same-order02.at
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/same-order02.at
+END
+incremental.at
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/incremental.at
+END
+spmvp00.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/spmvp00.at
+END
+spmvp10.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/spmvp10.at
+END
+delete04.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/delete04.at
+END
+indexfile.at
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/indexfile.at
+END
+volume.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/volume.at
+END
+rename02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/rename02.at
+END
+ignfail.at
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/ignfail.at
+END
+lustar01.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/lustar01.at
+END
+sparsemvp.at
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/sparsemvp.at
+END
+multiv03.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/multiv03.at
+END
+listed02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/listed02.at
+END
+extrac04.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/extrac04.at
+END
+sparse02.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/sparse02.at
+END
+same-order01.at
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/same-order01.at
+END
+incr04.at
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/incr04.at
+END
+sparsemv.at
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/tar/src/tests/sparsemv.at
+END

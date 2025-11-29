@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 77
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+libvideogfx-utility-bitstream.la
+
+END

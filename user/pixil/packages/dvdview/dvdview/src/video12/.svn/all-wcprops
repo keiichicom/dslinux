@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12
+END
+vidsyntax.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vidsyntax.cc
+END
+output.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/output.hh
+END
+viddec_mods.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/viddec_mods.hh
+END
+vdecoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vdecoder.cc
+END
+vlc.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vlc.hh
+END
+viddec_mods.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/viddec_mods.cc
+END
+dctblk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/dctblk.cc
+END
+vidsyntax.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vidsyntax.hh
+END
+vlc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vlc.cc
+END
+vdecoder.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/vdecoder.hh
+END
+constants.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/constants.hh
+END
+macroblock.hh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/src/video12/macroblock.hh
+END

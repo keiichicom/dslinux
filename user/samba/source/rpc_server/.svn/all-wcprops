@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server
+END
+srv_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_reg.c
+END
+srv_dfs_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_dfs_nt.c
+END
+srv_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_util.c
+END
+srv_reg_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_reg_nt.c
+END
+srv_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_echo.c
+END
+srv_lsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_lsa.c
+END
+srv_echo_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_echo_nt.c
+END
+srv_lsa_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_lsa_nt.c
+END
+srv_wkssvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_wkssvc.c
+END
+srv_wkssvc_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_wkssvc_nt.c
+END
+srv_pipe_hnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_pipe_hnd.c
+END
+srv_srvsvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_srvsvc.c
+END
+srv_srvsvc_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_srvsvc_nt.c
+END
+srv_netlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_netlog.c
+END
+srv_netlog_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_netlog_nt.c
+END
+srv_pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_pipe.c
+END
+srv_samr_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_samr_util.c
+END
+srv_samr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_samr.c
+END
+srv_spoolss.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_spoolss.c
+END
+srv_samr_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_samr_nt.c
+END
+srv_spoolss_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_spoolss_nt.c
+END
+srv_lsa_ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_lsa_ds.c
+END
+srv_lsa_ds_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_lsa_ds_nt.c
+END
+srv_lsa_hnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_lsa_hnd.c
+END
+srv_dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/samba/source/rpc_server/srv_dfs.c
+END

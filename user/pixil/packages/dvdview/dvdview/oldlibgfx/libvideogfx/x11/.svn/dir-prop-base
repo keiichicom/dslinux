@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 63
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+libvideogfx-x11.la
+
+END

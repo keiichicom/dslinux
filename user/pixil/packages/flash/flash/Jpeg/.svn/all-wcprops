@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jquant2.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdatasrc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/Makefile
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jmemmgr.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdmarker.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jinclude.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdapistd.c
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jidctflt.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jversion.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jpegint.h
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jidctint.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jutils.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdinput.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jcomapi.c
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/ckconfig.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jidctred.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdpostct.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdapimin.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdcolor.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jmemsys.h
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdatadst.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jddctmgr.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jerror.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdhuff.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdmaster.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jidctfst.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jmemnobs.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/flash/flash/Jpeg/jdhuff.h
+END

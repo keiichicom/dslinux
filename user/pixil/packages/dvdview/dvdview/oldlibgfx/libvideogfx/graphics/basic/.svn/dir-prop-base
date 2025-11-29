@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 74
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+libvideogfx-graphics-basic.la
+
+END

@@ -1,0 +1,141 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/lib/sdl/src/src/cdrom
+https://svn.dslinux.org/svn
+
+
+
+2008-03-07T20:48:27.158385Z
+2148
+dslinux_gpf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+bsdi
+dir
+
+aix
+dir
+
+dc
+dir
+
+osf
+dir
+
+SDL_cdrom.c
+file
+
+
+
+
+2025-11-26T02:02:18.760805Z
+9db8814b896bf46913ac0176b5031e6d
+2008-03-07T20:48:27.158385Z
+2148
+dslinux_gpf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7484
+
+beos
+dir
+
+openbsd
+dir
+
+macosx
+dir
+
+dummy
+dir
+
+SDL_syscdrom.h
+file
+
+
+
+
+2025-11-26T02:02:18.760805Z
+605b05ef65638ad776364c7deb4d142c
+2008-03-07T20:48:27.158385Z
+2148
+dslinux_gpf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2492
+
+linux
+dir
+
+win32
+dir
+
+macos
+dir
+
+os2
+dir
+
+qnx
+dir
+
+mint
+dir
+
+freebsd
+dir
+

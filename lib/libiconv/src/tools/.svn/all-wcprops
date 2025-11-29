@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools/Makefile
+END
+cjk_variants.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools/cjk_variants.c
+END
+JISX0213.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools/JISX0213.TXT
+END
+8bit_tab_to_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools/8bit_tab_to_h.c
+END
+cjk_tab_to_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/tools/cjk_tab_to_h.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl
+END
+patchload.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/patchload.c
+END
+gmvoices.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/gmvoices.h
+END
+readmidi_native.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/readmidi_native.c
+END
+awe_voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/awe_voice.h
+END
+gsvoices.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/gsvoices.h
+END
+emumidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/emumidi.c
+END
+native_midi_gpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/native_midi_gpl.c
+END
+playevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/playevents.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/README
+END
+playmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/playmidi.h
+END
+emumidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/native_midi_gpl/emumidi.h
+END

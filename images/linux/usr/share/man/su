@@ -1,0 +1,71 @@
+SU(1)                            User Commands
+SU(1)
+
+
+
+NNAAMMEE
+       su - run a shell with substitute user and group IDs
+
+SSYYNNOOPPSSIISS
+       ssuu [_O_P_T_I_O_N]... [_-] [_U_S_E_R
+       [_A_R_G]...]
+
+DDEESSCCRRIIPPTTIIOONN
+       Change the effective user id and group id to that
+       of USER.
+
+       -, --ll, ----llooggiinn
+              make the shell a login shell
+
+       --cc,
+       ----ccoommmmaanndd=_C_O_M_M_A_N_D
+              pass a single COMMAND to the shell with --cc
+
+       --ff, ----ffaasstt
+              pass --ff to the shell (for csh or tcsh)
+
+       --mm,
+       ----pprreesseerrvvee--eennvviirroonnmmeenntt
+              do not reset environment variables
+
+       --pp     same as --mm
+
+       --ss, ----sshheellll=_S_H_E_L_L
+              run SHELL if /etc/shells allows it
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       A mere - implies --ll.   If USER not given, assume
+       root.
+
+AAUUTTHHOORR
+       Written by David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for ssuu is maintained as a
+       Texinfo  manual.   If the  iinnffoo and ssuu
+       programs are properly installed at your site, the
+       com‐ mand
+
+              iinnffoo ssuu
+
+       should give you access to the complete manual.
+
+
+
+su 6.7                           December 2006
+SU(1)

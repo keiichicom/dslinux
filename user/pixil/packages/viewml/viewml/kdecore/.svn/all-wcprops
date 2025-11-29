@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore
+END
+kdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kdebug.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ChangeLog
+END
+kpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kpoint.h
+END
+kmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kmisc.h
+END
+kckey.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kckey.h
+END
+drag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/drag.cpp
+END
+kconfigbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kconfigbase.h
+END
+kcharsetsdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kcharsetsdata.cpp
+END
+kaccel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kaccel.cpp
+END
+kurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kurl.h
+END
+ksize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksize.cpp
+END
+kstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstring.h
+END
+kstddirs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstddirs.cpp
+END
+fakes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/fakes.cpp
+END
+kstdaccel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstdaccel.cpp
+END
+charsets.config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/charsets.config
+END
+kdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kdebug.cpp
+END
+ksock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksock.cpp
+END
+kclipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kclipboard.cpp
+END
+kconfigbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kconfigbase.cpp
+END
+kurl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kurl.cpp
+END
+kconfigdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kconfigdata.h
+END
+kconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kconfig.cpp
+END
+kstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstring.cpp
+END
+kchartables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kchartables.cpp
+END
+kdebugdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kdebugdialog.h
+END
+kaccel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kaccel.h
+END
+kcharsets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kcharsets.cpp
+END
+ksimpleconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksimpleconfig.cpp
+END
+libintl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/libintl.cpp
+END
+kprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kprocess.h
+END
+kwm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kwm.cpp
+END
+kcolorgroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kcolorgroup.cpp
+END
+krect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/krect.cpp
+END
+kprocctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kprocctrl.h
+END
+klocale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/klocale.cpp
+END
+kdebug.areas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kdebug.areas
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/README
+END
+kpixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kpixmap.h
+END
+ksock.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksock.h
+END
+kclipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kclipboard.h
+END
+dither.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/dither.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/TODO
+END
+kconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kconfig.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/Makefile.am
+END
+kprocess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kprocess.cpp
+END
+kiconloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kiconloader.cpp
+END
+kapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kapp.cpp
+END
+ksimpleconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksimpleconfig.h
+END
+ckey.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ckey.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/Makefile.in
+END
+kprocctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kprocctrl.cpp
+END
+kwm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kwm.h
+END
+krootprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/krootprop.h
+END
+kpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kpoint.cpp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/AUTHORS
+END
+kckey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kckey.cpp
+END
+kglobalaccel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kglobalaccel.h
+END
+kpixmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kpixmap.cpp
+END
+kdebugareas.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kdebugareas.txt
+END
+kcolorgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kcolorgroup.h
+END
+krect.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/krect.h
+END
+dither.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/dither.cpp
+END
+kcharsetsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kcharsetsdata.h
+END
+convert_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/convert_key.c
+END
+ksize.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/ksize.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/NEWS
+END
+kstddirs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstddirs.h
+END
+krootprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/krootprop.cpp
+END
+kiconloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kiconloader.h
+END
+kstdaccel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kstdaccel.h
+END
+kglobalaccel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/pixil/packages/viewml/viewml/kdecore/kglobalaccel.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode
+END
+CJKConstants.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/CJKConstants.pm
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Config.pm
+END
+Encoding.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Encoding.pm
+END
+Guess.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Guess.pm
+END
+Alias.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Alias.pm
+END
+Supported.pod
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Supported.pod
+END
+Encoder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/Encoder.pm
+END
+PerlIO.pod
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/ext/Encode/lib/Encode/PerlIO.pod
+END

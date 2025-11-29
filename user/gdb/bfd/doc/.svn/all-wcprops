@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc
+END
+bfdsumm.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfdsumm.texi
+END
+bfd.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfd.texinfo
+END
+aoutx.texi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/aoutx.texi
+END
+elfcode.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/elfcode.texi
+END
+init.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/init.texi
+END
+doc.str
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/doc.str
+END
+reloc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/reloc.texi
+END
+fdl.texi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/fdl.texi
+END
+makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/makefile.vms
+END
+targets.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/targets.texi
+END
+archures.texi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/archures.texi
+END
+bfd.info
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfd.info
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/ChangeLog
+END
+libbfd.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/libbfd.texi
+END
+hash.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/hash.texi
+END
+linker.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/linker.texi
+END
+mmo.texi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/mmo.texi
+END
+format.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/format.texi
+END
+header.sed
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/header.sed
+END
+syms.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/syms.texi
+END
+opncls.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/opncls.texi
+END
+chew.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/chew.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/Makefile.am
+END
+proto.str
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/proto.str
+END
+cache.texi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/cache.texi
+END
+section.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/section.texi
+END
+elf.texi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/elf.texi
+END
+bfdint.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfdint.texi
+END
+coffcode.texi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/coffcode.texi
+END
+ChangeLog-9103
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/ChangeLog-9103
+END
+bfdwin.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfdwin.texi
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/Makefile.in
+END
+bfdt.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfdt.texi
+END
+archive.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/archive.texi
+END
+bfdio.texi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/bfdio.texi
+END
+core.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/gdb/bfd/doc/core.texi
+END

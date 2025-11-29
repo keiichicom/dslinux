@@ -1,0 +1,899 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom
+END
+r_things.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_things.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/TODO
+END
+d_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_main.c
+END
+d_englsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_englsh.h
+END
+d_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_main.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/install-sh
+END
+p_inter.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_inter.c
+END
+p_inter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_inter.h
+END
+p_lights.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_lights.c
+END
+m_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_fixed.c
+END
+d_ticcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_ticcmd.h
+END
+g_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/g_game.c
+END
+p_ceilng.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_ceilng.c
+END
+m_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_fixed.h
+END
+DOOMLIC.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/DOOMLIC.TXT
+END
+g_game.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/g_game.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/info.c
+END
+p_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_user.c
+END
+README.NANOX
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.NANOX
+END
+m_cheat.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_cheat.c
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/info.h
+END
+w_wad.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/w_wad.c
+END
+p_pspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_pspr.c
+END
+d_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_player.h
+END
+z_zone.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/z_zone.c
+END
+m_cheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_cheat.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/configure.in
+END
+r_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_state.h
+END
+w_wad.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/w_wad.h
+END
+p_pspr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_pspr.h
+END
+z_zone.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/z_zone.h
+END
+m_argv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_argv.c
+END
+sounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/sounds.c
+END
+m_argv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_argv.h
+END
+sounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/sounds.h
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/FILES
+END
+m_swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_swap.c
+END
+wi_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/wi_stuff.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/missing
+END
+m_swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_swap.h
+END
+README.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.asm
+END
+wi_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/wi_stuff.h
+END
+p_enemy.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_enemy.c
+END
+README.b
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.b
+END
+doomdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomdata.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/AUTHORS
+END
+r_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_main.c
+END
+m_bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_bbox.c
+END
+r_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_main.h
+END
+m_bbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_bbox.h
+END
+p_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_local.h
+END
+r_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_local.h
+END
+p_maputl.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_maputl.c
+END
+hu_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/hu_stuff.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/COPYING
+END
+hu_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/hu_stuff.h
+END
+d_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_event.h
+END
+i_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_main.c
+END
+p_plats.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_plats.c
+END
+d_textur.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_textur.h
+END
+f_wipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/f_wipe.c
+END
+p_telept.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_telept.c
+END
+r_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_draw.c
+END
+f_wipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/f_wipe.h
+END
+p_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_setup.c
+END
+r_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_draw.h
+END
+p_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_setup.h
+END
+d_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_items.c
+END
+r_sky.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_sky.c
+END
+d_items.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_items.h
+END
+r_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_data.c
+END
+r_sky.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_sky.h
+END
+p_sight.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_sight.c
+END
+README.SDL
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.SDL
+END
+r_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_data.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/configure
+END
+i_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_sound.c
+END
+FILES2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/FILES2
+END
+p_doors.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_doors.c
+END
+i_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_sound.h
+END
+p_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_spec.c
+END
+s_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/s_sound.c
+END
+d_french.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_french.h
+END
+p_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_spec.h
+END
+s_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/s_sound.h
+END
+r_plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_plane.c
+END
+m_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_menu.c
+END
+r_segs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_segs.c
+END
+p_saveg.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_saveg.c
+END
+r_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_plane.h
+END
+m_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_menu.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/INSTALL
+END
+d_think.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_think.h
+END
+r_segs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_segs.h
+END
+p_saveg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_saveg.h
+END
+am_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/am_map.c
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/NEWS
+END
+i_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_net.c
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/mkinstalldirs
+END
+am_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/am_map.h
+END
+i_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_net.h
+END
+r_bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_bsp.c
+END
+README.book
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.book
+END
+r_bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_bsp.h
+END
+st_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/st_lib.c
+END
+st_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/st_lib.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/Makefile.am
+END
+i_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_system.c
+END
+dstrings.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/dstrings.c
+END
+st_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/st_stuff.c
+END
+p_floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_floor.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/Makefile.in
+END
+i_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_system.h
+END
+dstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/dstrings.h
+END
+hu_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/hu_lib.c
+END
+st_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/st_stuff.h
+END
+f_finale.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/f_finale.c
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/depcomp
+END
+r_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_defs.h
+END
+hu_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/hu_lib.h
+END
+f_finale.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/f_finale.h
+END
+README.gl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README.gl
+END
+doomdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomdef.c
+END
+i_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_video.c
+END
+p_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_switch.c
+END
+doomdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomdef.h
+END
+i_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/i_video.h
+END
+d_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_net.c
+END
+doomstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomstat.c
+END
+v_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/v_video.c
+END
+p_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_map.c
+END
+m_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_random.c
+END
+d_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/d_net.h
+END
+doomstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomstat.h
+END
+v_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/v_video.h
+END
+m_random.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_random.h
+END
+doomtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/doomtype.h
+END
+p_mobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_mobj.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/ChangeLog
+END
+m_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_misc.c
+END
+p_tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_tick.c
+END
+tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/tables.c
+END
+p_mobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_mobj.h
+END
+m_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/m_misc.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/README
+END
+r_things.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/r_things.c
+END
+p_tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/p_tick.h
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/packages/nxdoom/nxdoom/tables.h
+END

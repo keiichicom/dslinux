@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch
+END
+alpha-step.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/alpha-step.c
+END
+i386-cpuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-cpuid.h
+END
+i386-size.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-size.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/Makefile.in
+END
+powerpc-aix-prologue.exp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/powerpc-aix-prologue.exp
+END
+powerpc-prologue.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/powerpc-prologue.c
+END
+pa64-nullify.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/pa64-nullify.s
+END
+e500-abi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-abi.exp
+END
+e500-prologue.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-prologue.exp
+END
+gdb1558.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1558.c
+END
+e500-regs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-regs.exp
+END
+gdb1431.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1431.s
+END
+powerpc-aix-prologue.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/powerpc-aix-prologue.c
+END
+gdb1291.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1291.s
+END
+altivec-abi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/altivec-abi.exp
+END
+i386-sse.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-sse.exp
+END
+i386-prologue.exp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-prologue.exp
+END
+altivec-regs.exp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/altivec-regs.exp
+END
+pa-nullify.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/pa-nullify.s
+END
+e500-abi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-abi.c
+END
+e500-prologue.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-prologue.c
+END
+i386-unwind.exp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-unwind.exp
+END
+e500-regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/e500-regs.c
+END
+alpha-step.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/alpha-step.exp
+END
+i386-size.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-size.exp
+END
+gdb1431.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1431.exp
+END
+altivec-abi.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/altivec-abi.c
+END
+i386-sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-sse.c
+END
+i386-prologue.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-prologue.c
+END
+gdb1291.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1291.exp
+END
+powerpc-prologue.exp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/powerpc-prologue.exp
+END
+altivec-regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/altivec-regs.c
+END
+gdb1558.exp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/gdb1558.exp
+END
+pa-nullify.exp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/pa-nullify.exp
+END
+i386-unwind.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/gdb/gdb/testsuite/gdb.arch/i386-unwind.c
+END

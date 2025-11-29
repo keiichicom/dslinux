@@ -1,0 +1,116 @@
+TAIL(1)                          User Commands
+TAIL(1)
+
+
+
+NNAAMMEE
+       tail - output the last part of files
+
+SSYYNNOOPPSSIISS
+       ttaaiill [_O_P_T_I_O_N]... [_F_I_L_E]...
+
+DDEESSCCRRIIPPTTIIOONN
+       Print  the  last  10  lines of each FILE to standard
+       output.  With more than one FILE, precede each with a
+       header giving the file  name.   With no FILE, or when
+       FILE is -, read standard input.
+
+       Mandatory  arguments  to  long  options are mandatory
+       for short options too.
+
+       ----rreettrryy
+              keep trying to open a file even if it is
+              inaccessible when  tail starts  or if
+              it becomes inaccessible later; useful
+              when follow‐ ing by name, i.e., with
+              ----ffoollllooww=_n_a_m_e
+
+       --cc, ----bbyytteess=_N
+              output the last N bytes
+
+       --ff, ----ffoollllooww[[=={name|descriptor}]
+              output appended data as the file grows;
+              --ff, ----ffoollllooww,
+              and ----ffooll‐‐
+              llooww=_d_e_s_c_r_i_p_t_o_r are
+              equivalent
+
+       --FF     same as ----ffoollllooww=_n_a_m_e
+       ----rreettrryy
+
+       --nn, ----lliinneess=_N
+              output the last N lines, instead of the last 10
+
+       ----mmaaxx--uunncchhaannggeedd--ssttaattss=_N
+              with  ----ffoollllooww=_n_a_m_e,
+              reopen  a  FILE which has not changed size after
+              N (default 5) iterations to see if it has been
+              unlinked or renamed (this is the usual case of
+              rotated log files)
+
+       ----ppiidd=_P_I_D
+              with --ff, terminate after process ID, PID dies
+
+       --qq, ----qquuiieett, ----ssiilleenntt
+              never output headers giving file names
+
+       --ss,
+       ----sslleeeepp--iinntteerrvvaall=_S
+              with --ff, sleep for approximately S seconds
+              (default 1.0) between iterations.
+
+       --vv, ----vveerrbboossee
+              always output headers giving file names
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       If the first character of N (the number of bytes or
+       lines)  is  a  `+', print  beginning  with the Nth
+       item from the start of each file, other‐ wise, print
+       the last N items in the file.  N may have a multiplier
+       suf‐ fix: b 512, k 1024, m 1024*1024.
+
+       With  ----ffoollllooww  (--ff),  tail
+       defaults to following the file descriptor,
+       which means that even if a tail'ed file is
+       renamed, tail will  continue to  track  its  end.
+       This  default behavior is not desirable when you
+       really want to track the actual name of the file,
+       not the file descrip‐ tor (e.g., log rotation).
+       Use ----ffoollllooww=_n_a_m_e in that case.
+       That causes tail to track the named file by reopening
+       it periodically to see if  it has been removed and
+       recreated by some other program.
+
+AAUUTTHHOORR
+       Written  by Paul Rubin, David MacKenzie, Ian Lance
+       Taylor, and Jim Mey‐ ering.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The  full documentation for ttaaiill is
+       maintained as a Texinfo manual.  If the iinnffoo
+       and ttaaiill programs are properly installed  at
+       your  site,  the command
+
+              iinnffoo ttaaiill
+
+       should give you access to the complete manual.
+
+
+
+tail 6.7                         December 2006
+TAIL(1)

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/ltmain.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/configure.ac
+END
+samplerate.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/samplerate.pc.in
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/acinclude.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/install-sh
+END
+reconfigure.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/reconfigure.mk
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Makefile.in
+END
+Make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/Make.bat
+END
+libsamplerate.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/libsamplerate.spec.in
+END

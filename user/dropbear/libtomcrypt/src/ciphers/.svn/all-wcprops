@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers
+END
+rc5.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/rc5.c
+END
+rc6.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/rc6.c
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/des.c
+END
+blowfish.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/blowfish.c
+END
+noekeon.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/noekeon.c
+END
+cast5.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/cast5.c
+END
+skipjack.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/skipjack.c
+END
+anubis.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/anubis.c
+END
+xtea.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/xtea.c
+END
+khazad.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/khazad.c
+END
+rc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/ciphers/rc2.c
+END

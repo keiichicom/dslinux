@@ -1,0 +1,222 @@
+NANO(1)
+NANO(1)
+
+
+
+NNAAMMEE
+       nano - Nano's ANOther editor, an enhanced free Pico
+       clone
+
+
+SSYYNNOOPPSSIISS
+       nnaannoo _[_+_L_I_N_E_]
+       _[_o_p_t_i_o_n_s_] _[_f_i_l_e_]
+
+
+DDEESSCCRRIIPPTTIIOONN
+       This manual page documents briefly the nnaannoo
+       command.
+
+       nnaannoo  is  a small, free and friendly editor
+       which aims to replace Pico, the default editor
+       included in the non-free Pine package.  Rather  than
+       just  copying  Pico's  look and feel, nnaannoo
+       also implements some missing (or disabled by default)
+       features in Pico, such as "search and replace" and
+       "go to line number".
+
+
+OOPPTTIIOONNSS
+       ++_L_I_N_E  Places cursor at _L_I_N_E on
+       startup.
+
+       --BB ((----bbaacckkuupp))
+              When  saving  a  file, back up the previous
+              version of it to the current filename suffixed
+              with a ~.
+
+       --DD ((----ddooss))
+              Write file in DOS format.
+
+       --FF ((----mmuullttiibbuuffffeerr))
+              Enable multiple file buffers, if available.
+
+       --HH ((----hhiissttoorryylloogg))
+              Log search and replace strings to
+              _~_/_._n_a_n_o___h_i_s_t_o_r_y
+              so they may be stored for later editing, if
+              nanorc support is configured.
+
+       --II
+       ((----iiggnnoorreerrccffiilleess))
+              Don't look at
+              _$_S_Y_S_C_O_N_F_D_I_R_/_n_a_n_o_r_c
+              or _~_/_._n_a_n_o_r_c, if nanorc
+              support is available.
+
+       --KK ((----kkeeyyppaadd))
+              Do not use the ncurses keypad() call unless
+              necessary.  Try this flag  if  you  find that
+              the arrow keys on the numeric keypad do not
+              work for you under nano.
+
+       --MM ((----mmaacc))
+              Write file in Mac format.
+
+       --NN ((----nnooccoonnvveerrtt))
+              Disable automatic conversion of files from
+              DOS/Mac format.
+
+       --QQ _s_t_r
+       ((----qquuootteessttrr==_s_t_r))
+              Set  the  quoting  string  for  justifying.
+              The   default   is "^([ \t]*[|>:}#])+"  if
+              regular expression support is available, or ">
+              " otherwise.
+
+       --RR ((----rreeggeexxpp))
+              Enable regular expression matching for search
+              strings,  as  well as  \n  subexpression
+              replacement for replace strings, if avail‐
+              able.
+
+       --SS ((----ssmmooootthh))
+              Enable smooth scrolling. Text will scroll
+              line-by-line,  instead of the usual
+              chunk-by-chunk behavior.
+
+       --TT _n_u_m
+       ((----ttaabbssiizzee==_n_u_m))
+              Set the size (width) of a tab.
+
+       --VV ((----vveerrssiioonn))
+              Show the current version number and author.
+
+       --YY _s_t_r
+       ((----ssyynnttaaxx==_s_t_r))
+              Specify  a specific syntax highlighting from
+              the _._n_a_n_o_r_c to use, if available.
+
+       --cc ((----ccoonnsstt))
+              Constantly show the cursor position.
+
+       --hh ((----hheellpp))
+              Display a summary of command line options.
+
+       --ii ((----aauuttooiinnddeenntt))
+              Indent new lines to the previous line's
+              indentation. Useful when editing source code.
+
+       --kk ((----ccuutt))
+              Enable cut from cursor to end of line with ^K.
+
+       --ll ((----nnooffoollllooww))
+              If  the  file  being edited is a symbolic
+              link, replace the link with a new file, do
+              not follow it.  Good for  editing  files  in
+              _/_t_m_p, perhaps?
+
+       --mm ((----mmoouussee))
+              Enable mouse support (if available for your
+              system).
+
+       --oo _d_i_r
+       ((----ooppeerraattiinnggddiirr==_d_i_r))
+              Set  operating directory. Makes nano set up
+              something similar to a chroot.
+
+       --pp ((----pprreesseerrvvee))
+              Preserve the XON and XOFF sequences (^Q and ^S)
+              so they will  be caught by the terminal.
+
+       --rr _c_o_l_s
+       ((----ffiillll==_c_o_l_s))
+              Wrap lines at column _c_o_l_s.  By default,
+              this is the width of the screen, less eight.
+              If this value is  negative,  wrapping  will
+              occur at _c_o_l_s columns from the right
+              of the screen, allowing the wrap point to vary
+              along with the screen width if resized.
+
+       --ss _p_r_o_g
+       ((----ssppeelllleerr==_p_r_o_g))
+              Enable alternative spell checker command.
+
+       --tt ((----tteemmppffiillee))
+              Always save changed buffer without prompting.
+              Same as  Pico  -t option.
+
+       --vv ((----vviieeww))
+              View file (read only) mode.
+
+       --ww ((----nnoowwrraapp))
+              Disable wrapping of long lines.
+
+       --xx ((----nnoohheellpp))
+              Disable help screen at bottom of editor.
+
+       --zz ((----ssuussppeenndd))
+              Enable suspend ability.
+
+       --aa,, --bb,, --ee,, --ff,, --gg,, --jj
+              Ignored, for compatibility with Pico.
+
+
+IINNIITTIIAALLIIZZAATTIIOONN FFIILLEE
+       nnaannoo   will   read   initialization
+       files  in  the  following  order:
+       _$_S_Y_S_C_O_N_F_D_I_R_/_n_a_n_o_r_c,
+       then _~_/_._n_a_n_o_r_c.  Please see
+       nnaannoorrcc(5) and the exam‐ ple file
+       nnaannoorrcc..ssaammppllee which should
+       be provided with nnaannoo.
+
+
+NNOOTTEESS
+       nnaannoo  will try to dump the buffer into an
+       emergency file in some cases.  Mainly, this will
+       happen if nnaannoo receives a SIGHUP or SIGTERM
+       or  runs out  of  memory,  when  it  will  write  the
+       buffer  into a file named _n_a_n_o_._s_a_v_e
+       if the buffer didn't have a  name  already,  or  will
+       add  a ".save"  suffix to the current filename. If an
+       emergency file with that name already exists in the
+       current  directory,  ".save"  and  a  number (e.g.
+       ".save.1")  will be suffixed to the current filename
+       in order to make it unique. In multibuffer mode,
+       nnaannoo will write all the open  buf‐ fers to
+       the respective emergency files.
+
+
+BBUUGGSS
+       Please send any comments or bug reports to
+       nnaannoo@@nnaannoo--eeddiittoorr..oorrgg.
+
+       The nnaannoo mailing list is available from
+       nnaannoo--ddeevveell@@ggnnuu..oorrgg.
+
+       To  subscribe,  email  to
+       nnaannoo--ddeevveell--rreeqquueesstt@@ggnnuu..oorrgg
+       with a subject of "subscribe".
+
+
+HHOOMMEEPPAAGGEE
+       http://www.nano-editor.org/
+
+
+SSEEEE AALLSSOO
+       nnaannoorrcc(5)
+       _/_u_s_r_/_s_h_a_r_e_/_d_o_c_/_n_a_n_o_/
+       (or equivalent on your system)
+
+AAUUTTHHOORR
+       Chris Allegretta <chrisa@asty.org>, et al (see
+       _A_U_T_H_O_R_S and  _T_H_A_N_K_S  for
+       details).  This  manual  page  was  originally written
+       by Jordi Mallach <jordi@sindominio.net>, for the Debian
+       GNU system (but may be  used  by others).
+
+
+
+                                 June 19, 2003
+                                 NANO(1)

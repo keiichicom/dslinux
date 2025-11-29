@@ -1,0 +1,60 @@
+ENV(1)                           User Commands
+ENV(1)
+
+
+
+NNAAMMEE
+       env - run a program in a modified environment
+
+SSYYNNOOPPSSIISS
+       eennvv [_O_P_T_I_O_N]... [_-]
+       [_N_A_M_E_=_V_A_L_U_E]...
+       [_C_O_M_M_A_N_D [_A_R_G]...]
+
+DDEESSCCRRIIPPTTIIOONN
+       Set each NAME to VALUE in the environment and run
+       COMMAND.
+
+       --ii,
+       ----iiggnnoorree--eennvviirroonnmmeenntt
+              start with an empty environment
+
+       --uu, ----uunnsseett=_N_A_M_E
+              remove variable from the environment
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       A mere - implies --ii.  If no COMMAND, print the
+       resulting environment.
+
+AAUUTTHHOORR
+       Written by Richard Mlynarik and David MacKenzie.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for eennvv is maintained as
+       a Texinfo  manual.   If the iinnffoo and eennvv
+       programs are properly installed at your site, the
+       com‐ mand
+
+              iinnffoo eennvv
+
+       should give you access to the complete manual.
+
+
+
+env 6.7                          December 2006
+ENV(1)

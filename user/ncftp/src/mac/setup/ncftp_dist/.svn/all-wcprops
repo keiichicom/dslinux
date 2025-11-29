@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/ncftp/src/mac/setup/ncftp_dist
+END
+run_packagemaker_and_then_make_a_dmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/user/ncftp/src/mac/setup/ncftp_dist/run_packagemaker_and_then_make_a_dmg.sh
+END
+Description.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/ncftp/src/mac/setup/ncftp_dist/Description.plist.in
+END
+pkg_to_dmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/ncftp/src/mac/setup/ncftp_dist/pkg_to_dmg.sh
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/ncftp/src/mac/setup/ncftp_dist/Info.plist.in
+END

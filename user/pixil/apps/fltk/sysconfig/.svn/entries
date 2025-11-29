@@ -1,0 +1,126 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/pixil/apps/fltk/sysconfig
+https://svn.dslinux.org/svn
+
+
+
+2007-09-13T23:19:15.249028Z
+1884
+dslinux_amadeus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+include
+dir
+
+src
+dir
+
+memory
+dir
+
+about
+dir
+
+userinfo
+dir
+
+Config.in
+file
+
+
+
+
+2025-11-26T02:02:48.052805Z
+bfc14857cfb0b29e534cde91210c5b55
+2006-10-03T11:27:15.000000Z
+1425
+dslinux_amadeus
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2166
+
+clock
+dir
+
+power
+dir
+
+Makefile
+file
+
+
+
+
+2025-11-26T02:02:48.052805Z
+19c13a407f3a4163b5fb5428c0f4857f
+2006-10-03T11:27:15.000000Z
+1425
+dslinux_amadeus
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+802
+
+backlite
+dir
+
+cal
+dir
+
+regional
+dir
+

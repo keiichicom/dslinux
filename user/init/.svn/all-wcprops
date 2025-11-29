@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2269/trunk/user/init
+END
+expand.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/init/expand.c
+END
+motd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/user/init/motd
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/init/pathnames.h
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/init/.svnignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/init/Makefile
+END
+simpleinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/init/simpleinit.c
+END

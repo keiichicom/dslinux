@@ -1,0 +1,78 @@
+KILL(1)                          User Commands
+KILL(1)
+
+
+
+NNAAMMEE
+       kill - send signals to processes, or list signals
+
+SSYYNNOOPPSSIISS
+       kkiillll [_-_s _S_I_G_N_A_L _|
+       _-_S_I_G_N_A_L] _P_I_D...  kkiillll
+       _-_l [_S_I_G_N_A_L]...  kkiillll _-_t
+       [_S_I_G_N_A_L]...
+
+DDEESSCCRRIIPPTTIIOONN
+       Send signals to processes, or list signals.
+
+       Mandatory  arguments  to  long  options are mandatory
+       for short options too.
+
+       --ss, ----ssiiggnnaall=_S_I_G_N_A_L,
+       --SSIIGGNNAALL
+
+              specify the name or number of the signal to
+              be sent
+
+       --ll, ----lliisstt
+              list signal names, or convert signal names
+              to/from numbers
+
+       --tt, ----ttaabbllee
+              print a table of signal information
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       SIGNAL may be a signal name like `HUP', or a signal
+       number like `1', or an exit status of a process
+       terminated by a signal.  PID is an integer; if negative
+       it identifies a process group.
+
+       NOTE: your shell may have its own version of kill, which
+       usually super‐ sedes  the  version described here.
+       Please refer to your shell's docu‐ mentation for
+       details about the options it supports.
+
+AAUUTTHHOORR
+       Written by Paul Eggert.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       kill(2)
+
+       The  full documentation for kkiillll is
+       maintained as a Texinfo manual.  If the iinnffoo
+       and kkiillll programs are properly installed  at
+       your  site,  the command
+
+              iinnffoo kkiillll
+
+       should give you access to the complete manual.
+
+
+
+kill 6.7                         December 2006
+KILL(1)

@@ -1,0 +1,171 @@
+DU(1)                            User Commands
+DU(1)
+
+
+
+NNAAMMEE
+       du - estimate file space usage
+
+SSYYNNOOPPSSIISS
+       dduu [_O_P_T_I_O_N]... [_F_I_L_E]...
+       dduu [_O_P_T_I_O_N]...
+       _-_-_f_i_l_e_s_0_-_f_r_o_m_=_F
+
+DDEESSCCRRIIPPTTIIOONN
+       Summarize disk usage of each FILE, recursively for
+       directories.
+
+       Mandatory  arguments  to  long  options are mandatory
+       for short options too.
+
+       --aa, ----aallll
+              write counts for all files, not just directories
+
+       ----aappppaarreenntt--ssiizzee
+              print apparent sizes,  rather  than  disk  usage;
+              although  the apparent  size is usually smaller,
+              it may be larger due to holes in (`sparse')
+              files, internal  fragmentation,  indirect
+              blocks, and the like
+
+       --BB,
+       ----bblloocckk--ssiizzee=_S_I_Z_E use
+       SIZE-byte blocks
+
+       --bb, ----bbyytteess
+              equivalent to `--apparent-size
+              ----bblloocckk--ssiizzee=_1'
+
+       --cc, ----ttoottaall
+              produce a grand total
+
+       --DD,
+       ----ddeerreeffeerreennccee--aarrggss
+              dereference FILEs that are symbolic links
+
+       ----ffiilleess00--ffrroomm=_F
+              summarize  disk usage of the NUL-terminated
+              file names specified in file F
+
+       --HH     like ----ssii, but also evokes a warning;
+       will  soon  change  to  be
+              equivalent to
+              ----ddeerreeffeerreennccee--aarrggss
+              (--DD)
+
+       --hh, ----hhuummaann--rreeaaddaabbllee
+              print sizes in human readable format (e.g.,
+              1K 234M 2G)
+
+       ----ssii   like --hh, but use powers of 1000
+       not 1024
+
+       --kk     like
+       ----bblloocckk--ssiizzee=_1_K
+
+       --ll, ----ccoouunntt--lliinnkkss
+              count sizes many times if hard linked
+
+       --mm     like
+       ----bblloocckk--ssiizzee=_1_M
+
+       --LL, ----ddeerreeffeerreennccee
+              dereference all symbolic links
+
+       --PP, ----nnoo--ddeerreeffeerreennccee
+              don't follow any symbolic links (this is the
+              default)
+
+       --00, ----nnuullll
+              end each output line with 0 byte rather than
+              newline
+
+       --SS, ----sseeppaarraattee--ddiirrss
+              do not include size of subdirectories
+
+       --ss, ----ssuummmmaarriizzee
+              display only a total for each argument
+
+       --xx,
+       ----oonnee--ffiillee--ssyysstteemm
+              skip directories on different file systems
+
+       --XX FILE,
+       ----eexxcclluuddee--ffrroomm=_F_I_L_E
+              Exclude files that match any pattern in FILE.
+
+       ----eexxcclluuddee=_P_A_T_T_E_R_N
+       Exclude files that match PATTERN.
+
+       ----mmaaxx--ddeepptthh=_N
+              print the total for a directory (or file, with
+              ----aallll) only if it is  N  or  fewer
+              levels  below  the  command   line   argument;
+              ----mmaaxx--ddeepptthh=_0 is the
+              same as ----ssuummmmaarriizzee
+
+       ----ttiimmee show time of the last modification
+       of any file in the directory,
+              or any of its subdirectories
+
+       ----ttiimmee=_W_O_R_D
+              show time as WORD instead of modification time:
+              atime,  access, use, ctime or status
+
+       ----ttiimmee--ssttyyllee=_S_T_Y_L_E
+       show times using style STYLE:
+              full-iso,  long-iso,  iso,  +FORMAT  FORMAT
+              is interpreted like `date'
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       SIZE may be (or may be an integer optionally followed
+       by) one  of  fol‐ lowing: kB 1000, K 1024, MB
+       1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.
+
+PPAATTTTEERRNNSS
+       PATTERN is a shell pattern (not a regular expression).
+       The  pattern  ??  matches  any  one  character,
+       whereas ** matches any string (composed of zero,
+       one or multiple characters).  For example,  **..oo
+       will  match  any files whose names end in ..oo.
+       Therefore, the command
+
+              dduu
+              ----eexxcclluuddee==''**..oo''
+
+       will skip all files and subdirectories ending in ..oo
+       (including the file ..oo itself).
+
+AAUUTTHHOORR
+       Written by Torbjorn Granlund, David MacKenzie,  Paul
+       Eggert,  and  Jim Meyering.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This  is  free  software.   You may redistribute
+       copies of it under the terms      of      the
+       GNU      General       Public       License
+       <http://www.gnu.org/licenses/gpl.html>.   There  is
+       NO WARRANTY, to the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The full documentation for dduu is maintained as a
+       Texinfo  manual.   If the  iinnffoo and dduu
+       programs are properly installed at your site, the
+       com‐ mand
+
+              iinnffoo dduu
+
+       should give you access to the complete manual.
+
+
+
+du 6.7                           December 2006
+DU(1)

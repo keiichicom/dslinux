@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios
+END
+SDL_xbios_centscreen.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_centscreen.c
+END
+SDL_xbios_tveille.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_tveille.h
+END
+SDL_xbios_sb3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_sb3.h
+END
+SDL_xbios_blowup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_blowup.h
+END
+SDL_xbios_centscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_centscreen.h
+END
+SDL_xbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios.c
+END
+SDL_xbios_tveille.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_tveille.c
+END
+SDL_xbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios.h
+END
+SDL_xbios_sb3.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_sb3.c
+END
+SDL_xbios_blowup.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/video/xbios/SDL_xbios_blowup.c
+END

@@ -1,0 +1,36 @@
+control.o: control.c ../include/config.h ../include/driver.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/mixer.h
+info.o: info.c ../include/config.h ../include/driver.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+ipc.o: ipc.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+readdata.o: readdata.c ../include/config.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h
+load.o: load.c ../include/config.h ../include/driver.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/convert.h ../include/driver.h ../include/loader.h \
+  ../include/list.h ../prowizard/prowiz.h ../include/list.h \
+  ../include/xmpi.h
+ppdepack.o: ppdepack.c ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+unsqsh.o: unsqsh.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+crc32.o: crc32.c ../include/config.h
+mmcmp.o: mmcmp.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+readrle.o: readrle.c ../include/readrle.h
+readhuff.o: readhuff.c ../include/readrle.h ../include/readhuff.h
+readlzw.o: readlzw.c ../include/config.h ../include/readrle.h \
+  ../include/xmpi.h ../include/xmp.h ../include/xxm.h ../include/list.h \
+  ../include/readlzw.h
+unarc.o: unarc.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/readrle.h \
+  ../include/readhuff.h ../include/readlzw.h
+arcfs.o: arcfs.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/readrle.h \
+  ../include/readhuff.h ../include/readlzw.h
+oxm.o: oxm.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h
+mkstemp.o: mkstemp.c
+xfd.o: xfd.c

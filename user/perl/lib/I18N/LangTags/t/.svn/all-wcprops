@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t
+END
+50_super.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/50_super.t
+END
+55_supers_strict.t
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/55_supers_strict.t
+END
+20_locales.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/20_locales.t
+END
+80_all_env.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/80_all_env.t
+END
+05_main.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/05_main.t
+END
+07_listy.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/07_listy.t
+END
+01_about_verbose.t
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/01_about_verbose.t
+END
+10_http.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/lib/I18N/LangTags/t/10_http.t
+END

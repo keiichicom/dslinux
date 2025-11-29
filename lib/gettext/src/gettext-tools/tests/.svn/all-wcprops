@@ -1,0 +1,2069 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests
+END
+msgfilter-sr-latin-1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfilter-sr-latin-1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/Makefile.in
+END
+msgfmt-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-properties-1
+END
+xgettext-po-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-po-1
+END
+gettext-3-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-3-prg.c
+END
+lang-bash
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-bash
+END
+lang-objc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-objc
+END
+qttest_pl.po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/qttest_pl.po
+END
+format-perl-brace-1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-brace-1
+END
+mex-test2.ok
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mex-test2.ok
+END
+tstgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/tstgettext.c
+END
+format-perl-brace-2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-brace-2
+END
+lang-tcl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-tcl
+END
+msggrep-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-1
+END
+msggrep-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-2
+END
+msggrep-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-3
+END
+msggrep-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-4
+END
+msggrep-5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-5
+END
+msggrep-6
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-6
+END
+msgen-1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgen-1
+END
+msggrep-7
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-7
+END
+msgen-2
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgen-2
+END
+msggrep-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msggrep-8
+END
+msgen-3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgen-3
+END
+msgfmt-10
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-10
+END
+msgfmt-11
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-11
+END
+msgfmt-qt-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-qt-1
+END
+msgfmt-12
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-12
+END
+msgfmt-qt-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-qt-2
+END
+msgfmt-13
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-13
+END
+msgfmt-14
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-14
+END
+format-ycp-1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-ycp-1
+END
+msgfmt-15
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-15
+END
+format-ycp-2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-ycp-2
+END
+msgfmt-16
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-16
+END
+msgmerge-10
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-10
+END
+msgcmp-1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcmp-1
+END
+msgattrib-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-properties-1
+END
+msgmerge-11
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-11
+END
+msgcmp-2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcmp-2
+END
+msgmerge-12
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-12
+END
+msgcmp-3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcmp-3
+END
+recode-sr-latin-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/recode-sr-latin-1
+END
+xgettext-stringtable-1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-stringtable-1
+END
+msgmerge-13
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-13
+END
+msgcmp-4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcmp-4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/ChangeLog
+END
+recode-sr-latin-2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/recode-sr-latin-2
+END
+msgmerge-14
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-14
+END
+msgmerge-15
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-15
+END
+msgmerge-16
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-16
+END
+msgattrib-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-1
+END
+msgmerge-17
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-17
+END
+msgattrib-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-2
+END
+qttest_pl.qm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/qttest_pl.qm
+END
+msgmerge-18
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-18
+END
+msgattrib-3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-3
+END
+msgcat-10
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-10
+END
+msgmerge-19
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-19
+END
+msgattrib-4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-4
+END
+msgcat-11
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-11
+END
+msgattrib-5
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-5
+END
+msgcat-12
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-12
+END
+msgattrib-6
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-6
+END
+msgcat-13
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-13
+END
+msgattrib-7
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-7
+END
+msgcat-14
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-14
+END
+msgattrib-8
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-8
+END
+msgcat-15
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-15
+END
+msgattrib-9
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-9
+END
+msgcat-16
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-16
+END
+lang-perl-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-perl-1
+END
+xgettext-lisp-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-lisp-1
+END
+lang-perl-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-perl-2
+END
+lang-c++
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-c++
+END
+xgettext-java-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-java-1
+END
+xgettext-java-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-java-2
+END
+xgettext-java-3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-java-3
+END
+xgettext-java-4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-java-4
+END
+plural-1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/plural-1
+END
+xgettext-java-5
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-java-5
+END
+gettext-6-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-6-prg.c
+END
+plural-2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/plural-2
+END
+msgcomm-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-1
+END
+msgcomm-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-2
+END
+msgcomm-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-3
+END
+msgcomm-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-4
+END
+msgcomm-5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-5
+END
+format-csharp-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-csharp-1
+END
+msgcomm-6
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-6
+END
+format-csharp-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-csharp-2
+END
+msgcomm-7
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-7
+END
+format-awk-1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-awk-1
+END
+msgcomm-8
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-8
+END
+format-awk-2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-awk-2
+END
+msgcomm-9
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-9
+END
+xgettext-scheme-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-scheme-1
+END
+xgettext-scheme-2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-scheme-2
+END
+msgcomm-10
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-10
+END
+msgcomm-11
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-11
+END
+msgcomm-12
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-12
+END
+msgcomm-13
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-13
+END
+msgcomm-14
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-14
+END
+xgettext-glade-1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-glade-1
+END
+msgcomm-15
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-15
+END
+xgettext-glade-2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-glade-2
+END
+msgcomm-16
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-16
+END
+xgettext-glade-3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-glade-3
+END
+msgcomm-17
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-17
+END
+msgcomm-18
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-18
+END
+msgcomm-19
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-19
+END
+xgettext-python-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-python-1
+END
+xgettext-python-2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-python-2
+END
+lang-elisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-elisp
+END
+xgettext-python-3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-python-3
+END
+msguniq-a.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-a.in
+END
+lang-gawk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-gawk
+END
+msgunfmt-tcl-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-tcl-1
+END
+msgcomm-20
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-20
+END
+format-c-5-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-5-prg.c
+END
+msgcomm-21
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-21
+END
+msgcomm-22
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-22
+END
+msgcomm-23
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-23
+END
+msgcomm-24
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-24
+END
+msgcomm-25
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-25
+END
+msgcomm-26
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcomm-26
+END
+msgexec-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgexec-1
+END
+test.mo
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/test.mo
+END
+msgexec-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgexec-2
+END
+msgexec-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgexec-3
+END
+format-lisp-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-lisp-1
+END
+msgexec-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgexec-4
+END
+format-lisp-2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-lisp-2
+END
+lang-python-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-python-1
+END
+lang-python-2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-python-2
+END
+format-librep-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-librep-1
+END
+lang-c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-c
+END
+format-librep-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-librep-2
+END
+xgettext-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-properties-1
+END
+format-java-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-java-1
+END
+gettext-7.po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-7.po
+END
+format-tcl-1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-tcl-1
+END
+format-java-2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-java-2
+END
+format-tcl-2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-tcl-2
+END
+xgettext-1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-1
+END
+xgettext-2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-2
+END
+msgcat-1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-1
+END
+xgettext-3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-3
+END
+msgcat-2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-2
+END
+xgettext-4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-4
+END
+mm-ko-comp.euc-kr.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-ko-comp.euc-kr.po
+END
+msgcat-3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-3
+END
+xgettext-5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-5
+END
+msgcat-4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-4
+END
+xgettext-6
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-6
+END
+msgcat-5
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-5
+END
+xgettext-7
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-7
+END
+msguniq-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-1
+END
+msgcat-6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-6
+END
+xgettext-8
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-8
+END
+msguniq-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-2
+END
+msgcat-7
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-7
+END
+xgettext-9
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-9
+END
+msguniq-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-3
+END
+msgcat-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-8
+END
+msguniq-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-4
+END
+msgcat-9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-9
+END
+msguniq-5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-5
+END
+msguniq-6
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-6
+END
+format-pascal-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-pascal-1
+END
+format-pascal-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-pascal-2
+END
+msgfmt-1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-1
+END
+msgfmt-2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-2
+END
+lang-librep
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-librep
+END
+msgfmt-3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-3
+END
+lang-po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-po
+END
+msgfmt-4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-4
+END
+format-sh-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-sh-1
+END
+msgfmt-5
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-5
+END
+format-sh-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-sh-2
+END
+xgettext-php-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-php-1
+END
+msgfmt-6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-6
+END
+xgettext-php-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-php-2
+END
+msgfmt-7
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-7
+END
+msgfmt-8
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-8
+END
+msgfmt-9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfmt-9
+END
+msgunfmt-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-properties-1
+END
+msgfilter-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfilter-1
+END
+format-perl-mixed-1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-mixed-1
+END
+msgfilter-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfilter-2
+END
+format-perl-mixed-2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-mixed-2
+END
+msgfilter-3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfilter-3
+END
+gettext-4-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-4-prg.c
+END
+msgfilter-4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgfilter-4
+END
+msgmerge-compendium-1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-1
+END
+msgmerge-compendium-2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-2
+END
+lang-smalltalk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-smalltalk
+END
+msgmerge-compendium-3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-3
+END
+msgmerge-compendium-4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-4
+END
+msgmerge-compendium-5
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-5
+END
+msgmerge-compendium-6
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-compendium-6
+END
+format-boost-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-boost-1
+END
+xgettext-c-10
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-10
+END
+format-boost-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-boost-2
+END
+xgettext-c-11
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-11
+END
+xgettext-c-12
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-12
+END
+xgettext-c-13
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-13
+END
+xgettext-c-14
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-14
+END
+mm-viet.pot
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-viet.pot
+END
+xgettext-c-15
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-15
+END
+gettext-6-1.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-6-1.po
+END
+format-qt-1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-qt-1
+END
+format-qt-2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-qt-2
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/Makefile.am
+END
+msgconv-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-1
+END
+msgconv-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-2
+END
+msgconv-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-3
+END
+msgconv-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-4
+END
+msgconv-5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-5
+END
+msgconv-6
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgconv-6
+END
+format-c-3-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-3-prg.c
+END
+xgettext-csharp-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-csharp-1
+END
+lang-sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-sh
+END
+xgettext-csharp-2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-csharp-2
+END
+xgettext-csharp-3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-csharp-3
+END
+xgettext-csharp-4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-csharp-4
+END
+xgettext-csharp-5
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-csharp-5
+END
+gettext-3-1.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-3-1.po
+END
+gettext-7-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-7-prg.c
+END
+msgcat-stringtable-1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-stringtable-1
+END
+format-elisp-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-elisp-1
+END
+format-elisp-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-elisp-2
+END
+mm-ko.ascii.pot
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-ko.ascii.pot
+END
+msgunfmt-csharp-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-csharp-1
+END
+lang-pascal
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-pascal
+END
+xgettext-librep-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-librep-1
+END
+xgettext-smalltalk-1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-smalltalk-1
+END
+msgunfmt-1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-1
+END
+msgmerge-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-properties-1
+END
+msgunfmt-2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-2
+END
+msgmerge-properties-2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-properties-2
+END
+gettext-6-2.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-6-2.po
+END
+xgettext-ycp-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-ycp-1
+END
+xgettext-ycp-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-ycp-2
+END
+xgettext-ycp-3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-ycp-3
+END
+msgcat-properties-1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-properties-1
+END
+format-c-1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-1
+END
+msgcat-properties-2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgcat-properties-2
+END
+format-c-2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-2
+END
+format-c-3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-3
+END
+format-c-4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-4
+END
+format-c-5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-5
+END
+lang-ycp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-ycp
+END
+xgettext-perl-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-1
+END
+xgettext-perl-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-2
+END
+xgettext-perl-3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-3
+END
+xgettext-perl-4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-4
+END
+tstngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/tstngettext.c
+END
+xgettext-perl-5
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-5
+END
+xgettext-perl-6
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-perl-6
+END
+gettext-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-1
+END
+mm-ko.euc-kr.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-ko.euc-kr.po
+END
+xgettext-sh-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-sh-1
+END
+gettext-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-2
+END
+xgettext-sh-2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-sh-2
+END
+gettext-3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-3
+END
+mm-viet.out
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-viet.out
+END
+xgettext-elisp-1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-elisp-1
+END
+xgettext-sh-3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-sh-3
+END
+gettext-4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-4
+END
+xgettext-sh-4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-sh-4
+END
+gettext-5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-5
+END
+xgettext-sh-5
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-sh-5
+END
+gettext-6
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-6
+END
+gettext-7
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-7
+END
+lang-clisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-clisp
+END
+qttest2_de.po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/qttest2_de.po
+END
+gettext-3-2.po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-3-2.po
+END
+lang-java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-java
+END
+gettext-4.po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-4.po
+END
+msgattrib-10
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-10
+END
+format-php-1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-php-1
+END
+msgattrib-11
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-11
+END
+format-php-2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-php-2
+END
+msgattrib-12
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-12
+END
+msgunfmt-java-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgunfmt-java-1
+END
+msgattrib-13
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-13
+END
+msgattrib-14
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-14
+END
+msgattrib-15
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-15
+END
+msgattrib-16
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-16
+END
+msgattrib-17
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgattrib-17
+END
+xg-c-1.ok.po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xg-c-1.ok.po
+END
+msguniq-a.inp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-a.inp
+END
+mm-viet.comp.po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/mm-viet.comp.po
+END
+qttest2_de.qm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/qttest2_de.qm
+END
+xgettext-awk-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-awk-1
+END
+xgettext-c-1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-1
+END
+xgettext-c-2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-2
+END
+xgettext-c-3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-3
+END
+gettext-5-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-5-prg.c
+END
+xgettext-c-4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-4
+END
+xgettext-c-5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-5
+END
+xgettext-c-6
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-6
+END
+xgettext-c-7
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-7
+END
+xgettext-c-8
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-8
+END
+xgettext-c-9
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-c-9
+END
+msgmerge-1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-1
+END
+msgmerge-2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-2
+END
+msgmerge-3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-3
+END
+msgmerge-4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-4
+END
+msgmerge-5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-5
+END
+msgmerge-6
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-6
+END
+msgmerge-7
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-7
+END
+msgmerge-8
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-8
+END
+msgmerge-9
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-9
+END
+format-perl-1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-1
+END
+format-perl-2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-perl-2
+END
+lang-rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-rst
+END
+format-scheme-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-scheme-1
+END
+format-scheme-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-scheme-2
+END
+format-gcc-internal-1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-gcc-internal-1
+END
+format-gcc-internal-2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-gcc-internal-2
+END
+lang-csharp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-csharp
+END
+plural-1-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/plural-1-prg.c
+END
+format-python-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-python-1
+END
+format-python-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-python-2
+END
+lang-php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-php
+END
+format-c-4-prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/format-c-4-prg.c
+END
+testlocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/testlocale.c
+END
+msgmerge-update-1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-update-1
+END
+msgmerge-update-2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-update-2
+END
+ChangeLog.0
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/ChangeLog.0
+END
+msgmerge-update-3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msgmerge-update-3
+END
+xgettext-tcl-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-tcl-1
+END
+xgettext-tcl-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-tcl-2
+END
+setlocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/setlocale.c
+END
+gettext-5.po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/gettext-5.po
+END
+msginit-1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msginit-1
+END
+msginit-2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msginit-2
+END
+lang-guile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/lang-guile
+END
+xgettext-objc-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-objc-1
+END
+xgettext-objc-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/xgettext-objc-2
+END
+qttest2_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/qttest2_de.ts
+END
+msguniq-a.out
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/tests/msguniq-a.out
+END

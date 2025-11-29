@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/Changes
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/typemap
+END
+myea.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/myea.h
+END
+ExtAttr.xs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/ExtAttr.xs
+END
+ExtAttr.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/ExtAttr.pm
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/MANIFEST
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/os2/OS2/ExtAttr/Makefile.PL
+END

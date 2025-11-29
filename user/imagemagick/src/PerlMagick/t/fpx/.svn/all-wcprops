@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx
+END
+input_jpeg.fpx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/input_jpeg.fpx
+END
+input_bw.fpx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/input_bw.fpx
+END
+input_grayscale.fpx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/input_grayscale.fpx
+END
+input_256.fpx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/input_256.fpx
+END
+input_truecolor.fpx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/input_truecolor.fpx
+END
+write.t
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/write.t
+END
+read.t
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/PerlMagick/t/fpx/read.t
+END

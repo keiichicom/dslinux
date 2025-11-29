@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include
+END
+SDL_getenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_getenv.h
+END
+SDL_config_os2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_os2.h
+END
+SDL_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_error.h
+END
+close_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/close_code.h
+END
+SDL_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_endian.h
+END
+SDL_joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_joystick.h
+END
+SDL_keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_keyboard.h
+END
+SDL_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_audio.h
+END
+SDL_cpuinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_cpuinfo.h
+END
+SDL_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config.h
+END
+SDL_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_video.h
+END
+SDL_config_nds.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_nds.h
+END
+SDL_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config.h.in
+END
+SDL_rwops.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_rwops.h
+END
+SDL_config_minimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_minimal.h
+END
+SDL_name.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_name.h
+END
+SDL_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_timer.h
+END
+SDL_loadso.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_loadso.h
+END
+SDL_keysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_keysym.h
+END
+SDL_quit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_quit.h
+END
+SDL_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_platform.h
+END
+SDL_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_version.h
+END
+SDL_config_macos.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_macos.h
+END
+SDL_mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_mouse.h
+END
+SDL_config.h.default
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config.h.default
+END
+SDL_config_dreamcast.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_dreamcast.h
+END
+SDL_byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_byteorder.h
+END
+SDL_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_mutex.h
+END
+SDL_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_events.h
+END
+SDL_cdrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_cdrom.h
+END
+SDL_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_types.h
+END
+SDL_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_thread.h
+END
+SDL_copying.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_copying.h
+END
+SDL_active.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_active.h
+END
+begin_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/begin_code.h
+END
+SDL_config_macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_macosx.h
+END
+SDL.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL.h
+END
+SDL_syswm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_syswm.h
+END
+SDL_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_opengl.h
+END
+SDL_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_main.h
+END
+SDL_stdinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_stdinc.h
+END
+SDL_config_symbian.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_symbian.h
+END
+SDL_config_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/sdl/src/include/SDL_config_win32.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/gzip
+END
+gzip-accepts-multiple-files
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/gzip/gzip-accepts-multiple-files
+END
+gzip-removes-original-file
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/gzip/gzip-removes-original-file
+END
+gzip-accepts-single-minus
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/gzip/gzip-accepts-single-minus
+END

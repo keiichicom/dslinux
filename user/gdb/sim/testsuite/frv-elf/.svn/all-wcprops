@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/configure.ac
+END
+grloop.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/grloop.s
+END
+cache.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/cache.s
+END
+hello.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/hello.s
+END
+exit47.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/exit47.s
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/ChangeLog
+END
+loop.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/gdb/sim/testsuite/frv-elf/loop.s
+END

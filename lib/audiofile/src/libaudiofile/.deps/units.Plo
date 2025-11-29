@@ -1,0 +1,128 @@
+units.lo units.o: units.c ../config.h audiofile.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h aupvlist.h \
+  afinternal.h /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h af_vfs.h error.h \
+  units.h raw.h aiff.h /home/andrewec/dslinux/uClibc/include/inttypes.h \
+  /home/andrewec/dslinux/uClibc/include/stdint.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h next.h wave.h \
+  ircam.h avr.h iff.h nist.h compression.h modules/pcm.h audiofile.h \
+  afinternal.h compression.h modules.h audiofile.h afinternal.h \
+  modules/g711.h modules/ima.h modules/msadpcm.h
+
+../config.h:
+
+audiofile.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/types.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/time.h:
+
+/home/andrewec/dslinux/uClibc/include/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigset.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/time.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/sysmacros.h:
+
+aupvlist.h:
+
+afinternal.h:
+
+/home/andrewec/dslinux/uClibc/include/stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h:
+
+af_vfs.h:
+
+error.h:
+
+units.h:
+
+raw.h:
+
+aiff.h:
+
+/home/andrewec/dslinux/uClibc/include/inttypes.h:
+
+/home/andrewec/dslinux/uClibc/include/stdint.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/wordsize.h:
+
+next.h:
+
+wave.h:
+
+ircam.h:
+
+avr.h:
+
+iff.h:
+
+nist.h:
+
+compression.h:
+
+modules/pcm.h:
+
+audiofile.h:
+
+afinternal.h:
+
+compression.h:
+
+modules.h:
+
+audiofile.h:
+
+afinternal.h:
+
+modules/g711.h:
+
+modules/ima.h:
+
+modules/msadpcm.h:

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/nametab.h
+END
+xmltok.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmltok.c
+END
+xmltok_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmltok_ns.c
+END
+xmlrole.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmlrole.c
+END
+utf8tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/utf8tab.h
+END
+xmltok.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmltok.h
+END
+xmldef.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmldef.h
+END
+latin1tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/latin1tab.h
+END
+asciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/asciitab.h
+END
+xmlrole.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmlrole.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/Makefile
+END
+iasciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/iasciitab.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/ascii.h
+END
+xmltok_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmltok_impl.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/Makefile.in
+END
+xmltok_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/modules/expat/xmltok/xmltok_impl.h
+END

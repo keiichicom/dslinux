@@ -1,0 +1,632 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:591: checking for a BSD compatible install
+configure:644: checking whether build environment is sane
+configure:701: checking whether make sets ${MAKE}
+configure:747: checking for working aclocal
+configure:760: checking for working autoconf
+configure:773: checking for working automake
+configure:786: checking for working autoheader
+configure:799: checking for working makeinfo
+configure:826: checking for gcc
+configure:939: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) works
+configure:955: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:952: warning: return type defaults to 'int'
+No relocations in code!
+configure:981: checking whether the C compiler (ucfront-gcc arm-linux-elf-gcc  -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes) is a cross-compiler
+configure:986: checking whether we are using GNU C
+configure:995: ucfront-gcc arm-linux-elf-gcc  -E conftest.c
+configure:1014: checking whether ucfront-gcc arm-linux-elf-gcc  accepts -g
+configure:1057: checking how to run the C preprocessor
+configure:1078: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1137: checking for ANSI C header files
+configure:1150: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1242: checking whether ucfront-gcc arm-linux-elf-gcc  needs -traditional
+configure:1291: checking for EMX
+configure:1305: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:1300: error: 'kill' undeclared (first use in this function)
+configure:1300: error: (Each undeclared identifier is reported only once
+configure:1300: error: for each function it appears in.)
+configure:1300: error: syntax error before 'me'
+configure: failed program was:
+#line 1296 "configure"
+#include "confdefs.h"
+
+int main() {
+#ifndef __EMX__
+	kill me!
+	#endif 
+; return 0; }
+configure:1322: checking for typeof
+configure:1335: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:1331: warning: unused variable 'b'
+configure:1355: checking for long long
+configure:1367: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:1363: warning: unused variable 'a'
+configure:1391: checking for dirent.h that defines DIR
+configure:1404: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:1400: warning: unused variable 'dirp'
+configure:1429: checking for opendir in -ldir
+configure:1448: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -ldir   1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -ldir
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 1437 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char opendir();
+
+int main() {
+opendir()
+; return 0; }
+configure:1512: checking for sys/wait.h that is POSIX.1 compatible
+configure:1533: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure:1557: checking for fcntl.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for limits.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for sys/ioctl.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for sys/time.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for time.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for unistd.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for math.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1557: checking for ieee.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1563:18: error: ieee.h: No such file or directory
+configure: failed program was:
+#line 1562 "configure"
+#include "confdefs.h"
+#include <ieee.h>
+configure:1557: checking for endian.h
+configure:1567: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1597: checking for values.h
+configure:1607: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1637: checking for sigaction.h
+configure:1647: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1643:23: error: sigaction.h: No such file or directory
+configure: failed program was:
+#line 1642 "configure"
+#include "confdefs.h"
+#include <sigaction.h>
+configure:1677: checking for netinet/in_systm.h
+configure:1687: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1717: checking for netinet/in_system.h
+configure:1727: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1723:31: error: netinet/in_system.h: No such file or directory
+configure: failed program was:
+#line 1722 "configure"
+#include "confdefs.h"
+#include <netinet/in_system.h>
+configure:1757: checking for netinet/ip.h
+configure:1767: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1797: checking for netinet/dhcp.h
+configure:1807: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1803:26: error: netinet/dhcp.h: No such file or directory
+configure: failed program was:
+#line 1802 "configure"
+#include "confdefs.h"
+#include <netinet/dhcp.h>
+configure:1837: checking for sys/select.h
+configure:1847: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1877: checking for sys/resource.h
+configure:1887: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1917: checking for sys/utsname.h
+configure:1927: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1957: checking for sys/un.h
+configure:1967: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:1997: checking for sys/fmutex.h
+configure:2007: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2003:24: error: sys/fmutex.h: No such file or directory
+configure: failed program was:
+#line 2002 "configure"
+#include "confdefs.h"
+#include <sys/fmutex.h>
+configure:2037: checking for sys/cygwin.h
+configure:2047: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2043:24: error: sys/cygwin.h: No such file or directory
+configure: failed program was:
+#line 2042 "configure"
+#include "confdefs.h"
+#include <sys/cygwin.h>
+configure:2077: checking for io.h
+configure:2087: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2083:16: error: io.h: No such file or directory
+configure: failed program was:
+#line 2082 "configure"
+#include "confdefs.h"
+#include <io.h>
+configure:2117: checking for setjmp.h
+configure:2127: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2157: checking for langinfo.h
+configure:2167: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2197: checking for md5.h
+configure:2207: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:2235: checking for working const
+configure:2289: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:2263: warning: unused variable 's'
+configure:2283: warning: unused variable 'foo'
+configure:2251: warning: unused variable 'zero'
+configure:2245: warning: unused variable 'x'
+configure:2265: warning: 't' is used uninitialized in this function
+configure:2280: warning: 'b' is used uninitialized in this function
+configure:2310: checking for inline
+configure:2324: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure:2320: warning: return type defaults to 'int'
+configure: In function 'main':
+configure:2320: warning: control reaches end of non-void function
+configure:2350: checking for size_t
+configure:2383: checking for socklen_t
+configure:2403: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:2395: warning: 'main' is normally a non-static function
+configure:2425: checking whether time.h and sys/time.h may both be included
+configure:2439: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:2435: warning: unused variable 'tp'
+configure:2460: checking whether struct tm is in sys/time.h or time.h
+configure:2473: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:2469: warning: statement with no effect
+configure:2503: checking size of short
+configure:2542: checking size of unsigned short
+configure:2581: checking size of int
+configure:2620: checking size of unsigned
+configure:2659: checking size of long
+configure:2698: checking size of unsigned long
+configure:2737: checking for big endian
+configure:2774: checking for little endian
+configure:2825: checking if rename can replace existing files
+configure:2877: checking for 8-bit clean memcmp
+configure:2913: checking return type of signal handlers
+configure:2935: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+configure: In function 'main':
+configure:2931: warning: unused variable 'i'
+configure:2954: checking for strftime
+configure:2982: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3050: checking for vprintf
+configure:3078: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3157: checking for calloc
+configure:3185: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3212: checking for snprintf
+configure:3240: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3267: checking for memmove
+configure:3295: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3322: checking for raise
+configure:3350: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for gettimeofday
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for mkdir
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for select
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strcspn
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strerror
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strstr
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strtol
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strtoul
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strtoq
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for strtoll
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3377: checking for chmod
+configure:3405: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3432: checking for getpid
+configure:3460: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3432: checking for setpgid
+configure:3460: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3487: checking for popen
+configure:3515: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3542: checking for uname
+configure:3570: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3597: checking for getpagesize
+configure:3625: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3652: checking for tempnam
+configure:3680: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3707: checking for strptime
+configure:3735: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+configure:3762: checking for setlocale
+configure:3790: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3817: checking for nl_langinfo
+configure:3845: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3871: checking for sigsetjmp/siglongjmp
+configure:3883: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c  1>&5
+No relocations in code!
+configure:3912: checking for atan in -lm
+configure:3931: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm   1>&5
+No relocations in code!
+configure:3960: checking for MD5Data in -lmd
+configure:3979: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lmd  -lm  1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -lmd
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 3968 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char MD5Data();
+
+int main() {
+MD5Data()
+; return 0; }
+configure:4009: checking for MD5Init
+configure:4037: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:4031: undefined reference to `MD5Init'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4014 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char MD5Init(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char MD5Init();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_MD5Init) || defined (__stub___MD5Init)
+choke me
+#else
+MD5Init();
+#endif
+
+; return 0; }
+configure:4009: checking for MD5Data
+configure:4037: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:4031: undefined reference to `MD5Data'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4014 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char MD5Data(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char MD5Data();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_MD5Data) || defined (__stub___MD5Data)
+choke me
+#else
+MD5Data();
+#endif
+
+; return 0; }
+configure:4063: checking for socket
+configure:4091: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+No relocations in code!
+configure:4164: checking for setsockopt
+configure:4192: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+No relocations in code!
+configure:4266: checking for gethostbyname
+configure:4294: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+configure:4416: checking for gethostbyaddr
+configure:4444: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+configure:4467: checking for dhcp_option
+configure:4495: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:4489: undefined reference to `dhcp_option'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4472 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char dhcp_option(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char dhcp_option();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_dhcp_option) || defined (__stub___dhcp_option)
+choke me
+#else
+dhcp_option();
+#endif
+
+; return 0; }
+configure:4519: checking for herror
+configure:4547: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+configure:4570: checking for cfmakeraw
+configure:4598: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+No relocations in code!
+configure:4624: checking for cygwin_conv_to_full_win32_path
+configure:4652: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:4646: undefined reference to `cygwin_conv_to_full_win32_path'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 4629 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char cygwin_conv_to_full_win32_path(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char cygwin_conv_to_full_win32_path();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_cygwin_conv_to_full_win32_path) || defined (__stub___cygwin_conv_to_full_win32_path)
+choke me
+#else
+cygwin_conv_to_full_win32_path();
+#endif
+
+; return 0; }
+configure:4678: checking for requested debug level
+configure:4699: checking if you want to enable javascript
+configure:5027: checking if you want to use graphics
+configure:5045: checking for Gpm_Open in -lgpm
+configure:5064: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm  -lm  1>&5
+configure:5096: checking for gpm.h
+configure:5106: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5139: checking for OS/2 threads
+configure:5153: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign -Zmt  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lm  1>&5
+arm-linux-elf-gcc: unrecognized option '-Zmt'
+configure: In function 'main':
+configure:5149: warning: implicit declaration of function '_beginthread'
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:5149: undefined reference to `_beginthread'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5146 "configure"
+#include "confdefs.h"
+#include <stdlib.h>
+int main() {
+_beginthread(NULL, NULL, 0, NULL)
+; return 0; }
+configure:5188: checking for atheos/threads.h
+configure:5198: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5194:28: error: atheos/threads.h: No such file or directory
+configure: failed program was:
+#line 5193 "configure"
+#include "confdefs.h"
+#include <atheos/threads.h>
+configure:5227: checking for spawn_thread
+configure:5255: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:5249: undefined reference to `spawn_thread'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5232 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char spawn_thread(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char spawn_thread();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_spawn_thread) || defined (__stub___spawn_thread)
+choke me
+#else
+spawn_thread();
+#endif
+
+; return 0; }
+configure:5282: checking for resume_thread
+configure:5310: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:5304: undefined reference to `resume_thread'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5287 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char resume_thread(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char resume_thread();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_resume_thread) || defined (__stub___resume_thread)
+choke me
+#else
+resume_thread();
+#endif
+
+; return 0; }
+configure:5336: checking for MouOpen
+configure:5364: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:5358: undefined reference to `MouOpen'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5341 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char MouOpen(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char MouOpen();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_MouOpen) || defined (__stub___MouOpen)
+choke me
+#else
+MouOpen();
+#endif
+
+; return 0; }
+configure:5387: checking for _read_kbd
+configure:5415: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lgpm -lm  1>&5
+conftest.elf2flt: In function `main':
+/home/andrewec/dslinux/user/links/src/configure:5409: undefined reference to `_read_kbd'
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5392 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char _read_kbd(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char _read_kbd();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub__read_kbd) || defined (__stub____read_kbd)
+choke me
+#else
+_read_kbd();
+#endif
+
+; return 0; }
+configure:5439: checking for XFree for OS/2
+configure:5505: checking for dlopen in -ldl
+configure:5524: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -ldl  -lgpm -lm  1>&5
+/usr/local/dslinux-toolchain-2008-01-24-i686/bin/../lib/gcc/arm-linux-elf/4.0.4/../../../../arm-linux-elf/bin/ld.real: cannot find -ldl
+collect2: ld returned 1 exit status
+configure: failed program was:
+#line 5513 "configure"
+#include "confdefs.h"
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char dlopen();
+
+int main() {
+dlopen()
+; return 0; }
+configure:5697: checking for OpenSSL
+configure:5714: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lssl -lcrypto -lgpm -lm  1>&5
+configure:5863: checking for linux/fb.h
+configure:5873: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5903: checking for linux/kd.h
+configure:5913: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5943: checking for linux/vt.h
+configure:5953: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:5983: checking for sys/mman.h
+configure:5993: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:6967: checking for inflate in -lz
+configure:6986: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lz  -lssl -lcrypto -lgpm -lm  1>&5
+configure:7204: checking for png.h
+configure:7214: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:7204: checking for libpng/png.h
+configure:7214: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:7210:24: error: libpng/png.h: No such file or directory
+configure: failed program was:
+#line 7209 "configure"
+#include "confdefs.h"
+#include <libpng/png.h>
+configure:7241: checking for png_create_info_struct in -lpng
+configure:7260: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng  -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7294: checking for png_set_rgb_to_gray
+configure:7322: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_image_width
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_image_height
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_gAMA
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_color_type
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_bit_depth
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_set_strip_alpha
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_valid
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7349: checking for png_get_sRGB
+configure:7377: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5
+configure:7414: checking if you can include both setjmp.h and png.h
+configure:7427: ucfront-gcc arm-linux-elf-gcc  -c -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  conftest.c 1>&5
+In file included from /home/andrewec/dslinux/include/png.h:305,
+                 from configure:7421:
+/home/andrewec/dslinux/include/pngconf.h:246: error: syntax error before '.' token
+configure: In function 'main':
+configure:7423: warning: unused variable 'bla'
+configure: failed program was:
+#line 7419 "configure"
+#include "confdefs.h"
+#include <setjmp.h>
+		#include <png.h>
+int main() {
+jmp_buf bla;
+; return 0; }
+configure:7461: checking for jpeglib.h
+configure:7471: ucfront-gcc arm-linux-elf-gcc  -E  conftest.c >/dev/null 2>conftest.out
+configure:7498: checking for jpeg_destroy_decompress in -ljpeg
+configure:7517: ucfront-gcc arm-linux-elf-gcc  -o conftest -O2 -g -fomit-frame-pointer -fno-common -fno-builtin -Wall  -mswp-byte-writes -DCONFIG_NDS_ROM8BIT -mcpu=arm946e-s -mfpu=fpe3 -DEMBED -D__PIC__ -fpic -msingle-pic-base -Dlinux -D__linux__ -Dunix -D__uClinux__ -Wno-pointer-sign  -Wl,-elf2flt -D__PIC__ -fpic -msingle-pic-base -mswp-byte-writes conftest.c -ljpeg  -lpng -lz -lssl -lcrypto -lgpm -lm  1>&5

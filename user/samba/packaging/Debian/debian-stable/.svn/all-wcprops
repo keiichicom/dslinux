@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable
+END
+swat.config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.config
+END
+smbwrapper.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smbwrapper.dirs
+END
+python2.2-samba.files
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/python2.2-samba.files
+END
+mount.cifs.files
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/mount.cifs.files
+END
+wins2dns.awk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/wins2dns.awk
+END
+config.cache.alpha-linux
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/config.cache.alpha-linux
+END
+README.build-upstream
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/README.build-upstream
+END
+samba-common.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.postinst
+END
+mksmbpasswd.8
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/mksmbpasswd.8
+END
+samba.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.postinst
+END
+config.cache
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/config.cache
+END
+smbwrapper.docs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smbwrapper.docs
+END
+samba-common.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.config
+END
+swat.files
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.files
+END
+smbwrapper.files
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smbwrapper.files
+END
+samba.files
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.files
+END
+libsmbclient-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libsmbclient-dev.files
+END
+samba-common.dhcp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.dhcp
+END
+winbind.lintian
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/winbind.lintian
+END
+samba.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.config
+END
+libpam-smbpass.examples
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libpam-smbpass.examples
+END
+winbind.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/winbind.dirs
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/rules
+END
+winbind.init
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/winbind.init
+END
+swat.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.postinst
+END
+libsmbclient-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libsmbclient-dev.examples
+END
+samba.pamd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.pamd
+END
+samba-doc.examples
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-doc.examples
+END
+smb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smb.conf
+END
+panic-action
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/panic-action
+END
+samba-common.templates
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.templates
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/copyright
+END
+libsmbclient.files
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libsmbclient.files
+END
+smbfs.files
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smbfs.files
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/control
+END
+samba.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.logrotate
+END
+samba.cron.daily
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.cron.daily
+END
+winbind.files
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/winbind.files
+END
+swat.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.postrm
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/TODO
+END
+samba-common.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.dirs
+END
+samba-common.files
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.files
+END
+config.cache.sparc-linux
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/config.cache.sparc-linux
+END
+gdbcommands
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/gdbcommands
+END
+README.debian
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/README.debian
+END
+smbclient.files
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/smbclient.files
+END
+samba.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.dirs
+END
+samba.init
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.init
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/changelog
+END
+winbind.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/winbind.logrotate
+END
+libsmbclient.shlibs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libsmbclient.shlibs
+END
+README.build
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/README.build
+END
+samba-common.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-common.postrm
+END
+libpam-smbpass.docs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libpam-smbpass.docs
+END
+samba.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.postrm
+END
+samba.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.prerm
+END
+samba.docs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.docs
+END
+swat.templates
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.templates
+END
+libpam-smbpass.files
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/libpam-smbpass.files
+END
+mksmbpasswd.awk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/mksmbpasswd.awk
+END
+samba-doc.docs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba-doc.docs
+END
+swat.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/swat.dirs
+END
+samba.templates
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-stable/samba.templates
+END

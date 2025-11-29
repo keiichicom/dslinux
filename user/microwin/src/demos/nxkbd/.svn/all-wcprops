@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd
+END
+keyctrl.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/keyctrl.bmp
+END
+keyshft.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/keyshft.bmp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/Makefile
+END
+nxkbd.syms
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/nxkbd.syms
+END
+keynorm.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/keynorm.bmp
+END
+keynum.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/keynum.bmp
+END
+nxkbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/nxkbd.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/.svnignore
+END
+srvconn.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxkbd/srvconn.c
+END

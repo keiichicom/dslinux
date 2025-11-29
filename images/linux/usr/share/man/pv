@@ -1,0 +1,310 @@
+PV(1)                            User Manuals
+PV(1)
+
+
+
+NNAAMMEE
+       pv - monitor the progress of data through a pipe
+
+SSYYNNOOPPSSIISS
+       ppvv [_O_P_T_I_O_N] [_F_I_L_E]...
+       ppvv [_-_h|_-_V]
+
+
+
+DDEESSCCRRIIPPTTIIOONN
+       ppvv  allows  a  user  to see the progress of data
+       through a pipeline, by giving information such as time
+       elapsed,  percentage  completed  (with progress  bar),
+       current  throughput  rate, total data transferred,
+       and ETA.
+
+       To use it, insert it in a pipeline  between  two
+       processes,  with  the appropriate  options.  Its
+       standard input will be passed through to its standard
+       output and progress will be shown on standard error.
+
+       ppvv will copy each supplied FFIILLEE in turn to
+       standard  output  (--  means standard  input),  or
+       if no FFIILLEEs are specified just standard input
+       is copied. This is the same behaviour as ccaatt(1).
+
+       A simple example to watch how  quickly  a  file  is
+       transferred  using nncc(1):
+
+              ppvv ffiillee || nncc --ww 11
+              ssoommeewwhheerree..ccoomm
+              33000000
+
+       A similar example, transferring a file from another
+       process and passing the expected size to ppvv:
+
+              ccaatt ffiillee || ppvv --ss
+              1122334455 || nncc --ww 11
+              ssoommeewwhheerree..ccoomm
+              33000000
+
+       A more complicated example using numeric output to
+       feed into  the  ddiiaa‐‐ lloogg(1) program
+       for a full-screen progress display:
+
+              ((ttaarr ccff -- .. \\
+               || ppvv --nn --ss ``dduu --ssbb
+               .. || aawwkk ''{{pprriinntt
+               $$11}}''`` \\ || ggzziipp --99 >>
+               oouutt..ttggzz)) 22>>&&11 \\
+              || ddiiaalloogg ----ggaauuggee
+              ''PPrrooggrreessss'' 77 7700
+
+       Frequent  use of this third form is not recommended
+       as it may cause the programmer to overheat.
+
+
+
+OOPPTTIIOONNSS
+       ppvv takes many options, which are divided into
+       display switches,  output modifiers, and general
+       options.
+
+
+
+DDIISSPPLLAAYY SSWWIITTCCHHEESS
+       If  no display switches are specified, ppvv behaves
+       as if --pp, --tt, --ee, --rr, and --bb had
+       been given (i.e. everything is switched on). Otherwise,
+       only those display types that are explicitly switched
+       on will be shown.
+
+       --pp,, ----pprrooggrreessss
+              Turn  the  progress bar on.  If standard input
+              is not a file and no size was given (with the
+              --ss modifier), the progress bar  can‐ not
+              indicate how close to completion the transfer is,
+              so it will just move left and right to indicate
+              that data is moving.
+
+       --tt,, ----ttiimmeerr
+              Turn the timer on.  This will display  the  total
+              elapsed  time that ppvv has been running for.
+
+       --ee,, ----eettaa
+              Turn  the  ETA  timer  on.  This will attempt to
+              guess, based on previous transfer rates and the
+              total data  size,  how  long  it will  be  before
+              completion.  This option will have no effect
+              if the total data size cannot be determined.
+
+       --rr,, ----rraattee
+              Turn the rate counter on.  This will display
+              the current rate of data transfer.
+
+       --bb,, ----bbyytteess
+              Turn  the  total  byte  counter on.  This will
+              display the total amount of data transferred
+              so far.
+
+       --nn,, ----nnuummeerriicc
+              Numeric output.   Instead  of  giving  a  visual
+              indication  of progress,  ppvv  will give an
+              integer percentage, one per line, on standard
+              error, suitable for piping (via convoluted
+              redirection) into  ddiiaalloogg(1).
+              Note  that  --ff is not required if --nn
+              is being used.
+
+       --qq,, ----qquuiieett
+              No output.  Useful if the --LL option is being
+              used on its own  to just limit the transfer
+              rate of a pipe.
+
+
+
+OOUUTTPPUUTT MMOODDIIFFIIEERRSS
+       --WW,, ----wwaaiitt
+              Wait  until  the  first byte has been transferred
+              before showing any progress information or
+              calculating any ETAs.  Useful if the program
+              you  are  piping  to or from requires extra
+              information before it starts, eg piping data
+              into ggppgg(1) or mmccrryypptt(1)
+              which require a passphrase before data can
+              be processed.
+
+       --ss SSIIZZEE,, ----ssiizzee SSIIZZEE
+              Assume  the total amount of data to be
+              transferred is SSIIZZEE bytes when
+              calculating percentages and ETAs.   The  same
+              suffixes  of "k", "m" etc can be used as
+              with --LL.
+
+       --ll,, ----lliinnee--mmooddee
+              Instead of counting bytes, count lines (newline
+              characters). The progress bar will only move when
+              a new line is  found,  and  the value  passed
+              to  the  --ss  option will be interpreted as
+              a line count.
+
+       --ii SSEECC,, ----iinntteerrvvaall
+       SSEECC
+              Wait SSEECC seconds between updates.
+              The  default  is  to  update every second.
+              Note that this can be a decimal such as 0.1.
+
+       --ww WWIIDDTTHH,, ----wwiiddtthh
+       WWIIDDTTHH
+              Assume  the terminal is WWIIDDTTHH
+              characters wide, instead of trying to work it
+              out (or assuming 80 if it cannot be guessed).
+
+       --HH HHEEIIGGHHTT,, ----hheeiigghhtt
+       HHEEIIGGHHTT
+              Assume the terminal is HHEEIIGGHHTT
+              rows high, instead  of  trying  to work it out
+              (or assuming 25 if it cannot be guessed).
+
+       --NN NNAAMMEE,, ----nnaammee NNAAMMEE
+              Prefix  the output information with NNAAMMEE.
+              Useful in conjunction with --cc if you have
+              a complicated pipeline and you  want  to  be
+              able to tell different parts of it apart.
+
+       --ff,, ----ffoorrccee
+              Force  output.   Normally, ppvv will not output
+              any visual display if standard error is not
+              a terminal.  This option forces  it  to do so.
+
+       --cc,, ----ccuurrssoorr
+              Use  cursor  positioning  escape sequences
+              instead of just using carriage returns.
+              This is useful in conjunction with --NN
+              (name) if  you  are  using  multiple  ppvv
+              invocations in a single, long, pipeline.
+
+
+
+DDAATTAA TTRRAANNSSFFEERR
+MMOODDIIFFIIEERRSS
+       --LL RRAATTEE,,
+       ----rraattee--lliimmiitt RRAATTEE
+              Limit the transfer to a maximum of RRAATTEE
+              bytes  per  second.   A suffix of "k", "m",
+              "g", or "t" can be added to denote kilobytes
+              (*1024), megabytes, and so on.
+
+       --BB BBYYTTEESS,,
+       ----bbuuffffeerr--ssiizzee BBYYTTEESS
+              Use a transfer buffer size of BBYYTTEESS
+              bytes.   A  suffix  of  "k", "m",  "g",  or
+              "t"  can  be  added to denote kilobytes (*1024),
+              megabytes, and so on.  The default buffer size is
+              the block size of  the input file's filesystem
+              multiplied by 32 (512kb max), or 400kb if the
+              block size cannot be determined.
+
+       --RR PPIIDD,, ----rreemmoottee PPIIDD
+              If PPIIDD is an instance of ppvv that is
+              already running, --RR PPIIDD will cause
+              that  instance  to  act  as though it had been
+              given this instance's command line instead.
+              For example, if ppvv --LL 112233kk  is
+              running  with  process  ID 9876, then running
+              ppvv --RR 99887766 --LL 332211kk
+              will cause it to start using a rate limit  of
+              321k  instead  of 123k.   Note  that some options
+              cannot be changed while running, such as --cc,
+              --ll, and --ff.
+
+
+
+GGEENNEERRAALL OOPPTTIIOONNSS
+       --hh,, ----hheellpp
+              Print a usage message on standard output and
+              exit successfully.
+
+       --VV,, ----vveerrssiioonn
+              Print version information on standard output
+              and  exit  success‐ fully.
+
+
+
+AAUUTTHHOORRSS
+       Andrew Wood <andrew.wood@ivarch.com>
+       _h_t_t_p_:_/_/_w_w_w_._i_v_a_r_c_h_._c_o_m_/
+
+       Kevin Coyner <kcoyner@debian.org> (Debian package
+       maintainer)
+
+       Jakub Hrozek <jhrozek@redhat.com> (Fedora package
+       maintainer)
+
+       Cedric Delfosse <cedric@debian.org> (previous Debian
+       package maintainer)
+
+       Eduardo Aguiar <eduardo.oliveira@sondabrasil.com.br>
+       (provided Portuguese [Brazilian] translation)
+
+       Stephane Lacasse <tecknojunky@tecknojunky.com>
+       (provided French translation)
+       _h_t_t_p_:_/_/_w_w_w_._t_e_c_k_n_o_j_u_n_k_y_._c_o_m_/
+
+       Marcos Kreinacke <public@kreinacke.com> (provided
+       German translation)
+
+       Bartosz Fenski <fenio@o2.pl> (provided Polish
+       translation, along with Krystian Zubel)
+       _h_t_t_p_:_/_/_s_k_a_w_i_n_a_._e_u_._o_r_g_/
+
+       Joshua Jensen (reported RPM installation bug)
+
+       Boris Folgmann (reported cursor handling bug)
+       _h_t_t_p_:_/_/_w_w_w_._f_o_l_g_m_a_n_n_._c_o_m_/_e_n_/
+
+       Mathias Gumz (reported NLS bug)
+
+       Daniel Roethlisberger (submitted patch to use lockfiles
+       for -c if terminal locking fails)
+
+       Adam Buchbinder (lots of help with a Cygwin port of -c)
+
+       Mark Tomich (suggested -B option)
+       _h_t_t_p_:_/_/_m_e_t_u_c_h_e_n_._d_y_n_d_n_s_._o_r_g
+
+       Gert Menke (reported bug when piping to dd with a
+       large input buffer size)
+
+       Ville Herva <Ville.Herva@iki.fi> (informative bug
+       report about rate limiting performance)
+
+       Elias Pipping (patch to compile properly on Darwin 9)
+
+       Patrick Collison (similar patch for OS X)
+
+       Boris Lohner (reported problem that -L does not complain
+       if given non-numeric value)
+
+       Laszlo Ersek (reported shared
+       memory leak on SIGINT with -c)
+       _h_t_t_p_:_/_/_p_h_p_t_e_s_t_1_1_._a_t_w_._h_u_/
+
+
+
+BBUUGGSS
+       If  you  find  any  bugs,  please contact the primary
+       author, either by email or by using the contact form
+       on the web site.
+
+
+
+SSEEEE AALLSSOO
+       ccaatt(1), ddiiaalloogg(1)
+
+
+
+LLIICCEENNSSEE
+       This is free software, distributed under the ARTISTIC
+       2.0 license.
+
+
+
+Linux                             March 2008
+PV(1)

@@ -1,0 +1,1924 @@
+DIALOG(1)
+DIALOG(1)
+
+
+
+NNAAMMEE
+       dialog - display dialog boxes from shell scripts
+
+SSYYNNOOPPSSIISS
+       ddiiaalloogg ----cclleeaarr
+       ddiiaalloogg ----ccrreeaattee--rrcc
+       _f_i_l_e ddiiaalloogg
+       ----pprriinntt--mmaaxxssiizzee
+       ddiiaalloogg
+       _c_o_m_m_o_n_-_o_p_t_i_o_n_s
+       _b_o_x_-_o_p_t_i_o_n_s
+
+DDEESSCCRRIIPPTTIIOONN
+       DDiiaalloogg is a program that will let you to
+       present a variety of questions or display messages using
+       dialog boxes  from  a  shell  script.   These types
+       of  dialog boxes are implemented (though not all are
+       necessarily compiled into ddiiaalloogg):
+
+              ccaalleennddaarr,
+              cchheecckklliisstt, ffoorrmm,
+              ffsseelleecctt,  ggaauuggee,
+              iinnffoobbooxx,  iinnppuuttbbooxx,
+              iinnppuuttmmeennuu,
+              mmeennuu, mmssggbbooxx (message),
+              ppaasssswwoorrdd, ppaauussee,
+              pprrooggrreessssbbooxx,
+              rraaddiioolliisstt,
+              ttaaiillbbooxx,
+              ttaaiillbbooxxbbgg,
+              tteexxttbbooxx,  ttiimmeebbooxx,
+              and  yyeessnnoo (yes/no).
+
+       You can put more than one dialog box into a script:
+
+       -    Use  the  "----aanndd--wwiiddggeett"
+       token  to force Dialog to proceed to the
+            next dialog unless you have pressed ESC to
+            cancel, or
+
+       -    Simply add the tokens for the next dialog  box,
+       making  a  chain.
+            Dialog  stops  chaining  when  the  return  code
+            from a dialog is nonzero, e.g., Cancel or No
+            (see DIAGNOSTICS).
+
+       Some widgets, e.g., checklist, will  write  text  to
+       ddiiaalloogg's  output.  Normally that is the
+       standard error, but there are options for changing
+       this: "----oouuttppuutt--ffdd",
+       "----ssttddeerrrr" and
+       "----ssttddoouutt".  No text is written  if the
+       Cancel button (or ESC) is pressed; ddiiaalloogg
+       exits immediately in that case.
+
+OOPPTTIIOONNSS
+       All options begin with "----" (two ASCII  hyphens,
+       for  the  benefit  of those using systems with deranged
+       locale support).
+
+       A "----" by itself is used as an escape, i.e., the
+       next token on the com‐ mand-line is not treated as
+       an option.
+              ddiiaalloogg ----ttiittllee ----
+              ----NNoott aann ooppttiioonn
+
+       The "----aarrggss" option tells ddiiaalloogg
+       to list the command-line parameters to the  standard
+       error.   This  is  useful when debugging complex scripts
+       using the "----" and "----ffiillee", since
+       the command-line may be rewritten as these are expanded.
+
+       The "----ffiillee" option tells ddiiaalloogg
+       to read parameters from the file named as its value.
+              ddiiaalloogg ----ffiillee
+              _p_a_r_a_m_e_t_e_r_f_i_l_e
+       Blanks not within double-quotes are discarded
+       (use backslashes to quote single  characters).
+       The  result  is  inserted into the command-line,
+       replacing "----ffiillee" and its option value.
+       Interpretation  of  the  com‐ mand-line resumes from
+       that point.
+
+   CCoommmmoonn OOppttiioonnss
+       ----aassppeecctt _r_a_t_i_o
+              This  gives  you some control over the box
+              dimensions when using auto sizing (specifying
+              0 for height and width).  It  represents width
+              / height.  The default is 9, which means 9
+              characters wide to every 1 line high.
+
+       ----bbaacckkttiittllee
+       _b_a_c_k_t_i_t_l_e
+              Specifies a _b_a_c_k_t_i_t_l_e string
+              to be displayed on the backdrop, at the top of
+              the screen.
+
+       ----bbeeggiinn _y _x
+              Specify the position of the upper left corner
+              of a dialog box on the screen.
+
+       ----ccaanncceell--llaabbeell
+       _s_t_r_i_n_g
+              Override the label used for "Cancel" buttons.
+
+       ----cclleeaarr
+              Clears the widget screen, keeping only
+              the  screen_color  back‐ ground.
+              Use  this when you combine widgets with
+              "----aanndd--wwiiddggeett" to
+              erase the contents of a previous widget
+              on the screen, so  it won't  be seen
+              under the contents of a following widget.
+              Under‐ stand this as the complement of
+              "----kkeeeepp--wwiinnddooww".
+              To compare the effects, use these: All three
+              widgets visible, staircase effect, ordered 1,2,3:
+                 dialog                         --begin 2 2
+                 --yesno "" 0 0 \
+                     --and-widget               --begin
+                     4 4 --yesno "" 0 0 \ --and-widget
+                     --begin 6 6 --yesno "" 0 0
+                 Only the last widget is left visible:
+                           dialog           --clear
+                           --begin 2 2 --yesno "" 0 0 \
+                               --and-widget --clear
+                               --begin 4 4 --yesno
+                               "" 0 0 \ --and-widget
+                               --begin 6 6 --yesno "" 0 0
+                           All three widgets visible, staircase
+                           effect, ordered 3,2,1:
+                                     dialog
+                                     --keep-window --begin
+                                     2 2 --yesno "" 0 0 \
+                                         --and-widget
+                                         --keep-window
+                                         --begin 4 4 --yesno
+                                         "" 0 0 \ --and-widget
+                                         --begin 6 6 --yesno
+                                         "" 0 0
+                                     First and third widget
+                                     visible, staircase effect,
+                                     ordered 3,1:
+                                               dialog
+                                               --keep-window
+                                               --begin 2 2
+                                               --yesno "" 0 0 \
+                                                   --and-widget
+                                                   --clear
+                                                   --begin 4
+                                                   4 --yesno
+                                                   "" 0 0 \
+                                                   --and-widget
+                                                   --begin 6
+                                                   6 --yesno
+                                                   "" 0 0
+
+                                                      Note,
+                                                      if  you
+                                                      want  to
+                                                      restore
+                                                      original
+                                                      console
+                                                      colors
+                                                      and  send
+                                                      your
+                                                      cursor
+                                                      home
+                                                      after
+                                                      the
+                                                      dialog
+                                                      program
+                                                      has
+                                                      exited,
+                                                      use
+                                                      the
+                                                      cclleeaarr
+                                                      (1)
+                                                      command.
+
+                                               ----ccoolloorrss
+                                                      Interpret
+                                                      embedded
+                                                      "\Z"
+                                                      sequences
+                                                      in the
+                                                      dialog
+                                                      text
+                                                      by  the
+                                                      following
+                                                      character,
+                                                      which
+                                                      tells
+                                                      ddiiaalloogg
+                                                      to set
+                                                      colors
+                                                      or video
+                                                      attributes:
+                                                      0 through
+                                                      7  are
+                                                      the ANSI
+                                                      used in
+                                                      curses:
+                                                      black,
+                                                      red,
+                                                      green,
+                                                      yellow,
+                                                      blue,
+                                                      magenta,
+                                                      cyan
+                                                      and white
+                                                      respectively.
+                                                      Bold  is
+                                                      set  by
+                                                      'b',
+                                                      reset
+                                                      by  'B'.
+                                                      Reverse
+                                                      is set
+                                                      by 'r',
+                                                      reset
+                                                      by 'R'.
+                                                      Underline
+                                                      is set
+                                                      by 'u',
+                                                      reset  by
+                                                      'U'.  The
+                                                      settings
+                                                      are
+                                                      cumula‐
+                                                      tive,
+                                                      e.g.,
+                                                      "\Zb\Z1"
+                                                      makes the
+                                                      following
+                                                      text bold
+                                                      (perhaps
+                                                      bright)
+                                                      red.
+                                                      Restore
+                                                      normal
+                                                      settings
+                                                      with
+                                                      "\Zn".
+
+                                               ----ccrr--wwrraapp
+                                                      Interpret
+                                                      embedded
+                                                      new‐
+                                                      lines
+                                                      in the
+                                                      dialog
+                                                      text
+                                                      as  a
+                                                      newline
+                                                      on   the
+                                                      screen.
+                                                      Otherwise,
+                                                      ddiiaa‐‐
+                                                      lloogg
+                                                      will only
+                                                      wrap
+                                                      lines
+                                                      where
+                                                      needed
+                                                      to  fit
+                                                      inside
+                                                      the  text
+                                                      box.
+                                                      Even
+                                                      though
+                                                      you can
+                                                      con‐
+                                                      trol
+                                                      line
+                                                      breaks
+                                                      with
+                                                      this,
+                                                      ddiiaalloogg
+                                                      will
+                                                      still
+                                                      wrap any
+                                                      lines
+                                                      that  are
+                                                      too  long
+                                                      for the
+                                                      width of
+                                                      the box.
+                                                      Without
+                                                      cr-
+                                                      wrap, the
+                                                      layout of
+                                                      your text
+                                                      may be
+                                                      formatted
+                                                      to look
+                                                      nice
+                                                      in the
+                                                      source
+                                                      code  of
+                                                      your
+                                                      script
+                                                      without
+                                                      affecting
+                                                      the way
+                                                      it will
+                                                      look
+                                                      in  the
+                                                      dialog.
+
+                                                      See
+                                                      also the
+                                                      "----nnoo--ccooll‐‐
+                                                      llaappssee"
+                                                      and
+                                                      "----ttrriimm"
+                                                      options.
+
+                                               ----ccrreeaattee--rrcc
+                                               _f_i_l_e
+                                                      When
+                                                      ddiiaalloogg
+                                                      supports
+                                                      run-time
+                                                      configuration,
+                                                      this can
+                                                      be used
+                                                      to dump
+                                                      a  sample
+                                                      configuration
+                                                      file  to
+                                                      the file
+                                                      speci‐
+                                                      fied by
+                                                      _f_i_l_e.
+
+                                               ----ddeeffaauullttnnoo
+                                                      Make the
+                                                      default
+                                                      value
+                                                      of  the
+                                                      yyeess//nnoo
+                                                      box a
+                                                      NNoo.
+                                                      Likewise,
+                                                      make
+                                                      the
+                                                      default
+                                                      button
+                                                      of wid‐
+                                                      gets that
+                                                      provide
+                                                      "OK" and
+                                                      "Cancel"
+                                                      a
+                                                      CCaanncceell.
+                                                      If
+                                                      "----nnooccaanncceell"
+                                                      or
+                                                      "----vviissiitt--iitteemmss"
+                                                      are given
+                                                      those
+                                                      options
+                                                      overrides
+                                                      this,
+                                                      making
+                                                      the
+                                                      default
+                                                      button
+                                                      always
+                                                      "Yes"
+                                                      (internally
+                                                      the same
+                                                      as "OK").
+
+                                               ----ddeeffaauulltt--iitteemm
+                                               _s_t_r_i_n_g
+                                                      Set the
+                                                      default
+                                                      item
+                                                      in a
+                                                      checklist,
+                                                      form  or
+                                                      menu box.
+                                                      Normally
+                                                      the first
+                                                      item in
+                                                      the box
+                                                      is the
+                                                      default.
+
+                                               ----eexxiitt--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "EXIT"
+                                                      buttons.
+
+                                               ----eexxttrraa--bbuuttttoonn
+                                                      Show  an
+                                                      extra
+                                                      button,
+                                                      between
+                                                      "OK"  and
+                                                      "Can‐
+                                                      cel"
+                                                      buttons.
+
+                                               ----eexxttrraa--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "Extra"
+                                                      buttons.
+                                                      Note: for
+                                                      inputmenu
+                                                      wid‐
+                                                      gets,
+                                                      this
+                                                      defaults
+                                                      to
+                                                      "Rename".
+
+                                               ----hheellpp
+                                               Prints  the
+                                               help message
+                                                      to
+                                                      ddiiaalloogg's
+                                                      output.
+                                                      The help
+                                                      message
+                                                      is
+                                                      printed
+                                                      if no
+                                                      options
+                                                      are
+                                                      given.
+
+                                               ----hheellpp--bbuuttttoonn
+                                                      Show a
+                                                      help-button
+                                                      after
+                                                      "OK"  and
+                                                      "Cancel"
+                                                      but‐
+                                                      tons,
+                                                      i.e.,  in
+                                                      check‐
+                                                      list,
+                                                      radiolist
+                                                      and menu
+                                                      boxes.
+                                                      If
+                                                      "----iitteemm--hheellpp"
+                                                      is  also
+                                                      given, on
+                                                      exit the
+                                                      return
+                                                      status
+                                                      will be
+                                                      the  same
+                                                      as for
+                                                      the "OK"
+                                                      button,
+                                                      and   the
+                                                      item-help
+                                                      text
+                                                      will be
+                                                      written
+                                                      to
+                                                      ddiiaalloogg's
+                                                      out‐
+                                                      put
+                                                      after
+                                                      the
+                                                      token
+                                                      "HELP".
+                                                      Otherwise,
+                                                      the
+                                                      return
+                                                      status
+                                                      will
+                                                      indi‐
+                                                      cate that
+                                                      the Help
+                                                      but‐
+                                                      ton  was
+                                                      pressed,
+                                                      and no
+                                                      message
+                                                      printed.
+
+                                               ----hheellpp--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "Help"
+                                                      buttons.
+
+                                               ----hheellpp--ssttaattuuss
+                                                      If  the
+                                                      help-button
+                                                      is
+                                                      selected,
+                                                      writes
+                                                      the
+                                                      checklist,
+                                                      radiolist
+                                                      or form
+                                                      information
+                                                      after the
+                                                      item-help
+                                                      "HELP"
+                                                      information.
+                                                      This  can
+                                                      be
+                                                      used  to
+                                                      reconstruct
+                                                      the state
+                                                      of a
+                                                      checklist
+                                                      after
+                                                      processing
+                                                      the help
+                                                      request.
+
+                                               ----iiggnnoorree
+                                                      Ignore
+                                                      options
+                                                      that
+                                                      ddiiaa‐‐
+                                                      lloogg
+                                                      does not
+                                                      recognize.
+                                                      Some
+                                                      well-known
+                                                      ones
+                                                      such   as
+                                                      "----iiccoonn"
+                                                      are
+                                                      ignored
+                                                      anyway,
+                                                      but this
+                                                      is  a
+                                                      better
+                                                      choice
+                                                      for
+                                                      compatibility
+                                                      with
+                                                      other
+                                                      implementations.
+
+                                               ----iinnppuutt--ffdd
+                                               _f_d
+                                                      Read
+                                                      keyboard
+                                                      input
+                                                      from the
+                                                      given
+                                                      file
+                                                      descrip‐
+                                                      tor.
+                                                      Most
+                                                      ddiiaalloogg
+                                                      scripts
+                                                      read
+                                                      from  the
+                                                      standard
+                                                      input,
+                                                      but the
+                                                      gauge
+                                                      widget
+                                                      reads
+                                                      a pipe
+                                                      (which
+                                                      is
+                                                      always
+                                                      standard
+                                                      input).
+                                                      Some
+                                                      configurations
+                                                      do  not
+                                                      work
+                                                      properly
+                                                      when
+                                                      ddiiaa‐‐
+                                                      lloogg
+                                                      tries to
+                                                      reopen
+                                                      the
+                                                      terminal.
+                                                      Use
+                                                      this
+                                                      option
+                                                      (with
+                                                      appropriate
+                                                      juggling
+                                                      of
+                                                      file-
+                                                      descriptors)
+                                                      if   your
+                                                      script
+                                                      must work
+                                                      in that
+                                                      type of
+                                                      environment.
+
+                                               ----iinnsseeccuurree
+                                                      Makes
+                                                      the
+                                                      password
+                                                      wid‐
+                                                      get
+                                                      friendlier
+                                                      but  less
+                                                      secure,
+                                                      by
+                                                      echoing
+                                                      asterisks
+                                                      for each
+                                                      char‐
+                                                      acter.
+
+                                               ----iitteemm--hheellpp
+                                                      Interpret
+                                                      the tags
+                                                      data for
+                                                      checklist,
+                                                      radiolist
+                                                      and  menu
+                                                      boxes
+                                                      adding
+                                                      a column
+                                                      which  is
+                                                      dis‐
+                                                      played
+                                                      in  the
+                                                      bottom
+                                                      line
+                                                      of the
+                                                      screen,
+                                                      for the
+                                                      currently
+                                                      selected
+                                                      item.
+
+                                               ----kkeeeepp--wwiinnddooww
+                                                      Normally
+                                                      when
+                                                      ddiiaalloogg
+                                                      performs
+                                                      several
+                                                      ttaaiill‐‐
+                                                      bbooxxbbgg
+                                                      widgets
+                                                      connected
+                                                      by
+                                                      "----aanndd--wwiiddggeett",
+                                                      it clears
+                                                      the  old
+                                                      widget
+                                                      from
+                                                      the
+                                                      screen
+                                                      by
+                                                      painting
+                                                      over  it.
+                                                      Use this
+                                                      option to
+                                                      suppress
+                                                      that
+                                                      repainting.
+
+                                                      At exit,
+                                                      ddiiaalloogg
+                                                      repaints
+                                                      all
+                                                      of the
+                                                      widgets
+                                                      which
+                                                      have
+                                                      been
+                                                      marked
+                                                      with
+                                                      "----kkeeeepp--wwiinnddooww",
+                                                      even
+                                                      if they
+                                                      are  not
+                                                      ttaaiillbbooxxbbgg
+                                                      widgets.
+                                                      That
+                                                      causes
+                                                      them
+                                                      to be
+                                                      repainted
+                                                      in
+                                                      reverse
+                                                      order.
+                                                      See the
+                                                      discussion
+                                                      of
+                                                      the
+                                                      "----cclleeaarr"
+                                                      option
+                                                      for
+                                                      examples.
+
+                                               ----mmaaxx--iinnppuutt
+                                               _s_i_z_e
+                                                      Limit
+                                                      input
+                                                      strings
+                                                      to the
+                                                      given
+                                                      size.
+                                                      If not
+                                                      specified,
+                                                      the limit
+                                                      is 2048.
+
+                                               ----nnoo--ccaanncceell
+
+                                               ----nnooccaanncceell
+                                                      Suppress
+                                                      the
+                                                      "Cancel"
+                                                      button
+                                                      in
+                                                      checklist,
+                                                      inputbox
+                                                      and
+                                                      menu  box
+                                                      modes.
+                                                      A  script
+                                                      can still
+                                                      test  if
+                                                      the user
+                                                      pressed
+                                                      the ESC
+                                                      key  to
+                                                      cancel
+                                                      to quit.
+
+                                               ----nnoo--ccoollllaappssee
+                                                      Normally
+                                                      ddiiaalloogg
+                                                      converts
+                                                      tabs   to
+                                                      spaces
+                                                      and
+                                                      reduces
+                                                      multiple
+                                                      spaces to
+                                                      a  single
+                                                      space
+                                                      for text
+                                                      which is
+                                                      displayed
+                                                      in a
+                                                      message
+                                                      boxes,
+                                                      etc.
+                                                      Use  this
+                                                      option
+                                                      to dis‐
+                                                      able that
+                                                      feature.
+                                                      Note that
+                                                      ddiiaalloogg
+                                                      will
+                                                      still
+                                                      wrap
+                                                      text,
+                                                      subject
+                                                      to the
+                                                      "----ccrr--wwrraapp"
+                                                      and
+                                                      "----ttrriimm"
+                                                      options.
+
+                                               ----nnoo--kkiillll
+                                                      Tells
+                                                      ddiiaalloogg
+                                                      to
+                                                      put  the
+                                                      ttaaiillbbooxxbbgg
+                                                      box
+                                                      in  the
+                                                      background,
+                                                      printing
+                                                      its
+                                                      process
+                                                      id  to
+                                                      ddiiaalloogg's
+                                                      output.
+                                                      SIGHUP is
+                                                      dis‐
+                                                      abled
+                                                      for the
+                                                      background
+                                                      process.
+
+                                               ----nnoo--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "No"
+                                                      buttons.
+
+                                               ----nnoo--sshhaaddooww
+                                                      Suppress
+                                                      shadows
+                                                      that
+                                                      would be
+                                                      drawn
+                                                      to  the
+                                                      right and
+                                                      bottom
+                                                      of each
+                                                      dialog
+                                                      box.
+
+                                               ----ookk--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "OK"
+                                                      buttons.
+
+                                               ----oouuttppuutt--ffdd
+                                               _f_d
+                                                      Direct
+                                                      output
+                                                      to  the
+                                                      given
+                                                      file
+                                                      descriptor.
+                                                      Most
+                                                      ddiiaalloogg
+                                                      scripts
+                                                      write
+                                                      to  the
+                                                      standard
+                                                      error,
+                                                      but
+                                                      error
+                                                      mes‐
+                                                      sages may
+                                                      also be
+                                                      writ‐
+                                                      ten
+                                                      there,
+                                                      depending
+                                                      on your
+                                                      script.
+
+                                               ----pprriinntt--mmaaxxssiizzee
+                                                      Print the
+                                                      maximum
+                                                      size of
+                                                      dialog
+                                                      boxes,
+                                                      i.e., the
+                                                      screen
+                                                      size, to
+                                                      ddiiaa‐‐
+                                                      lloogg's
+                                                      output.
+                                                      This may
+                                                      be used
+                                                      alone,
+                                                      without
+                                                      other
+                                                      options.
+
+                                               ----pprriinntt--ssiizzee
+                                                      Prints
+                                                      the size
+                                                      of each
+                                                      dialog
+                                                      box  to
+                                                      ddiiaalloogg's
+                                                      output.
+
+                                               ----pprriinntt--vveerrssiioonn
+                                                      Prints
+                                                      ddiiaalloogg's
+                                                      version
+                                                      to
+                                                      ddiiaalloogg's
+                                                      output.
+                                                      This  may
+                                                      be used
+                                                      alone,
+                                                      without
+                                                      other
+                                                      options.
+
+                                               ----sseeppaarraattee--oouuttppuutt
+                                                      For
+                                                      checklist
+                                                      widgets,
+                                                      output
+                                                      result
+                                                      one
+                                                      line at
+                                                      a time,
+                                                      with no
+                                                      quot‐
+                                                      ing.
+                                                      This
+                                                      facilitates
+                                                      parsing
+                                                      by
+                                                      another
+                                                      pro‐
+                                                      gram.
+
+                                               ----sseeppaarraattoorr
+                                               _s_t_r_i_n_g
+
+                                               ----sseeppaarraattee--wwiiddggeett
+                                               _s_t_r_i_n_g
+                                                      Specify
+                                                      a  string
+                                                      that will
+                                                      separate
+                                                      the
+                                                      output on
+                                                      ddiiaalloogg's
+                                                      output
+                                                      from each
+                                                      widget.
+                                                      This  is
+                                                      used to
+                                                      simplify
+                                                      parsing
+                                                      the
+                                                      result of
+                                                      a  dialog
+                                                      with
+                                                      several
+                                                      widgets.
+                                                      If this
+                                                      option
+                                                      is  not
+                                                      given,
+                                                      the
+                                                      default
+                                                      sepa‐
+                                                      rator
+                                                      string
+                                                      is  a
+                                                      tab
+                                                      character.
+
+                                               ----sshhaaddooww
+                                                      Draw  a
+                                                      shadow
+                                                      to  the
+                                                      right and
+                                                      bottom
+                                                      of each
+                                                      dialog
+                                                      box.
+
+                                               ----ssiinnggllee--qquuootteedd
+                                                      Use
+                                                      single-quoting
+                                                      as needed
+                                                      (and no
+                                                      quotes if
+                                                      unneeded)
+                                                      for the
+                                                      output of
+                                                      checklist's
+                                                      as  well
+                                                      as  the
+                                                      item-help
+                                                      text.
+                                                      If this
+                                                      option
+                                                      is
+                                                      not set,
+                                                      ddiiaalloogg
+                                                      uses
+                                                      double
+                                                      quotes
+                                                      around
+                                                      each
+                                                      item.
+                                                      That
+                                                      requires
+                                                      occasional
+                                                      use  of
+                                                      backslashes
+                                                      to make
+                                                      the
+                                                      output
+                                                      useful
+                                                      in shell
+                                                      scripts.
+
+                                               ----ssiizzee--eerrrr
+                                                      Check the
+                                                      resulting
+                                                      size of
+                                                      a  dialog
+                                                      box
+                                                      before
+                                                      trying to
+                                                      use it,
+                                                      print‐
+                                                      ing  the
+                                                      resulting
+                                                      size if
+                                                      it is
+                                                      larger
+                                                      than the
+                                                      screen.
+                                                      (This
+                                                      option is
+                                                      obsolete,
+                                                      since
+                                                      all new-
+                                                      window
+                                                      calls
+                                                      are
+                                                      checked).
+
+                                               ----sslleeeepp
+                                               _s_e_c_s
+                                                      Sleep
+                                                      (delay)
+                                                      for  the
+                                                      given
+                                                      number of
+                                                      seconds
+                                                      after
+                                                      processing
+                                                      a  dia‐
+                                                      log box.
+
+                                               ----ssttddeerrrr
+                                                      Direct
+                                                      output
+                                                      to  the
+                                                      standard
+                                                      error.
+                                                      This is
+                                                      the
+                                                      default,
+                                                      since
+                                                      curses
+                                                      normally
+                                                      writes
+                                                      screen
+                                                      updates
+                                                      to  the
+                                                      standard
+                                                      output.
+
+                                               ----ssttddoouutt
+                                                      Direct
+                                                      output
+                                                      to   the
+                                                      standard
+                                                      output.
+                                                      This
+                                                      option is
+                                                      provided
+                                                      for
+                                                      compatibility
+                                                      with
+                                                      Xdia‐
+                                                      log,
+                                                      however
+                                                      using
+                                                      it in
+                                                      portable
+                                                      scripts
+                                                      is not
+                                                      recommended,
+                                                      since
+                                                      curses
+                                                      normally
+                                                      writes
+                                                      its
+                                                      screen
+                                                      updates
+                                                      to the
+                                                      standard
+                                                      output.
+                                                      If you
+                                                      use  this
+                                                      option,
+                                                      ddiiaalloogg
+                                                      attempts
+                                                      to reopen
+                                                      the
+                                                      terminal
+                                                      so it can
+                                                      write
+                                                      to the
+                                                      dis‐
+                                                      play.
+                                                      Depending
+                                                      on  the
+                                                      platform
+                                                      and your
+                                                      envi‐
+                                                      ronment,
+                                                      that
+                                                      may fail.
+
+                                               ----ttaabb--ccoorrrreecctt
+                                                      Convert
+                                                      each tab
+                                                      charac‐
+                                                      ter  to
+                                                      one or
+                                                      more
+                                                      spa‐
+                                                      ces
+                                                      (for  the
+                                                      tteexxttbbooxx
+                                                      widget;
+                                                      otherwise
+                                                      to a
+                                                      single
+                                                      space).
+                                                      Other‐
+                                                      wise,
+                                                      tabs are
+                                                      rendered
+                                                      according
+                                                      to the
+                                                      curses
+                                                      library's
+                                                      interpreta‐
+                                                      tion.
+
+                                               ----ttaabb--lleenn
+                                               _n
+                                                      Specify
+                                                      the
+                                                      number
+                                                      of spaces
+                                                      that
+                                                      a tab
+                                                      char‐
+                                                      acter
+                                                      occupies
+                                                      if  the
+                                                      "----ttaabb--ccoorrrreecctt"
+                                                      option
+                                                      is given.
+                                                      The
+                                                      default
+                                                      is  8.
+                                                      This
+                                                      option
+                                                      is only
+                                                      effective
+                                                      for  the
+                                                      tteexxttbbooxx
+                                                      widget.
+
+                                               ----ttiimmeeoouutt
+                                               _s_e_c_s
+                                                      Timeout
+                                                      (exit
+                                                      with
+                                                      error
+                                                      code)
+                                                      if    no
+                                                      user
+                                                      response
+                                                      within
+                                                      the given
+                                                      number of
+                                                      seconds.
+                                                      This  is
+                                                      overridden
+                                                      if the
+                                                      background
+                                                      "----ttaaiill‐‐
+                                                      bbooxxbbgg
+                                                      is used.
+                                                      A time‐
+                                                      out of
+                                                      zero
+                                                      seconds
+                                                      is
+                                                      ignored.
+
+                                               ----ttiittllee
+                                               _t_i_t_l_e
+                                                      Specifies
+                                                      a
+                                                      _t_i_t_l_e
+                                                      string
+                                                      to be
+                                                      displayed
+                                                      at  the
+                                                      top
+                                                      of the
+                                                      dialog
+                                                      box.
+
+                                               ----ttrriimm
+                                               eliminate
+                                               leading
+                                                      blanks,
+                                                      trim
+                                                      literal
+                                                      newlines
+                                                      and
+                                                      repeated
+                                                      blanks
+                                                      from
+                                                      message
+                                                      text.
+
+                                                      See
+                                                      also the
+                                                      "----ccrr--wwrraapp"
+                                                      and
+                                                      "----nnoo--ccoollllaappssee"
+                                                      options.
+
+                                               ----vveerrssiioonn
+                                                      Same   as
+                                                      "----pprriinntt--vveerr‐‐
+                                                      ssiioonn".
+
+                                               ----vviissiitt--iitteemmss
+                                                      Modify
+                                                      the
+                                                      tab-traversal
+                                                      of
+                                                      checklist,
+                                                      radiobox,
+                                                      menubox
+                                                      and
+                                                      inputmenu
+                                                      to
+                                                      include
+                                                      the
+                                                      list  of
+                                                      items
+                                                      as  one
+                                                      of   the
+                                                      states.
+                                                      This is
+                                                      useful as
+                                                      a visual
+                                                      aid,
+                                                      i.e., the
+                                                      cursor
+                                                      position
+                                                      helps
+                                                      some
+                                                      users.
+
+                                                      When
+                                                      this
+                                                      option
+                                                      is given,
+                                                      the
+                                                      cursor
+                                                      is
+                                                      initially
+                                                      placed on
+                                                      the list.
+                                                      Abbreviations
+                                                      (the
+                                                      first
+                                                      letter of
+                                                      the tag)
+                                                      apply  to
+                                                      the list
+                                                      items.
+                                                      If  you
+                                                      tab
+                                                      to the
+                                                      button
+                                                      row,
+                                                      abbrevi‐
+                                                      ations
+                                                      apply
+                                                      to the
+                                                      but‐
+                                                      tons.
+
+                                               ----yyeess--llaabbeell
+                                               _s_t_r_i_n_g
+                                                      Override
+                                                      the label
+                                                      used for
+                                                      "Yes"
+                                                      buttons.
+
+   BBooxx OOppttiioonnss
+       All dialog boxes have at least three parameters:
+
+       _t_e_x_t the caption or contents of the box.
+
+       _h_e_i_g_h_t
+            the height of the dialog box.
+
+       _w_i_d_t_h
+            the width of the dialog box.
+
+       Other parameters depend on the box type.
+
+       ----ccaalleennddaarr _t_e_x_t
+       _h_e_i_g_h_t _w_i_d_t_h _d_a_y
+       _m_o_n_t_h _y_e_a_r
+              A ccaalleennddaarr box  displays  month,
+              day  and  year  in  separately adjustable
+              windows.   If  the values for day, month
+              or year are missing or negative, the current
+              date's corresponding values are used.   You  can
+              increment  or decrement any of those using the
+              left-, up-, right- and down-arrows.  Use vi-style
+              h, j, k and  l for  moving  around  the  array
+              of days in a month.  Use tab or backtab to move
+              between windows.  If the year is given as  zero,
+              the current date is used as an initial value.
+
+              On exit, the date is printed in the form
+              day/month/year.
+
+       ----cchheecckklliisstt
+       _t_e_x_t _h_e_i_g_h_t _w_i_d_t_h
+       _l_i_s_t_-_h_e_i_g_h_t [ _t_a_g
+       _i_t_e_m _s_t_a_t_u_s ] _._._.
+              A  cchheecckklliisstt  box  is  similar
+              to a mmeennuu box; there are multiple entries
+              presented in the form of a menu.   Instead  of
+              choosing one  entry among the entries, each
+              entry can be turned on or off by the user.
+              The initial on/off state of each entry  is
+              speci‐ fied by _s_t_a_t_u_s.
+
+              On  exit,  a  list  of the _t_a_g
+              strings of those entries that are turned
+              on will be printed on ddiiaalloogg's
+              output.  If  the  "----sseeppaa‐‐
+              rraattee--oouuttppuutt"  option is
+              not given, the strings will be quoted to make
+              it simple for scripts to separate them.  See the
+              "----ssiinnggllee-- qquuootteedd"
+              option, which modifies the quoting behavior.
+
+       ----ffoorrmm _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h _f_o_r_m_h_e_i_g_h_t
+       [ _l_a_b_e_l _y _x _i_t_e_m _y _x
+       _f_l_e_n _i_l_e_n ] _._._.
+              The form ddiiaalloogg displays a form
+              consisting of labels and fields, which
+              are positioned on a scrollable window by
+              coordinates given in the script.  The field
+              length _f_l_e_n and input-length _i_l_e_n
+              tell how long the field can be.  The former
+              defines the length  shown for  a  selected field,
+              while the latter defines the permissible length
+              of the data entered in the field.
+
+              -  If _f_l_e_n is zero, the corresponding
+              field cannot  be  altered.
+                 and the contents of the field determine
+                 the displayed-length.
+
+              -  If  _f_l_e_n  is  negative,  the
+              corresponding  field  cannot be
+                 altered, and the negated value of _f_l_e_n
+                 is used  as  the  dis‐ played-length.
+
+              -  If _i_l_e_n is zero, it is set to
+              _f_l_e_n.
+
+              Use  up/down  arrows  (or  control/N, control/P)
+              to move between fields.  Use tab to move
+              between windows.
+
+              On exit, the contents of the form-fields are
+              written to ddiiaalloogg's output,  each
+              field  separated  by a newline.  The text used
+              to fill non-editable fields (_f_l_e_n is
+              zero or negative) is not writ‐ ten out.
+
+       ----ffsseelleecctt _f_i_l_e_p_a_t_h
+       _h_e_i_g_h_t _w_i_d_t_h
+              The  file-selection dialog displays a text-entry
+              window in which you can type a filename (or
+              directory), and above that two  win‐ dows
+              with directory names and filenames.
+
+              Here  ffiilleeppaatthh  can  be  a
+              filepath  in which case the file and directory
+              windows will display the contents of the path
+              and  the text-entry window will contain the
+              preselected filename.
+
+              Use  tab  or arrow keys to move between the
+              windows.  Within the directory or filename
+              windows, use the  up/down  arrow  keys  to
+              scroll  the  current  selection.   Use the
+              space-bar to copy the current selection into
+              the text-entry window.
+
+              Typing any printable characters switches focus to
+              the text-entry window,  entering that character
+              as well as scrolling the direc‐ tory and
+              filename windows to the closest match.
+
+              Use a carriage return or the "OK" button to
+              accept  the  current value in the text-entry
+              window and exit.
+
+              On  exit,  the  contents of the text-entry window
+              are written to ddiiaalloogg's output.
+
+       ----ggaauuggee _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h _[_p_e_r_c_e_n_t_]
+              A ggaauuggee box displays a meter along
+              the bottom of the  box.   The meter  indicates
+              the percentage.  New percentages are read from
+              standard input, one integer per line.  The meter
+              is  updated  to reflect  each  new  percentage.
+              If the standard input reads the string "XXX",
+              then subsequent lines up to another "XXX" are
+              used for  a  new  prompt.  The gauge exits when
+              EOF is reached on the standard input.
+
+              The _p_e_r_c_e_n_t value denotes the
+              initial percentage  shown  in  the meter.
+              If not specified, it is zero.
+
+              On  exit,  no  text  is  written to
+              ddiiaalloogg's output.  The widget accepts
+              no input, so the exit status is always OK.
+
+       ----iinnffoobbooxx _t_e_x_t
+       _h_e_i_g_h_t _w_i_d_t_h
+              An iinnffoo box is basically a
+              mmeessssaaggee box.  However, in this
+              case, ddiiaalloogg will exit immediately
+              after displaying the message to the user.
+              The screen is not cleared when ddiiaalloogg
+              exits, so that  the message will remain on the
+              screen until the calling shell script clears
+              it later.  This is useful when you  want  to
+              inform  the user  that some operations are
+              carrying on that may require some time to finish.
+
+              On exit, no text is written to
+              ddiiaalloogg's output.   Only  an  "OK"
+              button  is  provided  for  input,  but an ESC
+              exit status may be returned.
+
+       ----iinnppuuttbbooxx _t_e_x_t
+       _h_e_i_g_h_t _w_i_d_t_h _[_i_n_i_t_]
+              An iinnppuutt box is useful when  you
+              want  to  ask  questions  that require
+              the  user  to input a string as the answer.
+              If init is supplied it is used to initialize
+              the input string.  When enter‐ ing  the
+              string,  the  _b_a_c_k_s_p_a_c_e,
+              _d_e_l_e_t_e and cursor keys can be used
+              to correct typing errors.  If the input  string
+              is  longer than  can  fit  in  the  dialog  box,
+              the  input  field will be scrolled.
+
+              On exit, the input string will be printed on
+              ddiiaalloogg's output.
+
+       ----iinnppuuttmmeennuu
+       _t_e_x_t _h_e_i_g_h_t _w_i_d_t_h
+       _m_e_n_u_-_h_e_i_g_h_t [ _t_a_g
+       _i_t_e_m ] _._._.
+              An iinnppuuttmmeennuu box is very
+              similar to an ordinary mmeennuu box.
+              There are only a few differences between them:
+
+              1.  The   entries   are  not  automatically
+              centered  but  left
+                  adjusted.
+
+              2.  An extra button (called _R_e_n_a_m_e)
+              is  implied  to  rename  the
+                  current item when it is pressed.
+
+              3.  It  is  possible to rename the current
+              entry by pressing the
+                  _R_e_n_a_m_e button.  Then
+                  ddiiaalloogg will write the following
+                  on ddiiaa‐‐ lloogg's output.
+
+                  RENAMED <tag> <item>
+
+       ----mmeennuu _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h _m_e_n_u_-_h_e_i_g_h_t [
+       _t_a_g _i_t_e_m ] _._._.
+              As  its  name  suggests,  a mmeennuu box is
+              a dialog box that can be used to present a list
+              of choices in the form of a menu for  the user
+              to choose.  Choices are displayed in the order
+              given.  Each menu entry consists of a _t_a_g
+              string and an _i_t_e_m string.  The _t_a_g
+              gives  the entry a name to distinguish it from
+              the other entries in the menu.  The _i_t_e_m
+              is a short description of the option that
+              the  entry  represents.   The  user  can  move
+              between the menu entries by pressing the cursor
+              keys, the first letter of the _t_a_g as  a
+              hot-key,  or  the  number keys _1_-_9. There
+              are _m_e_n_u_-_h_e_i_g_h_t entries
+              displayed in the menu at one time, but the menu
+              will  be scrolled if there are more entries
+              than that.
+
+              On exit the _t_a_g of the
+              chosen menu entry will be printed on
+              ddiiaa‐‐ lloogg's output.  If the
+              "----hheellpp--bbuuttttoonn"
+              option is given, the  cor‐ responding  help
+              text  will  be printed if the user selects the
+              help button.
+
+       ----mmssggbbooxx _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h
+              A mmeessssaaggee box is very similar to
+              a yyeess//nnoo box.  The only differ‐
+              ence  between  a  mmeessssaaggee
+              box and a yyeess//nnoo box is that a
+              mmeessssaaggee box has only a single
+              OOKK button.  You can use this dialog box
+              to display  any  message  you like.  After
+              reading the message, the user can press the
+              _E_N_T_E_R key so that ddiiaalloogg
+              will  exit  and  the calling shell script can
+              continue its operation.
+
+              If  the message is too large for the space,
+              ddiiaalloogg may allow you to scroll
+              it, provided that the underlying curses
+              implementation is  capable  enough.  In this
+              case, a percentage is shown in the base of
+              the widget.
+
+              On exit, no text is written to
+              ddiiaalloogg's output.   Only  an  "OK"
+              button  is  provided  for  input,  but an ESC
+              exit status may be returned.
+
+       ----ppaauussee _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h _s_e_c_o_n_d_s
+              A ppaauussee box displays a meter along
+              the bottom of the  box.   The meter  indicates
+              how  many  seconds remain until the end of
+              the pause.  The pause exits when timeout is
+              reached (status  OK)  or the user presses the
+              Exit button (status CANCEL).
+
+       ----ppaasssswwoorrddbbooxx _t_e_x_t
+       _h_e_i_g_h_t _w_i_d_t_h _[_i_n_i_t_]
+              A  ppaasssswwoorrdd box is similar to an
+              input box, except that the text the user enters
+              is not displayed.  This is useful when prompting
+              for  passwords or other sensitive information.
+              Be aware that if anything is passed in "init",
+              it will be visible in the system's process
+              table to casual snoopers.  Also, it is very
+              confusing to the user to provide them with a
+              default  password  they  cannot see.   For  these
+              reasons,  using "init" is highly discouraged.
+              See "----iinnsseeccuurree" if you do
+              not care about your password.
+
+              On exit, the input string will be printed on
+              ddiiaalloogg's output.
+
+       ----ppaasssswwoorrddffoorrmm
+       _t_e_x_t _h_e_i_g_h_t _w_i_d_t_h
+       _f_o_r_m_h_e_i_g_h_t [ _l_a_b_e_l _y
+       _x _i_t_e_m _y  _x  _f_l_e_n _i_l_e_n
+       ] _._._.
+              This  is  identical  to  ----ffoorrmm
+              except that all text fields are treated as
+              ppaasssswwoorrdd widgets rather than
+              iinnppuuttbbooxx widgets.
+
+       ----pprrooggrreessssbbooxx _t_e_x_t
+       _h_e_i_g_h_t _w_i_d_t_h
+
+       ----pprrooggrreessssbbooxx
+       _h_e_i_g_h_t _w_i_d_t_h
+              A pprrooggrreessssbbooxx is similar
+              to an ttaaiillbbooxx, except that it will
+              exit when  it  reaches  the end of the file.
+              If three parameters are given, it displays
+              the text under the title, delineated from the
+              scrolling  file's  contents.   If only two
+              parameters are given, this text is omitted.
+
+       ----rraaddiioolliisstt
+       _t_e_x_t _h_e_i_g_h_t _w_i_d_t_h
+       _l_i_s_t_-_h_e_i_g_h_t  [ _t_a_g
+       _i_t_e_m _s_t_a_t_u_s ] _._._.
+              A rraaddiioolliisstt box is similar to
+              a mmeennuu box.  The  only  difference is
+              that  you can indicate which entry is currently
+              selected, by setting its _s_t_a_t_u_s
+              to _o_n.
+
+              On exit, the name of the selected item is
+              written  to  ddiiaalloogg's output.
+
+       ----ttaaiillbbooxx ffiillee
+       hheeiigghhtt wwiiddtthh
+              Display text from a file in a dialog box, as
+              in a "tail -f" com‐ mand.  Scroll left/right
+              using vi-style 'h' and 'l',  or  arrow- keys.
+              A '0' resets the scrolling.
+
+              On  exit,  no  text is written to
+              ddiiaalloogg's output.  Only an "OK"
+              button is provided for input, but an  ESC  exit
+              status  may  be returned.
+
+       ----ttaaiillbbooxxbbgg ffiillee
+       hheeiigghhtt wwiiddtthh
+              Display  text  from a file in a dialog box as
+              a background task, as in a "tail -f &" command.
+              Scroll left/right  using  vi-style 'h' and 'l',
+              or arrow-keys.  A '0' resets the scrolling.
+
+              Dialog  treats  the background task
+              specially if there are other widgets
+              (----aanndd--wwiiddggeett) on the
+              screen concurrently.  Until  those widgets  are
+              closed (e.g., an "OK"), ddiiaalloogg will
+              perform all of the tailboxbg widgets in the same
+              process, polling for  updates.  You may use a tab
+              to traverse between the widgets on the screen,
+              and close them individually, e.g., by pressing
+              _E_N_T_E_R.  Once  the non-tailboxbg
+              widgets are closed, ddiiaalloogg forks a
+              copy of itself into the background, and prints
+              its process  id  if  the  "----nnoo--
+              kkiillll" option is given.
+
+              On  exit, no text is written to
+              ddiiaalloogg's output.  Only an "EXIT"
+              button is provided for input, but an  ESC  exit
+              status  may  be returned.
+
+              NOTE:  Older versions of ddiiaalloogg
+              forked immediately and attempted to update
+              the screen individually.  Besides being bad
+              for  per‐ formance,  it  was  unworkable.
+              Some older scripts may not work properly with
+              the polled scheme.
+
+       ----tteexxttbbooxx ffiillee
+       hheeiigghhtt wwiiddtthh
+              A tteexxtt box lets you display the contents
+              of a  text  file  in  a dialog box.  It is like
+              a simple text file viewer.  The user can move
+              through the file by using the  cursor,  page-up,
+              page-down and _H_O_M_E_/_E_N_D keys
+              available on most keyboards.  If the lines
+              are too long to be displayed in the box, the
+              _L_E_F_T_/_R_I_G_H_T keys can  be
+              used  to  scroll the text region horizontally.
+              You may also use vi-style keys h, j, k, l
+              in place of the cursor keys, and B or N in
+              place  of  the  page-up  and page-down keys.
+              Scroll up/down using vi-style 'k' and 'j',
+              or  arrow-keys.   Scroll  left/right using
+              vi-style  'h'  and  'l', or arrow-keys.  A '0'
+              resets the left/right scrolling.  For more
+              convenience,  vi-style  forward and backward
+              searching functions are also provided.
+
+              On  exit, no text is written to
+              ddiiaalloogg's output.  Only an "EXIT"
+              button is provided for input, but an  ESC  exit
+              status  may  be returned.
+
+       ----ttiimmeebbooxx _t_e_x_t
+       _h_e_i_g_h_t _[_w_i_d_t_h _h_o_u_r
+       _m_i_n_u_t_e _s_e_c_o_n_d_]
+              A  dialog  is  displayed which allows you to
+              select hour, minute and second.  If the values
+              for hour, minute or second are  miss‐ ing  or
+              negative,  the  current date's corresponding
+              values are used.  You can increment or decrement
+              any  of  those  using  the left-,  up-, right-
+              and down-arrows.  Use tab or backtab to move
+              between windows.
+
+              On exit, the result is printed in the form
+              hour:minute:second.
+
+       ----yyeessnnoo _t_e_x_t _h_e_i_g_h_t
+       _w_i_d_t_h
+              A yyeess//nnoo dialog box of size
+              _h_e_i_g_h_t rows by _w_i_d_t_h
+              columns will be displayed.  The string specified
+              by _t_e_x_t is displayed inside the dialog
+              box.  If this string is too long to fit in
+              one  line,  it will be automatically divided
+              into multiple lines at appropriate places.
+              The _t_e_x_t string can also contain the
+              sub-string _"_\_n_" or newline  characters
+              _`_\_n_'  to  control line breaking
+              explicitly.  This dialog box is useful for
+              asking questions that require  the user  to
+              answer either yes or no.  The dialog box has
+              a YYeess but‐ ton and a NNoo button,
+              in which the user  can  switch  between  by
+              pressing the _T_A_B key.
+
+              On  exit, no text is written to
+              ddiiaalloogg's output.  In addition to
+              the "Yes" and "No" exit codes (see DIAGNOSTICS)
+              an ESC exit sta‐ tus may be returned.
+
+              The  codes used for "Yes" and "No" match those
+              used for "OK" and "Cancel", internally no
+              distinction is made.
+
+   OObbssoolleettee OOppttiioonnss
+       ----bbeeeepp This was used to tell the original
+       cdialog that it should make a
+              beep  when  the separate processes of the
+              tailboxbg widget would repaint the screen.
+
+       ----bbeeeepp--aafftteerr
+              Beep after a user has completed a widget by
+              pressing one of  the buttons.
+
+RRUUNN--TTIIMMEE
+CCOONNFFIIGGUURRAATTIIOONN
+       1.  Create a sample configuration file by typing:
+
+                 "dialog --create-rc <file>"
+
+       2.  At start, ddiiaalloogg determines the settings
+       to use as follows:
+
+           a)  if  environment  variable
+           DDIIAALLOOGGRRCC is set, its value
+           determines
+               the name of the configuration file.
+
+           b)  if the file in (a) is not found, use the  file
+           _$_H_O_M_E_/_._d_i_a_l_o_g_r_c
+               as the configuration file.
+
+           c)  if  the  file  in (b) is not found, try using
+           the GLOBALRC file
+               determined at compile-time, i.e.,
+               _/_e_t_c_/_d_i_a_l_o_g_r_c.
+
+           d)  if the file in (c) is not found, use compiled
+           in defaults.
+
+       3.  Edit the sample configuration file and copy it to
+       some  place  that
+           ddiiaalloogg can find, as stated in step
+           2 above.
+
+KKEEYY BBIINNDDIINNGGSS
+       You can override or add to key bindings in
+       ddiiaalloogg by adding to the con‐ figuration
+       file.  DDiiaalloogg's bbiinnddkkeeyy
+       command  maps  single  keys  to  its internal coding.
+                 bindkey _w_i_d_g_e_t
+                 _c_u_r_s_e_s___k_e_y
+                 _d_i_a_l_o_g___k_e_y The
+                 _w_i_d_g_e_t name can be "*" (all
+                 widgets), or specific widgets such as
+                 tteexxttbbooxx.  Specific widget
+                 bindings override  the  "*" bindings.
+                 User-defined bindings override the built-in
+                 bind‐ ings.
+
+                 The _c_u_r_s_e_s___k_e_y
+                 can be any of the names derived from
+                 ccuurrsseess..hh, e.g.,  "HELP"
+                 from  "KEY_HELP".  DDiiaalloogg also
+                 recognizes ANSI control characters such as
+                 "^A", "^?", as well as C1-controls such as
+                 "~A" and "~?".  Finally, it allows any single
+                 charac‐ ter to be escaped with a backslash.
+
+                 DDiiaalloogg's   internal
+                 keycode   names   correspond   to   the
+                 DDLLGG__KKEEYYSS__EENNUUMM   type
+                 in   ddllgg__kkeeyyss..hh,   e.g.,
+                 "HELP"  from "DLGK_HELP".
+
+EENNVVIIRROONNMMEENNTT
+       DDIIAALLOOGGOOPPTTSS     Define this variable
+       to apply any of the common  options
+                      to  each  widget.   Most of the common
+                      options are reset before processing
+                      each widget.  If you set  the  options
+                      in  this  environment variable,
+                      they are applied to ddiiaa‐‐
+                      lloogg's state after the reset.
+                      As in the "----ffiillee" option,
+                      double-quotes and backslashes are
+                      interpreted.
+
+                      The  "----ffiillee"  option
+                      is not considered a common option
+                      (so you cannot embed it within  this
+                      environment  vari‐ able).
+
+       DDIIAALLOOGGRRCC       Define  this variable
+       if you want to specify the name of
+                      the configuration file to use.
+
+       DDIIAALLOOGG__CCAANNCCEELL
+
+       DDIIAALLOOGG__EERRRROORR
+
+       DDIIAALLOOGG__EESSCC
+
+       DDIIAALLOOGG__EEXXTTRRAA
+
+       DDIIAALLOOGG__HHEELLPP
+
+       DDIIAALLOOGG__IITTEEMM__HHEELLPP
+
+       DDIIAALLOOGG__OOKK      Define any of these
+       variables to change the exit code on
+                      Cancel  (1), error (-1), ESC (255), Extra
+                      (3), Help (2), Help with --item-help (2),
+                      or OK  (0).   Normally  shell scripts
+                      cannot distinguish between -1 and 255.
+
+       DDIIAALLOOGG__TTTTYY     Set  this  variable
+       to "1" to provide compatibility with
+                      older versions of  ddiiaalloogg
+                      which  assumed  that  if  the script
+                      redirects  the standard output, that
+                      the "----ssttdd‐‐ oouutt"
+                      option was given.
+
+FFIILLEESS
+       _$_H_O_M_E_/_._d_i_a_l_o_g_r_c
+       default configuration file
+
+EEXXAAMMPPLLEESS
+       The ddiiaalloogg sources contain several samples
+       of how to use the  different box  options  and  how
+       they look.  Just take a look into the directory
+       ssaammpplleess// of the source.
+
+DDIIAAGGNNOOSSTTIICCSS
+       Exit status is subject to being overridden  by
+       environment  variables.  Normally they are:
+
+       0    if ddiiaalloogg is exited by pressing the
+       YYeess or OOKK button.
+
+       1    if the NNoo or CCaanncceell button
+       is pressed.
+
+       2    if the HHeellpp button is pressed.
+
+       3    if the EExxttrraa button is pressed.
+
+       -1   if  errors occur inside ddiiaalloogg or
+       ddiiaalloogg is exited by pressing the
+            _E_S_C key.
+
+BBUUGGSS
+       Perhaps.
+
+AAUUTTHHOORR
+       Thomas E. Dickey (updates for 0.9b and beyond)
+
+CCOONNTTRRIIBBUUTTOORRSS
+       Tobias C. Rittweiler
+
+       Valery Reznic - the form and progressbox widgets.
+
+       Yura Kalinichenko adapted the gauge widget as "pause".
+
+       This is a rewrite (except as needed to provide
+       compatibility)  of  the earlier version of
+       ddiiaalloogg 00..99aa, which lists as authors:
+
+              Savio Lam - version 0.3, "dialog"
+
+              Stuart Herbert - patch for version 0.4
+
+              Marc Ewing - the gauge widget.
+
+              Pasquale De Marco "Pako" - version 0.9a,
+              "cdialog"
+
+
+
+$Date: 2006-10-23 16:59:34 -0400 (Mon, 23 Oct 2006) $
+DIALOG(1)

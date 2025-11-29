@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp
+END
+config.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/config.bat
+END
+fnchange.lst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/fnchange.lst
+END
+stateful-check.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/stateful-check.sed
+END
+stateless-check.sed
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/stateless-check.sed
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/README
+END
+edtest.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/edtest.bat
+END
+sources.sed
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/sources.sed
+END
+fnchange.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/fnchange.in
+END
+config.sed
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/config.sed
+END
+README.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/README.in
+END
+Makefile.maint
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/Makefile.maint
+END
+translit-check.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/translit-check.sed
+END
+makefile.sed
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/makefile.sed
+END
+config.site
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/djgpp/config.site
+END

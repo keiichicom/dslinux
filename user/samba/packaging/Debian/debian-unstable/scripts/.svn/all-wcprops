@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/scripts
+END
+patch-source
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/scripts/patch-source
+END
+unpatch-source
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/scripts/unpatch-source
+END

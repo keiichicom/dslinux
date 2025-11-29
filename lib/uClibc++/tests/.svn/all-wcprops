@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests
+END
+fstreamtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/fstreamtest.cpp
+END
+functionaltest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/functionaltest.cpp
+END
+numerictest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/numerictest.cpp
+END
+vectortest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/vectortest.cpp
+END
+dequetest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/dequetest.cpp
+END
+utilitytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/utilitytest.cpp
+END
+chartraitstest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/chartraitstest.cpp
+END
+wchartest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/wchartest.cpp
+END
+stacktest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/stacktest.cpp
+END
+stringtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/stringtest.cpp
+END
+io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/io.cpp
+END
+memorytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/memorytest.cpp
+END
+fstreamtest2.out
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/fstreamtest2.out
+END
+listtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/listtest.cpp
+END
+maptest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/maptest.cpp
+END
+newdel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/newdel.cpp
+END
+sstreamtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/sstreamtest.cpp
+END
+streamitertest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/streamitertest.cpp
+END
+valarraytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/valarraytest.cpp
+END
+algotest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/algotest.cpp
+END
+fstreamtest.out
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/fstreamtest.out
+END
+excepttest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/excepttest.cpp
+END
+streambuftest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/streambuftest.cpp
+END
+mmaptest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/mmaptest.cpp
+END
+bitsettest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/bitsettest.cpp
+END
+settest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/settest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/tests/Makefile
+END

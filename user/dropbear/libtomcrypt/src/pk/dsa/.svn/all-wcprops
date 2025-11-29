@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa
+END
+dsa_export.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_export.c
+END
+dsa_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_free.c
+END
+dsa_sign_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_sign_hash.c
+END
+dsa_make_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_make_key.c
+END
+dsa_verify_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_verify_hash.c
+END
+dsa_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_import.c
+END
+dsa_verify_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/dsa/dsa_verify_key.c
+END

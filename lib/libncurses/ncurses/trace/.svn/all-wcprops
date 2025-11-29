@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace
+END
+visbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/visbuf.c
+END
+lib_tracechr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_tracechr.c
+END
+lib_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_trace.c
+END
+trace_tries.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/trace_tries.c
+END
+lib_tracedmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_tracedmp.c
+END
+varargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/varargs.c
+END
+lib_tracebits.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_tracebits.c
+END
+lib_tracemse.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_tracemse.c
+END
+trace_xnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/trace_xnames.c
+END
+trace_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/trace_buf.c
+END
+lib_traceatr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/lib_traceatr.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libncurses/ncurses/trace/README
+END

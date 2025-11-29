@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm/README
+END
+sha512-ia64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm/sha512-ia64.pl
+END
+sha1-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm/sha1-586.pl
+END
+sha1-ia64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm/sha1-ia64.pl
+END
+sha512-sse2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/crypto/sha/asm/sha512-sse2.pl
+END

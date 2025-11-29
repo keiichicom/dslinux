@@ -1,0 +1,265 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/busybox/testsuite
+https://svn.dslinux.org/svn
+
+
+
+2006-02-20T14:14:29.000000Z
+572
+stsp2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+echo
+dir
+
+cmp
+dir
+
+dirname
+dir
+
+mv
+dir
+
+touch
+dir
+
+xargs
+dir
+
+tar
+dir
+
+msh
+dir
+
+dd
+dir
+
+bunzip2
+dir
+
+tail
+dir
+
+pwd
+dir
+
+hostid
+dir
+
+cut
+dir
+
+which
+dir
+
+uptime
+dir
+
+du
+dir
+
+ln
+dir
+
+gunzip
+dir
+
+date
+dir
+
+rm
+dir
+
+ls
+dir
+
+hostname
+dir
+
+expr
+dir
+
+true
+dir
+
+find
+dir
+
+tr
+dir
+
+sort
+dir
+
+strings
+dir
+
+false
+dir
+
+id
+dir
+
+grep
+dir
+
+README
+file
+
+
+
+
+2025-11-26T02:02:32.448805Z
+e44aba87445a684f7d6b60d13ffc85f3
+2006-02-20T14:14:29.000000Z
+572
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1572
+
+head
+dir
+
+cp
+dir
+
+runtest
+file
+
+
+
+
+2025-11-26T02:02:32.448805Z
+af9ee22dc4a774c0ad8f8cc999b53911
+2006-02-20T14:14:29.000000Z
+572
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1521
+
+TODO
+file
+
+
+
+
+2025-11-26T02:02:32.448805Z
+3ae47f5c42fcdcb7c38fd2bf2c5e80a0
+2006-02-20T14:14:29.000000Z
+572
+stsp2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+716
+
+mkdir
+dir
+
+wget
+dir
+
+cat
+dir
+
+uuencode
+dir
+
+gzip
+dir
+
+wc
+dir
+
+md5sum
+dir
+
+sed
+dir
+
+basename
+dir
+
+rmdir
+dir
+
+tee
+dir
+

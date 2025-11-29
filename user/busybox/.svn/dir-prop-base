@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+.config
+.config.mkconfig
+.depend
+.hdepend
+busybox
+busybox.links
+
+END

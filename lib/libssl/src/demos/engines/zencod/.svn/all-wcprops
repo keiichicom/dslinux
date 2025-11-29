@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod
+END
+hw_zencod.ec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/hw_zencod.ec
+END
+hw_zencod.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/hw_zencod.h
+END
+hw_zencod_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/hw_zencod_err.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/Makefile
+END
+hw_zencod_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/hw_zencod_err.h
+END
+hw_zencod.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/zencod/hw_zencod.c
+END

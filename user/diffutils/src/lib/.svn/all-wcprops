@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/Makefile.am
+END
+prepargs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/prepargs.h
+END
+strtoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strtoull.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/gettext.h
+END
+exclude.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/exclude.c
+END
+imaxtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/imaxtostr.c
+END
+c-stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/c-stack.h
+END
+strtoimax.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strtoimax.c
+END
+inttostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/inttostr.h
+END
+quotesys.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/quotesys.c
+END
+exclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/exclude.h
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/xmalloc.c
+END
+setmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/setmode.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/Makefile.in
+END
+quotesys.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/quotesys.h
+END
+waitpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/waitpid.c
+END
+setmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/setmode.h
+END
+strtoumax.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strtoumax.c
+END
+tempname.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/tempname.c
+END
+umaxtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/umaxtostr.c
+END
+hard-locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/hard-locale.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strtoul.c
+END
+freesoft.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/freesoft.c
+END
+unlocked-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/unlocked-io.h
+END
+mkstemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/mkstemp.c
+END
+hard-locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/hard-locale.h
+END
+freesoft.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/freesoft.h
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/getopt1.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strtol.c
+END
+xalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/xalloc.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/error.c
+END
+alloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/alloca.c
+END
+strftime.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strftime.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/error.h
+END
+xstrtoumax.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/xstrtoumax.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/getopt.c
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/strcasecmp.c
+END
+exitfail.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/exitfail.c
+END
+offtostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/offtostr.c
+END
+regex.hin
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/regex.hin
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/malloc.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/getopt.h
+END
+exitfail.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/exitfail.h
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/regex.c
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/memchr.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/basename.c
+END
+fnmatch.hin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/fnmatch.hin
+END
+cmpbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/cmpbuf.c
+END
+posixver.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posixver.c
+END
+xstrtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/xstrtol.c
+END
+fnmatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/fnmatch.c
+END
+cmpbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/cmpbuf.h
+END
+realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/realloc.c
+END
+prepargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/prepargs.c
+END
+dirname.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/dirname.h
+END
+posixver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/posixver.h
+END
+xstrtol.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/xstrtol.h
+END
+c-stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/c-stack.c
+END
+inttostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2303/trunk/user/diffutils/src/lib/inttostr.c
+END

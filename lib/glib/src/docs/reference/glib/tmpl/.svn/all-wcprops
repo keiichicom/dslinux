@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl
+END
+allocators.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/allocators.sgml
+END
+timers.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/timers.sgml
+END
+async_queues.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/async_queues.sgml
+END
+trees-binary.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/trees-binary.sgml
+END
+types.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/types.sgml
+END
+bookmarkfile.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/bookmarkfile.sgml
+END
+datalist.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/datalist.sgml
+END
+trash_stack.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/trash_stack.sgml
+END
+shell.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/shell.sgml
+END
+memory.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/memory.sgml
+END
+conversions.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/conversions.sgml
+END
+option.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/option.sgml
+END
+memory_slices.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/memory_slices.sgml
+END
+random_numbers.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/random_numbers.sgml
+END
+linked_lists_double.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/linked_lists_double.sgml
+END
+glib-unused.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/glib-unused.sgml
+END
+atomic_operations.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/atomic_operations.sgml
+END
+string_chunks.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/string_chunks.sgml
+END
+iochannels.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/iochannels.sgml
+END
+hooks.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/hooks.sgml
+END
+main.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/main.sgml
+END
+macros.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/macros.sgml
+END
+base64.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/base64.sgml
+END
+version.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/version.sgml
+END
+string_utils.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/string_utils.sgml
+END
+unicode.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/unicode.sgml
+END
+keyfile.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/keyfile.sgml
+END
+spawn.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/spawn.sgml
+END
+scanner.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/scanner.sgml
+END
+trees-nary.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/trees-nary.sgml
+END
+threads.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/threads.sgml
+END
+windows.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/windows.sgml
+END
+byte_order.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/byte_order.sgml
+END
+markup.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/markup.sgml
+END
+fileutils.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/fileutils.sgml
+END
+arrays.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/arrays.sgml
+END
+arrays_pointer.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/arrays_pointer.sgml
+END
+quarks.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/quarks.sgml
+END
+messages.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/messages.sgml
+END
+datasets.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/datasets.sgml
+END
+modules.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/modules.sgml
+END
+completion.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/completion.sgml
+END
+misc_utils.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/misc_utils.sgml
+END
+hash_tables.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/hash_tables.sgml
+END
+date.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/date.sgml
+END
+i18n.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/i18n.sgml
+END
+numerical.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/numerical.sgml
+END
+error_reporting.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/error_reporting.sgml
+END
+memory_chunks.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/memory_chunks.sgml
+END
+thread_pools.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/thread_pools.sgml
+END
+arrays_byte.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/arrays_byte.sgml
+END
+queue.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/queue.sgml
+END
+linked_lists_single.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/linked_lists_single.sgml
+END
+caches.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/caches.sgml
+END
+type_conversion.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/type_conversion.sgml
+END
+warnings.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/warnings.sgml
+END
+strings.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/strings.sgml
+END
+macros_misc.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/macros_misc.sgml
+END
+patterns.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/patterns.sgml
+END
+relations.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/relations.sgml
+END
+limits.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/glib/src/docs/reference/glib/tmpl/limits.sgml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon
+END
+Makefrag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/Makefrag
+END
+backlocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/backlocal.h
+END
+Makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/Makefile.bsd
+END
+extra.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/extra.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/main.c
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/text.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/version.c
+END
+move.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/move.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/.svnignore
+END
+backgammon.6.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/games/bsdgames/backgammon/backgammon/backgammon.6.in
+END

@@ -1,0 +1,51 @@
+TREK(6)                        BSD Games Manual
+TREK(6)
+
+NNAAMMEE
+     ttrreekk — trekkie game
+
+SSYYNNOOPPSSIISS
+     ttrreekk [[--aa] _f_i_l_e]
+
+DDEESSCCRRIIPPTTIIOONN
+     ttrreekk is a game of space glory and war.  Below is
+     a summary of commands.  For complete documentation,
+     see _T_r_e_k by Eric Allman.
+
+     If a filename is given, a log of the game is written
+     onto that file.  If the --aa flag is given before the
+     filename, that file is appended to, not truncated.
+
+     The game will ask you what length game you would like.
+     Valid responses are “short”, “medium”,
+     and “long”.  You may also type “restart”,
+     which restarts a previously saved game.  You will then
+     be prompted for the skill, to which you must respond
+     “novice”, “fair”, “good”, “expert”,
+     “commodore”, or “impossible”.  You should normally
+     start out with a novice and work up.
+
+     In general, throughout the game, if you forget what is
+     appropriate the game will tell you what it expects if
+     you just type in a question mark.
+
+AAUUTTHHOORR
+     Eric Allman
+
+SSEEEE AALLSSOO
+     _/_u_s_r_/_s_h_a_r_e_/_d_o_c_/_b_s_d_g_a_m_e_s_/_t_r_e_k_._m_e
+
+CCOOMMMMAANNDD SSUUMMMMAARRYY
+     aabbaannddoonn ccaapture cclloak
+     uup/ddown ccomputer request; ...  ddaamages
+     ddeessttrruucctt ddoock hheellpp iimpulse
+     course distance llrscan mmove course distance
+     pphasers aautomatic amount pphasers mmanual amt1
+     course1 spread1 ...  ttorpedo course [yyes] angle/nno
+     rraamm course distance rrest time sshheellll
+     sshhields uup/ddown ssrscan [yyes/ nno] ssttatus
+     tteerrmmiinnaattee yyes/nno uundock vvisual
+     course wwarp warp_factor
+
+BSD                            December 30, 1993
+BSD

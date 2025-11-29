@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired
+END
+ICE.crl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/ICE.crl
+END
+ICE-CA.pem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/ICE-CA.pem
+END
+ICE-root.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/ICE-root.pem
+END
+RegTP-4R.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/RegTP-4R.pem
+END
+factory.pem
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/factory.pem
+END
+vsign2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/vsign2.pem
+END
+rsa-cca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/rsa-cca.pem
+END
+vsign3.pem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/vsign3.pem
+END
+ICE-user.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/ICE-user.pem
+END
+rsa-ssca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/expired/rsa-ssca.pem
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches
+END
+smbclient-pager.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/smbclient-pager.patch
+END
+installswat.sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/installswat.sh.patch
+END
+smbmount-mtab-flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/smbmount-mtab-flags.patch
+END
+fhs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/fhs.patch
+END
+smbmount-nomtab.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/smbmount-nomtab.patch
+END
+samba.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/samba.patch
+END
+VERSION.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/VERSION.patch
+END
+nmbd-signalling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/nmbd-signalling.patch
+END
+smbclient-tar.patch.unused
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/smbclient-tar.patch.unused
+END
+documentation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/documentation.patch
+END
+smbstatus-locking.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/user/samba/packaging/Debian/debian-unstable/patches/smbstatus-locking.patch
+END

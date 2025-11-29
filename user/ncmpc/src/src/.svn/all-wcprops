@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/command.h
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/conf.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/Makefile.am
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/conf.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/options.c
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/options.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/utils.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/Makefile.in
+END
+screen_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_search.c
+END
+screen_play.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_play.c
+END
+screen_browse.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_browse.h
+END
+ncmpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/ncmpc.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/utils.h
+END
+screen_keydef.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_keydef.c
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/support.c
+END
+screen_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_file.c
+END
+mpdclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/mpdclient.c
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/support.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/main.c
+END
+mpdclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/mpdclient.h
+END
+screen_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_help.c
+END
+screen_clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_clock.c
+END
+wreadln.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/wreadln.c
+END
+screen_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_utils.c
+END
+colors.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/colors.c
+END
+wreadln.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/wreadln.h
+END
+list_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/list_window.c
+END
+screen_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen_utils.h
+END
+strfsong.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/strfsong.c
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/colors.h
+END
+libmpdclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/libmpdclient.c
+END
+list_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/list_window.h
+END
+strfsong.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/strfsong.h
+END
+libmpdclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/libmpdclient.h
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/command.c
+END
+screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/ncmpc/src/src/screen.c
+END

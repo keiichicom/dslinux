@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2361/trunk/user/console-tools/src/screenfonttools
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/Makefile.am
+END
+charset
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/charset
+END
+clrunimap.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/clrunimap.c
+END
+showcfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/showcfont.c
+END
+unicode_stop
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/unicode_stop
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/README
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2361/trunk/user/console-tools/src/screenfonttools/Makefile.in
+END
+unicode_start
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/unicode_start
+END
+consolechars.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2287/trunk/user/console-tools/src/screenfonttools/consolechars.c
+END

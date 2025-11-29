@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo
+END
+timCA.pem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/timCA.pem
+END
+ca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/ca-cert.pem
+END
+pca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/pca-cert.pem
+END
+vsigntca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/vsigntca.pem
+END
+nortelCA.pem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/nortelCA.pem
+END
+dsa-ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/dsa-ca.pem
+END
+dsa-pca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/dsa-pca.pem
+END
+tjhCA.pem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/certs/demo/tjhCA.pem
+END

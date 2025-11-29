@@ -1,0 +1,12 @@
+.PHONY: viewml
+DIRS-$(CONFIG_VIEWML) += viewml
+
+.PHONY: nxdoom
+DIRS-$(CONFIG_NXDOOM) += nxdoom
+
+.PHONY: flash
+DIRS-$(CONFIG_NXFLASH) += flash
+
+.PHONY: dvdview
+DIRS-$(CONFIG_DVDVIEW) += dvdview
+

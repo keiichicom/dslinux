@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/export.h
+END
+libcharset.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/libcharset.h.in
+END
+localcharset.h.build.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/localcharset.h.build.in
+END
+localcharset.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/localcharset.h.in
+END
+libcharset.h.msvc-shared
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/libcharset.h.msvc-shared
+END
+localcharset.h.msvc-shared
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/include/localcharset.h.msvc-shared
+END

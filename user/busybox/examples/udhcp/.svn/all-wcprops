@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp
+END
+sample.renew
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/sample.renew
+END
+sample.script
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/sample.script
+END
+sample.bound
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/sample.bound
+END
+sample.nak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/sample.nak
+END
+udhcpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/udhcpd.conf
+END
+simple.script
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/simple.script
+END
+sample.deconfig
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/examples/udhcp/sample.deconfig
+END

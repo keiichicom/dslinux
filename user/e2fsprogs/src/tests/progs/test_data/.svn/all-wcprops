@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data
+END
+expect.irel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/expect.irel
+END
+test.brel
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/test.brel
+END
+ima.setup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/ima.setup
+END
+normal.setup
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/normal.setup
+END
+expect.icount
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/expect.icount
+END
+test.irel
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/test.irel
+END
+expect.brel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/expect.brel
+END
+bma.setup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/bma.setup
+END
+test.icount
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/test.icount
+END
+opt.setup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/tests/progs/test_data/opt.setup
+END

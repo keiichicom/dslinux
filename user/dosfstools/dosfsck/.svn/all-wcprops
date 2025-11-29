@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/COPYING
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/CHANGES
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/common.c
+END
+dosfsck.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/dosfsck.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/common.h
+END
+dosfsck.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/dosfsck.h
+END
+boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/boot.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/io.c
+END
+boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/boot.h
+END
+fat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/fat.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/README
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/io.h
+END
+check.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/check.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/file.c
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/fat.h
+END
+lfn.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/lfn.c
+END
+dosfsck.8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/dosfsck.8
+END
+check.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/check.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/file.h
+END
+lfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/dosfstools/dosfsck/lfn.h
+END

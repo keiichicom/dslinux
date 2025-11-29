@@ -1,0 +1,1061 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2269/trunk/lib/libm
+END
+j1f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/j1f.c
+END
+atan.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/atan.c
+END
+clogf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/clogf.c
+END
+cosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/cosh.c
+END
+constf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/constf.c
+END
+ellik.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ellik.c
+END
+mtherr.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/mtherr.c
+END
+polyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/polyn.c
+END
+asinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/asinh.c
+END
+zeta.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/zeta.c
+END
+rgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/rgamma.c
+END
+polyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/polyr.c
+END
+setprec.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/setprec.c
+END
+ellpef.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ellpef.c
+END
+sinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/sinhf.c
+END
+asinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/asinhf.c
+END
+k0.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/k0.c
+END
+sindgf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/sindgf.c
+END
+jnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/jnf.c
+END
+iv.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/iv.c
+END
+i0f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/i0f.c
+END
+k0f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/k0f.c
+END
+betaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/betaf.c
+END
+gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/gamma.c
+END
+modf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/modf.c
+END
+jvf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/jvf.c
+END
+yn.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/yn.c
+END
+gammaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/gammaf.c
+END
+ftoa.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/ftoa.c
+END
+atanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/atanf.c
+END
+cbrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/cbrt.c
+END
+cbrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/cbrtf.c
+END
+ellpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ellpe.c
+END
+sinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/sinh.c
+END
+expf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/expf.c
+END
+j0tst.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/j0tst.c
+END
+hypergf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/hypergf.c
+END
+isnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/isnan.c
+END
+zetaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/zetaf.c
+END
+incbetf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/incbetf.c
+END
+chdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/chdtrf.c
+END
+expn.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/expn.c
+END
+powf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/powf.c
+END
+igam.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/igam.c
+END
+expnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/expnf.c
+END
+tan.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/tan.c
+END
+polylog.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/polylog.c
+END
+floorf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/floorf.c
+END
+sici.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/sici.c
+END
+tanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/tanf.c
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/lib/libm/COPYING.LIB
+END
+ei.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/ei.c
+END
+facf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/facf.c
+END
+fdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/fdtr.c
+END
+coshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/coshf.c
+END
+acoshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/acoshf.c
+END
+stdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/stdtrf.c
+END
+ndtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/ndtr.c
+END
+polevlf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/polevlf.c
+END
+planck.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/planck.c
+END
+i0.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/i0.c
+END
+rgammaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/rgammaf.c
+END
+k1.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/k1.c
+END
+expx2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/expx2f.c
+END
+ellpkf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ellpkf.c
+END
+nbdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/nbdtrf.c
+END
+floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/floor.c
+END
+spencef.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/spencef.c
+END
+fmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/fmod.c
+END
+igami.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/igami.c
+END
+round.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/round.c
+END
+fac.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/fac.c
+END
+exp10.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/exp10.c
+END
+fresnlf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/fresnlf.c
+END
+polevl.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/polevl.c
+END
+log2.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/log2.c
+END
+chbevl.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/chbevl.c
+END
+ellpj.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ellpj.c
+END
+zetac.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/zetac.c
+END
+jn.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/jn.c
+END
+nbdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/nbdtr.c
+END
+dawsn.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/dawsn.c
+END
+shichif.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/shichif.c
+END
+pdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/pdtrf.c
+END
+jv.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/jv.c
+END
+i1f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/i1f.c
+END
+k1f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/k1f.c
+END
+log10.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/log10.c
+END
+exp2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/exp2f.c
+END
+powif.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/powif.c
+END
+ndtrif.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ndtrif.c
+END
+const.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/const.c
+END
+log10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/log10f.c
+END
+fresnl.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/fresnl.c
+END
+asin.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/asin.c
+END
+ellie.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ellie.c
+END
+tandg.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/tandg.c
+END
+asinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/asinf.c
+END
+ellief.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ellief.c
+END
+stdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/stdtr.c
+END
+mathf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/mathf.h
+END
+mconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/mconf.h
+END
+unity.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/unity.c
+END
+pdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/pdtr.c
+END
+log2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/log2f.c
+END
+i1.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/i1.c
+END
+chbevlf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/chbevlf.c
+END
+knf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/knf.c
+END
+j0f.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/j0f.c
+END
+hyp2f1f.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/hyp2f1f.c
+END
+igamf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/igamf.c
+END
+cmplx.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/cmplx.c
+END
+ivf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/ivf.c
+END
+incbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/incbi.c
+END
+logf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/logf.c
+END
+drand.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/drand.c
+END
+atanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/atanh.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/Makefile
+END
+ynf.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/ynf.c
+END
+hyperg.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/hyperg.c
+END
+struvef.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/struvef.c
+END
+sinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/sinf.c
+END
+sqrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/sqrtf.c
+END
+lrand.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/lrand.c
+END
+gcvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/gcvt.c
+END
+airy.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/airy.c
+END
+gdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/gdtrf.c
+END
+polmisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2269/trunk/lib/libm/polmisc.c
+END
+ellpk.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ellpk.c
+END
+j0.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/j0.c
+END
+hyp2f1.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/hyp2f1.c
+END
+btdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/btdtr.c
+END
+ndtri.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ndtri.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/log.c
+END
+dawsnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/dawsnf.c
+END
+clog.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/clog.c
+END
+cmplxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/cmplxf.c
+END
+sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/sin.c
+END
+sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/sqrt.c
+END
+tanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/tanh.c
+END
+bdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/bdtr.c
+END
+psi.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/psi.c
+END
+tanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/tanhf.c
+END
+atanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/atanhf.c
+END
+exp10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/exp10f.c
+END
+sindg.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/sindg.c
+END
+pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/pow.c
+END
+ellikf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ellikf.c
+END
+expx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/expx2.c
+END
+shichi.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/shichi.c
+END
+kn.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/kn.c
+END
+mtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/mtst.c
+END
+struve.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/struve.c
+END
+incbif.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/incbif.c
+END
+igamif.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/igamif.c
+END
+exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2269/trunk/lib/libm/exp.c
+END
+acosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/acosh.c
+END
+sicif.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/sicif.c
+END
+kolmogorov.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/lib/libm/kolmogorov.c
+END
+gdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/gdtr.c
+END
+bdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/bdtrf.c
+END
+psif.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/psif.c
+END
+tandgf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/tandgf.c
+END
+incbet.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/incbet.c
+END
+chdtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/chdtr.c
+END
+fdtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/fdtrf.c
+END
+polynf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/polynf.c
+END
+j1.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/lib/libm/j1.c
+END
+airyf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/airyf.c
+END
+beta.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/beta.c
+END
+ellpjf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/ellpjf.c
+END
+zetacf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/zetacf.c
+END
+ndtrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/libm/ndtrf.c
+END
+spence.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2269/trunk/lib/libm/spence.c
+END
+exp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/exp2.c
+END
+powi.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/libm/powi.c
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/ChangeLog
+END
+xopen-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/xopen-msg.sed
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/finddomain.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/gettextP.h
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/localealias.c
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/l10nflist.c
+END
+linux-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/linux-msg.sed
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/textdomain.c
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/loadmsgcat.c
+END
+libgettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/libgettext.h
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/bindtextdom.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/gettext.c
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/intl-compat.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/dgettext.c
+END
+cat-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/cat-compat.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/gettext.h
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/dcgettext.c
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/hash-string.h
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/loadinfo.h
+END
+po2tbl.sed.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/po2tbl.sed.in
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/explodename.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/intl/Makefile.in
+END

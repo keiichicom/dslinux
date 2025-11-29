@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/Makefile
+END
+getopt_mk_fifo_nod.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/getopt_mk_fifo_nod.c
+END
+xgetoptfile_sort_uniq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/xgetoptfile_sort_uniq.c
+END
+coreutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/coreutils.h
+END
+cp_mv_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/cp_mv_stat.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/coreutils/libcoreutils/Makefile.in
+END

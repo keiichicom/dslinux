@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep
+END
+egrep-supports-extended-regexps
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/egrep-supports-extended-regexps
+END
+grep-handles-binary-files
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/grep-handles-binary-files
+END
+grep-matches-NUL
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/grep-matches-NUL
+END
+grep-handles-multiple-regexps
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/grep-handles-multiple-regexps
+END
+egrep-is-not-case-insensitive
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/egrep-is-not-case-insensitive
+END
+grep-is-also-egrep
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/grep/grep-is-also-egrep
+END

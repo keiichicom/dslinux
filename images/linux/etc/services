@@ -1,0 +1,10 @@
+telnet 23/tcp
+ssh 22/udp
+ssh 22/tcp
+ftp 21/tcp
+ftp-data 20/tcp
+ftp-data 20/udp
+advent4 8898/tcp
+dungeon 8899/tcp
+netbios-ssn 139/tcp
+netbios-ns 137/udp

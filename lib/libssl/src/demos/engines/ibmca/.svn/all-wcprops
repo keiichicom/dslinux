@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca
+END
+hw_ibmca_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/hw_ibmca_err.c
+END
+hw_ibmca_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/hw_ibmca_err.h
+END
+hw_ibmca.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/hw_ibmca.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/Makefile
+END
+ica_openssl_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/ica_openssl_api.h
+END
+hw_ibmca.ec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libssl/src/demos/engines/ibmca/hw_ibmca.ec
+END

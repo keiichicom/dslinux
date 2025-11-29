@@ -1,0 +1,119 @@
+DF(1)                            User Commands
+DF(1)
+
+
+
+NNAAMMEE
+       df - report file system disk space usage
+
+SSYYNNOOPPSSIISS
+       ddff [_O_P_T_I_O_N]... [_F_I_L_E]...
+
+DDEESSCCRRIIPPTTIIOONN
+       This  manual  page  documents  the  GNU version of
+       ddff.  ddff displays the amount of disk space
+       available on the file system containing each  file
+       name  argument.   If  no file name is given, the
+       space available on all currently mounted file systems
+       is shown.  Disk space  is  shown  in  1K blocks  by
+       default, unless the environment variable POSIXLY_CORRECT
+       is set, in which case 512-byte blocks are used.
+
+       If an argument is the absolute file name of a disk
+       device node contain‐ ing  a  mounted  file system,
+       ddff shows the space available on that file system
+       rather than on the file system containing the device
+       node (which is  always  the  root file system).
+       This version of ddff cannot show the space available
+       on unmounted file systems, because  on  most  kinds  of
+       systems  doing  so requires very nonportable intimate
+       knowledge of file system structures.
+
+OOPPTTIIOONNSS
+       Show information about the file system on which each
+       FILE  resides,  or all file systems by default.
+
+       Mandatory  arguments  to  long  options are mandatory
+       for short options too.
+
+       --aa, ----aallll
+              include dummy file systems
+
+       --BB,
+       ----bblloocckk--ssiizzee=_S_I_Z_E use
+       SIZE-byte blocks
+
+       --hh, ----hhuummaann--rreeaaddaabbllee
+              print sizes in human readable format (e.g.,
+              1K 234M 2G)
+
+       --HH, ----ssii
+              likewise, but use powers of 1000 not 1024
+
+       --ii, ----iinnooddeess
+              list inode information instead of block usage
+
+       --kk     like
+       ----bblloocckk--ssiizzee=_1_K
+
+       --ll, ----llooccaall
+              limit listing to local file systems
+
+       ----nnoo--ssyynncc
+              do not invoke sync before getting usage info
+              (default)
+
+       --PP, ----ppoorrttaabbiilliittyy
+              use the POSIX output format
+
+       ----ssyynncc invoke sync before getting usage info
+
+       --tt, ----ttyyppee=_T_Y_P_E
+              limit listing to file systems of type TYPE
+
+       --TT, ----pprriinntt--ttyyppee
+              print file system type
+
+       --xx,
+       ----eexxcclluuddee--ttyyppee=_T_Y_P_E
+              limit listing to file systems not of type TYPE
+
+       --vv     (ignored)
+
+       ----hheellpp display this help and exit
+
+       ----vveerrssiioonn
+              output version information and exit
+
+       SIZE may be (or may be an integer optionally followed
+       by) one  of  fol‐ lowing: kB 1000, K 1024, MB
+       1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.
+
+AAUUTTHHOORR
+       Written by Torbjorn Granlund, David MacKenzie, and
+       Paul Eggert.
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       Report bugs to <bug-coreutils@gnu.org>.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright © 2006 Free Software Foundation, Inc.
+       This is free software.  You may redistribute
+       copies  of  it  under  the terms       of
+       the      GNU      General      Public      License
+       <http://www.gnu.org/licenses/gpl.html>.  There is NO
+       WARRANTY,  to  the extent permitted by law.
+
+SSEEEE AALLSSOO
+       The  full  documentation  for ddff is maintained as a
+       Texinfo manual.  If the iinnffoo and ddff programs
+       are properly installed at your site, the  com‐ mand
+
+              iinnffoo ddff
+
+       should give you access to the complete manual.
+
+
+
+df 6.7                           December 2006
+DF(1)

@@ -1,0 +1,1 @@
+/home/andrewec/dslinux/lib/libsamplerate/src/src/high_qual_coeffs.h

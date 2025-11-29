@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile
+END
+aupvlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aupvlist.h
+END
+aupvinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aupvinternal.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/util.c
+END
+marker.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/marker.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/util.h
+END
+audiofile.exports
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/audiofile.exports
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/marker.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/debug.c
+END
+nistwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/nistwrite.c
+END
+nextwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/nextwrite.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/error.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/debug.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/error.h
+END
+extended.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/extended.c
+END
+extended.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/extended.h
+END
+modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules.c
+END
+aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aes.c
+END
+loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/loop.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/data.c
+END
+aupv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aupv.c
+END
+modules.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/modules.h
+END
+wavewrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/wavewrite.c
+END
+openclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/openclose.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/raw.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/raw.h
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/setup.c
+END
+units.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/units.c
+END
+iff.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/iff.c
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/setup.h
+END
+aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aiff.c
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/units.h
+END
+instrument.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/instrument.c
+END
+iff.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/iff.h
+END
+aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aiff.h
+END
+instrument.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/instrument.h
+END
+next.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/next.c
+END
+iffwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/iffwrite.c
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/g711.c
+END
+next.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/next.h
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/g711.h
+END
+avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/avr.c
+END
+afinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/afinternal.h
+END
+avr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/avr.h
+END
+wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/wave.c
+END
+avrwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/avrwrite.c
+END
+query.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/query.c
+END
+ircamwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/ircamwrite.c
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/wave.h
+END
+nist.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/nist.c
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/pcm.c
+END
+aiffwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/aiffwrite.c
+END
+nist.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/nist.h
+END
+pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/pcm.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/Makefile.am
+END
+format.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/format.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/misc.c
+END
+ircam.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/ircam.c
+END
+byteorder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/byteorder.c
+END
+ircam.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/ircam.h
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/print.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/Makefile.in
+END
+compression.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/compression.c
+END
+track.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/track.c
+END
+af_vfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/af_vfs.c
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/byteorder.h
+END
+audiofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/audiofile.h
+END
+compression.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/compression.h
+END
+track.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/track.h
+END
+af_vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/audiofile/src/libaudiofile/af_vfs.h
+END

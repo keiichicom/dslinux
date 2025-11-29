@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2361/trunk/user/console-tools/src/lib
+END
+ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/ksyms.c
+END
+kernelfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/kernelfont.c
+END
+saveunimap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/saveunimap.c
+END
+sfm-rd-binary.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-rd-binary.c
+END
+fontstruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/fontstruct.c
+END
+miscutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/miscutils.c
+END
+sfm-rd-ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-rd-ascii.c
+END
+sfm-misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-misc.c
+END
+psf-header.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/psf-header.c
+END
+findfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/findfile.c
+END
+sfm-fallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-fallback.c
+END
+sfm-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-utils.c
+END
+xfseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/xfseek.c
+END
+testUTF8.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/testUTF8.c
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/unicode.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/Makefile.am
+END
+misc-console-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/misc-console-utils.c
+END
+sfm-wr-binary.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-wr-binary.c
+END
+xfopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/xfopen.c
+END
+fontdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/fontdata.c
+END
+findfile-lct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/findfile-lct.c
+END
+acm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/acm.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2361/trunk/user/console-tools/src/lib/Makefile.in
+END
+sfm-wr-ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/sfm-wr-ascii.c
+END
+wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/lib/wrappers.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/echo
+END
+echo-prints-newline
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/echo/echo-prints-newline
+END
+echo-prints-argument
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/echo/echo-prints-argument
+END
+echo-does-not-print-newline
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/echo/echo-does-not-print-newline
+END
+echo-prints-arguments
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/echo/echo-prints-arguments
+END

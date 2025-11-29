@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples
+END
+kdc-pdc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples/kdc-pdc
+END
+password-migration
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples/password-migration
+END
+password-sync
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples/password-sync
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples/README
+END
+password-mature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/source/pam_smbpass/samples/password-mature
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio
+END
+rw_ppm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/rw_ppm.cc
+END
+rw_uyvy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/rw_uyvy.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/Makefile.am
+END
+write_yuv.hh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/write_yuv.hh
+END
+read_yuv.hh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/read_yuv.hh
+END
+v4l_grab.hh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/v4l_grab.hh
+END
+write_yuv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/write_yuv.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/Makefile.in
+END
+read_yuv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/read_yuv.cc
+END
+rw_ppm.hh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/rw_ppm.hh
+END
+rw_uyvy.hh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/rw_uyvy.hh
+END
+v4l_grab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2269/trunk/user/pixil/packages/dvdview/dvdview/libvideogfx/libvideogfx/graphics/fileio/v4l_grab.cc
+END

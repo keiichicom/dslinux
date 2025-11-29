@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2269/trunk/user/wnc/test
+END
+network
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/wnc/test/network
+END
+iwlist_scan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/wnc/test/iwlist_scan.txt
+END
+msh.c.diff
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/wnc/test/msh.c.diff
+END
+testwnc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/wnc/test/testwnc.sh
+END

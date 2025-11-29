@@ -1,0 +1,129 @@
+IWPRIV(8)                  Linux Programmer's Manual
+IWPRIV(8)
+
+
+
+NNAAMMEE
+       iwpriv - configure optionals (private) parameters of
+       a wireless network interface
+
+SSYYNNOOPPSSIISS
+       iiwwpprriivv [[_i_n_t_e_r_f_a_c_e]]
+       iiwwpprriivv _i_n_t_e_r_f_a_c_e
+       _p_r_i_v_a_t_e_-_c_o_m_m_a_n_d
+       [[_p_r_i_v_a_t_e_-_p_a_r_a_m_e_t_e_r_s]]
+       iiwwpprriivv _i_n_t_e_r_f_a_c_e
+       _p_r_i_v_a_t_e_-_c_o_m_m_a_n_d _[_I_]
+       [[_p_r_i_v_a_t_e_-_p_a_r_a_m_e_t_e_r_s]]
+       iiwwpprriivv _i_n_t_e_r_f_a_c_e
+       ----aallll iiwwpprriivv
+       _i_n_t_e_r_f_a_c_e rrooaamm
+       _{_o_n_,_o_f_f_} iiwwpprriivv
+       _i_n_t_e_r_f_a_c_e ppoorrtt
+       _{_a_d_-_h_o_c_,_m_a_n_a_g_e_d_,_N_}
+
+DDEESSCCRRIIPPTTIIOONN
+       IIwwpprriivv is the companion tool to
+       _i_w_c_o_n_f_i_g(8).  IIwwpprriivv deals
+       with parame‐ ters  and setting specific to each
+       driver (as opposed to _i_w_c_o_n_f_i_g which
+       deals with generic ones).
+
+       Without any argument, iiwwpprriivv list the
+       available private commands avail‐ able  on  each
+       interface,  and the parameters that they require. Using
+       this information, the user may apply those interface
+       specific  commands on the specified interface.
+
+       In  theory, the documentation of each device driver
+       should indicate how to use those interface specific
+       commands and their effect.
+
+PPAARRAAMMEETTEERRSS
+       _p_r_i_v_a_t_e_-_c_o_m_m_a_n_d
+       [_p_r_i_v_a_t_e_-_p_a_r_a_m_e_t_e_r_s]
+              Execute the specified
+              _p_r_i_v_a_t_e_-_c_o_m_m_a_n_d
+              on the interface.  The command may optionally
+              take or require  arguments,  and  may display
+              information. Therefore, the command line
+              parameters may or may not be needed and should
+              match the command  expectations.  The  list
+              of commands that iiwwpprriivv displays
+              (when called without argument) should give you
+              some hints about those parameters.  However you
+              should refer to the device driver documentation
+              for information on how to properly use the
+              command and the effect.
+
+       _p_r_i_v_a_t_e_-_c_o_m_m_a_n_d
+       _[_I_] _[
+       _p_r_i_v_a_t_e_-_p_a_r_a_m_e_t_e_r_s
+       _]
+              Idem,  except  that _I (an integer) is passed to
+              the command as a _T_o_k_e_n _I_n_d_e_x.
+              Only some command will use the Token  Index
+              (most will  ignore  it),  and the driver
+              documentation should tell you when it's needed.
+
+       --aa/----aallll
+              Execute and display all the private commands
+              that don't take any arguments (i.e.  read only).
+
+       rrooaamm   Enable  or  disable roaming, if
+       supported. Call the private com‐
+              mand _s_e_t_r_o_a_m.  Found in the
+              _w_a_v_e_l_a_n___c_s driver.
+
+       ppoorrtt   Read or configure the  port  type.
+       Call  the  private  commands
+              _g_p_o_r_t___t_y_p_e,
+              _s_p_o_r_t___t_y_p_e,
+              _g_e_t___p_o_r_t or
+              _s_e_t___p_o_r_t found in the
+              _w_a_v_e_‐ _l_a_n_2___c_s and
+              _w_v_l_a_n___c_s drivers.
+
+DDIISSPPLLAAYY
+       For each device which support private commands,
+       _i_w_p_r_i_v will display the list of private
+       commands available.
+
+       This  include  the name of the private command, the
+       number or arguments that may be set and their type,
+       and the number or arguments that may be display and
+       their type.
+
+       For example, you may have the following display
+       : eetthh00      AAvvaaiillaabbllee
+       pprriivvaattee iiooccttll ::
+                 sseettqquuaalltthhrr
+                 ((8899FF00)) :: sseett
+                 11 bbyyttee && ggeett   00
+                 ggeetthhiissttoo ((8899FF77))
+                 :: sseett   00      && ggeett
+                 1166 iinntt
+
+       This  indicate  that  you  may set the quality threshold
+       and display an histogram of up to 16 values with the
+       following commands :
+         _i_w_p_r_i_v _e_t_h_0
+         _s_e_t_q_u_a_l_t_h_r _2_0
+         _i_w_p_r_i_v _e_t_h_0
+         _g_e_t_h_i_s_t_o
+
+AAUUTTHHOORR
+       Jean Tourrilhes - jt@hpl.hp.com
+
+FFIILLEESS
+       _/_p_r_o_c_/_n_e_t_/_w_i_r_e_l_e_s_s
+
+SSEEEE AALLSSOO
+       iiwwccoonnffiigg(8), iiwwlliisstt(8),
+       iiwweevveenntt(8), iiwwssppyy(8),
+       wwiirreelleessss(7).
+
+
+
+net-tools                       31 October 1996
+IWPRIV(8)

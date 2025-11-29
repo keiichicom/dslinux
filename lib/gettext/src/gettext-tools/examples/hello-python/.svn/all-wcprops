@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/configure.ac
+END
+autoclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/autoclean.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/INSTALL
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/autogen.sh
+END
+hello.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/lib/gettext/src/gettext-tools/examples/hello-python/hello.py.in
+END

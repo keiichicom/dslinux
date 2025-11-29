@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry
+END
+NT4-Locking.reg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/NT4-Locking.reg
+END
+Win-NT-DeleteRoamingProfile.reg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win-NT-DeleteRoamingProfile.reg
+END
+NT4_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/NT4_PlainPassword.reg
+END
+WinXP_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/WinXP_PlainPassword.reg
+END
+WinXP_SignOrSeal.reg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/WinXP_SignOrSeal.reg
+END
+Win-2Kx-XPP-ForceLocalProfile.reg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win-2Kx-XPP-ForceLocalProfile.reg
+END
+WindowsTerminalServer.reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/WindowsTerminalServer.reg
+END
+Win-2Kx-XPP-DeleteCachedProfiles.reg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win-2Kx-XPP-DeleteCachedProfiles.reg
+END
+Win95_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win95_PlainPassword.reg
+END
+Win98_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win98_PlainPassword.reg
+END
+Win9X-CacheHandling.reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win9X-CacheHandling.reg
+END
+FolderRedir.adm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/FolderRedir.adm
+END
+Win2000_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/Win2000_PlainPassword.reg
+END
+WinME_PlainPassword.reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/docs/registry/WinME_PlainPassword.reg
+END

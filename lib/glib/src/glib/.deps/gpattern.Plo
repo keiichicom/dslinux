@@ -1,0 +1,73 @@
+gpattern.lo gpattern.o: gpattern.c ../config.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h gpattern.h ../glib/gtypes.h \
+  ../glibconfig.h ../glib/gmacros.h \
+  /home/andrewec/dslinux/uClibc/include/limits.h \
+  /home/andrewec/dslinux/include/gcc/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/local_lim.h \
+  /home/andrewec/dslinux/uClibc/include/linux/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h \
+  /home/andrewec/dslinux/include/gcc/float.h gmacros.h gmessages.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h gmem.h ../glib/gslice.h \
+  gunicode.h ../glib/gerror.h ../glib/gquark.h gutils.h galias.h \
+  galiasdef.c
+
+../config.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+gpattern.h:
+
+../glib/gtypes.h:
+
+../glibconfig.h:
+
+../glib/gmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/limits.h:
+
+/home/andrewec/dslinux/include/gcc/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/local_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h:
+
+/home/andrewec/dslinux/include/gcc/float.h:
+
+gmacros.h:
+
+gmessages.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+gmem.h:
+
+../glib/gslice.h:
+
+gunicode.h:
+
+../glib/gerror.h:
+
+../glib/gquark.h:
+
+gutils.h:
+
+galias.h:
+
+galiasdef.c:

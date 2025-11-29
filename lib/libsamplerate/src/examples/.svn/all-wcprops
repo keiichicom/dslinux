@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/Makefile.am
+END
+audio_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/audio_out.c
+END
+sndfile-resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/sndfile-resample.c
+END
+audio_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/audio_out.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/Makefile.in
+END
+timewarp-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/timewarp-file.c
+END
+varispeed-play.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/examples/varispeed-play.c
+END

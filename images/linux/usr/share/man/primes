@@ -1,0 +1,35 @@
+PRIMES(6)                      BSD Games Manual
+PRIMES(6)
+
+NNAAMMEE
+     pprriimmeess — generate primes
+
+SSYYNNOOPPSSIISS
+     pprriimmeess [_s_t_a_r_t [_s_t_o_p]]
+
+DDEESSCCRRIIPPTTIIOONN
+     The pprriimmeess utility prints primes in
+     ascending order, one per line, start‐ ing at or above
+     _s_t_a_r_t and continuing until, but not including
+     _s_t_o_p.  The _s_t_a_r_t value must be at least
+     0 and not greater than _s_t_o_p.  The _s_t_o_p
+     value must not be greater than 4294967295.  The default
+     value of _s_t_o_p is 4294967295.
+
+     When the pprriimmeess utility is invoked with
+     no arguments, _s_t_a_r_t is read from standard
+     input.  _s_t_o_p is taken to be 4294967295.
+     The _s_t_a_r_t value may be preceded by a single
+     ‘+’.  The _s_t_a_r_t value is terminated by
+     a non-digit character (such as a newline).  The input
+     line must not be longer than 255 characters.
+
+DDIIAAGGNNOOSSTTIICCSS
+     Out of range or invalid input results in an appropriate
+     error message being written to standard error.
+
+BBUUGGSS
+     pprriimmeess won't get you a world record.
+
+BSD                            February 8, 2004
+BSD

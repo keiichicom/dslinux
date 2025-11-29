@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/typemap
+END
+Statusbar.xs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/Statusbar.xs
+END
+TextBufferView.xs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/TextBufferView.xs
+END
+TextBuffer.xs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/TextBuffer.xs
+END
+TextUI.xs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/TextUI.xs
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/module.h
+END
+Makefile.PL.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/Makefile.PL.in
+END
+TextUI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/irssi/src/src/perl/textui/TextUI.pm
+END

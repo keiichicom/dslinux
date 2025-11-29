@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0
+END
+vars
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/vars
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/Makefile
+END
+build-inter
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-inter
+END
+build-ca
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-ca
+END
+inherit-inter
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/inherit-inter
+END
+pkitool
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/pkitool
+END
+build-req
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-req
+END
+build-key
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-key
+END
+sign-req
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/sign-req
+END
+build-key-pkcs12
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-key-pkcs12
+END
+openssl.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/openssl.cnf
+END
+clean-all
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/clean-all
+END
+build-req-pass
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-req-pass
+END
+build-dh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-dh
+END
+list-crl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/list-crl
+END
+build-key-server
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-key-server
+END
+build-key-pass
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/build-key-pass
+END
+revoke-full
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/revoke-full
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/README
+END
+whichopensslcnf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/whichopensslcnf
+END
+openssl-0.9.6.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/openvpn/src/easy-rsa/2.0/openssl-0.9.6.cnf
+END

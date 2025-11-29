@@ -1,0 +1,9 @@
+driver.o: driver.c ../player/driver.c ../include/config.h \
+  ../include/driver.h ../include/xmpi.h ../include/xmp.h ../include/xxm.h \
+  ../include/list.h ../include/convert.h ../include/driver.h \
+  ../include/mixer.h ../include/period.h ../include/readlzw.h \
+  ../player/../player/mixer.c ../include/config.h ../include/mixer.h \
+  ../player/../player/synth.h
+xpanel.o: xpanel.c xpanel.h ../include/xmp.h ../include/config.h bg2.xpm
+font1.o: font1.c xpanel.h ../include/xmp.h
+font2.o: font2.c xpanel.h ../include/xmp.h

@@ -1,0 +1,350 @@
+reliable.o reliable.o: reliable.c config.h syshead.h \
+  /home/andrewec/dslinux/uClibc/include/sys/types.h \
+  /home/andrewec/dslinux/uClibc/include/features.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h \
+  /home/andrewec/dslinux/uClibc/include/sys/cdefs.h \
+  /home/andrewec/dslinux/uClibc/include/bits/types.h \
+  /home/andrewec/dslinux/include/gcc/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/bits/kernel_types.h \
+  /home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sched.h \
+  /home/andrewec/dslinux/uClibc/include/time.h \
+  /home/andrewec/dslinux/uClibc/include/endian.h \
+  /home/andrewec/dslinux/uClibc/include/bits/endian.h \
+  /home/andrewec/dslinux/uClibc/include/sys/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/select.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigset.h \
+  /home/andrewec/dslinux/uClibc/include/bits/time.h \
+  /home/andrewec/dslinux/uClibc/include/sys/sysmacros.h \
+  /home/andrewec/dslinux/uClibc/include/sys/wait.h \
+  /home/andrewec/dslinux/uClibc/include/signal.h \
+  /home/andrewec/dslinux/uClibc/include/bits/signum.h \
+  /home/andrewec/dslinux/uClibc/include/bits/siginfo.h \
+  /home/andrewec/dslinux/uClibc/include/bits/wordsize.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigaction.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sigcontext.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigstack.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sigthread.h \
+  /home/andrewec/dslinux/uClibc/include/sys/resource.h \
+  /home/andrewec/dslinux/uClibc/include/bits/resource.h \
+  /home/andrewec/dslinux/uClibc/include/bits/waitflags.h \
+  /home/andrewec/dslinux/uClibc/include/bits/waitstatus.h \
+  /home/andrewec/dslinux/uClibc/include/sys/time.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h \
+  /home/andrewec/dslinux/uClibc/include/sys/socket.h \
+  /home/andrewec/dslinux/uClibc/include/sys/uio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/socket.h \
+  /home/andrewec/dslinux/uClibc/include/limits.h \
+  /home/andrewec/dslinux/include/gcc/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/local_lim.h \
+  /home/andrewec/dslinux/uClibc/include/linux/limits.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h \
+  /home/andrewec/dslinux/uClibc/include/bits/sockaddr.h \
+  /home/andrewec/dslinux/uClibc/include/asm/socket.h \
+  /home/andrewec/dslinux/uClibc/include/asm/sockios.h \
+  /home/andrewec/dslinux/uClibc/include/sys/ioctl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/ioctls.h \
+  /home/andrewec/dslinux/uClibc/include/asm/ioctls.h \
+  /home/andrewec/dslinux/uClibc/include/asm/ioctl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/ioctl-types.h \
+  /home/andrewec/dslinux/uClibc/include/sys/ttydefaults.h \
+  /home/andrewec/dslinux/uClibc/include/sys/stat.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stat.h \
+  /home/andrewec/dslinux/uClibc/include/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/bits/fcntl.h \
+  /home/andrewec/dslinux/uClibc/include/sys/file.h \
+  /home/andrewec/dslinux/uClibc/include/stdlib.h \
+  /home/andrewec/dslinux/uClibc/include/alloca.h \
+  /home/andrewec/dslinux/uClibc/include/stdint.h \
+  /home/andrewec/dslinux/include/gcc/stdarg.h \
+  /home/andrewec/dslinux/uClibc/include/unistd.h \
+  /home/andrewec/dslinux/uClibc/include/bits/posix_opt.h \
+  /home/andrewec/dslinux/uClibc/include/bits/confname.h \
+  /home/andrewec/dslinux/uClibc/include/bits/getopt.h \
+  /home/andrewec/dslinux/uClibc/include/stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h \
+  /home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h \
+  /home/andrewec/dslinux/uClibc/include/ctype.h \
+  /home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h \
+  /home/andrewec/dslinux/uClibc/include/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno.h \
+  /home/andrewec/dslinux/uClibc/include/bits/errno_values.h \
+  /home/andrewec/dslinux/uClibc/include/syslog.h \
+  /home/andrewec/dslinux/uClibc/include/sys/syslog.h \
+  /home/andrewec/dslinux/uClibc/include/pwd.h \
+  /home/andrewec/dslinux/uClibc/include/grp.h \
+  /home/andrewec/dslinux/uClibc/include/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/netinet/in.h \
+  /home/andrewec/dslinux/uClibc/include/bits/in.h \
+  /home/andrewec/dslinux/uClibc/include/bits/byteswap.h \
+  /home/andrewec/dslinux/uClibc/include/rpc/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/bits/netdb.h \
+  /home/andrewec/dslinux/uClibc/include/sys/poll.h \
+  /home/andrewec/dslinux/uClibc/include/bits/poll.h \
+  /home/andrewec/dslinux/uClibc/include/sys/epoll.h \
+  /home/andrewec/dslinux/uClibc/include/string.h \
+  /home/andrewec/dslinux/uClibc/include/arpa/inet.h \
+  /home/andrewec/dslinux/uClibc/include/net/if.h \
+  /home/andrewec/dslinux/uClibc/include/netinet/if_ether.h \
+  /home/andrewec/dslinux/uClibc/include/linux/if_ether.h \
+  /home/andrewec/dslinux/uClibc/include/net/ethernet.h \
+  /home/andrewec/dslinux/uClibc/include/net/if_arp.h \
+  /home/andrewec/dslinux/uClibc/include/linux/if_tun.h \
+  /home/andrewec/dslinux/uClibc/include/netinet/ip.h \
+  /home/andrewec/dslinux/uClibc/include/linux/sockios.h \
+  /home/andrewec/dslinux/uClibc/include/linux/types.h \
+  /home/andrewec/dslinux/uClibc/include/linux/posix_types.h \
+  /home/andrewec/dslinux/uClibc/include/linux/stddef.h \
+  /home/andrewec/dslinux/uClibc/include/linux/compiler.h \
+  /home/andrewec/dslinux/uClibc/include/asm/posix_types.h \
+  /home/andrewec/dslinux/uClibc/include/asm/types.h \
+  /home/andrewec/dslinux/uClibc/include/linux/errqueue.h \
+  /home/andrewec/dslinux/uClibc/include/sys/mman.h \
+  /home/andrewec/dslinux/uClibc/include/bits/mman.h buffer.h basic.h \
+  thread.h common.h error.h errlevel.h reliable.h packet_id.h circ_list.h \
+  integer.h otime.h session_id.h mtu.h memdbg.h
+
+config.h:
+
+syshead.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/types.h:
+
+/home/andrewec/dslinux/uClibc/include/features.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_config.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/cdefs.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/types.h:
+
+/home/andrewec/dslinux/include/gcc/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/kernel_types.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/pthreadtypes.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sched.h:
+
+/home/andrewec/dslinux/uClibc/include/time.h:
+
+/home/andrewec/dslinux/uClibc/include/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/endian.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/select.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigset.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/time.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/sysmacros.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/wait.h:
+
+/home/andrewec/dslinux/uClibc/include/signal.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/signum.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/siginfo.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/wordsize.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigaction.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigcontext.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/sigcontext.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigstack.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sigthread.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/resource.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/resource.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/waitflags.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/waitstatus.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/time.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_clk_tck.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/socket.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/uio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/socket.h:
+
+/home/andrewec/dslinux/uClibc/include/limits.h:
+
+/home/andrewec/dslinux/include/gcc/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix1_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/local_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/limits.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix2_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/sockaddr.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/socket.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/sockios.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/ioctl.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/ioctls.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/ioctls.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/ioctl.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/ioctl-types.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/ttydefaults.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/stat.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stat.h:
+
+/home/andrewec/dslinux/uClibc/include/fcntl.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/fcntl.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/file.h:
+
+/home/andrewec/dslinux/uClibc/include/stdlib.h:
+
+/home/andrewec/dslinux/uClibc/include/alloca.h:
+
+/home/andrewec/dslinux/uClibc/include/stdint.h:
+
+/home/andrewec/dslinux/include/gcc/stdarg.h:
+
+/home/andrewec/dslinux/uClibc/include/unistd.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/posix_opt.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/confname.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/getopt.h:
+
+/home/andrewec/dslinux/uClibc/include/stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_stdio.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/stdio_lim.h:
+
+/home/andrewec/dslinux/uClibc/include/ctype.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/uClibc_ctype.h:
+
+/home/andrewec/dslinux/uClibc/include/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/errno_values.h:
+
+/home/andrewec/dslinux/uClibc/include/syslog.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/syslog.h:
+
+/home/andrewec/dslinux/uClibc/include/pwd.h:
+
+/home/andrewec/dslinux/uClibc/include/grp.h:
+
+/home/andrewec/dslinux/uClibc/include/netdb.h:
+
+/home/andrewec/dslinux/uClibc/include/netinet/in.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/in.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/byteswap.h:
+
+/home/andrewec/dslinux/uClibc/include/rpc/netdb.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/netdb.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/poll.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/poll.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/epoll.h:
+
+/home/andrewec/dslinux/uClibc/include/string.h:
+
+/home/andrewec/dslinux/uClibc/include/arpa/inet.h:
+
+/home/andrewec/dslinux/uClibc/include/net/if.h:
+
+/home/andrewec/dslinux/uClibc/include/netinet/if_ether.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/if_ether.h:
+
+/home/andrewec/dslinux/uClibc/include/net/ethernet.h:
+
+/home/andrewec/dslinux/uClibc/include/net/if_arp.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/if_tun.h:
+
+/home/andrewec/dslinux/uClibc/include/netinet/ip.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/sockios.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/types.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/posix_types.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/stddef.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/compiler.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/posix_types.h:
+
+/home/andrewec/dslinux/uClibc/include/asm/types.h:
+
+/home/andrewec/dslinux/uClibc/include/linux/errqueue.h:
+
+/home/andrewec/dslinux/uClibc/include/sys/mman.h:
+
+/home/andrewec/dslinux/uClibc/include/bits/mman.h:
+
+buffer.h:
+
+basic.h:
+
+thread.h:
+
+common.h:
+
+error.h:
+
+errlevel.h:
+
+reliable.h:
+
+packet_id.h:
+
+circ_list.h:
+
+integer.h:
+
+otime.h:
+
+session_id.h:
+
+mtu.h:
+
+memdbg.h:

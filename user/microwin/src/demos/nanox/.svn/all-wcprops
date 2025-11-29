@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox
+END
+nxeyes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxeyes.h
+END
+grabdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/grabdemo.c
+END
+slider.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/slider.c
+END
+bmpdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/bmpdemo.c
+END
+landmine.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/landmine.c
+END
+ntetris.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ntetris.c
+END
+t1demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/t1demo.c
+END
+ntetris.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ntetris.h
+END
+snap_jpg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/snap_jpg.c
+END
+tuxmask.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/tuxmask.h
+END
+nxcal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxcal.c
+END
+arcdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/arcdemo.c
+END
+ipcclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ipcclient.c
+END
+snap_ppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/snap_ppm.c
+END
+npanel.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/npanel.c
+END
+mwlogo.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/mwlogo.ppm
+END
+oneshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/oneshot.c
+END
+setportrait.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/setportrait.c
+END
+nxview.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxview.c
+END
+world.map
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/world.map
+END
+demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/demo.c
+END
+launcher.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/launcher.cnf
+END
+polydemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/polydemo.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/info.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/Makefile
+END
+periodic.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/periodic.c
+END
+nxclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxclock.c
+END
+ntetris.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ntetris.ppm
+END
+README.world
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/README.world
+END
+ipcserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ipcserver.c
+END
+demo2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/demo2.c
+END
+move.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/move.c
+END
+demo4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/demo4.c
+END
+demo6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/demo6.c
+END
+landmine.doc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/landmine.doc
+END
+uponface.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/uponface.ppm
+END
+pcfdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/pcfdemo.c
+END
+nxterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxterm.c
+END
+ftdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ftdemo.c
+END
+nxev.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxev.c
+END
+nxterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxterm.h
+END
+nterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nterm.c
+END
+tsdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/tsdemo.c
+END
+rgndemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/rgndemo.c
+END
+ntetris.syms
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ntetris.syms
+END
+launcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/launcher.c
+END
+tux.gif
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/tux.gif
+END
+wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/wait.c
+END
+nxlsclients.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxlsclients.c
+END
+launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/launcher.h
+END
+pressure.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/pressure.c
+END
+nxmag.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxmag.c
+END
+test.pbm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/test.pbm
+END
+fontdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/fontdemo.c
+END
+tux.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/tux.c
+END
+dashdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/dashdemo.c
+END
+getselection.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/getselection.c
+END
+world.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/world.c
+END
+slidebmp.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/slidebmp.bmp
+END
+nsaver.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nsaver.c
+END
+landmine.syms
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/landmine.syms
+END
+setselection.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/setselection.c
+END
+nsaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nsaver.h
+END
+convpbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/convpbm.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/.svnignore
+END
+logfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/logfont.c
+END
+demo5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/demo5.c
+END
+nxeyes.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/nxeyes.c
+END
+ftdemo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nanox/ftdemo.txt
+END

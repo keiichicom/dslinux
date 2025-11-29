@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian
+END
+initrd.ext3-add-journal
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/initrd.ext3-add-journal
+END
+uuid-runtime.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.postinst
+END
+e2fslibs.files
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fslibs.files
+END
+e2fsprogs.files
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs.files
+END
+ss-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/ss-dev.examples
+END
+libuuid1.files
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libuuid1.files
+END
+comerr-dev.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/comerr-dev.doc-base
+END
+comerr-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/comerr-dev.examples
+END
+libblkid.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libblkid.copyright
+END
+e2fsprogs.shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs.shlibs.local
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/changelog
+END
+uuid-runtime.files
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.files
+END
+libblkid-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libblkid-dev.files
+END
+uuid-dev.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-dev.copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/rules
+END
+libblkid1.files
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libblkid1.files
+END
+uuid-dev.README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-dev.README.Debian
+END
+libuuid1.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libuuid1.postinst
+END
+libss2.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libss2.copyright
+END
+libcomerr2.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libcomerr2.copyright
+END
+e2fsck-static.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsck-static.copyright
+END
+uuid-runtime.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.postrm
+END
+uuid-runtime.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.prerm
+END
+shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/shlibs.local
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/control
+END
+e2fslibs.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fslibs.copyright
+END
+e2fsprogs.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs.copyright
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/compat
+END
+uuid-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-dev.files
+END
+libuuid1.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libuuid1.copyright
+END
+e2fslibs-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fslibs-dev.files
+END
+e2fsprogs.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs.preinst
+END
+uuid-runtime.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.copyright
+END
+libss2.files
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libss2.files
+END
+e2fsck-static.lintian-overrides
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsck-static.lintian-overrides
+END
+initrd-tools.e2fsprogs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/initrd-tools.e2fsprogs
+END
+libuuid1.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libuuid1.postrm
+END
+libcomerr2.files
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/libcomerr2.files
+END
+e2fslibs-dev.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fslibs-dev.doc-base
+END
+e2fsprogs.docs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs.docs
+END
+ss-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/ss-dev.files
+END
+e2fsck-static.files
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsck-static.files
+END
+e2fsprogs-udeb.shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/e2fsprogs-udeb.shlibs.local
+END
+uuid-runtime.shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/uuid-runtime.shlibs.local
+END
+comerr-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/e2fsprogs/src/debian/comerr-dev.files
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib
+END
+libcurses.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib/libcurses.c
+END
+report-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib/report-lib.c
+END
+libxtra.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib/libxtra.c
+END
+libhigh.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib/libhigh.c
+END
+liblow.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/gpm/src/lib/liblow.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/README
+END
+win32dll.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/win32dll.bat
+END
+svr5-shared-gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/svr5-shared-gcc.sh
+END
+win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/win32.bat
+END
+svr5-shared.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/svr5-shared.sh
+END
+solaris-sc4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/solaris-sc4.sh
+END
+sun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/sun.sh
+END
+svr5-shared-installed
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/svr5-shared-installed
+END
+sco5-shared-gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/sco5-shared-gcc.sh
+END
+hpux10-cc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/hpux10-cc.sh
+END
+irix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/irix.sh
+END
+Makefile.hpux10-cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/Makefile.hpux10-cc
+END
+solaris.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/solaris.sh
+END
+sco5-shared.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/sco5-shared.sh
+END
+sco5-shared-installed
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/lib/libssl/src/shlib/sco5-shared-installed
+END

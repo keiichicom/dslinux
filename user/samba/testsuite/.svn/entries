@@ -1,0 +1,86 @@
+10
+
+dir
+2450
+https://svn.dslinux.org/svn/trunk/user/samba/testsuite
+https://svn.dslinux.org/svn
+
+
+
+2008-01-23T13:49:25.732189Z
+2107
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee40c8e4-d140-46bc-8bdd-8ae3c7fe0c09
+
+build_farm
+dir
+
+config
+dir
+
+smbd
+dir
+
+lib
+dir
+
+server
+dir
+
+libsmbclient
+dir
+
+printing
+dir
+
+README
+file
+
+
+
+
+2025-11-26T02:02:51.664805Z
+ef8f4ee383ac60317cc3e13b9e5f4767
+2008-01-23T13:49:25.732189Z
+2107
+dslinux_sonny_jim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+814
+
+nsswitch
+dir
+

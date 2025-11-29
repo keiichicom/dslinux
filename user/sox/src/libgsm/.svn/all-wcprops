@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/Makefile.in
+END
+gsm_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm_encode.c
+END
+gsm_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm_create.c
+END
+code.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/code.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/lpc.c
+END
+gsm_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm_option.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/private.h
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/decode.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/preprocess.c
+END
+long_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/long_term.c
+END
+aliases.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/aliases.h
+END
+rpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/rpe.c
+END
+short_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/short_term.c
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/table.c
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/add.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/Makefile.am
+END
+gsm_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm_decode.c
+END
+gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/CMakeLists.txt
+END
+gsm_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2379/trunk/user/sox/src/libgsm/gsm_destroy.c
+END

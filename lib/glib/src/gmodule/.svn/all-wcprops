@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule
+END
+gmodule-os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-os2.c
+END
+gmodule-dld.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-dld.c
+END
+gmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/ChangeLog
+END
+gmodule.def
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule.def
+END
+gmoduleconf.h.win32
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmoduleconf.h.win32
+END
+gmoduleconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmoduleconf.h.in
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/makefile.msc
+END
+gmodule.rc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule.rc
+END
+gmodule-beos.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-beos.c
+END
+makefile.msc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/makefile.msc.in
+END
+gmodule.rc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule.rc.in
+END
+gmodule-dyld.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-dyld.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/Makefile.am
+END
+gmodule-dl.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-dl.c
+END
+gmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule.c
+END
+gmodule-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-win32.c
+END
+gmodule-ar.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/glib/src/gmodule/gmodule-ar.c
+END

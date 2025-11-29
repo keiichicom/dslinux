@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp
+END
+signalpipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/signalpipe.h
+END
+libbb_udhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/libbb_udhcp.h
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/files.c
+END
+dumpleases.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/dumpleases.c
+END
+serverpacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/serverpacket.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/ChangeLog
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/files.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/README
+END
+README.dumpleases
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/README.dumpleases
+END
+README.udhcpc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/README.udhcpc
+END
+README.udhcpd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/README.udhcpd
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/TODO
+END
+clientsocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/clientsocket.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/common.c
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/socket.c
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/Config.in
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/version.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/options.c
+END
+clientsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/clientsocket.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/common.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/socket.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/options.h
+END
+arpping.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/arpping.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/AUTHORS
+END
+script.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/script.c
+END
+arpping.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/arpping.h
+END
+clientpacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/clientpacket.c
+END
+packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/packet.c
+END
+script.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/script.h
+END
+clientpacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/clientpacket.h
+END
+leases.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/leases.c
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/packet.h
+END
+pidfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/pidfile.c
+END
+frontend.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/frontend.c
+END
+leases.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/leases.h
+END
+dhcpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/dhcpc.c
+END
+pidfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/pidfile.h
+END
+dhcpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/dhcpd.c
+END
+static_leases.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/static_leases.c
+END
+dhcpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/dhcpc.h
+END
+dhcpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/dhcpd.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/COPYING
+END
+static_leases.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/static_leases.h
+END
+signalpipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/signalpipe.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/Makefile
+END
+serverpacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/networking/udhcp/serverpacket.c
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2432/trunk/user/bc/src/bc
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/global.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/Makefile.in
+END
+execute.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/execute.c
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/storage.c
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/global.h
+END
+warranty.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/warranty.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/proto.h
+END
+bc.y
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/bc.y
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/util.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/load.c
+END
+libmath.b
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/libmath.b
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/main.c
+END
+bc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/bc.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/scan.c
+END
+libmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/libmath.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/Makefile.am
+END
+bc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/bc.h
+END
+fix-libmath_h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/fix-libmath_h
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/const.h
+END
+bcdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/bcdefs.h
+END
+sbc.y
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/sbc.y
+END
+scan.l
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2432/trunk/user/bc/src/bc/scan.l
+END

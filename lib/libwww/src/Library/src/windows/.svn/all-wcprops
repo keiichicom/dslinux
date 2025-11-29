@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows
+END
+wwwzip.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwzip.files
+END
+wwwinit.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwinit.files
+END
+wwwfile.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwfile.dsp
+END
+wwwwais.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwwais.files
+END
+wwwgophe.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwgophe.mak
+END
+wwwmux.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmux.files
+END
+wwwinit.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwinit.mak
+END
+wwwwais.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwwais.mak
+END
+wwwapp.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwapp.def
+END
+wwwmux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmux.mak
+END
+wwwhttp.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhttp.files
+END
+wwwapp.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwapp.files
+END
+wwwdll.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdll.mak
+END
+wwwhttp.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhttp.mak
+END
+wwwgophe.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwgophe.dsp
+END
+wwwinit.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwinit.dsp
+END
+wwwstream.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwstream.def
+END
+wwwwais.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwwais.dsp
+END
+wwwftp.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwftp.files
+END
+wwwtelnt.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtelnt.mak
+END
+wwwmux.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmux.dsp
+END
+wwwcore.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcore.mak
+END
+wwwftp.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwftp.mak
+END
+wwwcache.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcache.def
+END
+wwwdll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdll.dsp
+END
+wwwhttp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhttp.dsp
+END
+windll.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/windll.c
+END
+wwwnews.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwnews.def
+END
+wwwhtml.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhtml.mak
+END
+wwwtelnt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtelnt.dsp
+END
+wwwfile.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwfile.def
+END
+wwwnews.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwnews.files
+END
+wwwcore.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcore.dsp
+END
+wwwftp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwftp.dsp
+END
+wwwdav.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdav.mak
+END
+wwwdir.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdir.mak
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/config.h
+END
+wwwmime.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmime.files
+END
+wwwtrans.files
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtrans.files
+END
+wwwhtml.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhtml.dsp
+END
+wwwsql.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwsql.def
+END
+wwwmime.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmime.mak
+END
+wwwtrans.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtrans.mak
+END
+wwwgophe.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwgophe.def
+END
+wwwdav.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdav.dsp
+END
+wwwinit.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwinit.def
+END
+wwwwais.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwwais.def
+END
+wwwgophe.files
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwgophe.files
+END
+wwwdir.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdir.dsp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/Makefile.am
+END
+wwwmux.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmux.def
+END
+wwwutils.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwutils.mak
+END
+wwwxml.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwxml.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/Makefile
+END
+wwwdll.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdll.def
+END
+wwwzip.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwzip.mak
+END
+wwwmime.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmime.dsp
+END
+wwwhttp.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhttp.def
+END
+wwwtrans.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtrans.dsp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/Makefile.in
+END
+wwwtelnt.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtelnt.def
+END
+wwwcore.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcore.def
+END
+wwwutils.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwutils.dsp
+END
+wwwxml.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwxml.dsp
+END
+wwwftp.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwftp.def
+END
+wwwapp.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwapp.mak
+END
+wwwtelnt.files
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtelnt.files
+END
+wwwzip.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwzip.dsp
+END
+wwwcore.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcore.files
+END
+wwwdll.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdll.c
+END
+wwwstream.files
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwstream.files
+END
+wwwhtml.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhtml.def
+END
+wwwstream.mak
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwstream.mak
+END
+wwwcache.files
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcache.files
+END
+wwwhtml.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwhtml.files
+END
+wwwapp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwapp.dsp
+END
+wwwdav.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdav.def
+END
+wwwcache.mak
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcache.mak
+END
+wwwdav.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdav.files
+END
+wwwdir.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdir.def
+END
+wwwdir.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwdir.files
+END
+wwwfile.files
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwfile.files
+END
+wwwstream.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwstream.dsp
+END
+wwwnews.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwnews.mak
+END
+wwwmime.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwmime.def
+END
+wwwtrans.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwtrans.def
+END
+wwwfile.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwfile.mak
+END
+wwwcache.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwcache.dsp
+END
+wwwutils.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwutils.def
+END
+wwwxml.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwxml.def
+END
+wwwzip.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwzip.def
+END
+wwwsql.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwsql.files
+END
+wwwnews.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwnews.dsp
+END
+wwwutils.files
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwutils.files
+END
+wwwxml.files
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/lib/libwww/src/Library/src/windows/wwwxml.files
+END

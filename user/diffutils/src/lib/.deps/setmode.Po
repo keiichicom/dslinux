@@ -1,0 +1,8 @@
+setmode.o: setmode.c ../config.h \
+  /home/andrewec/dslinux/include/gcc/stdbool.h setmode.h
+
+../config.h:
+
+/home/andrewec/dslinux/include/gcc/stdbool.h:
+
+setmode.h:

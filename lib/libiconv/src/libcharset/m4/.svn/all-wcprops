@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4/glibc21.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4/libtool.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4/codeset.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4/visibility.m4
+END
+relocatable.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/lib/libiconv/src/libcharset/m4/relocatable.m4
+END

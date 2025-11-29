@@ -1,0 +1,11 @@
+file.o: file.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/driver.h \
+  ../include/xmpi.h ../include/mixer.h ../include/convert.h \
+  ../include/driver.h
+wav.o: wav.c ../include/config.h ../include/xmpi.h ../include/xmp.h \
+  ../include/xxm.h ../include/list.h ../include/driver.h \
+  ../include/xmpi.h ../include/mixer.h ../include/convert.h \
+  ../include/driver.h
+callback.o: callback.c ../include/config.h ../include/xmpi.h \
+  ../include/xmp.h ../include/xxm.h ../include/list.h ../include/driver.h \
+  ../include/xmpi.h ../include/mixer.h

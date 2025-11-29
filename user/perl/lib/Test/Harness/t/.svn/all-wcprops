@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t
+END
+test-harness.t
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/test-harness.t
+END
+prove-switches.t
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/prove-switches.t
+END
+pod.t
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/pod.t
+END
+version.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/version.t
+END
+00compile.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/00compile.t
+END
+strap.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/strap.t
+END
+point.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/point.t
+END
+strap-analyze.t
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/strap-analyze.t
+END
+callback.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/callback.t
+END
+point-parse.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/point-parse.t
+END
+assert.t
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/assert.t
+END
+harness.t
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/harness.t
+END
+nonumbers.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/nonumbers.t
+END
+inc_taint.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/inc_taint.t
+END
+ok.t
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/ok.t
+END
+from_line.t
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/from_line.t
+END
+base.t
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/base.t
+END
+prove-globbing.t
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/perl/lib/Test/Harness/t/prove-globbing.t
+END

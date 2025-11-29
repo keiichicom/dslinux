@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files
+END
+server.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/server.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/README
+END
+openvpn-startup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/openvpn-startup.sh
+END
+loopback-server
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/loopback-server
+END
+static-home.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/static-home.conf
+END
+xinetd-server-config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/xinetd-server-config
+END
+client.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/client.conf
+END
+static-office.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/static-office.conf
+END
+loopback-client
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/loopback-client
+END
+openvpn-shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/openvpn-shutdown.sh
+END
+xinetd-client-config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/xinetd-client-config
+END
+home.up
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/home.up
+END
+tls-home.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/tls-home.conf
+END
+office.up
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/office.up
+END
+firewall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/firewall.sh
+END
+tls-office.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/openvpn/src/sample-config-files/tls-office.conf
+END

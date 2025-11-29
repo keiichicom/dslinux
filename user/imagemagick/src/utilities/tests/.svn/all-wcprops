@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests
+END
+convolve.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/convolve.sh
+END
+unsharpmask.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/unsharpmask.sh
+END
+gradient.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/gradient.sh
+END
+contrast.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/contrast.sh
+END
+rotate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/rotate.sh
+END
+gaussianblur.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/gaussianblur.sh
+END
+flop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/flop.sh
+END
+explode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/explode.sh
+END
+resize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/resize.sh
+END
+segment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/segment.sh
+END
+shear.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/shear.sh
+END
+wave.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/wave.sh
+END
+crop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/crop.sh
+END
+raise.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/raise.sh
+END
+blur.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/blur.sh
+END
+edge.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/edge.sh
+END
+monochrome.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/monochrome.sh
+END
+level.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/level.sh
+END
+channel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/channel.sh
+END
+annotate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/annotate.sh
+END
+grayscale.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/grayscale.sh
+END
+random-threshold.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/random-threshold.sh
+END
+plasma.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/plasma.sh
+END
+gamma.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/gamma.sh
+END
+shade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/shade.sh
+END
+addnoise.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/addnoise.sh
+END
+scale.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/scale.sh
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/common.sh
+END
+draw.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/draw.sh
+END
+ordered-dither2x2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/ordered-dither2x2.sh
+END
+despeckle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/despeckle.sh
+END
+ordered-dither3x3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/ordered-dither3x3.sh
+END
+normalize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/normalize.sh
+END
+quantize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/quantize.sh
+END
+sharpen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/sharpen.sh
+END
+swirl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/swirl.sh
+END
+ordered-dither4x4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/ordered-dither4x4.sh
+END
+composite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/composite.sh
+END
+negate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/negate.sh
+END
+medianfilter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/medianfilter.sh
+END
+reducenoise.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/reducenoise.sh
+END
+shave.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/shave.sh
+END
+roll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/roll.sh
+END
+modulate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/modulate.sh
+END
+charcoal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/charcoal.sh
+END
+fx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/fx.sh
+END
+border.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/border.sh
+END
+spread.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/spread.sh
+END
+equalize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/equalize.sh
+END
+oilpaint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/oilpaint.sh
+END
+emboss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/emboss.sh
+END
+solarize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/solarize.sh
+END
+implode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/implode.sh
+END
+montage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/montage.sh
+END
+frame.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/frame.sh
+END
+flip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/utilities/tests/flip.sh
+END

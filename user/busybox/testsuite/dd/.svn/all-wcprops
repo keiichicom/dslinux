@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dd
+END
+dd-copies-from-standard-input-to-standard-output
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dd/dd-copies-from-standard-input-to-standard-output
+END
+dd-prints-count-to-standard-error
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dd/dd-prints-count-to-standard-error
+END
+dd-accepts-if
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dd/dd-accepts-if
+END
+dd-accepts-of
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/dd/dd-accepts-of
+END

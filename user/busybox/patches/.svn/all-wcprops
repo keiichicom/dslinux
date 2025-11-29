@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2269/trunk/user/busybox/patches
+END
+rpm2cpio_bzip2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/patches/rpm2cpio_bzip2.patch
+END
+tftp_timeout_multicast.diff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/patches/tftp_timeout_multicast.diff
+END
+dd_ibs_and_obs.diff
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/patches/dd_ibs_and_obs.diff
+END
+eject.diff
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/patches/eject.diff
+END
+cmp_n.diff
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/busybox/patches/cmp_n.diff
+END
+udhcp_additional_items.diff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/busybox/patches/udhcp_additional_items.diff
+END
+top_system_cpu.diff
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/busybox/patches/top_system_cpu.diff
+END
+makdevs_table.diff
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/busybox/patches/makdevs_table.diff
+END
+udhcpd_foreground.diff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/patches/udhcpd_foreground.diff
+END
+udhcp_config_paths.diff
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/patches/udhcp_config_paths.diff
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests
+END
+too_many
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/too_many
+END
+head_end
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/head_end
+END
+switches
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/switches
+END
+bailout
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/bailout
+END
+skipall_nomsg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/skipall_nomsg
+END
+todo_inline
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/todo_inline
+END
+todo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/todo
+END
+shbang_misparse
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/shbang_misparse
+END
+bignum_many
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/bignum_many
+END
+die_last_minute
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/die_last_minute
+END
+taint_warn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/taint_warn
+END
+skip
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/skip
+END
+inc_taint
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/inc_taint
+END
+segfault
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/segfault
+END
+lone_not_bug
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/lone_not_bug
+END
+no_nums
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/no_nums
+END
+taint
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/taint
+END
+with_comments
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/with_comments
+END
+combined
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/combined
+END
+bignum
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/bignum
+END
+descriptive
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/descriptive
+END
+out_of_order
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/out_of_order
+END
+simple
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/simple
+END
+head_fail
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/head_fail
+END
+no_output
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/no_output
+END
+duplicates
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/duplicates
+END
+skipall
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/skipall
+END
+die
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/die
+END
+die_head_end
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/die_head_end
+END
+skip_nomsg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/skip_nomsg
+END
+vms_nit
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/vms_nit
+END
+simple_fail
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/perl/t/lib/sample-tests/simple_fail
+END

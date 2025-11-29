@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/timer/mint
+END
+SDL_vbltimer_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/timer/mint/SDL_vbltimer_s.h
+END
+SDL_systimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/timer/mint/SDL_systimer.c
+END
+SDL_vbltimer.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/lib/sdl/src/src/timer/mint/SDL_vbltimer.S
+END

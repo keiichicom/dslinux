@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2269/trunk/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+END
+libc-lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2269/trunk/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/libc-lock.h
+END
+libc-tsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2269/trunk/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/libc-tsd.h
+END

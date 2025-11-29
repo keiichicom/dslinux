@@ -1,0 +1,259 @@
+HEXEDIT(1)
+HEXEDIT(1)
+
+
+
+NNAAMMEE
+       hexedit - view and edit files in hexadecimal or in ASCII
+
+SSYYNNOOPPSSIISS
+       _h_e_x_e_d_i_t [-s | --sector] [-m | --maximize]
+       [-h | --help] [filename]
+
+DDEESSCCRRIIPPTTIIOONN
+       _h_e_x_e_d_i_t  shows a file both in ASCII and
+       in hexadecimal. The file can be a device as the file
+       is read a piece at a time. You can modify the file
+       and search through it.
+
+OOPPTTIIOONNSS
+       _-_s_, _-_-_s_e_c_t_o_r
+              Format the display to have entire sectors.
+
+       _-_m_, _-_-_m_a_x_i_m_i_z_e
+              Try to maximize the display.
+
+       _-_h_, _-_-_h_e_l_p
+              Show the usage.
+
+CCOOMMMMAANNDDSS ((qquuiicckkllyy))
+   MMoovviinngg
+       <, > :  go to start/end of the file Right:  next
+       character Left:   previous character Down:   next line
+       Up:     previous line Home:   beginning of line End:
+       end of line PUp:    page forward PDown:  page backward
+
+   MMiisscceellllaanneeoouuss
+       F2:     save F3:     load file F1:     help Ctrl-L:
+       redraw Ctrl-Z: suspend Ctrl-X: save and exit Ctrl-C:
+       exit without saving
+
+       Tab:    toggle hex/ascii Return: go to Backspace:
+       undo previous character Ctrl-U: undo all Ctrl-S:
+       search forward Ctrl-R: search backward
+
+   CCuutt&&PPaassttee
+       Ctrl-Space: set mark Esc-W:  copy Ctrl-Y: paste Esc-Y:
+       paste into a file Esc-I:  fill
+
+CCOOMMMMAANNDDSS ((ffuullll aanndd
+ddeettaaiilleedd))
+       o _R_i_g_h_t_-_A_r_r_o_w,
+       _L_e_f_t_-_A_r_r_o_w,
+       _D_o_w_n_-_A_r_r_o_w, _U_p_-_A_r_r_o_w
+       - move the cursor.  o _C_t_r_l_+_F,
+       _C_t_r_l_+_B, _C_t_r_l_+_N,
+       _C_t_r_l_+_P - move the cursor.
+       o  _C_t_r_l_+_R_i_g_h_t_-_A_r_r_o_w,
+       _C_t_r_l_+_L_e_f_t_-_A_r_r_o_w,
+       _C_t_r_l_+_D_o_w_n_-_A_r_r_o_w,
+       _C_t_r_l_+_U_p_-_A_r_r_o_w
+       - move n times the cursor.  o
+       _E_s_c_+_R_i_g_h_t_-_A_r_r_o_w,
+       _E_s_c_+_L_e_f_t_-_A_r_r_o_w,
+       _E_s_c_+_D_o_w_n_-_A_r_r_o_w,
+       _E_s_c_+_U_p_-_A_r_r_o_w -  move n times
+       the cursor.  o _E_s_c_+_F, _E_s_c_+_B,
+       _E_s_c_+_N, _E_s_c_+_P - move n times the
+       cursor.  o _H_o_m_e, _C_t_r_l_+_A - go the
+       beginning of the line.  o _E_n_d, _C_t_r_l_+_E
+       - go to the end of the line.  o _P_a_g_e _u_p,
+       _E_s_c_+_V, _F_5 - go up in the file by one page.
+       o _P_a_g_e _d_o_w_n, _C_t_r_l_+_V,
+       _F_6 - go down in the file by one page.  o _<,
+       _E_s_c_+_<, _E_s_c_+_H_o_m_e - go to
+       the beginning of the file.  o _>, _E_s_c_+_>,
+       _E_s_c_+_E_n_d - go to the end of the file (for
+       regular files that have a size).  o _C_t_r_l_+_Z
+       - suspend hexedit.  o _C_t_r_l_+_U,
+       _C_t_r_l_+__, _C_t_r_l_+_/ - undo all
+       (forget the modifications).  o _C_t_r_l_+_Q -
+       read next input character and insert it (this is useful
+       for inserting control characters and bound keys).
+       o _T_a_b, _C_t_r_l_+_T - toggle between
+       ASCII and hexadecimal.  o  _/,  _C_t_r_l_+_S
+       - search forward (in ASCII or in hexadecimal,
+       use _T_A_B to change).  o _C_t_r_l_+_R -
+       search backward.  o _C_t_r_l_+_G, _F_4 - go
+       to a position in the file.  o _R_e_t_u_r_n - go
+       to a sector in the file if _-_-_s_e_c_t_o_r
+       is used, otherwise go to a position in the file.
+       o _E_s_c_+_L - display the page starting at the
+       current cursor position.  o _F_2, _C_t_r_l_+_W
+       - save the modifications.  o _F_1, _E_s_c_+_H
+       - help (show the man page).  o _C_t_r_l_+_O,
+       _F_3 - open another file o  _C_t_r_l_+_L -
+       redisplay (refresh) the display (usefull when your
+       terminal screws up).  o _B_a_c_k_s_p_a_c_e,
+       _C_t_r_l_+_H - undo the modifications made on
+       the previous byte.  o _E_s_c_+_C_t_r_l_+_H
+       - undo the modifications made on the previous bytes.
+       o _C_t_r_l_+_S_p_a_c_e, _F_9 - set mark
+       where cursor is.  o _E_s_c_+_W, _D_e_l_e_t_e,
+       _F_7 - copy selected region.  o _C_t_r_l_+_Y,
+       _I_n_s_e_r_t, _F_8 - paste (yank) previously
+       copied region.  o _E_s_c_+_Y, _F_1_1 - save
+       previously copied region to a file.  o _E_s_c_+_I,
+       _F_1_2 - fill the selection with a string o
+       _E_s_c_+_T - truncate the file at the current
+       location o _C_t_r_l_+_C - unconditional quit
+       (without saving).  o _F_1_0, _C_t_r_l_+_X
+       - quit.
+
+       For the _E_s_c commands, it sometimes works to use
+       _A_l_t  instead  of  _E_s_c.  Funny things here
+       (especially for froggies :) egrave = Alt+H , ccedilla =
+       Alt+G, Alt+Y = ugrave.
+
+   MMooddeelliinnee
+       At the bottom of the display you have the modeline
+       (copied from emacs).  As in emacs, you have the
+       indications --, ** and %% meaning unmodified, modified
+       and read-only. Then you have the name of the file
+       you're  cur‐ rently editing. Next to it is the
+       current position of the cursor in the file followed
+       by the total file size. The total file size  isn't
+       quite correct for devices.  While in --sector mode,
+       it shows the sector the cursor is in.
+
+   EEddiittiinngg
+       You can edit in ASCII or in hexadecimal. You can
+       switch between the two with _T_a_b. When the file
+       is read-only, you can't edit it. When trying to edit
+       a  read-only file, a message (``File is read-only'')
+       tells you it is non-writable.  The modifications are
+       shown in bold until they are saved.  The modeline
+       indicates whether you have modified the file or not.
+       When  editing  in  hexadecimal, only _0,_1,...,_9,
+       _a,_b,...,_f, _A,_B,..._F are legal.  Other keys
+       are unbound. The first time you hit an unbound  key,
+       the help pops up.  It won't pop again unless you call
+       the help directly (with _F_1).  When editing in ascii,
+       you can find it difficult  to  enter  characters like
+       _/ which are bound to a function. The solution is to
+       use the quoted insert function _C_t_r_l_+_Q, the
+       key after the quoted insert function is not processed
+       by _h_e_x_e_d_i_t (like emacs' quoted-insert,
+       or like the \ charac‐ ter in C).
+
+   SSeeaarrcchhiinngg
+       You can search for a string in ASCII or in
+       hexadecimal. You can  switch between  the  two with
+       _T_a_b. If the string is found, the cursor is moved
+       to the beginning of the matching location. If the
+       search failed, a mes‐ sage  (``not found'') tells you
+       so. You can cancel the search by press‐ ing a key.
+       The search in hexadecimal is a bit confusing. You must
+       give a hexadeci‐ mal  string  with  an even number
+       of characters. The search can then be done byte by
+       byte. If you want to search a long number (eg:  a  32
+       bit number), you must know the internal representation
+       of that number (lit‐ tle/big endian problem) and give
+       it the way it is in memory. For  exam‐ ple,  on an
+       Intel processor (little endian), you must swap every
+       bytes: 0x12345678 is written 0x78563412 in memory and
+       that's  the  string  you must give to the search engine.
+       Before  searching you are asked if you want to save
+       the changes, if the file is edited.
+
+   SSeelleeccttiinngg,, ccooppyyiinngg,,
+   ppaassttiinngg,, ffiilllliinngg
+       First, select the part of the buffer you want to  copy:
+       start  setting the  mark  where  you  want. Then
+       go to the end of the area you want to copy (you can
+       use the go to function and the  search  functions).
+       Then copy  it.  You can then paste the copied area in
+       the current file or in another file.
+
+       You can also fill the selected area with
+       a string or a character: start choosing  the
+       block you want to fill in (set mark then move to
+       the end of the block), and call the fill function
+       (_F_1_2). _h_e_x_e_d_i_t  ask  you  the string
+       you want to fill the block with.  The code is not tuned
+       for huge filling as it keeps the modifications in memory
+       until you save them. That's why _h_e_x_e_d_i_t
+       will warn you if you try to fill in a big block.
+
+       When the mark is set, the selection is shown in reverse
+       mode.  Be  aware  that  the copied area contains the
+       modifications done at the time of the copy. But if
+       you undo the modifications, it does not change the
+       content of the copy buffer. It seems obvious but it's
+       worth saying.
+
+   SSccrroolllliinngg
+       The  scrolling is different whether you are in
+       _-_-_s_e_c_t_o_r mode or not. In normal mode,
+       the scrolling  is  line  by  line.  In  sector  mode,
+       the scrolling is sector by sector. In both modes,
+       you can force the display to start at a given position
+       using _E_s_c_+_L.
+
+SSEEEE AALLSSOO
+       od(1), hdump(1), hexdump(1), bpe(1), hexed(1), beav(1).
+
+AAUUTTHHOORR
+       Pixel (Pascal Rigaux) <pixel@rigaux.org>, Home page
+       is <http://rigaux.org/>.
+
+UUNNRREESSTTRRIICCTTIIOONNSS
+       _h_e_x_e_d_i_t is Open Source; anyone may
+       redistribute copies  of  _h_e_x_e_d_i_t  to
+       anyone under the terms stated in the GNU General
+       Public License.
+
+       You can find _h_e_x_e_d_i_t at
+       <http://rigaux.org/hexedit-1.2.12.src.tgz> and
+       <http://rigaux.org/hexedit-1.2.12.bin.i386.dynamic.tgz>.
+
+TTOODDOO
+       Anything you think could be nice...
+
+LLIIMMIITTAATTIIOONNSS
+       There  are  problems with the curses library given
+       with Redhat 5.0 that make _h_e_x_e_d_i_t think
+       the terminal is huge. The result is that hexedit  is
+       not usable.
+
+       The  shortcuts  work  on  some  machines, and not on
+       others. That's why there are many shortcuts for each
+       function.  The  Ctrl+Arrows  and  the Alt+.  do  not
+       work work as they should most of the time. On SUNs,
+       you must do Ctrl+V-Ctrl+V instead of Ctrl+V (!);
+       and the  Alt  key  is  the diamond one.
+
+       While  searching,  it  could  be interesting to know
+       which position the search has reached. It's always
+       nice to see something  moving  to  help waiting.
+
+       The hexadecimal search could be able to search modulo
+       4 bits instead of 8 bits.  Another feature could be
+       to complete padd odd length hexadeci‐ mal searches
+       with zeros.
+
+BBUUGGSS
+       I  have  an example where the display is completly
+       screwed up. It seems to be a bug in ncurses (or
+       maybe in xterm and  rxvt)??  Don't  know  if it's  me
+       using ncurses badly or not... It seems to happen when
+       _h_e_x_e_d_i_t leaves only one space at the end
+       of the lines... If anyone  has  a  (or the) solution,
+       please tell me!
+
+       If  you have any problem with the program (even a small
+       one), please do report it to me. Remarks of any kind
+       are also welcome.
+
+                                 12 July 1998
+                                 HEXEDIT(1)

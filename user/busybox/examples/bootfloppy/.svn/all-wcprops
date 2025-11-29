@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy
+END
+quickstart.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/quickstart.txt
+END
+bootfloppy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/bootfloppy.txt
+END
+syslinux.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/syslinux.cfg
+END
+mkrootfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/mkrootfs.sh
+END
+mksyslinux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/mksyslinux.sh
+END
+mkdevs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/mkdevs.sh
+END
+display.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/examples/bootfloppy/display.txt
+END

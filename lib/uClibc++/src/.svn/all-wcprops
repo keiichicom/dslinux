@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src
+END
+new_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/new_handler.cpp
+END
+algorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/algorithm.cpp
+END
+new_op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/new_op.cpp
+END
+del_opvnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/del_opvnt.cpp
+END
+iomanip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/iomanip.cpp
+END
+typeinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/typeinfo.cpp
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/exception.cpp
+END
+locale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/locale.cpp
+END
+eh_globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/eh_globals.cpp
+END
+numeric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/numeric.cpp
+END
+del_op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/del_op.cpp
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/vector.cpp
+END
+deque.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/deque.cpp
+END
+stdexcept.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/stdexcept.cpp
+END
+utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/utility.cpp
+END
+eh_alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/eh_alloc.cpp
+END
+list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/list.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/map.cpp
+END
+new_opvnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/new_opvnt.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/queue.cpp
+END
+del_opv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/del_opv.cpp
+END
+streambuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/streambuf.cpp
+END
+new_opnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/new_opnt.cpp
+END
+iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/iterator.cpp
+END
+ios.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/ios.cpp
+END
+bitset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/bitset.cpp
+END
+set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/set.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/Makefile
+END
+limits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/limits.cpp
+END
+fstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/fstream.cpp
+END
+char_traits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/char_traits.cpp
+END
+istream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/istream.cpp
+END
+del_opnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/del_opnt.cpp
+END
+stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/stack.cpp
+END
+string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/string.cpp
+END
+complex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/complex.cpp
+END
+func_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/func_exception.cpp
+END
+ostream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/ostream.cpp
+END
+support.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/support.cpp
+END
+new_opv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/new_opv.cpp
+END
+sstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/sstream.cpp
+END
+valarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/valarray.cpp
+END
+iostream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/lib/uClibc++/src/iostream.cpp
+END

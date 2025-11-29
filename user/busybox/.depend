@@ -1,0 +1,1063 @@
+/home/andrewec/dslinux/user/busybox/sysklogd/klogd.o: /home/andrewec/dslinux/user/busybox/sysklogd/klogd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/remote.o: /home/andrewec/dslinux/user/busybox/sysklogd/remote.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/logread.o: /home/andrewec/dslinux/user/busybox/sysklogd/logread.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/logread/reduced/locking.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/syslogd.o: /home/andrewec/dslinux/user/busybox/sysklogd/syslogd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/user/flatfsd/flatfsd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/remote/log.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/user/smtp/smtpclient.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipc/syslog.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/rotate/logfile.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/email.o: /home/andrewec/dslinux/user/busybox/sysklogd/email.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/logger.o: /home/andrewec/dslinux/user/busybox/sysklogd/logger.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/syslogd.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/config.o: /home/andrewec/dslinux/user/busybox/sysklogd/config.c \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/remote/log.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/user/smtp/smtpclient.h)
+/home/andrewec/dslinux/user/busybox/sysklogd/local.o: /home/andrewec/dslinux/user/busybox/sysklogd/local.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipc/syslog.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipc/syslog/buffer/size.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/rotate/logfile.h)
+/home/andrewec/dslinux/user/busybox/console-tools/reset.o: /home/andrewec/dslinux/user/busybox/console-tools/reset.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/setkeycodes.o: /home/andrewec/dslinux/user/busybox/console-tools/setkeycodes.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/chvt.o: /home/andrewec/dslinux/user/busybox/console-tools/chvt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/clear.o: /home/andrewec/dslinux/user/busybox/console-tools/clear.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/deallocvt.o: /home/andrewec/dslinux/user/busybox/console-tools/deallocvt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/loadfont.o: /home/andrewec/dslinux/user/busybox/console-tools/loadfont.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/dumpkmap.o: /home/andrewec/dslinux/user/busybox/console-tools/dumpkmap.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/loadkmap.o: /home/andrewec/dslinux/user/busybox/console-tools/loadkmap.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/console-tools/openvt.o: /home/andrewec/dslinux/user/busybox/console-tools/openvt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/loginutils/login.o: /home/andrewec/dslinux/user/busybox/loginutils/login.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/u/w/tmp.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/securetty.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/wheel/group.h)
+/home/andrewec/dslinux/user/busybox/loginutils/sulogin.o: /home/andrewec/dslinux/user/busybox/loginutils/sulogin.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/loginutils/delgroup.o: /home/andrewec/dslinux/user/busybox/loginutils/delgroup.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/deluser.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/loginutils/adduser.o: /home/andrewec/dslinux/user/busybox/loginutils/adduser.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/addgroup.h)
+/home/andrewec/dslinux/user/busybox/loginutils/addgroup.o: /home/andrewec/dslinux/user/busybox/loginutils/addgroup.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/adduser.h)
+/home/andrewec/dslinux/user/busybox/loginutils/vlock.o: /home/andrewec/dslinux/user/busybox/loginutils/vlock.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/loginutils/deluser.o: /home/andrewec/dslinux/user/busybox/loginutils/deluser.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/loginutils/su.o: /home/andrewec/dslinux/user/busybox/loginutils/su.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/u/w/tmp.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/loginutils/delline.o: /home/andrewec/dslinux/user/busybox/loginutils/delline.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/loginutils/passwd.o: /home/andrewec/dslinux/user/busybox/loginutils/passwd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/loginutils/getty.o: /home/andrewec/dslinux/user/busybox/loginutils/getty.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/syslogd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/u/w/tmp.h)
+/home/andrewec/dslinux/user/busybox/init/init_shared.o: /home/andrewec/dslinux/user/busybox/init/init_shared.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/initrd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/init.h)
+/home/andrewec/dslinux/user/busybox/init/halt.o: /home/andrewec/dslinux/user/busybox/init/halt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/init.h)
+/home/andrewec/dslinux/user/busybox/init/reboot.o: /home/andrewec/dslinux/user/busybox/init/reboot.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/init.h)
+/home/andrewec/dslinux/user/busybox/init/init.o: /home/andrewec/dslinux/user/busybox/init/init.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/syslogd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/init/coredumps.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/user/flatfsd/flatfsd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/extra/quiet.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/use/inittab.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/inittab.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/initrd.h)
+/home/andrewec/dslinux/user/busybox/init/poweroff.o: /home/andrewec/dslinux/user/busybox/init/poweroff.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/init.h)
+/home/andrewec/dslinux/user/busybox/init/mesg.o: /home/andrewec/dslinux/user/busybox/init/mesg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/applets/busybox.o: /home/andrewec/dslinux/user/busybox/applets/busybox.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/installer.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/init.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/autowidth.h)
+/home/andrewec/dslinux/user/busybox/applets/applets.o: /home/andrewec/dslinux/user/busybox/applets/applets.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/usage.h $(dep_/home/andrewec/dslinux/user/busybox/include/usage.h) \
+ /home/andrewec/dslinux/user/busybox/include/applets.h $(dep_/home/andrewec/dslinux/user/busybox/include/applets.h) \
+ /home/andrewec/dslinux/user/busybox/include/applets.h $(dep_/home/andrewec/dslinux/user/busybox/include/applets.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/suid.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/suid/config.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/suid/config/quiet.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/file.h)
+/home/andrewec/dslinux/user/busybox/shell/hush.o: /home/andrewec/dslinux/user/busybox/shell/hush.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/editing.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/shell/cmdedit.o: /home/andrewec/dslinux/user/busybox/shell/cmdedit.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/../shell/cmdedit.h $(dep_/home/andrewec/dslinux/user/busybox/include/../shell/cmdedit.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/tab/completion.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/editing.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/username/completion.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/getusername/and/homedir.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/history.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/nonprintable/inverse/put.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/savehistory.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/shell/ash.o: /home/andrewec/dslinux/user/busybox/shell/ash.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/job/control.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/alias.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/optimize/for/size.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/math/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/cmdcmd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/getopts.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/mail.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/math/support/64.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ash/random/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/savehistory.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/editing.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/tab/completion.h)
+/home/andrewec/dslinux/user/busybox/shell/lash.o: /home/andrewec/dslinux/user/busybox/shell/lash.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/lash/pipe/n/redirects.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/lash/job/control.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/editing.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/extra/quiet.h)
+/home/andrewec/dslinux/user/busybox/shell/msh.o: /home/andrewec/dslinux/user/busybox/shell/msh.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/command/editing.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sh/standalone/shell.h)
+/home/andrewec/dslinux/user/busybox/archival/ar.o: /home/andrewec/dslinux/user/busybox/archival/ar.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/archival/gunzip.o: /home/andrewec/dslinux/user/busybox/archival/gunzip.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/gunzip/uncompress.h)
+/home/andrewec/dslinux/user/busybox/archival/dpkg_deb.o: /home/andrewec/dslinux/user/busybox/archival/dpkg_deb.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/bz2.h)
+/home/andrewec/dslinux/user/busybox/archival/cpio.o: /home/andrewec/dslinux/user/busybox/archival/cpio.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/archival/unzip.o: /home/andrewec/dslinux/user/busybox/archival/unzip.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/archival/rpm2cpio.o: /home/andrewec/dslinux/user/busybox/archival/rpm2cpio.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/gzip.o: /home/andrewec/dslinux/user/busybox/archival/gzip.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/gunzip.h)
+/home/andrewec/dslinux/user/busybox/archival/bunzip2.o: /home/andrewec/dslinux/user/busybox/archival/bunzip2.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/uncompress.o: /home/andrewec/dslinux/user/busybox/archival/uncompress.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/tar.o: /home/andrewec/dslinux/user/busybox/archival/tar.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/create.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/from.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/gzip.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/compress.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/bzip2.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/long/options.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/archival/dpkg.o: /home/andrewec/dslinux/user/busybox/archival/dpkg.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/bz2.h)
+/home/andrewec/dslinux/user/busybox/archival/rpm.o: /home/andrewec/dslinux/user/busybox/archival/rpm.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_uncompress.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_uncompress.c \
+ /home/andrewec/dslinux/user/busybox/include/config.h $(dep_/home/andrewec/dslinux/user/busybox/include/config.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/find_list_entry.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/find_list_entry.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/check_header_gzip.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/check_header_gzip.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_cpio.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_cpio.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/unpack_ar_archive.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/unpack_ar_archive.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/seek_by_jump.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/seek_by_jump.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/unarchive/tape.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/data_align.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/data_align.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/archive_xread_all_eof.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/archive_xread_all_eof.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_ar.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_ar.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ar/long/filenames.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/open_transformer.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/open_transformer.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/gnu/extensions.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tar/oldgnu/compatability.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_list.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_list.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/header_verbose_list.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/header_verbose_list.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/init_handle.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/init_handle.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_to_buffer.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_to_buffer.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar_bz2.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar_bz2.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_all.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_all.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/archive_xread_all.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/archive_xread_all.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/header_skip.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/header_skip.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/data_skip.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/data_skip.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_reject_list.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_reject_list.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_bunzip2.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_bunzip2.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_to_stdout.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/data_extract_to_stdout.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_unzip.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/decompress_unzip.c \
+ /home/andrewec/dslinux/user/busybox/include/config.h $(dep_/home/andrewec/dslinux/user/busybox/include/config.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/seek_by_char.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/seek_by_char.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_list_reassign.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_list_reassign.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/deb/tar/bz2.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar_gz.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/get_header_tar_gz.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/header_list.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/header_list.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_all.o: /home/andrewec/dslinux/user/busybox/archival/libunarchive/filter_accept_all.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h)
+/home/andrewec/dslinux/user/busybox/editors/awk.o: /home/andrewec/dslinux/user/busybox/editors/awk.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/awk/math.h)
+/home/andrewec/dslinux/user/busybox/editors/sed.o: /home/andrewec/dslinux/user/busybox/editors/sed.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/editors/vi.o: /home/andrewec/dslinux/user/busybox/editors/vi.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/optimize/cursor.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/use/signals.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/crashme.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/dot/cmd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/yankmark.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/readonly.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/search.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/colon.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/win/resize.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/setopts.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/vi/set.h)
+/home/andrewec/dslinux/user/busybox/editors/patch.o: /home/andrewec/dslinux/user/busybox/editors/patch.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/findutils/find.o: /home/andrewec/dslinux/user/busybox/findutils/find.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/type.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/perm.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/mtime.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/xdev.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/newer.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/find/inum.h)
+/home/andrewec/dslinux/user/busybox/findutils/grep.o: /home/andrewec/dslinux/user/busybox/findutils/grep.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/grep/context.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/grep/egrep/alias.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/findutils/xargs.o: /home/andrewec/dslinux/user/busybox/findutils/xargs.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/xargs/support/confirmation.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/xargs/support/quotes.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/xargs/support/termopt.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/xargs/support/zero/term.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/miscutils/dc.o: /home/andrewec/dslinux/user/busybox/miscutils/dc.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/watchdog.o: /home/andrewec/dslinux/user/busybox/miscutils/watchdog.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/strings.o: /home/andrewec/dslinux/user/busybox/miscutils/strings.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/rx.o: /home/andrewec/dslinux/user/busybox/miscutils/rx.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/makedevs.o: /home/andrewec/dslinux/user/busybox/miscutils/makedevs.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/mt.o: /home/andrewec/dslinux/user/busybox/miscutils/mt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/crond.o: /home/andrewec/dslinux/user/busybox/miscutils/crond.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/crond/call/sendmail.h)
+/home/andrewec/dslinux/user/busybox/miscutils/crontab.o: /home/andrewec/dslinux/user/busybox/miscutils/crontab.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/time.o: /home/andrewec/dslinux/user/busybox/miscutils/time.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/hdparm.o: /home/andrewec/dslinux/user/busybox/miscutils/hdparm.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/get/identity.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/hdio/getset/dma.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/hdio/unregister/hwif.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/hdio/scan/hwif.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/hdio/tristate/hwif.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hdparm/hdio/drive/reset.h)
+/home/andrewec/dslinux/user/busybox/miscutils/last.o: /home/andrewec/dslinux/user/busybox/miscutils/last.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/adjtimex.o: /home/andrewec/dslinux/user/busybox/miscutils/adjtimex.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/miscutils/devfsd.o: /home/andrewec/dslinux/user/busybox/miscutils/devfsd.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/devfsd/modload.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/devfsd/verbose.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/debug.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/devfsd/fg/np.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/file.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/modules/devfs.h)
+/home/andrewec/dslinux/user/busybox/libpwdgrp/pwd_grp.o: /home/andrewec/dslinux/user/busybox/libpwdgrp/pwd_grp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h) \
+ /home/andrewec/dslinux/user/busybox/include/shadow_.h $(dep_/home/andrewec/dslinux/user/busybox/include/shadow_.h)
+/home/andrewec/dslinux/user/busybox/networking/iptunnel.o: /home/andrewec/dslinux/user/busybox/networking/iptunnel.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/telnet.o: /home/andrewec/dslinux/user/busybox/networking/telnet.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/telnet/ttype.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/telnet/autologin.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/autowidth.h)
+/home/andrewec/dslinux/user/busybox/networking/nameif.o: /home/andrewec/dslinux/user/busybox/networking/nameif.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/networking/traceroute.o: /home/andrewec/dslinux/user/busybox/networking/traceroute.c \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/traceroute/verbose.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/traceroute.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/traceroute/so/debug.h)
+/home/andrewec/dslinux/user/busybox/networking/nc.o: /home/andrewec/dslinux/user/busybox/networking/nc.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/inetd.o: /home/andrewec/dslinux/user/busybox/networking/inetd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/inetd/support/biltin/echo.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/inetd/support/biltin/discard.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/inetd/support/biltin/time.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/inetd/support/biltin/daytime.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/inetd/support/biltin/chargen.h)
+/home/andrewec/dslinux/user/busybox/networking/ftpgetput.o: /home/andrewec/dslinux/user/busybox/networking/ftpgetput.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ftpget.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/ftpput.h)
+/home/andrewec/dslinux/user/busybox/networking/httpd.o: /home/andrewec/dslinux/user/busybox/networking/httpd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/lfs.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/usage/from/inetd/only.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/basic/auth.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/cgi.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/config/with/mime/types.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/encode/url/str.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/set/remote/port/to/env.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/auth/md5.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/reload/config/sighup.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/httpd/setuid.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/iptunnel.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/iptunnel.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/utils.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/utils.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/iproute.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/iproute.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/ll_addr.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/ll_addr.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/libnetlink.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/libnetlink.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/ip_parse_common_args.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/ip_parse_common_args.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/iplink.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/iplink.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/libiproute/ipaddress.o: /home/andrewec/dslinux/user/busybox/networking/libiproute/ipaddress.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/networking/route.o: /home/andrewec/dslinux/user/busybox/networking/route.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/networking/ipcalc.o: /home/andrewec/dslinux/user/busybox/networking/ipcalc.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipcalc/fancy.h)
+/home/andrewec/dslinux/user/busybox/networking/ipaddr.o: /home/andrewec/dslinux/user/busybox/networking/ipaddr.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/arping.o: /home/andrewec/dslinux/user/busybox/networking/arping.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/ifconfig.o: /home/andrewec/dslinux/user/busybox/networking/ifconfig.c \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifconfig/slip.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifconfig/broadcast/plus.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifconfig/hw.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifconfig/memstart/ioaddr/irq.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifconfig/status.h)
+/home/andrewec/dslinux/user/busybox/networking/nslookup.o: /home/andrewec/dslinux/user/busybox/networking/nslookup.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/ip.o: /home/andrewec/dslinux/user/busybox/networking/ip.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ip/address.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ip/route.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ip/link.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ip/tunnel.h)
+/home/andrewec/dslinux/user/busybox/networking/ifupdown.o: /home/andrewec/dslinux/user/busybox/networking/ifupdown.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifupdown/mapping.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifupdown/ip.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifupdown/ipx.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifupdown/ipv6.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ifupdown/ipv4.h)
+/home/andrewec/dslinux/user/busybox/networking/wget.o: /home/andrewec/dslinux/user/busybox/networking/wget.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/wget/statusbar.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/wget/authentication.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/wget/ip6/literal.h)
+/home/andrewec/dslinux/user/busybox/networking/iproute.o: /home/andrewec/dslinux/user/busybox/networking/iproute.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/ping.o: /home/andrewec/dslinux/user/busybox/networking/ping.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/ping.h)
+/home/andrewec/dslinux/user/busybox/networking/telnetd.o: /home/andrewec/dslinux/user/busybox/networking/telnetd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/login.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/telnetd/inetd.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/devpts.h)
+/home/andrewec/dslinux/user/busybox/networking/ping6.o: /home/andrewec/dslinux/user/busybox/networking/ping6.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/ping6.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/ping.h)
+/home/andrewec/dslinux/user/busybox/networking/iplink.o: /home/andrewec/dslinux/user/busybox/networking/iplink.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/vconfig.o: /home/andrewec/dslinux/user/busybox/networking/vconfig.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/networking/netstat.o: /home/andrewec/dslinux/user/busybox/networking/netstat.c \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/route.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/networking/tftp.o: /home/andrewec/dslinux/user/busybox/networking/tftp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tftp/blocksize.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tftp/debug.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tftp/get.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tftp/put.h)
+/home/andrewec/dslinux/user/busybox/networking/hostname.o: /home/andrewec/dslinux/user/busybox/networking/hostname.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/modutils/lsmod.o: /home/andrewec/dslinux/user/busybox/modutils/lsmod.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/check/tainted/module.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/query/module/interface.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/modutils/modprobe.o: /home/andrewec/dslinux/user/busybox/modutils/modprobe.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/2/6/modules.h)
+/home/andrewec/dslinux/user/busybox/modutils/insmod.o: /home/andrewec/dslinux/user/busybox/modutils/insmod.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/2/4/modules.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/2/6/modules.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/insmod/loadinkmem.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/insmod/version/checking.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/use/list.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/list/archtype.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/use/single.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/use/plt/entries.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/use/got/entries.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/use/plt/list.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/got/entry/size.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/plt/entry/size.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/check/tainted/module.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/insmod/ksymoops/symbols.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/insmod/load/map.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/insmod/load/map/full.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/modutils/rmmod.o: /home/andrewec/dslinux/user/busybox/modutils/rmmod.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/2/6/modules.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/query/module/interface.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/debianutils/mktemp.o: /home/andrewec/dslinux/user/busybox/debianutils/mktemp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/debianutils/readlink.o: /home/andrewec/dslinux/user/busybox/debianutils/readlink.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/debianutils/run_parts.o: /home/andrewec/dslinux/user/busybox/debianutils/run_parts.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/debianutils/which.o: /home/andrewec/dslinux/user/busybox/debianutils/which.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/debianutils/start_stop_daemon.o: /home/andrewec/dslinux/user/busybox/debianutils/start_stop_daemon.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h)
+/home/andrewec/dslinux/user/busybox/debianutils/pipe_progress.o: /home/andrewec/dslinux/user/busybox/debianutils/pipe_progress.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/fdflush.o: /home/andrewec/dslinux/user/busybox/util-linux/fdflush.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/umount.o: /home/andrewec/dslinux/user/busybox/util-linux/umount.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mount/force.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mount/loop.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mtab/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/fdformat.o: /home/andrewec/dslinux/user/busybox/util-linux/fdformat.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/freeramdisk.o: /home/andrewec/dslinux/user/busybox/util-linux/freeramdisk.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/hexdump.o: /home/andrewec/dslinux/user/busybox/util-linux/hexdump.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/dump.h $(dep_/home/andrewec/dslinux/user/busybox/include/dump.h)
+/home/andrewec/dslinux/user/busybox/util-linux/fsck_minix.o: /home/andrewec/dslinux/user/busybox/util-linux/fsck_minix.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/minix2.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/swaponoff.o: /home/andrewec/dslinux/user/busybox/util-linux/swaponoff.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/losetup.o: /home/andrewec/dslinux/user/busybox/util-linux/losetup.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/dmesg.o: /home/andrewec/dslinux/user/busybox/util-linux/dmesg.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/pivot_root.o: /home/andrewec/dslinux/user/busybox/util-linux/pivot_root.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/mkfs_minix.o: /home/andrewec/dslinux/user/busybox/util-linux/mkfs_minix.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/minix2.h)
+/home/andrewec/dslinux/user/busybox/util-linux/rdate.o: /home/andrewec/dslinux/user/busybox/util-linux/rdate.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/mount.o: /home/andrewec/dslinux/user/busybox/util-linux/mount.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/nfsmount.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mount/loop.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mtab/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/util-linux/mkswap.o: /home/andrewec/dslinux/user/busybox/util-linux/mkswap.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/fbset.o: /home/andrewec/dslinux/user/busybox/util-linux/fbset.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fbset/fancy.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fbset/readmode.h)
+/home/andrewec/dslinux/user/busybox/util-linux/hwclock.o: /home/andrewec/dslinux/user/busybox/util-linux/hwclock.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/hwclock/longoptions.h)
+/home/andrewec/dslinux/user/busybox/util-linux/fdisk.o: /home/andrewec/dslinux/user/busybox/util-linux/fdisk.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sun/label.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sgi/label.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/aix/label.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/osf/label.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fdisk/writable.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fdisk/advanced.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/weird/partition/types.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fdisk/blksize.h)
+/home/andrewec/dslinux/user/busybox/util-linux/more.o: /home/andrewec/dslinux/user/busybox/util-linux/more.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/use/termios.h)
+/home/andrewec/dslinux/user/busybox/util-linux/nfsmount.o: /home/andrewec/dslinux/user/busybox/util-linux/nfsmount.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/util-linux/getopt.o: /home/andrewec/dslinux/user/busybox/util-linux/getopt.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/libbb/perror_nomsg_and_die.o: /home/andrewec/dslinux/user/busybox/libbb/perror_nomsg_and_die.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/print_file.o: /home/andrewec/dslinux/user/busybox/libbb/print_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/get_terminal_width_height.o: /home/andrewec/dslinux/user/busybox/libbb/get_terminal_width_height.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/autowidth.h)
+/home/andrewec/dslinux/user/busybox/libbb/login.o: /home/andrewec/dslinux/user/busybox/libbb/login.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/run_shell.o: /home/andrewec/dslinux/user/busybox/libbb/run_shell.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/libbb/find_mount_point.o: /home/andrewec/dslinux/user/busybox/libbb/find_mount_point.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/printf.o: /home/andrewec/dslinux/user/busybox/libbb/printf.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/messages.o: /home/andrewec/dslinux/user/busybox/libbb/messages.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/create_icmp_socket.o: /home/andrewec/dslinux/user/busybox/libbb/create_icmp_socket.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/full_read.o: /home/andrewec/dslinux/user/busybox/libbb/full_read.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/correct_password.o: /home/andrewec/dslinux/user/busybox/libbb/correct_password.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/shadowpasswds.h)
+/home/andrewec/dslinux/user/busybox/libbb/get_line_from_file.o: /home/andrewec/dslinux/user/busybox/libbb/get_line_from_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/skip_whitespace.o: /home/andrewec/dslinux/user/busybox/libbb/skip_whitespace.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/process_escape_sequence.o: /home/andrewec/dslinux/user/busybox/libbb/process_escape_sequence.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/copy_file.o: /home/andrewec/dslinux/user/busybox/libbb/copy_file.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/preserve/hardlinks.h)
+/home/andrewec/dslinux/user/busybox/libbb/safe_strncpy.o: /home/andrewec/dslinux/user/busybox/libbb/safe_strncpy.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/recursive_action.o: /home/andrewec/dslinux/user/busybox/libbb/recursive_action.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xreadlink.o: /home/andrewec/dslinux/user/busybox/libbb/xreadlink.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/warn_ignoring_args.o: /home/andrewec/dslinux/user/busybox/libbb/warn_ignoring_args.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/obscure.o: /home/andrewec/dslinux/user/busybox/libbb/obscure.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/fgets_str.o: /home/andrewec/dslinux/user/busybox/libbb/fgets_str.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/find_root_device.o: /home/andrewec/dslinux/user/busybox/libbb/find_root_device.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/devfs.h)
+/home/andrewec/dslinux/user/busybox/libbb/restricted_shell.o: /home/andrewec/dslinux/user/busybox/libbb/restricted_shell.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/perror_msg_and_die.o: /home/andrewec/dslinux/user/busybox/libbb/perror_msg_and_die.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/herror_msg_and_die.o: /home/andrewec/dslinux/user/busybox/libbb/herror_msg_and_die.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/getopt_ulflags.o: /home/andrewec/dslinux/user/busybox/libbb/getopt_ulflags.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xconnect.o: /home/andrewec/dslinux/user/busybox/libbb/xconnect.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/herror_msg.o: /home/andrewec/dslinux/user/busybox/libbb/herror_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/human_readable.o: /home/andrewec/dslinux/user/busybox/libbb/human_readable.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/chomp.o: /home/andrewec/dslinux/user/busybox/libbb/chomp.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/bb_asprintf.o: /home/andrewec/dslinux/user/busybox/libbb/bb_asprintf.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/mtab_file.o: /home/andrewec/dslinux/user/busybox/libbb/mtab_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mtab/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/mtab/filename.h)
+/home/andrewec/dslinux/user/busybox/libbb/setup_environment.o: /home/andrewec/dslinux/user/busybox/libbb/setup_environment.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/error_msg_and_die.o: /home/andrewec/dslinux/user/busybox/libbb/error_msg_and_die.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/qmodule.o: /home/andrewec/dslinux/user/busybox/libbb/qmodule.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/find_pid_by_name.o: /home/andrewec/dslinux/user/busybox/libbb/find_pid_by_name.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/libbb/dump.o: /home/andrewec/dslinux/user/busybox/libbb/dump.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/dump.h $(dep_/home/andrewec/dslinux/user/busybox/include/dump.h)
+/home/andrewec/dslinux/user/busybox/libbb/my_getpwuid.o: /home/andrewec/dslinux/user/busybox/libbb/my_getpwuid.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h)
+/home/andrewec/dslinux/user/busybox/libbb/fclose_nonstdin.o: /home/andrewec/dslinux/user/busybox/libbb/fclose_nonstdin.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/fflush_stdout_and_exit.o: /home/andrewec/dslinux/user/busybox/libbb/fflush_stdout_and_exit.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/get_console.o: /home/andrewec/dslinux/user/busybox/libbb/get_console.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/syscalls.o: /home/andrewec/dslinux/user/busybox/libbb/syscalls.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xgetcwd.o: /home/andrewec/dslinux/user/busybox/libbb/xgetcwd.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/wfopen.o: /home/andrewec/dslinux/user/busybox/libbb/wfopen.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/parse_number.o: /home/andrewec/dslinux/user/busybox/libbb/parse_number.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/default_error_retval.o: /home/andrewec/dslinux/user/busybox/libbb/default_error_retval.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/copyfd.o: /home/andrewec/dslinux/user/busybox/libbb/copyfd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/libbb/read_package_field.o: /home/andrewec/dslinux/user/busybox/libbb/read_package_field.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/hash_fd.o: /home/andrewec/dslinux/user/busybox/libbb/hash_fd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/sha1sum.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/md5sum.h)
+/home/andrewec/dslinux/user/busybox/libbb/last_char_is.o: /home/andrewec/dslinux/user/busybox/libbb/last_char_is.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/device_open.o: /home/andrewec/dslinux/user/busybox/libbb/device_open.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/my_getug.o: /home/andrewec/dslinux/user/busybox/libbb/my_getug.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/vherror_msg.o: /home/andrewec/dslinux/user/busybox/libbb/vherror_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/inode_hash.o: /home/andrewec/dslinux/user/busybox/libbb/inode_hash.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/libbb/change_identity.o: /home/andrewec/dslinux/user/busybox/libbb/change_identity.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/verror_msg.o: /home/andrewec/dslinux/user/busybox/libbb/verror_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/wfopen_input.o: /home/andrewec/dslinux/user/busybox/libbb/wfopen_input.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/speed_table.o: /home/andrewec/dslinux/user/busybox/libbb/speed_table.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/llist_add_to.o: /home/andrewec/dslinux/user/busybox/libbb/llist_add_to.c \
+ /home/andrewec/dslinux/user/busybox/include/unarchive.h $(dep_/home/andrewec/dslinux/user/busybox/include/unarchive.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/perror_nomsg.o: /home/andrewec/dslinux/user/busybox/libbb/perror_nomsg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xgethostbyname.o: /home/andrewec/dslinux/user/busybox/libbb/xgethostbyname.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/vdprintf.o: /home/andrewec/dslinux/user/busybox/libbb/vdprintf.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/safe_write.o: /home/andrewec/dslinux/user/busybox/libbb/safe_write.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/loop.o: /home/andrewec/dslinux/user/busybox/libbb/loop.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/my_getpwnam.o: /home/andrewec/dslinux/user/busybox/libbb/my_getpwnam.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h)
+/home/andrewec/dslinux/user/busybox/libbb/my_getgrgid.o: /home/andrewec/dslinux/user/busybox/libbb/my_getgrgid.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h)
+/home/andrewec/dslinux/user/busybox/libbb/vperror_msg.o: /home/andrewec/dslinux/user/busybox/libbb/vperror_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xfuncs.o: /home/andrewec/dslinux/user/busybox/libbb/xfuncs.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/create_icmp6_socket.o: /home/andrewec/dslinux/user/busybox/libbb/create_icmp6_socket.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/libbb/concat_path_file.o: /home/andrewec/dslinux/user/busybox/libbb/concat_path_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xgetularg.o: /home/andrewec/dslinux/user/busybox/libbb/xgetularg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/vfork_daemon_rexec.o: /home/andrewec/dslinux/user/busybox/libbb/vfork_daemon_rexec.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/parse_mode.o: /home/andrewec/dslinux/user/busybox/libbb/parse_mode.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/interface.o: /home/andrewec/dslinux/user/busybox/libbb/interface.c \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/libbb/safe_read.o: /home/andrewec/dslinux/user/busybox/libbb/safe_read.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/pw_encrypt.o: /home/andrewec/dslinux/user/busybox/libbb/pw_encrypt.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/sha1/passwords.h)
+/home/andrewec/dslinux/user/busybox/libbb/run_parts.o: /home/andrewec/dslinux/user/busybox/libbb/run_parts.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/safe_strtol.o: /home/andrewec/dslinux/user/busybox/libbb/safe_strtol.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/kernel_version.o: /home/andrewec/dslinux/user/busybox/libbb/kernel_version.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/module_syscalls.o: /home/andrewec/dslinux/user/busybox/libbb/module_syscalls.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/remove_file.o: /home/andrewec/dslinux/user/busybox/libbb/remove_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/mtab.o: /home/andrewec/dslinux/user/busybox/libbb/mtab.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/trim.o: /home/andrewec/dslinux/user/busybox/libbb/trim.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/simplify_path.o: /home/andrewec/dslinux/user/busybox/libbb/simplify_path.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/isdirectory.o: /home/andrewec/dslinux/user/busybox/libbb/isdirectory.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/procps.o: /home/andrewec/dslinux/user/busybox/libbb/procps.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/cpu/usage/percentage.h)
+/home/andrewec/dslinux/user/busybox/libbb/ask_confirmation.o: /home/andrewec/dslinux/user/busybox/libbb/ask_confirmation.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/perror_msg.o: /home/andrewec/dslinux/user/busybox/libbb/perror_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xgethostbyname2.o: /home/andrewec/dslinux/user/busybox/libbb/xgethostbyname2.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/libbb/inet_common.o: /home/andrewec/dslinux/user/busybox/libbb/inet_common.c \
+ /home/andrewec/dslinux/user/busybox/include/inet_common.h $(dep_/home/andrewec/dslinux/user/busybox/include/inet_common.h) \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ipv6.h)
+/home/andrewec/dslinux/user/busybox/libbb/make_directory.o: /home/andrewec/dslinux/user/busybox/libbb/make_directory.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xregcomp.o: /home/andrewec/dslinux/user/busybox/libbb/xregcomp.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/concat_subpath_file.o: /home/andrewec/dslinux/user/busybox/libbb/concat_subpath_file.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/error_msg.o: /home/andrewec/dslinux/user/busybox/libbb/error_msg.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/full_write.o: /home/andrewec/dslinux/user/busybox/libbb/full_write.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/libbb/xgetlarg.o: /home/andrewec/dslinux/user/busybox/libbb/xgetlarg.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/libbb/my_getgrnam.o: /home/andrewec/dslinux/user/busybox/libbb/my_getgrnam.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+ /home/andrewec/dslinux/user/busybox/include/grp_.h $(dep_/home/andrewec/dslinux/user/busybox/include/grp_.h)
+/home/andrewec/dslinux/user/busybox/libbb/pwd2spwd.o: /home/andrewec/dslinux/user/busybox/libbb/pwd2spwd.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h) \
+ /home/andrewec/dslinux/user/busybox/include/shadow_.h $(dep_/home/andrewec/dslinux/user/busybox/include/shadow_.h)
+/home/andrewec/dslinux/user/busybox/procps/pidof.o: /home/andrewec/dslinux/user/busybox/procps/pidof.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/procps/top.o: /home/andrewec/dslinux/user/busybox/procps/top.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/cpu/usage/percentage.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/use/termios.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/procps/sysctl.o: /home/andrewec/dslinux/user/busybox/procps/sysctl.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/procps/renice.o: /home/andrewec/dslinux/user/busybox/procps/renice.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/procps/kill.o: /home/andrewec/dslinux/user/busybox/procps/kill.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/killall.h)
+/home/andrewec/dslinux/user/busybox/procps/uptime.o: /home/andrewec/dslinux/user/busybox/procps/uptime.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/procps/free.o: /home/andrewec/dslinux/user/busybox/procps/free.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/procps/ps.o: /home/andrewec/dslinux/user/busybox/procps/ps.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/coreutils/echo.o: /home/andrewec/dslinux/user/busybox/coreutils/echo.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/echo.h)
+/home/andrewec/dslinux/user/busybox/coreutils/rm.o: /home/andrewec/dslinux/user/busybox/coreutils/rm.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/printf.o: /home/andrewec/dslinux/user/busybox/coreutils/printf.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/basename.o: /home/andrewec/dslinux/user/busybox/coreutils/basename.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/tail.o: /home/andrewec/dslinux/user/busybox/coreutils/tail.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/tail.h)
+/home/andrewec/dslinux/user/busybox/coreutils/cat.o: /home/andrewec/dslinux/user/busybox/coreutils/cat.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/id.o: /home/andrewec/dslinux/user/busybox/coreutils/id.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/pwd_.h $(dep_/home/andrewec/dslinux/user/busybox/include/pwd_.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h)
+/home/andrewec/dslinux/user/busybox/coreutils/yes.o: /home/andrewec/dslinux/user/busybox/coreutils/yes.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/chgrp.o: /home/andrewec/dslinux/user/busybox/coreutils/chgrp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/cut.o: /home/andrewec/dslinux/user/busybox/coreutils/cut.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/whoami.o: /home/andrewec/dslinux/user/busybox/coreutils/whoami.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/mkfifo.o: /home/andrewec/dslinux/user/busybox/coreutils/mkfifo.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/env.o: /home/andrewec/dslinux/user/busybox/coreutils/env.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/wc.o: /home/andrewec/dslinux/user/busybox/coreutils/wc.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h)
+/home/andrewec/dslinux/user/busybox/coreutils/pwd.o: /home/andrewec/dslinux/user/busybox/coreutils/pwd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/cp.o: /home/andrewec/dslinux/user/busybox/coreutils/cp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/length.o: /home/andrewec/dslinux/user/busybox/coreutils/length.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/df.o: /home/andrewec/dslinux/user/busybox/coreutils/df.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/human/readable.h)
+/home/andrewec/dslinux/user/busybox/coreutils/test.o: /home/andrewec/dslinux/user/busybox/coreutils/test.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/test/64.h)
+/home/andrewec/dslinux/user/busybox/coreutils/fold.o: /home/andrewec/dslinux/user/busybox/coreutils/fold.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/watch.o: /home/andrewec/dslinux/user/busybox/coreutils/watch.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/hostid.o: /home/andrewec/dslinux/user/busybox/coreutils/hostid.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/mkdir.o: /home/andrewec/dslinux/user/busybox/coreutils/mkdir.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/logname.o: /home/andrewec/dslinux/user/busybox/coreutils/logname.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/ls.o: /home/andrewec/dslinux/user/busybox/coreutils/ls.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/selinux.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/timestamps.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/sortfiles.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/followlinks.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/human/readable.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/filetypes.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/color.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/autowidth.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/recursive.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/ls/username.h)
+/home/andrewec/dslinux/user/busybox/coreutils/uuencode.o: /home/andrewec/dslinux/user/busybox/coreutils/uuencode.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/chown.o: /home/andrewec/dslinux/user/busybox/coreutils/chown.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/tee.o: /home/andrewec/dslinux/user/busybox/coreutils/tee.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/tee/use/block/io.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/coreutils/uudecode.o: /home/andrewec/dslinux/user/busybox/coreutils/uudecode.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/coreutils/md5_sha1_sum.o: /home/andrewec/dslinux/user/busybox/coreutils/md5_sha1_sum.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/md5/sha1/sum/check.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/md5sum.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/sha1sum.h)
+/home/andrewec/dslinux/user/busybox/coreutils/install.o: /home/andrewec/dslinux/user/busybox/coreutils/install.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/head.o: /home/andrewec/dslinux/user/busybox/coreutils/head.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/head.h)
+/home/andrewec/dslinux/user/busybox/coreutils/tr.o: /home/andrewec/dslinux/user/busybox/coreutils/tr.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/tty.o: /home/andrewec/dslinux/user/busybox/coreutils/tty.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/date.o: /home/andrewec/dslinux/user/busybox/coreutils/date.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/date/isofmt.h)
+/home/andrewec/dslinux/user/busybox/coreutils/du.o: /home/andrewec/dslinux/user/busybox/coreutils/du.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/human/readable.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/du/defalt/blocksize/1k.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/coreutils/usleep.o: /home/andrewec/dslinux/user/busybox/coreutils/usleep.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/od.o: /home/andrewec/dslinux/user/busybox/coreutils/od.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+ /home/andrewec/dslinux/user/busybox/include/dump.h $(dep_/home/andrewec/dslinux/user/busybox/include/dump.h)
+/home/andrewec/dslinux/user/busybox/coreutils/who.o: /home/andrewec/dslinux/user/busybox/coreutils/who.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/expr.o: /home/andrewec/dslinux/user/busybox/coreutils/expr.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/stty.o: /home/andrewec/dslinux/user/busybox/coreutils/stty.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/dos2unix.o: /home/andrewec/dslinux/user/busybox/coreutils/dos2unix.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/cmp.o: /home/andrewec/dslinux/user/busybox/coreutils/cmp.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/realpath.o: /home/andrewec/dslinux/user/busybox/coreutils/realpath.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/clean/up.h)
+/home/andrewec/dslinux/user/busybox/coreutils/uniq.o: /home/andrewec/dslinux/user/busybox/coreutils/uniq.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/sync.o: /home/andrewec/dslinux/user/busybox/coreutils/sync.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/user/flatfsd/flatfsd.h)
+/home/andrewec/dslinux/user/busybox/coreutils/rmdir.o: /home/andrewec/dslinux/user/busybox/coreutils/rmdir.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/touch.o: /home/andrewec/dslinux/user/busybox/coreutils/touch.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/ln.o: /home/andrewec/dslinux/user/busybox/coreutils/ln.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/sleep.o: /home/andrewec/dslinux/user/busybox/coreutils/sleep.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/feature/fancy/sleep.h)
+/home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/cp_mv_stat.o: /home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/cp_mv_stat.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/getopt_mk_fifo_nod.o: /home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/getopt_mk_fifo_nod.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/xgetoptfile_sort_uniq.o: /home/andrewec/dslinux/user/busybox/coreutils/libcoreutils/xgetoptfile_sort_uniq.c \
+ /home/andrewec/dslinux/user/busybox/include/libbb.h $(dep_/home/andrewec/dslinux/user/busybox/include/libbb.h)
+/home/andrewec/dslinux/user/busybox/coreutils/true.o: /home/andrewec/dslinux/user/busybox/coreutils/true.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/chmod.o: /home/andrewec/dslinux/user/busybox/coreutils/chmod.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/uname.o: /home/andrewec/dslinux/user/busybox/coreutils/uname.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/mv.o: /home/andrewec/dslinux/user/busybox/coreutils/mv.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/sort.o: /home/andrewec/dslinux/user/busybox/coreutils/sort.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/chroot.o: /home/andrewec/dslinux/user/busybox/coreutils/chroot.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/dd.o: /home/andrewec/dslinux/user/busybox/coreutils/dd.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/seq.o: /home/andrewec/dslinux/user/busybox/coreutils/seq.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/dirname.o: /home/andrewec/dslinux/user/busybox/coreutils/dirname.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/cal.o: /home/andrewec/dslinux/user/busybox/coreutils/cal.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h) \
+   $(wildcard /home/andrewec/dslinux/user/busybox/include/config/locale/support.h)
+/home/andrewec/dslinux/user/busybox/coreutils/false.o: /home/andrewec/dslinux/user/busybox/coreutils/false.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)
+/home/andrewec/dslinux/user/busybox/coreutils/mknod.o: /home/andrewec/dslinux/user/busybox/coreutils/mknod.c \
+ /home/andrewec/dslinux/user/busybox/include/busybox.h $(dep_/home/andrewec/dslinux/user/busybox/include/busybox.h)

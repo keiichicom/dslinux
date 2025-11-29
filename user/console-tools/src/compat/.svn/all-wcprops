@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2361/trunk/user/console-tools/src/compat
+END
+kbd-compat.8
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/kbd-compat.8
+END
+saveunimap
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/saveunimap
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/Makefile.am
+END
+loadunimap
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/loadunimap
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2361/trunk/user/console-tools/src/compat/Makefile.in
+END
+setfont
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/setfont
+END
+mapscrn
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2287/trunk/user/console-tools/src/compat/mapscrn
+END

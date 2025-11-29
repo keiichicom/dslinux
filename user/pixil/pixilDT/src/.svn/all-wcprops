@@ -1,0 +1,1019 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src
+END
+Sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Sync.h
+END
+Scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Scheduler.h
+END
+Printer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Printer.cpp
+END
+SchedulerTimeDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerTimeDlg.cpp
+END
+CustomFieldEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CustomFieldEditor.cpp
+END
+SplashDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SplashDlg.h
+END
+CategoryDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryDB.h
+END
+SchedulerDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDB.h
+END
+AddressBookDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDlg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Makefile
+END
+InputNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InputNotify.h
+END
+SchedulerMonthly.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerMonthly.h
+END
+SchedulerWeekly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerWeekly.cpp
+END
+SchedulerYearly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerYearly.cpp
+END
+PixilMainWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilMainWnd.h
+END
+InfoGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InfoGroup.cpp
+END
+TimeFunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/TimeFunc.cpp
+END
+Sync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Sync.cpp
+END
+NxDbColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbColumn.h
+END
+NxDbAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbAccess.h
+END
+SchedulerDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDB.cpp
+END
+OptionsDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/OptionsDlg.h
+END
+Printer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Printer.h
+END
+InputNotify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InputNotify.cpp
+END
+NxDb0001.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0001.txt
+END
+NxDb0003.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0003.txt
+END
+NxDb0005.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0005.txt
+END
+ListByDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ListByDlg.cpp
+END
+NxDb0007.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0007.txt
+END
+NxDb0009.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0009.txt
+END
+NotesCategoryDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NotesCategoryDB.h
+END
+NoteList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteList.cpp
+END
+ToDoListList.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListList.h
+END
+VCMemoryLeak.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/VCMemoryLeak.h
+END
+SchedulerWeekly.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerWeekly.h
+END
+FindDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FindDlg.cpp
+END
+ToDoListDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListDetails.cpp
+END
+Toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Toolbar.h
+END
+AddressBookDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDB.h
+END
+AddressBookDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDetails.h
+END
+IniDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/IniDlg.h
+END
+NoteDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteDB.cpp
+END
+SchedulerRepeatDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerRepeatDlg.h
+END
+PixilDT.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDT.dsp
+END
+PixilDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDT.h
+END
+CategoryEditorList.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryEditorList.h
+END
+InfoDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InfoDBDef.h
+END
+SchedulerCategoryDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerCategoryDB.h
+END
+TableBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/TableBase.h
+END
+PixilDT.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDT.dsw
+END
+NotesCategoryDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NotesCategoryDB.cpp
+END
+ToDoList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoList.cpp
+END
+ScheduleEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleEvent.h
+END
+FLTKUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FLTKUtil.h
+END
+ToolbarButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToolbarButton.h
+END
+Dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Dialog.h
+END
+ToDoListCategoryDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListCategoryDB.cpp
+END
+DatePickerDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/DatePickerDlg.h
+END
+SchedulerRepeatData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerRepeatData.cpp
+END
+NoteDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteDetails.cpp
+END
+FindDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FindDlg.h
+END
+ToDoListDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListDetails.h
+END
+PixilDTApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDTApp.cpp
+END
+CategoryEditorList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryEditorList.cpp
+END
+NoteDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteDB.h
+END
+SplashDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SplashDlg.cpp
+END
+SchedulerChangeTypeDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerChangeTypeDlg.h
+END
+SchedulerMonthly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerMonthly.cpp
+END
+ScheduleDay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleDay.cpp
+END
+ImageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ImageBox.cpp
+END
+Notes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Notes.h
+END
+SpinInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SpinInput.h
+END
+ToDoListShowDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListShowDlg.h
+END
+ScheduleContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleContainer.cpp
+END
+AddressBookList.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookList.h
+END
+InfoDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InfoDB.h
+END
+NxDbColumn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbColumn.cpp
+END
+AddressBookCategoryDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookCategoryDB.h
+END
+HelpID.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/HelpID.h
+END
+Images.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Images.h
+END
+NxDbAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbAccess.cpp
+END
+TimeFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/TimeFunc.h
+END
+NoteDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteDetails.h
+END
+ScheduleHours.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleHours.h
+END
+Notes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Notes.cpp
+END
+CategoryEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryEditor.h
+END
+Options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Options.cpp
+END
+AddressBookList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookList.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/resource.h
+END
+ToDoListList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListList.cpp
+END
+ImageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ImageBox.h
+END
+NoteEditorDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteEditorDlg.cpp
+END
+ScheduleContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleContainer.h
+END
+AddressBookCategoryDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookCategoryDB.cpp
+END
+SchedulerDaily.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDaily.h
+END
+CategoryDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryDBDef.h
+END
+ToDoListDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListDB.cpp
+END
+CustomFieldDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CustomFieldDBDef.h
+END
+SchedulerDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDlg.h
+END
+Note.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Note.h
+END
+PixilDT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDT.cpp
+END
+Scheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Scheduler.cpp
+END
+CategoryEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryEditor.cpp
+END
+CustomFieldDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CustomFieldDB.h
+END
+NxDb0002.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0002.txt
+END
+CustomFieldEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CustomFieldEditor.h
+END
+NxDb0004.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0004.txt
+END
+CategoryDeleteDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryDeleteDlg.h
+END
+NxDb0006.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0006.txt
+END
+Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Options.h
+END
+NxDb0008.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDb0008.txt
+END
+AddressBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBook.h
+END
+NoteEditorDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteEditorDlg.h
+END
+DatePicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/DatePicker.cpp
+END
+ToDoListDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListDB.h
+END
+SchedulerChangeTypeDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerChangeTypeDlg.cpp
+END
+InputBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InputBox.h
+END
+FindList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FindList.h
+END
+OptionsDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/OptionsDlg.cpp
+END
+NxDbRow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbRow.cpp
+END
+CustomFieldDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CustomFieldDB.cpp
+END
+SpinInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SpinInput.cpp
+END
+ToDoListShowDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListShowDlg.cpp
+END
+list
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/list
+END
+ToDoListDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListDBDef.h
+END
+ScheduleDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleDay.h
+END
+AddressBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBook.cpp
+END
+InfoDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InfoDB.cpp
+END
+ListByDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ListByDlg.h
+END
+Toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Toolbar.cpp
+END
+Images.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Images.cpp
+END
+NoteList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteList.h
+END
+AddressBookDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDB.cpp
+END
+AddressBookDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDetails.cpp
+END
+IniDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/IniDlg.cpp
+END
+SchedulerRepeatDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerRepeatDlg.cpp
+END
+LeftGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/LeftGroup.cpp
+END
+InputBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InputBox.cpp
+END
+PixilDT.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilDT.ini
+END
+FindList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FindList.cpp
+END
+ScheduleHours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleHours.cpp
+END
+DatePicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/DatePicker.h
+END
+NoteEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteEditor.h
+END
+SchedulerCategoryDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerCategoryDB.cpp
+END
+TableBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/TableBase.cpp
+END
+CategoryDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/CategoryDB.cpp
+END
+AddressBookDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDlg.cpp
+END
+NxDbRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NxDbRow.h
+END
+SchedulerTimeDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerTimeDlg.h
+END
+AddressBookDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/AddressBookDBDef.h
+END
+ScheduleEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ScheduleEvent.cpp
+END
+FLTKUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/FLTKUtil.cpp
+END
+ToolbarButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToolbarButton.cpp
+END
+NoteDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteDBDef.h
+END
+SchedulerDaily.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDaily.cpp
+END
+DatePickerDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/DatePickerDlg.cpp
+END
+PixilMainWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/PixilMainWnd.cpp
+END
+SchedulerDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDlg.cpp
+END
+Note.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Note.cpp
+END
+ToDoList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoList.h
+END
+SchedulerDBDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerDBDef.h
+END
+SchedulerYearly.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerYearly.h
+END
+ToDoListCategoryDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/ToDoListCategoryDB.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/config.h
+END
+NoteEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/NoteEditor.cpp
+END
+LeftGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/LeftGroup.h
+END
+Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/Messages.h
+END
+InfoGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/InfoGroup.h
+END
+SchedulerRepeatData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/pixilDT/src/SchedulerRepeatData.h
+END

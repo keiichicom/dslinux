@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2269/trunk/user/perl/ext/Cwd/t
+END
+cwd.t
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/perl/ext/Cwd/t/cwd.t
+END
+taint.t
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/ext/Cwd/t/taint.t
+END
+win32.t
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2269/trunk/user/perl/ext/Cwd/t/win32.t
+END

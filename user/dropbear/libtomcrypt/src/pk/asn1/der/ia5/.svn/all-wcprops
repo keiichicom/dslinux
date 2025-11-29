@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/ia5
+END
+der_encode_ia5_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/ia5/der_encode_ia5_string.c
+END
+der_length_ia5_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/ia5/der_length_ia5_string.c
+END
+der_decode_ia5_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2269/trunk/user/dropbear/libtomcrypt/src/pk/asn1/der/ia5/der_decode_ia5_string.c
+END

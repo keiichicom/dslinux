@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble
+END
+li_recognizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/li_recognizer.c
+END
+nxscribble.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/nxscribble.c
+END
+li_recognizer_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/li_recognizer_internal.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/Makefile
+END
+letters.cl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/letters.cl
+END
+digits.cl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/digits.cl
+END
+li_recognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/li_recognizer.h
+END
+bitvector.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/bitvector.c
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/matrix.c
+END
+nxscribble.syms
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/nxscribble.syms
+END
+sc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/sc.c
+END
+bitvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/bitvector.h
+END
+scribwidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/scribwidget.c
+END
+hre_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/hre_api.c
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/.svnignore
+END
+scrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/scrib.h
+END
+hre_api_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/hre_api_internal.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/matrix.h
+END
+sc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/sc.h
+END
+hre_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/hre_api.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/util.c
+END
+hre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/hre_internal.h
+END
+punc.cl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/punc.cl
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/util.h
+END
+hre.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/hre.h
+END
+zdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/microwin/src/demos/nxscribble/zdebug.h
+END

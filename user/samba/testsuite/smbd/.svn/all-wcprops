@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd
+END
+Makefile.sec_ctx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/Makefile.sec_ctx
+END
+sec_ctx_groups.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_groups.c
+END
+sec_ctx_current_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_current_user.c
+END
+se_access_check_printer.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_printer.c
+END
+se_access_check_denysome.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_denysome.c
+END
+sec_ctx_root.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_root.c
+END
+se_access_check_denyall.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_denyall.c
+END
+se_access_check.exp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check.exp
+END
+sec_ctx.exp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx.exp
+END
+se_access_check_empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_empty.c
+END
+se_access_check_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_utils.c
+END
+se_access_check_nullsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_nullsd.c
+END
+sec_ctx_nonroot.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_nonroot.c
+END
+se_access_check_allowsome.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_allowsome.c
+END
+sec_ctx_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_utils.c
+END
+sec_ctx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx1.c
+END
+sighup.exp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sighup.exp
+END
+se_access_check_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_utils.h
+END
+se_access_check_allowall.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/se_access_check_allowall.c
+END
+sec_ctx_torture.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_torture.c
+END
+sec_ctx_stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_stack.c
+END
+sec_ctx_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_utils.h
+END
+sec_ctx_flow.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/sec_ctx_flow.c
+END
+Makefile.se_access_check
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/samba/testsuite/smbd/Makefile.se_access_check
+END

@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/stream.c
+END
+deprecate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/deprecate.c
+END
+input_256c.miff
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/input_256c.miff
+END
+wand.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/wand.h
+END
+montage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/montage.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/stream.h
+END
+deprecate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/deprecate.h
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/display.c
+END
+pixel-wand.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/pixel-wand.c
+END
+magick_wand.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick_wand.h
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/display.h
+END
+MagickWand.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/MagickWand.h
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/identify.c
+END
+magick-image.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-image.c
+END
+magick-property.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-property.c
+END
+pixel-wand.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/pixel-wand.h
+END
+Wand.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/Wand.pc.in
+END
+animate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/animate.c
+END
+identify.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/identify.h
+END
+input_gray.miff
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/input_gray.miff
+END
+magick-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-image.h
+END
+magick-property.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-property.h
+END
+magick-wand.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-wand.c
+END
+animate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/animate.h
+END
+pixel-wand-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/pixel-wand-private.h
+END
+MagickWand-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/MagickWand-config.1
+END
+compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/compare.c
+END
+magick-wand.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-wand.h
+END
+wandtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/wandtest.c
+END
+compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/compare.h
+END
+MagickWand-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/MagickWand-config.in
+END
+input_truecolor.miff
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/input_truecolor.miff
+END
+drawtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/drawtest.c
+END
+magick-wand-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/magick-wand-private.h
+END
+input_bilevel.miff
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/input_bilevel.miff
+END
+composite.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/composite.c
+END
+conjure.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/conjure.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/ChangeLog
+END
+composite.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/composite.h
+END
+sequence.miff
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/sequence.miff
+END
+pixel-iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/pixel-iterator.c
+END
+import.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/import.c
+END
+conjure.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/conjure.h
+END
+Wand-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/Wand-config.1
+END
+mogrify.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/mogrify.c
+END
+studio.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/studio.h
+END
+pixel-iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/pixel-iterator.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/import.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/convert.c
+END
+Wand-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/Wand-config.in
+END
+mogrify.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/mogrify.h
+END
+drawing-wand.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/drawing-wand.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/convert.h
+END
+drawing-wand.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/drawing-wand.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/Makefile.am
+END
+mogrify-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/mogrify-private.h
+END
+wand.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/wand.c
+END
+MagickWand.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/MagickWand.pc.in
+END
+montage.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2321/trunk/user/imagemagick/src/wand/montage.c
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend
+END
+fltksplay.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/fltksplay.cc
+END
+flnxDouble_Blink_Window.H
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/flnxDouble_Blink_Window.H
+END
+fft.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/fft.cc
+END
+callbacks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/callbacks.cc
+END
+mp3buttons.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/mp3buttons.h
+END
+mp3utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/mp3utils.cc
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/fft.h
+END
+callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/callbacks.h
+END
+mp3utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/mp3utils.h
+END
+fspl_panel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/fspl_panel.cc
+END
+fspl_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/fspl_panel.h
+END
+dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/dsp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Makefile
+END
+dsp_feedback.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/dsp_feedback.cc
+END
+mp3_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/mp3_button.cc
+END
+comm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/comm.cc
+END
+dsp_feedback.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/dsp_feedback.h
+END
+comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/comm.h
+END
+xplay.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/xplay.cc
+END
+xplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/xplay.h
+END
+Mp3_Browser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Mp3_Browser.cc
+END
+Fl_Eq.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Fl_Eq.cxx
+END
+Mp3_Node.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Mp3_Node.cc
+END
+Mp3_Browser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Mp3_Browser.h
+END
+Mp3_Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/pixil/apps/fltk/mp3/frontend/Mp3_Node.h
+END

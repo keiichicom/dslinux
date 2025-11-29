@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests
+END
+termination_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/termination_test.c
+END
+simple_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/simple_test.c
+END
+callback_hang_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/callback_hang_test.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/Makefile.am
+END
+snr_bw_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/snr_bw_test.c
+END
+misc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/misc_test.c
+END
+src-evaluate.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/src-evaluate.c
+END
+callback_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/callback_test.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/Makefile.in
+END
+throughput_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/throughput_test.c
+END
+downsample_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/downsample_test.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/util.c
+END
+reset_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/reset_test.c
+END
+multi_channel_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/multi_channel_test.c
+END
+varispeed_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/varispeed_test.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/util.h
+END
+float_short_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/float_short_test.c
+END
+calc_snr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2386/trunk/lib/libsamplerate/src/tests/calc_snr.c
+END

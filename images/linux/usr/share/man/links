@@ -1,0 +1,691 @@
+LINKS(1)
+LINKS(1)
+
+
+
+NNAAMMEE
+       links - lynx-like alternative character mode WWW browser
+
+SSYYNNOOPPSSIISS
+       lliinnkkss _[_o_p_t_i_o_n_s_] _U_R_L
+
+DDEESSCCRRIIPPTTIIOONN
+       lliinnkkss  is  a  text  mode WWW browser with
+       ncurses interface, supporting colors, correct table
+       rendering, background  downloading,  menu  driven
+       configuration interface and slim code.
+
+       Frames  are  supported.  You can have different file
+       formats associated with external viewers. mailto:
+       and telnet: are supported  via  external clients.
+
+       _l_i_n_k_s can handle local (file://) or remote
+       (http:// or ftp://) URLs.
+
+OOPPTTIIOONNSS
+       Most  options  can be set in the user interface or
+       config file, so usu‐ ally you do not need to care
+       about them.
+
+
+       --gg     Run Links in graphics mode. If not given,
+       Links will run in text
+              mode.   Running in graphics mode means that Links
+              will probe all compiled-in graphics devices and
+              run on the first found. If none found,  links
+              will not run in text mode. This option works only
+              if --enable-graphics was given to ./configure.
+
+
+       --nnoo--gg  Run in text mode (overrides previous
+       -g).
+
+
+       --ddrriivveerr _<_d_r_i_v_e_r
+       _n_a_m_e_>
+              Graphics driver to use. Drivers are: x,
+              svgalib,  fb,  directfb, pmshell,  atheos.
+              List of drivers will be shown if you give it
+              an unknown driver.  Available drivers depend on
+              your  operating system and available libraries.
+
+
+       --mmooddee _<_p_a_r_a_m_e_t_e_r_>
+              Pass  a  parameter  to  the graphics driver. On
+              SVGAlib, this is widthxheightxdepth, (where
+              depth is 16, 256, 32K,  64K,  16M  or 16M32)
+              and defines the graphics mode, on X the format
+              is WIDTHx‐ HEIGHT and defines the window size.
+
+
+       --ddiissppllaayy
+       _<_x_-_d_i_s_p_l_a_y_>
+              Set Xwindow display.
+
+
+       --ffoorrccee--hhttmmll
+              Treat files with unknown type as html rather
+              than text.  (can be toggled with '\' key)
+
+
+       --ssoouurrccee _<_u_r_l_>
+              Write unformatted data stream to stdout.
+
+
+       --dduummpp _<_u_r_l_>
+              Write formatted document to stdout.
+
+
+       --wwiiddtthh _<_n_u_m_b_e_r_>
+              For  dump,  document will be formatted to this
+              screen width (but it can still exceed it if
+              lines can't be broken).
+
+
+       --ccooddeeppaaggee
+       _<_c_o_d_e_p_a_g_e_>
+              For dump, convert output to specified character
+              set -- for eaxm‐ ple iso-8859-2, windows-1250.
+
+
+       --aannoonnyymmoouuss
+              Restrict  links  so that it can run on an
+              anonymous account.  No local file browsing.
+              No  downloads.  Executing  of  viewers  is
+              allowed, but user can't add or modify entries
+              in association ta‐ ble.
+
+
+       --nnoo--ccoonnnneecctt
+              Runs links as a separate instance -  instead
+              of  connecting  to existing instance.
+
+
+       --ddoowwnnllooaadd--uuttiimmee
+       _<_0_>_/_<_1_>
+              Set  time of downloaded files to last
+              modification time reported by server.
+
+
+       --aassyynncc--ddnnss _<_0_>_/_<_1_>
+              Asynchronous DNS resolver on(1)/off(0).
+
+
+       --mmaaxx--ccoonnnneeccttiioonnss
+       _<_m_a_x_>
+              Maximum number of concurrent connections.
+              (default: 10)
+
+
+       --mmaaxx--ccoonnnneeccttiioonnss--ttoo--hhoosstt
+       _<_m_a_x_>
+              Maximum  number  of  concurrent  connection
+              to  a  given  host.  (default: 2)
+
+
+       --rreettrriieess _<_r_e_t_r_y_>
+              Number of retries.  (default: 3)
+
+
+       --rreecceeiivvee--ttiimmeeoouutt
+       _<_s_e_c_>
+              Timeout on receive.  (default: 120)
+
+
+       --uunnrreessttaarrttaabbllee--rreecceeiivvee--ttiimmeeoouutt
+       _<_s_e_c_>
+              Timeout on non restartable connections.
+              (default: 600)
+
+
+       --ffoorrmmaatt--ccaacchhee--ssiizzee
+       _<_n_u_m_>
+              Number of formatted document pages cached.
+              (default: 5)
+
+
+       --mmeemmoorryy--ccaacchhee--ssiizzee
+       _<_b_y_t_e_s_>
+              Cache memory in Kilobytes.  (default: 1024)
+
+
+       --iimmaaggee--ccaacchhee--ssiizzee
+       _<_b_y_t_e_s_>
+              Cache memory in Kilobytes.  (default: 1024)
+
+
+       --hhttttpp--pprrooxxyy
+       _<_h_o_s_t_:_p_o_r_t_>
+              Host  and  port  number  of the HTTP proxy,
+              or blank.  (default: blank)
+
+
+       --ffttpp--pprrooxxyy
+       _<_h_o_s_t_:_p_o_r_t_>
+              Host and port number of the  FTP  proxy,
+              or  blank.   (default: blank)
+
+
+       --ddoowwnnllooaadd--ddiirr
+       _<_p_a_t_h_>
+              Default download directory.  (default:
+              actual dir)
+
+
+       --llaanngguuaaggee
+       _<_l_a_n_g_u_a_g_e_>
+              Set user interface language.
+
+
+       --hhttttpp--bbuuggss..hhttttpp1100
+       _<_0_>_/_<_1_>
+              (default 0) "1" forces using only HTTP/1.0
+              protocol. (useful for buggy servers that claim
+              to be HTTP/1.1 compliant but  are  not) "0"
+              enables using both HTTP/1.0 and HTTP/1.1.
+
+
+       --hhttttpp--bbuuggss..aallllooww--bbllaacckklliisstt
+       _<_0_>_/_<_1_>
+              (default 1) "1" defaults to using list of
+              servers that have bro‐ ken HTTP/1.1 support.
+              When links finds  such  server,  it  will retry
+              the request with HTTP/1.0.
+
+
+       --hhttttpp--bbuuggss..bbuugg--330022--rreeddiirreecctt
+       _<_0_>_/_<_1_>
+              (default  1)  Process 302 redirect in a way that
+              is incompatible with RFC1945 and RFC2068, but
+              the same  as  Netscape  and  MSIE.  Many pages
+              depend on it.
+
+
+       --hhttttpp--bbuuggss..bbuugg--ppoosstt--nnoo--kkeeeeppaalliivvee
+       _<_0_>_/_<_1_>
+              (default  0)  No  keepalive  connection after
+              post requests. For some buggy servers.
+
+
+       --hhttttpp--bbuuggss..bbuugg--nnoo--aacccceepptt--cchhaarrsseett
+       _<_0_>_/_<_1_>
+              (default 0) Do not send Accept-Charset  field
+              of  HTTP  header.  Because it is too long some
+              servers will deny the request. Other servers
+              will convert content to plain ascii when
+              Accept-Charset is missing.
+
+
+       --hhttttpp--bbuuggss..rreettrryy--iinntteerrnnaall--eerrrroorrss
+       _<_0_>_/_<_1_>
+              (default 0) Retry on internal server errors
+              (50x).
+
+
+       --hhttttpp--bbuuggss..aaggggrreessssiivvee--ccaacchhee
+       _<_0_>_/_<_1_>
+              Always  cache everything regardless of server's
+              caching recomen‐ dations.  Many servers deny
+              caching even if their content is not changing
+              just to get more hits and more money from ads.
+
+
+       --hhttttpp--rreeffeerreerr
+       _<_0_>_/_<_1_>
+              (default 0) 0 - do not send referer.  1 -
+              send the requested URL as referer.  2 - send
+              fake referer.  3 - send real referer.  4 -
+              send real referer only to the same server.
+
+
+       --ffaakkee--rreeffeerreerr
+       _<_s_t_r_i_n_g_>
+              Fake referer value.
+
+
+       --ffaakkee--uusseerr--aaggeenntt
+       _<_s_t_r_i_n_g_>
+              Fake user agent value.
+
+
+       --ffttpp..aannoonnyymmoouuss--ppaasssswwoorrdd
+       _<_s_t_r_i_n_g_>
+              Password for anonymous ftp access.
+
+
+       --ffttpp..uussee--ppaassssiivvee
+       _<_0_>_/_<_1_>
+              Use ftp PASV command to bypass firewalls.
+
+
+       --ffttpp..ffaasstt _<_0_>_/_<_1_>
+              Send  more  ftp  commands  simultaneously.
+              Faster response when browsing ftp directories,
+              but it is incompatible  with  RFC  and some
+              servers don't like it.
+
+
+       --mmeennuu--ffoonntt--ssiizzee
+       _<_s_i_z_e_>
+              Size of font in menu.
+
+
+       --bbaacckkggrroouunndd--ccoolloorr
+       _0_x_R_R_G_G_B_B
+              Set menu background color in graphics
+              mode. RRGGBB are hex.
+
+
+       --ffoorreeggrroouunndd--ccoolloorr
+       _0_x_R_R_G_G_B_B
+              Set menu foreground color in graphics
+              mode. RRGGBB are hex.
+
+
+       --ssccrroollll--bbaarr--aarreeaa--ccoolloorr
+       _0_x_R_R_G_G_B_B
+              Set color of scroll bar area. RRGGBB are hex.
+
+
+       --ssccrroollll--bbaarr--bbaarr--ccoolloorr
+       _0_x_R_R_G_G_B_B
+              Set color of scroll bar. RRGGBB are hex.
+
+
+       --ssccrroollll--bbaarr--ffrraammee--ccoolloorr
+       _0_x_R_R_G_G_B_B
+              Set color of scroll bar frame. RRGGBB are hex.
+
+
+       --ddiissppllaayy--rreedd--ggaammmmaa
+       _<_f_p_-_v_a_l_u_e_>
+              Red gamma of display. (default 2.2)
+
+
+       --ddiissppllaayy--ggrreeeenn--ggaammmmaa
+       _<_f_p_-_v_a_l_u_e_>
+              Green gamma of display. (default 2.2)
+
+
+       --ddiissppllaayy--bblluuee--ggaammmmaa
+       _<_f_p_-_v_a_l_u_e_>
+              Blue gamma of display. (default 2.2)
+
+
+       --uusseerr--ggaammmmaa
+       _<_f_p_-_v_a_l_u_e_>
+              Additional gamma. (defult 1)
+
+
+       --bbffuu--aassppeecctt
+       _<_f_p_-_v_a_l_u_e_>
+              Display aspect ration.
+
+
+       --aassppeecctt--oonn _<_0_>_/_<_1_>
+              Enable aspect ratio correction.
+
+
+       --ddiitthheerr--lleetttteerrss
+       _<_0_>_/_<_1_>
+              Do letter dithering.
+
+
+       --ddiitthheerr--iimmaaggeess
+       _<_0_>_/_<_1_>
+              Do image dithering.
+
+
+       --ddiissppllaayy--ooppttiimmiizzee
+       _<_0_>_/_<_1_>_/_<_2_>
+              Optimize for CRT (0), LCD RGB (1), LCD BGR (2).
+
+
+       --eennaabbllee--jjaavvaassccrriipptt
+       _<_0_>_/_<_1_>
+              Enable javascript.
+
+
+       --ggaammmmaa--ccoorrrreeccttiioonn
+       _<_0_>_/_<_1_>_/_<_2_>
+              Type  of  gamma  correction:  (default 2)
+              0 - 8-bit (fast).  1 - 16-bit (slow).  2 -
+              automatically detect according to  speed  of FPU.
+
+
+       --jjss..vveerrbboossee--eerrrroorrss
+       _<_0_>_/_<_1_>
+              Display javascript errors.
+
+
+       --jjss..vveerrbboossee--wwaarrnniinnggss
+       _<_0_>_/_<_1_>
+              Display javascript warnings.
+
+
+       --jjss..eennaabbllee--aallll--ccoonnvveerrssiioonnss
+       _<_0_>_/_<_1_>
+              Enable conversions between all types in
+              javascript.
+
+
+       --jjss..eennaabbllee--gglloobbaall--rreessoolluuttiioonn
+       _<_0_>_/_<_1_>
+              Resolve global names.
+
+
+       --jjss..mmaannuuaall--ccoonnffiirrmmaattiioonn
+       _<_0_>_/_<_1_>
+              Ask  user to confirm potentially dangerous
+              operations.  (opening windows, going to url
+              etc.) Default 1.
+
+
+       --jjss..rreeccuurrssiioonn--ddeepptthh
+       _<_i_n_t_e_g_e_r_>
+              Depth of javascript call stack.
+
+
+       --jjss..mmeemmoorryy--lliimmiitt
+       _<_m_e_m_o_r_y _a_m_o_u_n_t_>
+              Amount of kilobytes the javascript may allocate.
+
+
+       --bbooookkmmaarrkkss--ccooddeeppaaggee
+       _<_c_o_d_e_p_a_g_e_>
+              Character set of bookmarks file.
+
+
+       --bbooookkmmaarrkkss--ffiillee
+       _<_f_i_l_e_>
+              File to store bookmarks.
+
+
+       --hhttmmll--aassssuummee--ccooddeeppaaggee
+       _<_c_o_d_e_p_a_g_e_>
+              Use the given codepage when the  webpage  did
+              not  specify  its codepage. (default: ISO 8859-1)
+
+
+       --hhttmmll--hhaarrdd--aassssuummee
+       _<_0_>_/_<_1_>
+              Use  always character set from
+              "-html-assume-codepage" no matter what server
+              sent.
+
+
+       --hhttmmll--ttaabblleess
+       _<_0_>_/_<_1_>
+              Render tables. (0) causes tables being rendered
+              like in lynx.
+
+
+       --hhttmmll--ffrraammeess
+       _<_0_>_/_<_1_>
+              Render frames. (0) causes frames  rendered like
+              in lynx.
+
+
+       --hhttmmll--iimmaaggeess
+       _<_0_>_/_<_1_>
+              Display links to unnamed images as [IMG]
+
+
+       --hhttmmll--iimmaaggee--nnaammeess
+       _<_0_>_/_<_1_>
+              Display filename of an image instead of [IMG].
+
+
+       --hhttmmll--ddiissppllaayy--iimmaaggeess
+       _<_0_>_/_<_1_>
+              Display images in graphics mode.
+
+
+       --hhttmmll--iimmaaggee--ssccaallee
+       _<_p_e_r_c_e_n_t_>
+              Scale images in graphics mode.
+
+
+       --hhttmmll--bbaarree--iimmaaggee--aauuttoossccaallee
+       _<_0_>_/_<_1_>
+              Autoscale images displayed in full screen.
+
+
+       --hhttmmll--nnuummbbeerreedd--lliinnkkss
+       _<_0_>_/_<_1_>
+              Number links in text mode. Allow quick link
+              selection by  typing link number and enter.
+
+
+       --hhttmmll--ttaabbllee--oorrddeerr
+       _<_0_>_/_<_1_>
+              In text mode, walk through table by rows (0)
+              or columns (1).
+
+
+       --hhttmmll--aauuttoo--rreeffrreesshh
+       _<_0_>_/_<_1_>
+              Process  refresh to other page (1), or display
+              link to that page (0).
+
+
+       --hhttmmll--ttaarrggeett--iinn--nneeww--wwiinnddooww
+       _<_0_>_/_<_1_>
+              Allow opening new windows from html.
+
+
+       --hhttmmll--mmaarrggiinn
+       _<_n_u_m_b_e_r _o_f _s_p_a_c_e_s_>
+              Margin in text mode.
+
+
+       --hhttmmll--uusseerr--ffoonntt--ssiizzee
+       _<_s_i_z_e_>
+              Size of font on pages in graphics mode.
+
+
+       --llooookkuupp _<_h_o_s_t_n_a_m_e_>
+              Does name lookup, like command "host".
+
+
+       --vveerrssiioonn
+              Prints the _l_i_n_k_s version number
+              and exit.
+
+
+       --hheellpp  Printf a help screen
+
+
+       More options can be seen with links -h
+
+
+NNAAVVIIGGAATTIIOONN KKEEYYSS
+       The keys you may use while navigating are
+
+       EESSCC    menu/escape
+
+       FF99     menu
+
+       FF1100    file menu
+
+       TTAABB    next frame
+
+       PPGGDDNN   page down
+
+       SSppaaccee  page down
+
+       PPGGUUPP   page up
+
+       bb      page up
+
+       BB      page up
+
+       CCuurrssoorrDDOOWWNN
+              next link/down (text mode), scroll down
+              (graphics mode)
+
+       CCuurrssoorrUUPP
+              prev link/up (text mode), up (graphics mode)
+
+       ^^IINNSS   copy to clipboard
+
+       ^^CC     copy to clipboard (OS/2 only)
+
+       IINNSS    scroll up (text mode only)
+
+       ^^PP     scroll up
+
+       DDEELL    scroll down
+
+       ^^NN     scroll down
+
+       [[      scroll left
+
+       ]]      scroll right
+
+       HHOOMMEE   home
+
+       EENNDD    end of page
+
+       CCuurrssoorrRRIIGGHHTT
+              enter link/press button  (text  mode),  scroll
+              right  (graphics mode)
+
+       EENNTTEERR  enter link/press button
+
+       CCuurrssoorrLLEEFFTT
+              go back (text mode), scroll left (graphics mode)
+
+       dd      download link (text mode only)
+
+       DD      download link (text mode only)
+
+       //      search in the page
+
+       ??      search back in the page
+
+       nn      find next match
+
+       NN      find next match backwards
+
+       ff      zoom actual frame
+
+       FF      zoom actual frame
+
+       ^^RR     reload page
+
+       gg      go to URL
+
+       GG      edit the current URL and goto the result
+
+       ss      bookmark manager
+
+       SS      bookmark manager
+
+       qq      quit, close window if more windows are open
+
+       QQ      quit, close window if more windows are open
+
+       ==      document informations
+
+       \\      toggle HTML source/rendered view
+
+
+EEDDIITTIINNGG KKEEYYSS
+       The following keys can be used while editing a
+       line/jumping to a URL:
+
+       CCuurrssoorrRRIIGGHHTT
+              move right
+
+       CCuurrssoorrLLEEFFTT
+              move left
+
+       HHOOMMEE   jump at the beginning
+
+       ^^AA     jump at the beginning
+
+       EENNDD    jump at the end
+
+       ^^EE     jump at the end
+
+       ^^XX     cut to clipboard
+
+       ^^VV     paste from clipboard
+
+       EENNTTEERR  enter line
+
+       BBAACCKKSSPPAACCEE
+              delete back character
+
+       ^^HH     delete back character
+
+       DDEELL    delete character
+
+       ^^DD     delete character
+
+       ^^UU     delete from beginning of the line
+
+       ^^KK     delete to the end of the line or delete line
+       (in textarea)
+
+       ^^WW     auto complete line
+
+
+
+
+
+
+FFIILLEESS
+       ~/.links/links.cfg
+              Per-user configfile, automatically created
+              by lliinnkkss..
+
+PPLLAATTFFOORRMMSS
+       lliinnkkss  is  known to work on Linux, FreeBSD,
+       Solaris, IRIX, HPUX, Digital Unix, AIX, OS/2 and BeOS.
+       Port for Win32 is in state of beta testing.
+
+BBUUGGSS
+       You can't upload large files; it takes _lots_ of memory.
+
+       Please  report any other bugs you find to Mikulas
+       Patocka <miku‐ las@artax.karlin.mff.cuni.cz>
+
+
+LLIICCEENNSSEE
+       lliinnkkss is free software; you can redistribute
+       it and/or modify it under  the  terms of the GNU General
+       Public License as published by the  Free  Software
+       Foundation;  either  version  2  of  the License, or
+       (at your option) any later version.
+
+
+AAUUTTHHOORR
+       _l_i_n_k_s  was  written  by  MMiikkuullaass
+       PPaattoocckkaa,, KKaarreell
+       ''CClloocckk'' KKuullhhaavvyy,,
+       PPeettrr ''BBrraaiinn''
+       KKuullhhaavvyy,,  aanndd  MMaarrttiinn
+       ''PPeerrMM''  PPeerrggeell..   See  file
+       _A_U_T_H_O_R_S for a list of people contributing
+       to this project.
+
+       The   homepage  of  links  can  be  found  at
+       hhttttpp::////aattrreeyy..kkaarr‐‐
+       lliinn..mmffff..ccuunnii..cczz//~~cclloocckk//ttwwiibbrriigghhtt//lliinnkkss
+
+       This manual page was written by Peter  Gervai
+       <grin@tolna.net>, using  excerpts  from  a
+       (yet?) unknown _l_i_n_k_s fan for the Debian
+       GNU/Linux system (but may be used by others). Updated
+       by  Karel Kulhavy.
+
+
+SSEEEE AALLSSOO
+       llyynnxx(1), ww33mm(1)
+
+
+
+                                   Aug, 2006
+                                   LINKS(1)

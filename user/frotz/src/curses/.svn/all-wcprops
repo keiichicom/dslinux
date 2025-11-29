@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/getopt.h
+END
+ux_pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_pic.c
+END
+ux_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_file.c
+END
+ux_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_input.c
+END
+ux_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_screen.c
+END
+ux_audio_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_audio_none.c
+END
+ux_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_init.c
+END
+ux_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_text.c
+END
+ux_audio_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_audio_oss.c
+END
+ux_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_setup.h
+END
+ux_frotz.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/user/frotz/src/curses/ux_frotz.h
+END

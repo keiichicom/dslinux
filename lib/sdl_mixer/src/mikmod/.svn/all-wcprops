@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod
+END
+load_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/load_it.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/README
+END
+load_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/load_mod.c
+END
+virtch2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/virtch2.c
+END
+mloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mloader.c
+END
+load_xm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/load_xm.c
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/COPYING.LESSER
+END
+mmerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mmerror.c
+END
+mmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mmalloc.c
+END
+mikmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mikmod.h
+END
+munitrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/munitrk.c
+END
+sloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/sloader.c
+END
+npertab.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/npertab.c
+END
+mdreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mdreg.c
+END
+virtch.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/virtch.c
+END
+load_s3m.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/load_s3m.c
+END
+mmio.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mmio.c
+END
+mikmod_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mikmod_internals.h
+END
+mikmod_build.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mikmod_build.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/AUTHORS
+END
+mlutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mlutil.c
+END
+mlreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mlreg.c
+END
+virtch_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/virtch_common.c
+END
+mdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mdriver.c
+END
+mplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mplayer.c
+END
+drv_nos.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/drv_nos.c
+END
+mwav.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2269/trunk/lib/sdl_mixer/src/mikmod/mwav.c
+END

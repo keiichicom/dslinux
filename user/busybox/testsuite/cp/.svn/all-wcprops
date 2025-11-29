@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp
+END
+cp-dir-existing-dir
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-dir-existing-dir
+END
+cp-follows-links
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-follows-links
+END
+cp-copies-small-file
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-copies-small-file
+END
+cp-copies-large-file
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-copies-large-file
+END
+cp-preserves-hard-links
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-preserves-hard-links
+END
+cp-preserves-source-file
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-preserves-source-file
+END
+cp-a-preserves-links
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-a-preserves-links
+END
+cp-copies-empty-file
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-copies-empty-file
+END
+cp-dir-create-dir
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-dir-create-dir
+END
+cp-a-files-to-dir
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-a-files-to-dir
+END
+cp-preserves-links
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-preserves-links
+END
+cp-does-not-copy-unreadable-file
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-does-not-copy-unreadable-file
+END
+cp-files-to-dir
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-files-to-dir
+END
+cp-d-files-to-dir
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2269/trunk/user/busybox/testsuite/cp/cp-d-files-to-dir
+END

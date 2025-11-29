@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen
+END
+sysinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/sysinfo.c
+END
+sound_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/sound_dsp.c
+END
+tuxscreen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/tuxscreen.c
+END
+powermgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/powermgmt.c
+END
+calibrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/calibrate.c
+END
+backlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2269/trunk/user/pixil/libs/pixlib/platform/tuxscreen/backlight.c
+END

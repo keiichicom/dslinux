@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 114
+Makefile
+Makefile.in
+*.lo
+_libs
+.libs
+.deps
+libvideogfx-graphics-lowlevel.la
+libvideogfx-graphics-lowlevel-mmx.la
+
+END
