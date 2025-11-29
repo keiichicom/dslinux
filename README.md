@@ -11,7 +11,7 @@ Here is an example of it running on a Nintendo DSi XL:
 
 Build Instructions: 
 
-Note: I am having troubled with the github source tree not matching my local, so the build may not work.
+Note: I am having trouble with the github source tree not matching my local, so the build may not work.
 
 You need to first setup a VM with Debian Wheezy 7.11.0 i386 version and use that for your build.
 
