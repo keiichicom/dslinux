@@ -11,7 +11,7 @@ Here is an example of it running on a Nintendo DSi XL:
 
 Build Instructions:
 
-Note: I am having trouble with the github source tree not matching my local, so the build may not work. If that is the case for you take this archive: dslinux-backup.tar.gz and unpack the contents into dslinux (without the top folder: dslinux-backup. You need git lfs (large file storage) installed to download it.
+Note: I had trouble with the github source tree not matching my local, so the build did not work after a git clone. So you need to take this archive: dslinux-backup.tar.gz and unpack the contents into dslinux (without the top folder: dslinux-backup. You need git lfs (large file storage) installed to download it.
 
 You need to first setup a VM with Debian Wheezy 7.11.0 i386 version and use that for your build.
 
