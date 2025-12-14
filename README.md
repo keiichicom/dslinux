@@ -19,7 +19,7 @@ Note: I had trouble with the github source tree not matching my local, so the bu
 
 You need to first setup a VM with Debian Wheezy 7.11.0 i386 version and use that for your build.
 
-Then follow the instructions here, except you would clone this repo instead of downloading it from Apache Subversion. I strongly suggest to download a pre-compiled toolchain rather than trying to compile it locally. The toolchain I used is in the source tree: dslinux-toolchain-2008-01-24-i686.tbz :
+Then follow the instructions here, except you would clone this repo instead of downloading it from Apache Subversion. I strongly suggest to download a pre-compiled toolchain rather than trying to compile it locally. The toolchain I used is available here: [dslinux-toolchain-2008-01-24-i686.tbz](https://dslinux.org/toolchain/dslinux-toolchain-2008-01-24-i686.tbz) :
 
 https://www.dslinux.org/wiki/CompilingDSLinux.html
 
