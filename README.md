@@ -1,4 +1,4 @@
-Note: For now: I have given up on this project since if there is no sdmmc driver there is no point in continuing. If anyone else wants to try, you can try to integrate this driver into dslinux: https://github.com/profi200/dsi_sdmmc/tree/main, you will need to first replace the devkitpro header includes with linux header includes compile it with the dslinux toolchain to .o files and include in dslinux and rebuild it.
+Note: For now: I have given up on this project, since if there is no sdmmc driver, there is no point in continuing. If anyone else wants to try, you can try to integrate this driver into dslinux: https://github.com/profi200/dsi_sdmmc/tree/main, you will need to first replace the devkitpro header includes with linux header includes compile it with the dslinux toolchain to .o files and include in dslinux and rebuild it.
 
 This is a fork of the original dslinux hosted here: https://www.dslinux.org/, source code: https://svn.dslinux.org/svn/trunk, which now runs on the Nintendo DSi and DSi XL. Note that if you are a Nintendo ds/ds lite owner, you should still use the original dslinux.
 
