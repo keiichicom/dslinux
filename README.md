@@ -1,4 +1,4 @@
-2025-12-29 I am re-purposing this site to improving dslinux on the nds. For other devices either use a 2ds/3ds or higher with other available Linux repos.
+2025-12-29 I am re-purposing this site to improving dslinux on the nds. For other devices either use a 2ds/3ds or higher device with other available Linux repos.
 
 Note: For now: I have given up on the project of porting dslinux to the DSi / DSi XL, since if there is no sdmmc driver, there is no point in continuing. If anyone else wants to try, you can try to integrate this driver into dslinux: https://github.com/profi200/dsi_sdmmc/tree/main, you will need to first replace the devkitpro header includes with linux header includes compile it with the dslinux toolchain to .o files and include in dslinux and rebuild it.
 
