@@ -1,3 +1,6 @@
+2025-12-30 For dslinux on the nds / nds lite, git clone the repo, you will first need to install git lfs for this to be successful.
+Then unzip the tgz file. Then put the linux folder in the root of your slot 1 flashcart sd card. Then Put the dslinux.nds file in your roms/nds or games/nds folder. Build instructions are similar to the instructions for the dsi below , except you would not change ram/flash memory addresses and sizes. One more step is required for the build when you make your menuconfig customize the vendor/user configuration and remove the program playtzx from Miscellaneous Applications. It first has a configuration issue with automake and then after that is fixed it has too many compile-time errors.
+
 2025-12-29 I am re-purposing this site to improving dslinux on the nds. For other devices either use a 2ds/3ds or higher device with other available Linux repos.
 
 Note: For now: I have given up on the project of porting dslinux to the DSi / DSi XL, since if there is no sdmmc driver, there is no point in continuing. If anyone else wants to try, you can try to integrate this driver into dslinux: https://github.com/profi200/dsi_sdmmc/tree/main, you will need to first replace the devkitpro header includes with linux header includes compile it with the dslinux toolchain to .o files and include in dslinux and rebuild it.
