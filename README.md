@@ -3,7 +3,7 @@ Then unzip the file: dslinux-dldi.tgz. Then in the linux/etc folder, copy rc.def
 
 Build instructions are similar to the instructions for the dsi below , except you would not change ram/flash memory addresses and sizes and download dslinux-backup.tar.gz instead. One more step is required for the build. When you make your menuconfig, customize the vendor/user configuration and remove the program playtzx from Miscellaneous Applications. It first has a configuration issue with automake and then after that is fixed it has too many compile-time errors. 
 
-2025-12-29 I am re-purposing this site to improving dslinux on the NDS and NDS lite. For other devices, either use a 2DS/3DS, or higher device, with other available Linux repos.
+2025-12-29 I am re-purposing this site to improving the original dslinux on the NDS and NDS lite. For other devices, either use a 2DS/3DS, or higher device, with other available Linux repos.
 
 Note: For now: I have given up on the project of porting dslinux to the DSi / DSi XL, since if there is no sdmmc driver, there is no point in continuing. If anyone else wants to try, you can try to integrate this driver into dslinux: https://github.com/profi200/dsi_sdmmc/tree/main, you will need to first replace the devkitpro header includes with linux header includes and compile it with the dslinux toolchain to .o files and include in dslinux and rebuild it.
 
