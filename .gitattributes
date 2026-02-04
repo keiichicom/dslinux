@@ -2,3 +2,4 @@ dslinux-backup.tar.gz filter=lfs diff=lfs merge=lfs -text
 dsilinux.backup.tar.gz filter=lfs diff=lfs merge=lfs -text
 dsilinux-backup.tar.gz filter=lfs diff=lfs merge=lfs -text
 dslinux-dldi.tgz filter=lfs diff=lfs merge=lfs -text
+dslinux-source-built.tar.gz filter=lfs diff=lfs merge=lfs -text
